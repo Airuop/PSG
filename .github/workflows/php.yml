@@ -3,7 +3,7 @@ name: "Proxy Subscription Generator (PSG)"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/60 * * * *' # Runs every 60 minutes
+    - cron: '30 */12 * * *' # Runs every x
 
 # Use a concurrency group to ensure only one workflow runs at a time.
 concurrency:
@@ -40,24 +40,24 @@ jobs:
           echo "--- Full Generation Complete ---"
 
       # 4. Generate the LITE subscriptions
-      - name: Generate Lite Subscriptions
-        run: |
-          echo "--- Starting Lite PSG Generation ---"
-          cd lite
-          php channelsAssets.php
-          php get.php
-          php duplicate.php
-          php sort.php
-          php toSingbox.php
-          php toClashSurfboard.php
-          echo "--- Lite Generation Complete ---"
+      # - name: Generate Lite Subscriptions
+      #   run: |
+      #     echo "--- Starting Lite PSG Generation ---"
+      #     cd lite
+      #     php channelsAssets.php
+      #     php get.php
+      #     php duplicate.php
+      #     php sort.php
+      #     php toSingbox.php
+      #     php toClashSurfboard.php
+      #     echo "--- Lite Generation Complete ---"
 
       # 5. Generate the HTML Index Page
-      - name: Generate HTML Index Page
-        id: generate_page
-        run: |
-          echo "--- Generating HTML index page ---"
-          php generate_page.php
+      # - name: Generate HTML Index Page
+      #   id: generate_page
+      #   run: |
+      #     echo "--- Generating HTML index page ---"
+      #     php generate_page.php
 
       # 6. Commit and Push all changes
       - name: Commit and Push Files
