@@ -88,9 +88,8 @@
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
                 "🚩 CF | 🔒 TROJAN | @binner_iran [45]",
                 "🚩 CF | 🔒 TROJAN | @cryptoguardvpn [3]",
-                "🚩 CF | 🔒 TROJAN | @farahvpn [17]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
-                "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [17]",
+                "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [16]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
@@ -111,12 +110,9 @@
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [2]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
-                "🇳🇱 NL | 🔓 TROJAN | @v2ray_v_vpn [9]",
-                "🇬🇧 GB | 🔓 TROJAN | @v2ray_v_vpn [10]",
-                "🇩🇪 DE | 🔓 TROJAN | @v2ray_v_vpn [11]",
-                "🇹🇷 TR | 🔓 TROJAN | @v2ray_v_vpn [12]",
-                "🇫🇮 FI | 🔓 TROJAN | @v2ray_v_vpn [13]",
-                "🇨🇳 CN | 🔓 TROJAN | @v2raych [18]",
+                "🇩🇪 DE | 🔓 TROJAN | @v2ray_v_vpn [7]",
+                "🇹🇷 TR | 🔓 TROJAN | @v2ray_v_vpn [8]",
+                "🇫🇮 FI | 🔓 TROJAN | @v2ray_v_vpn [9]",
                 "🇮🇷 IR | 🔓 TROJAN | @v2raycollectordonate [3]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
@@ -148,9 +144,8 @@
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
                 "🚩 CF | 🔒 TROJAN | @binner_iran [45]",
                 "🚩 CF | 🔒 TROJAN | @cryptoguardvpn [3]",
-                "🚩 CF | 🔒 TROJAN | @farahvpn [17]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
-                "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [17]",
+                "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [16]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
@@ -171,12 +166,9 @@
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [2]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
-                "🇳🇱 NL | 🔓 TROJAN | @v2ray_v_vpn [9]",
-                "🇬🇧 GB | 🔓 TROJAN | @v2ray_v_vpn [10]",
-                "🇩🇪 DE | 🔓 TROJAN | @v2ray_v_vpn [11]",
-                "🇹🇷 TR | 🔓 TROJAN | @v2ray_v_vpn [12]",
-                "🇫🇮 FI | 🔓 TROJAN | @v2ray_v_vpn [13]",
-                "🇨🇳 CN | 🔓 TROJAN | @v2raych [18]",
+                "🇩🇪 DE | 🔓 TROJAN | @v2ray_v_vpn [7]",
+                "🇹🇷 TR | 🔓 TROJAN | @v2ray_v_vpn [8]",
+                "🇫🇮 FI | 🔓 TROJAN | @v2ray_v_vpn [9]",
                 "🇮🇷 IR | 🔓 TROJAN | @v2raycollectordonate [3]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
@@ -432,29 +424,6 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @farahvpn [17]",
-            "type": "trojan",
-            "server": "aio.proxybox.dpdns.org",
-            "server_port": 443,
-            "password": "318cab24-ec99-40a6-a54a-0db9c661a3d0",
-            "tls": {
-                "enabled": true,
-                "server_name": "aio.proxybox.dpdns.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/188.34.160.97-2053",
-                "headers": {
-                    "Host": "aio.proxybox.dpdns.org"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
             "type": "trojan",
             "server": "t3.teslacdn2.live",
@@ -471,7 +440,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [17]",
+            "tag": "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [16]",
             "type": "trojan",
             "server": "uk-03.allhubb.info",
             "server_port": 8443,
@@ -854,46 +823,25 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔓 TROJAN | @v2ray_v_vpn [9]",
-            "type": "trojan",
-            "server": "nl.tuiem.com",
-            "server_port": 80,
-            "password": "U_6znw8zvlHZGBVy5R3R9w"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔓 TROJAN | @v2ray_v_vpn [10]",
-            "type": "trojan",
-            "server": "uk.tuiem.com",
-            "server_port": 80,
-            "password": "U_6znw8zvlHZGBVy5R3R9w"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 TROJAN | @v2ray_v_vpn [11]",
+            "tag": "🇩🇪 DE | 🔓 TROJAN | @v2ray_v_vpn [7]",
             "type": "trojan",
             "server": "de1.tuiem.com",
             "server_port": 80,
             "password": "U_6znw8zvlHZGBVy5R3R9w"
         },
         {
-            "tag": "🇹🇷 TR | 🔓 TROJAN | @v2ray_v_vpn [12]",
+            "tag": "🇹🇷 TR | 🔓 TROJAN | @v2ray_v_vpn [8]",
             "type": "trojan",
             "server": "tr.tuiem.com",
             "server_port": 80,
             "password": "U_6znw8zvlHZGBVy5R3R9w"
         },
         {
-            "tag": "🇫🇮 FI | 🔓 TROJAN | @v2ray_v_vpn [13]",
+            "tag": "🇫🇮 FI | 🔓 TROJAN | @v2ray_v_vpn [9]",
             "type": "trojan",
             "server": "fi.tuiem.com",
             "server_port": 80,
             "password": "U_6znw8zvlHZGBVy5R3R9w"
-        },
-        {
-            "tag": "🇨🇳 CN | 🔓 TROJAN | @v2raych [18]",
-            "type": "trojan",
-            "server": "naiu-hk.05vr9nyqg5.download",
-            "server_port": 13008,
-            "password": "ad6e2bae-d580-4117-aa37-a8c111100740"
         },
         {
             "tag": "🇮🇷 IR | 🔓 TROJAN | @v2raycollectordonate [3]",

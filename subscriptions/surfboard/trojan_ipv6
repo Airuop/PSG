@@ -1,0 +1,23 @@
+#!MANAGED-CONFIG https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/surfboard/trojan_ipv6 interval=3600 strict=false
+
+[General]
+loglevel = notify
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
+ipv6 = true
+dns-server = system, 223.5.5.5
+enhanced-mode-by-rule = true
+
+[Proxy]
+DIRECT = direct
+❔ XX | 🔓 TROJAN | @freevpnatm [7] = trojan, [2606:4700:3033::6815:5e45], 443, password = e79b88bc-4922-4ab4-ba78-2a4687fe4e46, skip-cert-verify = false
+❔ XX | 🔓 TROJAN | @freevpnatm [9] = trojan, [2606:4700:3035::ac43:dbc4], 443, password = e79b88bc-4922-4ab4-ba78-2a4687fe4e46, skip-cert-verify = false
+❔ XX | 🔓 TROJAN | @freevpnatm [14] = trojan, [2606:4700:3034::ac43:dc8c], 443, password = e79b88bc-4922-4ab4-ba78-2a4687fe4e46, skip-cert-verify = false
+
+[Proxy Group]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🔓 TROJAN | @freevpnatm [7], ❔ XX | 🔓 TROJAN | @freevpnatm [9], ❔ XX | 🔓 TROJAN | @freevpnatm [14]
+PSG-AUTO = url-test, ❔ XX | 🔓 TROJAN | @freevpnatm [7], ❔ XX | 🔓 TROJAN | @freevpnatm [9], ❔ XX | 🔓 TROJAN | @freevpnatm [14]
+PSG-FALLBACK = fallback, ❔ XX | 🔓 TROJAN | @freevpnatm [7], ❔ XX | 🔓 TROJAN | @freevpnatm [9], ❔ XX | 🔓 TROJAN | @freevpnatm [14]
+
+[Rule]
+GEOIP,IR,DIRECT
+FINAL,PSG-MANUAL
