@@ -96,7 +96,9 @@
                 "🇺🇸 US | 🔒 SS | @asak_vpn [5]",
                 "🇺🇸 US | 🔒 SS | @config_proxy_ir [9]",
                 "🇺🇸 US | 🔒 SS | @custom_v2ray [1]",
-                "🇺🇸 US | 🔒 SS | @entrynet [17]",
+                "🇩🇪 DE | 🔒 SS | @entrynet [5]",
+                "🇺🇸 US | 🔒 SS | @entrynet [8]",
+                "🇩🇪 DE | 🔒 SS | @entrynet [9]",
                 "❔ XX | 🔒 SS | @fastkanfig [2]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [3]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
@@ -110,7 +112,7 @@
                 "🇨🇳 CN | 🔒 SS | @mftizi [18]",
                 "❔ XX | 🔒 SS | @mt_proxy [5]",
                 "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
-                "🇦🇹 AT | 🔒 SS | @outline_ir [7]",
+                "🇦🇹 AT | 🔒 SS | @outline_ir [5]",
                 "❔ XX | 🔒 SS | @outlines_vpn [6]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "❔ XX | 🔒 SS | @public504 [8]",
@@ -132,7 +134,7 @@
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
                 "❔ XX | 🔒 SS | @v_2ray1 [7]",
                 "🇺🇸 US | 🔒 SS | @v_2ray1 [8]",
-                "🇬🇮 GI | 🔒 SS | @vaslvip [15]",
+                "🇬🇮 GI | 🔒 SS | @vaslvip [12]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [1]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [3]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [4]",
@@ -155,7 +157,9 @@
                 "🇺🇸 US | 🔒 SS | @asak_vpn [5]",
                 "🇺🇸 US | 🔒 SS | @config_proxy_ir [9]",
                 "🇺🇸 US | 🔒 SS | @custom_v2ray [1]",
-                "🇺🇸 US | 🔒 SS | @entrynet [17]",
+                "🇩🇪 DE | 🔒 SS | @entrynet [5]",
+                "🇺🇸 US | 🔒 SS | @entrynet [8]",
+                "🇩🇪 DE | 🔒 SS | @entrynet [9]",
                 "❔ XX | 🔒 SS | @fastkanfig [2]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [3]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
@@ -169,7 +173,7 @@
                 "🇨🇳 CN | 🔒 SS | @mftizi [18]",
                 "❔ XX | 🔒 SS | @mt_proxy [5]",
                 "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
-                "🇦🇹 AT | 🔒 SS | @outline_ir [7]",
+                "🇦🇹 AT | 🔒 SS | @outline_ir [5]",
                 "❔ XX | 🔒 SS | @outlines_vpn [6]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "❔ XX | 🔒 SS | @public504 [8]",
@@ -191,7 +195,7 @@
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
                 "❔ XX | 🔒 SS | @v_2ray1 [7]",
                 "🇺🇸 US | 🔒 SS | @v_2ray1 [8]",
-                "🇬🇮 GI | 🔒 SS | @vaslvip [15]",
+                "🇬🇮 GI | 🔒 SS | @vaslvip [12]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [1]",
                 "🇳🇱 NL | 🔒 SS | @vpn451 [3]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [4]",
@@ -318,12 +322,28 @@
             "password": "7ivrGEHY88sQk3DP"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @entrynet [17]",
+            "tag": "🇩🇪 DE | 🔒 SS | @entrynet [5]",
             "type": "shadowsocks",
-            "server": "vip.nl-16-07.galaxymc-ssh.ir",
+            "server": "de15.giamping.com",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "4a2rfixophdjffa8KVA4Aa"
+            "password": "42000e02-6b4d-46ad-a572-80db7db2a9ce"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @entrynet [8]",
+            "type": "shadowsocks",
+            "server": "ltnl14.saint.ydns.eu",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "1RWwXhwfAB5gAEozU4G2Pg"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 SS | @entrynet [9]",
+            "type": "shadowsocks",
+            "server": "de04.giamping.com",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "42000e02-6b4d-46ad-a572-80db7db2a9ce"
         },
         {
             "tag": "❔ XX | 🔒 SS | @fastkanfig [2]",
@@ -430,7 +450,7 @@
             "password": "WstuSnlu4ieA9M0L"
         },
         {
-            "tag": "🇦🇹 AT | 🔒 SS | @outline_ir [7]",
+            "tag": "🇦🇹 AT | 🔒 SS | @outline_ir [5]",
             "type": "shadowsocks",
             "server": "promo6v.bystrivpn.ru",
             "server_port": 443,
@@ -606,7 +626,7 @@
             "password": "2LVVFxxHJSBMdGdl"
         },
         {
-            "tag": "🇬🇮 GI | 🔒 SS | @vaslvip [15]",
+            "tag": "🇬🇮 GI | 🔒 SS | @vaslvip [12]",
             "type": "shadowsocks",
             "server": "imap.roomyinmita.name",
             "server_port": 40565,
