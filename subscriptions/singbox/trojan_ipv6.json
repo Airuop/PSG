@@ -92,10 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 TROJAN | @freevpnatm [7]",
-                "❔ XX | 🔓 TROJAN | @freevpnatm [14]",
-                "❔ XX | 🔓 TROJAN | @freevpnatm [16]",
-                "❔ XX | 🔓 TROJAN | @freevpnatm [18]"
+                "❔ XX | 🔓 TROJAN | @freevpnatm [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,10 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 TROJAN | @freevpnatm [7]",
-                "❔ XX | 🔓 TROJAN | @freevpnatm [14]",
-                "❔ XX | 🔓 TROJAN | @freevpnatm [16]",
-                "❔ XX | 🔓 TROJAN | @freevpnatm [18]"
+                "❔ XX | 🔓 TROJAN | @freevpnatm [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -196,37 +190,14 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 TROJAN | @freevpnatm [7]",
+            "tag": "❔ XX | 🔓 TROJAN | @freevpnatm [11]",
             "type": "trojan",
-            "server": "[2606:4700:3034::ac43:dc8c]",
-            "server_port": 443,
-            "password": "e79b88bc-4922-4ab4-ba78-2a4687fe4e46",
-            "tls": {
-                "enabled": true,
-                "server_name": "[2606:4700:3034::ac43:dc8c]",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "[2606:4700:3034::ac43:dc8c]"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 TROJAN | @freevpnatm [14]",
-            "type": "trojan",
-            "server": "[2606:4700:3032::6815:411f]",
+            "server": "[2606:4700:3033::ac43:b96b]",
             "server_port": 443,
             "password": "7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f",
             "tls": {
                 "enabled": true,
-                "server_name": "[2606:4700:3032::6815:411f]",
+                "server_name": "[2606:4700:3033::ac43:b96b]",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -237,53 +208,7 @@
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "[2606:4700:3032::6815:411f]"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 TROJAN | @freevpnatm [16]",
-            "type": "trojan",
-            "server": "[2606:4700:3033::ac43:cd83]",
-            "server_port": 443,
-            "password": "7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f",
-            "tls": {
-                "enabled": true,
-                "server_name": "[2606:4700:3033::ac43:cd83]",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "[2606:4700:3033::ac43:cd83]"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 TROJAN | @freevpnatm [18]",
-            "type": "trojan",
-            "server": "[2606:4700:3033::6815:5e45]",
-            "server_port": 443,
-            "password": "7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f",
-            "tls": {
-                "enabled": true,
-                "server_name": "[2606:4700:3033::6815:5e45]",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "[2606:4700:3033::6815:5e45]"
+                    "Host": "[2606:4700:3033::ac43:b96b]"
                 }
             }
         }

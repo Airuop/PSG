@@ -25,12 +25,6 @@ dns:
 proxies: 
   - {"name":"❔ XX | 🔒 VLESS | @deli_servers [2]","type":"vless","server":"[2a01:4f8:c012:81c0::1]","port":1,"uuid":"d3927fcb-1dd4-4a84-af91-75196dcc0ee9","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"4dsply.com","grpc-opts":{"grpc-service-name":"/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers"},"reality-opts":{"public-key":"L6AkyAVesPEg-yz5o4-2yeTCBYACZW5OWnPBVaS-OnQ","short-id":"bbcb1cf7"}}
   - {"name":"❔ XX | 🔒 VLESS | @fire_vpn_channel [1]","type":"vless","server":"[2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e]","port":443,"uuid":"ac864844-c86b-4ac5-bbe9-50fcc05123f2","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"srhrforall.org","flow":"xtls-rprx-vision","reality-opts":{"public-key":"Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ","short-id":"6412"}}
-  - {"name":"❔ XX | 🔓 VLESS | @freevpnatm [5]","type":"vless","server":"[2606:4700:3035::ac43:dbc4]","port":443,"uuid":"e79b88bc-4922-4ab4-ba78-2a4687fe4e46","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":""}}}
-  - {"name":"❔ XX | 🔓 VLESS | @freevpnatm [8]","type":"vless","server":"[2606:4700:3034::6815:18ac]","port":443,"uuid":"e79b88bc-4922-4ab4-ba78-2a4687fe4e46","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":""}}}
-  - {"name":"❔ XX | 🔓 VLESS | @freevpnatm [9]","type":"vless","server":"[2606:4700:3030::6815:6001]","port":443,"uuid":"e79b88bc-4922-4ab4-ba78-2a4687fe4e46","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":""}}}
-  - {"name":"❔ XX | 🔓 VLESS | @freevpnatm [12]","type":"vless","server":"[2606:4700:3032::6815:411f]","port":443,"uuid":"7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":""}}}
-  - {"name":"❔ XX | 🔓 VLESS | @freevpnatm [13]","type":"vless","server":"[2606:4700:3033::ac43:cd83]","port":443,"uuid":"7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":""}}}
-  - {"name":"❔ XX | 🔓 VLESS | @freevpnatm [15]","type":"vless","server":"[2606:4700:3033::6815:169f]","port":443,"uuid":"7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":""}}}
   - {"name":"❔ XX | 🔓 VLESS | @freevv2rayng [2]","type":"vless","server":"[2a12:5940:1527::2]","port":443,"uuid":"bd4de7ea-d6cc-492c-88a6-f1278b9210c3","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔓 VLESS | @freevv2rayng [5]","type":"vless","server":"[2a12:5940:1527::2]","port":443,"uuid":"0a29e0b5-c4ef-4992-ab0e-1d371dd8b3cd","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔓 VLESS | @freevv2rayng [7]","type":"vless","server":"[2a12:5940:1527::2]","port":443,"uuid":"8bfbdbb1-9126-4372-96a1-5547d629559f","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
@@ -68,12 +62,6 @@ proxy-groups:
     proxies: 
       - '❔ XX | 🔒 VLESS | @deli_servers [2]'
       - '❔ XX | 🔒 VLESS | @fire_vpn_channel [1]'
-      - '❔ XX | 🔓 VLESS | @freevpnatm [5]'
-      - '❔ XX | 🔓 VLESS | @freevpnatm [8]'
-      - '❔ XX | 🔓 VLESS | @freevpnatm [9]'
-      - '❔ XX | 🔓 VLESS | @freevpnatm [12]'
-      - '❔ XX | 🔓 VLESS | @freevpnatm [13]'
-      - '❔ XX | 🔓 VLESS | @freevpnatm [15]'
       - '❔ XX | 🔓 VLESS | @freevv2rayng [2]'
       - '❔ XX | 🔓 VLESS | @freevv2rayng [5]'
       - '❔ XX | 🔓 VLESS | @freevv2rayng [7]'

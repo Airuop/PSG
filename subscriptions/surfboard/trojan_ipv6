@@ -9,15 +9,12 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-❔ XX | 🔓 TROJAN | @freevpnatm [7] = trojan, [2606:4700:3034::ac43:dc8c], 443, password = e79b88bc-4922-4ab4-ba78-2a4687fe4e46, skip-cert-verify = false
-❔ XX | 🔓 TROJAN | @freevpnatm [14] = trojan, [2606:4700:3032::6815:411f], 443, password = 7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f, skip-cert-verify = false
-❔ XX | 🔓 TROJAN | @freevpnatm [16] = trojan, [2606:4700:3033::ac43:cd83], 443, password = 7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f, skip-cert-verify = false
-❔ XX | 🔓 TROJAN | @freevpnatm [18] = trojan, [2606:4700:3033::6815:5e45], 443, password = 7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f, skip-cert-verify = false
+❔ XX | 🔓 TROJAN | @freevpnatm [11] = trojan, [2606:4700:3033::ac43:b96b], 443, password = 7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🔓 TROJAN | @freevpnatm [7], ❔ XX | 🔓 TROJAN | @freevpnatm [14], ❔ XX | 🔓 TROJAN | @freevpnatm [16], ❔ XX | 🔓 TROJAN | @freevpnatm [18]
-PSG-AUTO = url-test, ❔ XX | 🔓 TROJAN | @freevpnatm [7], ❔ XX | 🔓 TROJAN | @freevpnatm [14], ❔ XX | 🔓 TROJAN | @freevpnatm [16], ❔ XX | 🔓 TROJAN | @freevpnatm [18]
-PSG-FALLBACK = fallback, ❔ XX | 🔓 TROJAN | @freevpnatm [7], ❔ XX | 🔓 TROJAN | @freevpnatm [14], ❔ XX | 🔓 TROJAN | @freevpnatm [16], ❔ XX | 🔓 TROJAN | @freevpnatm [18]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🔓 TROJAN | @freevpnatm [11]
+PSG-AUTO = url-test, ❔ XX | 🔓 TROJAN | @freevpnatm [11]
+PSG-FALLBACK = fallback, ❔ XX | 🔓 TROJAN | @freevpnatm [11]
 
 [Rule]
 GEOIP,IR,DIRECT

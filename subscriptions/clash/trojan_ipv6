@@ -23,10 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"❔ XX | 🔓 TROJAN | @freevpnatm [7]","type":"trojan","server":"[2606:4700:3034::ac43:dc8c]","port":443,"password":"e79b88bc-4922-4ab4-ba78-2a4687fe4e46","skip-cert-verify":false}
-  - {"name":"❔ XX | 🔓 TROJAN | @freevpnatm [14]","type":"trojan","server":"[2606:4700:3032::6815:411f]","port":443,"password":"7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f","skip-cert-verify":false}
-  - {"name":"❔ XX | 🔓 TROJAN | @freevpnatm [16]","type":"trojan","server":"[2606:4700:3033::ac43:cd83]","port":443,"password":"7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f","skip-cert-verify":false}
-  - {"name":"❔ XX | 🔓 TROJAN | @freevpnatm [18]","type":"trojan","server":"[2606:4700:3033::6815:5e45]","port":443,"password":"7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f","skip-cert-verify":false}
+  - {"name":"❔ XX | 🔓 TROJAN | @freevpnatm [11]","type":"trojan","server":"[2606:4700:3033::ac43:b96b]","port":443,"password":"7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f","skip-cert-verify":false}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -40,10 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '❔ XX | 🔓 TROJAN | @freevpnatm [7]'
-      - '❔ XX | 🔓 TROJAN | @freevpnatm [14]'
-      - '❔ XX | 🔓 TROJAN | @freevpnatm [16]'
-      - '❔ XX | 🔓 TROJAN | @freevpnatm [18]'
+      - '❔ XX | 🔓 TROJAN | @freevpnatm [11]'
 
   - name: 🌍 Global Media
     type: select
