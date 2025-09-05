@@ -88,9 +88,9 @@
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
                 "🚩 CF | 🔒 TROJAN | @binner_iran [45]",
                 "🚩 CF | 🔒 TROJAN | @cryptoguardvpn [3]",
-                "🇨🇳 CN | 🔓 TROJAN | @entrynet [4]",
+                "🚩 CF | 🔒 TROJAN | @deamnet_proxy [7]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
-                "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [12]",
+                "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [9]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
@@ -113,9 +113,6 @@
                 "🇩🇪 DE | 🔓 TROJAN | @v2ray_v_vpn [7]",
                 "🇹🇷 TR | 🔓 TROJAN | @v2ray_v_vpn [8]",
                 "🇫🇮 FI | 🔓 TROJAN | @v2ray_v_vpn [9]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [6]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [7]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [11]",
                 "🇮🇷 IR | 🔓 TROJAN | @v2raycollectordonate [3]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
@@ -125,7 +122,7 @@
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [39]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [40]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [41]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [42]",
+                "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [42]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [1]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [2]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [5]"
@@ -147,9 +144,9 @@
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
                 "🚩 CF | 🔒 TROJAN | @binner_iran [45]",
                 "🚩 CF | 🔒 TROJAN | @cryptoguardvpn [3]",
-                "🇨🇳 CN | 🔓 TROJAN | @entrynet [4]",
+                "🚩 CF | 🔒 TROJAN | @deamnet_proxy [7]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
-                "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [12]",
+                "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [9]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
@@ -172,9 +169,6 @@
                 "🇩🇪 DE | 🔓 TROJAN | @v2ray_v_vpn [7]",
                 "🇹🇷 TR | 🔓 TROJAN | @v2ray_v_vpn [8]",
                 "🇫🇮 FI | 🔓 TROJAN | @v2ray_v_vpn [9]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [6]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [7]",
-                "🚩 CF | 🔒 TROJAN | @v2raych [11]",
                 "🇮🇷 IR | 🔓 TROJAN | @v2raycollectordonate [3]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
@@ -184,7 +178,7 @@
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [39]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [40]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [41]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [42]",
+                "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [42]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [1]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [2]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [5]"
@@ -430,11 +424,27 @@
             }
         },
         {
-            "tag": "🇨🇳 CN | 🔓 TROJAN | @entrynet [4]",
+            "tag": "🚩 CF | 🔒 TROJAN | @deamnet_proxy [7]",
             "type": "trojan",
-            "server": "naiu-us.05vr9nyqg5.download",
-            "server_port": 13021,
-            "password": "ad6e2bae-d580-4117-aa37-a8c111100740"
+            "server": "aio.zipzap.biz.id",
+            "server_port": 443,
+            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "tls": {
+                "enabled": true,
+                "server_name": "aio.zipzap.biz.id",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/aioproxybot/129.150.49.58-18650",
+                "headers": {
+                    "Host": "aio.zipzap.biz.id"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
@@ -453,7 +463,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [12]",
+            "tag": "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [9]",
             "type": "trojan",
             "server": "uk-03.allhubb.info",
             "server_port": 8443,
@@ -841,72 +851,6 @@
             "password": "U_6znw8zvlHZGBVy5R3R9w"
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @v2raych [6]",
-            "type": "trojan",
-            "server": "manager.andishehnegariran.ir",
-            "server_port": 443,
-            "password": "JPPDF8O3AI",
-            "tls": {
-                "enabled": true,
-                "server_name": "manager.andishehnegariran.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/25973/mehdi",
-                "headers": {
-                    "Host": "manager.andishehnegariran.ir"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @v2raych [7]",
-            "type": "trojan",
-            "server": "manager.andishehnegariran.ir",
-            "server_port": 443,
-            "password": "uOFIsGRP5W",
-            "tls": {
-                "enabled": true,
-                "server_name": "manager.andishehnegariran.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "/50255/mehdi"
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @v2raych [11]",
-            "type": "trojan",
-            "server": "manager.andishehnegariran.ir",
-            "server_port": 443,
-            "password": "nhBIVJQUrR",
-            "tls": {
-                "enabled": true,
-                "server_name": "manager.andishehnegariran.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/19155/mehdi",
-                "headers": {
-                    "Host": "manager.andishehnegariran.ir"
-                }
-            }
-        },
-        {
             "tag": "🇮🇷 IR | 🔓 TROJAN | @v2raycollectordonate [3]",
             "type": "trojan",
             "server": "server2.cactusrobot.ir",
@@ -1042,7 +986,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [42]",
+            "tag": "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [42]",
             "type": "trojan",
             "server": "170-187-134-190.ipv4.rush.ml",
             "server_port": 8443,

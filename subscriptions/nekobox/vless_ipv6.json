@@ -81,14 +81,15 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @binner_iran [32]",
-                "❔ XX | 🔓 VLESS | @configx2ray [5]",
+                "❔ XX | 🔒 VLESS | @bored_vpn [11]",
+                "❔ XX | 🔓 VLESS | @configx2ray [3]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [11]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [14]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [17]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [20]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [23]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
-                "❔ XX | 🔓 VLESS | @father_vpn [4]",
+                "❔ XX | 🔓 VLESS | @fastfreeconfig [50]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
@@ -105,7 +106,7 @@
                 "❔ XX | 🔓 VLESS | @parsashonam [15]",
                 "❔ XX | 🔓 VLESS | @parsashonam [19]",
                 "❔ XX | 🔒 VLESS | @proxy_n1 [1]",
-                "❔ XX | 🔓 VLESS | @prrofile_purple [138]",
+                "❔ XX | 🔓 VLESS | @prrofile_purple [130]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [18]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [21]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [25]",
@@ -137,14 +138,15 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @binner_iran [32]",
-                "❔ XX | 🔓 VLESS | @configx2ray [5]",
+                "❔ XX | 🔒 VLESS | @bored_vpn [11]",
+                "❔ XX | 🔓 VLESS | @configx2ray [3]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [11]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [14]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [17]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [20]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [23]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
-                "❔ XX | 🔓 VLESS | @father_vpn [4]",
+                "❔ XX | 🔓 VLESS | @fastfreeconfig [50]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
@@ -161,7 +163,7 @@
                 "❔ XX | 🔓 VLESS | @parsashonam [15]",
                 "❔ XX | 🔓 VLESS | @parsashonam [19]",
                 "❔ XX | 🔒 VLESS | @proxy_n1 [1]",
-                "❔ XX | 🔓 VLESS | @prrofile_purple [138]",
+                "❔ XX | 🔓 VLESS | @prrofile_purple [130]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [18]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [21]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [25]",
@@ -281,7 +283,34 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @configx2ray [5]",
+            "tag": "❔ XX | 🔒 VLESS | @bored_vpn [11]",
+            "type": "vless",
+            "server": "[2001:41d0:701:1000::30e2]",
+            "server_port": 8080,
+            "uuid": "4907ad46-78cb-4594-ae86-20943a3f526a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "y5bhLED3GNJHNelGMm6ccDzG3TmE9gJZdlnD9in7V1g",
+                    "short_id": "88d37434304907"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @configx2ray [3]",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
@@ -362,7 +391,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @father_vpn [4]",
+            "tag": "❔ XX | 🔓 VLESS | @fastfreeconfig [50]",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
@@ -620,7 +649,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @prrofile_purple [138]",
+            "tag": "❔ XX | 🔓 VLESS | @prrofile_purple [130]",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,

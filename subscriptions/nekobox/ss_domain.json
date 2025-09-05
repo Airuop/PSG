@@ -84,12 +84,14 @@
                 "🇬🇧 GB | 🔒 SS | @asak_vpn [5]",
                 "🇬🇧 GB | 🔒 SS | @config_proxy_ir [9]",
                 "🇬🇧 GB | 🔒 SS | @custom_v2ray [1]",
+                "🇺🇸 US | 🔒 SS | @entrynet [12]",
+                "🇬🇧 GB | 🔒 SS | @fastfreeconfig [43]",
                 "❔ XX | 🔒 SS | @fastkanfig [2]",
                 "🇬🇧 GB | 🔒 SS | @fastkanfig [3]",
-                "🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [11]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [13]",
                 "🇬🇧 GB | 🔒 SS | @freevirgoolnet [1]",
+                "🇺🇸 US | 🔒 SS | @hope_net [7]",
                 "🇸🇪 SE | 🔒 SS | @ip_cf_config [1]",
                 "🇮🇷 IR | 🔒 SS | @jeyksatan [7]",
                 "🇬🇧 GB | 🔒 SS | @jeyksatan [8]",
@@ -108,7 +110,6 @@
                 "❔ XX | 🔒 SS | @sifev2ray [6]",
                 "❔ XX | 🔒 SS | @srovpn [14]",
                 "🇹🇷 TR | 🔒 SS | @strongprotocol [2]",
-                "🇮🇪 IE | 🔒 SS | @v2ray_free_conf [8]",
                 "❔ XX | 🔒 SS | @v2ray_swhil [33]",
                 "🇬🇧 GB | 🔒 SS | @v2rayngalpha [2]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
@@ -127,6 +128,9 @@
                 "🇺🇸 US | 🔒 SS | @vpn451 [6]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [7]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [8]",
+                "🇬🇧 GB | 🔒 SS | @vpn_ioss [14]",
+                "🇬🇧 GB | 🔒 SS | @vpn_ioss [16]",
+                "🇬🇧 GB | 🔒 SS | @vpn_ioss [17]",
                 "🇫🇮 FI | 🔒 SS | @vpnstable [5]"
             ],
             "tag": "proxy",
@@ -142,12 +146,14 @@
                 "🇬🇧 GB | 🔒 SS | @asak_vpn [5]",
                 "🇬🇧 GB | 🔒 SS | @config_proxy_ir [9]",
                 "🇬🇧 GB | 🔒 SS | @custom_v2ray [1]",
+                "🇺🇸 US | 🔒 SS | @entrynet [12]",
+                "🇬🇧 GB | 🔒 SS | @fastfreeconfig [43]",
                 "❔ XX | 🔒 SS | @fastkanfig [2]",
                 "🇬🇧 GB | 🔒 SS | @fastkanfig [3]",
-                "🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [11]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [13]",
                 "🇬🇧 GB | 🔒 SS | @freevirgoolnet [1]",
+                "🇺🇸 US | 🔒 SS | @hope_net [7]",
                 "🇸🇪 SE | 🔒 SS | @ip_cf_config [1]",
                 "🇮🇷 IR | 🔒 SS | @jeyksatan [7]",
                 "🇬🇧 GB | 🔒 SS | @jeyksatan [8]",
@@ -166,7 +172,6 @@
                 "❔ XX | 🔒 SS | @sifev2ray [6]",
                 "❔ XX | 🔒 SS | @srovpn [14]",
                 "🇹🇷 TR | 🔒 SS | @strongprotocol [2]",
-                "🇮🇪 IE | 🔒 SS | @v2ray_free_conf [8]",
                 "❔ XX | 🔒 SS | @v2ray_swhil [33]",
                 "🇬🇧 GB | 🔒 SS | @v2rayngalpha [2]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [7]",
@@ -185,6 +190,9 @@
                 "🇺🇸 US | 🔒 SS | @vpn451 [6]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [7]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [8]",
+                "🇬🇧 GB | 🔒 SS | @vpn_ioss [14]",
+                "🇬🇧 GB | 🔒 SS | @vpn_ioss [16]",
+                "🇬🇧 GB | 🔒 SS | @vpn_ioss [17]",
                 "🇫🇮 FI | 🔒 SS | @vpnstable [5]"
             ],
             "tag": "auto",
@@ -308,6 +316,22 @@
             "password": "7ivrGEHY88sQk3DP"
         },
         {
+            "tag": "🇺🇸 US | 🔒 SS | @entrynet [12]",
+            "type": "shadowsocks",
+            "server": "ltnl13.saint.ydns.eu",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "cvII85TrW6n0OGyfpHVS1u"
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 SS | @fastfreeconfig [43]",
+            "type": "shadowsocks",
+            "server": "admin.c4.webramz.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "69MUii7VDwMqh7Hz"
+        },
+        {
             "tag": "❔ XX | 🔒 SS | @fastkanfig [2]",
             "type": "shadowsocks",
             "server": "join.vpncustomize.vpncustomize.reziazaran.ir",
@@ -322,14 +346,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "mps3FwmDjLrWaOVg"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]",
-            "type": "shadowsocks",
-            "server": "admin.c4.webramz.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "69MUii7VDwMqh7Hz"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @freeconfigsplus [11]",
@@ -354,6 +370,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @hope_net [7]",
+            "type": "shadowsocks",
+            "server": "beesyar.org",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "tag": "🇸🇪 SE | 🔒 SS | @ip_cf_config [1]",
@@ -500,14 +524,6 @@
             "password": "1U5MUwZqVsFkDGXQfabJP9"
         },
         {
-            "tag": "🇮🇪 IE | 🔒 SS | @v2ray_free_conf [8]",
-            "type": "shadowsocks",
-            "server": "ie01.giamping.com",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "42000e02-6b4d-46ad-a572-80db7db2a9ce"
-        },
-        {
             "tag": "❔ XX | 🔒 SS | @v2ray_swhil [33]",
             "type": "shadowsocks",
             "server": "api.turkiye6.xyz",
@@ -650,6 +666,30 @@
             "server_port": 1235,
             "method": "chacha20-ietf-poly1305",
             "password": "ImKTUQaW05UqH4fdQrvxPg"
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 SS | @vpn_ioss [14]",
+            "type": "shadowsocks",
+            "server": "azjnac1.uksouth.cloudapp.azure.com",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ksg929BWf1K220dG"
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 SS | @vpn_ioss [16]",
+            "type": "shadowsocks",
+            "server": "azjnac1.uksouth.cloudapp.azure.com",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "b2EJuconC460KllN"
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 SS | @vpn_ioss [17]",
+            "type": "shadowsocks",
+            "server": "azjnac1.uksouth.cloudapp.azure.com",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "CePz6jepU2PGLlKB"
         },
         {
             "tag": "🇫🇮 FI | 🔒 SS | @vpnstable [5]",
