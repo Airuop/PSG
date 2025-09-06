@@ -92,9 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @bored_vpn [11]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
+                "❔ XX | 🔒 VLESS | @icv2ray [16]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
                 "❔ XX | 🔒 VLESS | @proxy_n1 [1]",
                 "❔ XX | 🔒 VLESS | @v2rayweb [18]",
@@ -109,9 +109,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @bored_vpn [11]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
+                "❔ XX | 🔒 VLESS | @icv2ray [16]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
                 "❔ XX | 🔒 VLESS | @proxy_n1 [1]",
                 "❔ XX | 🔒 VLESS | @v2rayweb [18]",
@@ -202,33 +202,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @bored_vpn [11]",
-            "type": "vless",
-            "server": "[2001:41d0:701:1000::30e2]",
-            "server_port": 8080,
-            "uuid": "4907ad46-78cb-4594-ae86-20943a3f526a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "y5bhLED3GNJHNelGMm6ccDzG3TmE9gJZdlnD9in7V1g",
-                    "short_id": "88d37434304907"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 VLESS | @deli_servers [2]",
             "type": "vless",
             "server": "[2a01:4f8:c012:81c0::1]",
@@ -276,6 +249,33 @@
                     "public_key": "Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ",
                     "short_id": "6412"
                 }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @icv2ray [16]",
+            "type": "vless",
+            "server": "[2001:41d0:701:1000::30e2]",
+            "server_port": 8080,
+            "uuid": "4907ad46-78cb-4594-ae86-20943a3f526a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "y5bhLED3GNJHNelGMm6ccDzG3TmE9gJZdlnD9in7V1g",
+                    "short_id": "88d37434304907"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
             }
         },
         {

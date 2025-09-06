@@ -88,9 +88,13 @@
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
                 "🚩 CF | 🔒 TROJAN | @binner_iran [45]",
                 "🚩 CF | 🔒 TROJAN | @cryptoguardvpn [3]",
-                "🚩 CF | 🔒 TROJAN | @deamnet_proxy [7]",
+                "🚩 CF | 🔒 TROJAN | @entrynet [13]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
                 "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [9]",
+                "🚩 CF | 🔒 TROJAN | @freevpnatm [8]",
+                "🚩 CF | 🔒 TROJAN | @freevpnatm [9]",
+                "🚩 CF | 🔒 TROJAN | @freevpnatm [10]",
+                "🚩 CF | 🔒 TROJAN | @freevpnatm [13]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
@@ -101,8 +105,8 @@
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
+                "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [5]",
                 "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [6]",
-                "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [7]",
                 "❔ XX | 🔒 TROJAN | @public504 [4]",
                 "🇸🇪 SE | 🔒 TROJAN | @puni_shop_v2rayng [8]",
                 "🇷🇺 RU | 🔒 TROJAN | @socks5tobefree [1]",
@@ -144,9 +148,13 @@
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
                 "🚩 CF | 🔒 TROJAN | @binner_iran [45]",
                 "🚩 CF | 🔒 TROJAN | @cryptoguardvpn [3]",
-                "🚩 CF | 🔒 TROJAN | @deamnet_proxy [7]",
+                "🚩 CF | 🔒 TROJAN | @entrynet [13]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
                 "🇬🇧 GB | 🔒 TROJAN | @free4allvpn [9]",
+                "🚩 CF | 🔒 TROJAN | @freevpnatm [8]",
+                "🚩 CF | 🔒 TROJAN | @freevpnatm [9]",
+                "🚩 CF | 🔒 TROJAN | @freevpnatm [10]",
+                "🚩 CF | 🔒 TROJAN | @freevpnatm [13]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
@@ -157,8 +165,8 @@
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
+                "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [5]",
                 "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [6]",
-                "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [7]",
                 "❔ XX | 🔒 TROJAN | @public504 [4]",
                 "🇸🇪 SE | 🔒 TROJAN | @puni_shop_v2rayng [8]",
                 "🇷🇺 RU | 🔒 TROJAN | @socks5tobefree [1]",
@@ -424,14 +432,14 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @deamnet_proxy [7]",
+            "tag": "🚩 CF | 🔒 TROJAN | @entrynet [13]",
             "type": "trojan",
-            "server": "aio.zipzap.biz.id",
+            "server": "pardazeshvpn-tg18.pages.dev",
             "server_port": 443,
-            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "password": "bf7e1009-1574-44f7-86df-6cbecd338477",
             "tls": {
                 "enabled": true,
-                "server_name": "aio.zipzap.biz.id",
+                "server_name": "pardazeshvpn-tg18.pages.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -440,9 +448,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/aioproxybot/129.150.49.58-18650",
+                "path": "/Telegram@V2ray_Alpha/?ed=2560",
                 "headers": {
-                    "Host": "aio.zipzap.biz.id"
+                    "Host": "pardazeshvpn-tg18.pages.dev"
                 }
             }
         },
@@ -475,6 +483,98 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @freevpnatm [8]",
+            "type": "trojan",
+            "server": "c2-ppploouy.131.pp.ua",
+            "server_port": 443,
+            "password": "fc73805c-79c4-4991-82ff-378567807c25",
+            "tls": {
+                "enabled": true,
+                "server_name": "c2-ppploouy.131.pp.ua",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/TOeKa6zghZmXqUIu7137",
+                "headers": {
+                    "Host": "c2-ppploouy.131.pp.ua"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @freevpnatm [9]",
+            "type": "trojan",
+            "server": "c2-46971bdd-febf-730a-52ad-74823813855a.131.pp.ua",
+            "server_port": 443,
+            "password": "fc73805c-79c4-4991-82ff-378567807c25",
+            "tls": {
+                "enabled": true,
+                "server_name": "c2-46971bdd-febf-730a-52ad-74823813855a.131.pp.ua",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/TOeKa6zghZmXqUIu7137",
+                "headers": {
+                    "Host": "c2-46971bdd-febf-730a-52ad-74823813855a.131.pp.ua"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @freevpnatm [10]",
+            "type": "trojan",
+            "server": "jjjmkk9.890603.xyz",
+            "server_port": 443,
+            "password": "fc73805c-79c4-4991-82ff-378567807c25",
+            "tls": {
+                "enabled": true,
+                "server_name": "jjjmkk9.890603.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/TOeKa6zghZmXqUIu7137",
+                "headers": {
+                    "Host": "jjjmkk9.890603.xyz"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @freevpnatm [13]",
+            "type": "trojan",
+            "server": "hhhju89.890603.xyz",
+            "server_port": 443,
+            "password": "fc73805c-79c4-4991-82ff-378567807c25",
+            "tls": {
+                "enabled": true,
+                "server_name": "hhhju89.890603.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/TOeKa6zghZmXqUIu7137",
+                "headers": {
+                    "Host": "hhhju89.890603.xyz"
                 }
             }
         },
@@ -661,7 +761,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [6]",
+            "tag": "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [5]",
             "type": "trojan",
             "server": "ru2.asc-sam.ir",
             "server_port": 443,
@@ -677,7 +777,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [7]",
+            "tag": "🇷🇺 RU | 🔒 TROJAN | @noforcedheaven [6]",
             "type": "trojan",
             "server": "ru2.asc-sam.ir",
             "server_port": 443,
