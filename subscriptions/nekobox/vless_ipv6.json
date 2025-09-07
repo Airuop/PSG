@@ -81,7 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @binner_iran [32]",
-                "❔ XX | 🔓 VLESS | @configx2ray [6]",
+                "❔ XX | 🔓 VLESS | @configx2ray [4]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [11]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [14]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [17]",
@@ -91,17 +91,20 @@
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
                 "❔ XX | 🔓 VLESS | @filterk0sh [19]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
+                "❔ XX | 🔓 VLESS | @freevpnatm [3]",
+                "❔ XX | 🔓 VLESS | @freevpnatm [7]",
+                "❔ XX | 🔓 VLESS | @freevpnatm [8]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [7]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [10]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
-                "❔ XX | 🔒 VLESS | @icv2ray [14]",
+                "❔ XX | 🔒 VLESS | @icv2ray [13]",
                 "❔ XX | 🔓 VLESS | @internet_nor [1]",
                 "❔ XX | 🔓 VLESS | @internet_nor [2]",
                 "❔ XX | 🔓 VLESS | @internet_nor [3]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
-                "❔ XX | 🔓 VLESS | @manzariyeh_rasht [16]",
+                "❔ XX | 🔓 VLESS | @manzariyeh_rasht [13]",
                 "❔ XX | 🔓 VLESS | @parsashonam [3]",
                 "❔ XX | 🔓 VLESS | @parsashonam [7]",
                 "❔ XX | 🔓 VLESS | @parsashonam [11]",
@@ -133,7 +136,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @binner_iran [32]",
-                "❔ XX | 🔓 VLESS | @configx2ray [6]",
+                "❔ XX | 🔓 VLESS | @configx2ray [4]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [11]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [14]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [17]",
@@ -143,17 +146,20 @@
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
                 "❔ XX | 🔓 VLESS | @filterk0sh [19]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
+                "❔ XX | 🔓 VLESS | @freevpnatm [3]",
+                "❔ XX | 🔓 VLESS | @freevpnatm [7]",
+                "❔ XX | 🔓 VLESS | @freevpnatm [8]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [5]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [7]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [10]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
-                "❔ XX | 🔒 VLESS | @icv2ray [14]",
+                "❔ XX | 🔒 VLESS | @icv2ray [13]",
                 "❔ XX | 🔓 VLESS | @internet_nor [1]",
                 "❔ XX | 🔓 VLESS | @internet_nor [2]",
                 "❔ XX | 🔓 VLESS | @internet_nor [3]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
-                "❔ XX | 🔓 VLESS | @manzariyeh_rasht [16]",
+                "❔ XX | 🔓 VLESS | @manzariyeh_rasht [13]",
                 "❔ XX | 🔓 VLESS | @parsashonam [3]",
                 "❔ XX | 🔓 VLESS | @parsashonam [7]",
                 "❔ XX | 🔓 VLESS | @parsashonam [11]",
@@ -273,7 +279,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @configx2ray [6]",
+            "tag": "❔ XX | 🔓 VLESS | @configx2ray [4]",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
@@ -395,6 +401,81 @@
             }
         },
         {
+            "tag": "❔ XX | 🔓 VLESS | @freevpnatm [3]",
+            "type": "vless",
+            "server": "[2606:4700:3035::ac43:b3bc]",
+            "server_port": 443,
+            "uuid": "681eda16-e94d-439c-9067-b55db0c0543f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "[2606:4700:3035::ac43:b3bc]",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "[2606:4700:3035::ac43:b3bc]"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @freevpnatm [7]",
+            "type": "vless",
+            "server": "[2606:4700:3030::6815:4d2c]",
+            "server_port": 443,
+            "uuid": "681eda16-e94d-439c-9067-b55db0c0543f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "[2606:4700:3030::6815:4d2c]",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "[2606:4700:3030::6815:4d2c]"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @freevpnatm [8]",
+            "type": "vless",
+            "server": "[2606:4700:3030::ac43:8812]",
+            "server_port": 443,
+            "uuid": "681eda16-e94d-439c-9067-b55db0c0543f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "[2606:4700:3030::ac43:8812]",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "[2606:4700:3030::ac43:8812]"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
             "type": "vless",
             "server": "[2a12:5940:1527::2]",
@@ -483,7 +564,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @icv2ray [14]",
+            "tag": "❔ XX | 🔒 VLESS | @icv2ray [13]",
             "type": "vless",
             "server": "[2001:41d0:701:1000::30e2]",
             "server_port": 8080,
@@ -576,7 +657,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @manzariyeh_rasht [16]",
+            "tag": "❔ XX | 🔓 VLESS | @manzariyeh_rasht [13]",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
