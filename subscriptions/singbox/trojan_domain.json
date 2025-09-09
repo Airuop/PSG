@@ -103,11 +103,8 @@
                 "🚩 CF | 🔒 TROJAN | @deamnet_proxy [13]",
                 "🚩 CF | 🔒 TROJAN | @deamnet_proxy [20]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
-                "🇨🇦 CA | 🔒 TROJAN | @free4allvpn [10]",
-                "🚩 CF | 🔒 TROJAN | @freevpnatm [13]",
-                "🚩 CF | 🔒 TROJAN | @freevpnatm [15]",
+                "🇨🇦 CA | 🔒 TROJAN | @free4allvpn [3]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
-                "🚩 CF | 🔒 TROJAN | @ip_cf_config [12]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [1]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [1]",
@@ -158,11 +155,8 @@
                 "🚩 CF | 🔒 TROJAN | @deamnet_proxy [13]",
                 "🚩 CF | 🔒 TROJAN | @deamnet_proxy [20]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
-                "🇨🇦 CA | 🔒 TROJAN | @free4allvpn [10]",
-                "🚩 CF | 🔒 TROJAN | @freevpnatm [13]",
-                "🚩 CF | 🔒 TROJAN | @freevpnatm [15]",
+                "🇨🇦 CA | 🔒 TROJAN | @free4allvpn [3]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
-                "🚩 CF | 🔒 TROJAN | @ip_cf_config [12]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [1]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [1]",
@@ -492,7 +486,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔒 TROJAN | @free4allvpn [10]",
+            "tag": "🇨🇦 CA | 🔒 TROJAN | @free4allvpn [3]",
             "type": "trojan",
             "server": "ca-sep6th.wimax.cc",
             "server_port": 443,
@@ -504,52 +498,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @freevpnatm [13]",
-            "type": "trojan",
-            "server": "kkkmjuy7.457.pp.ua",
-            "server_port": 443,
-            "password": "2d5c7239-abba-4aef-b0ab-c2f83d55af2d",
-            "tls": {
-                "enabled": true,
-                "server_name": "KKkMjuy7.457.pp.Ua",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/SunCn26bIxZMQZRJ",
-                "headers": {
-                    "Host": "KKkMjuy7.457.pp.Ua"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @freevpnatm [15]",
-            "type": "trojan",
-            "server": "ssscfffgt.huangshang.online",
-            "server_port": 443,
-            "password": "2d5c7239-abba-4aef-b0ab-c2f83d55af2d",
-            "tls": {
-                "enabled": true,
-                "server_name": "ssSCFFfgT.hUANgShANg.OnLIne",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/SunCn26bIxZMQZRJ",
-                "headers": {
-                    "Host": "ssSCFFfgT.hUANgShANg.OnLIne"
                 }
             }
         },
@@ -566,29 +514,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @ip_cf_config [12]",
-            "type": "trojan",
-            "server": "aio.proxybox.dpdns.org",
-            "server_port": 443,
-            "password": "318cab24-ec99-40a6-a54a-0db9c661a3d0",
-            "tls": {
-                "enabled": true,
-                "server_name": "aio.proxybox.dpdns.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/188.34.160.97-2053",
-                "headers": {
-                    "Host": "aio.proxybox.dpdns.org"
                 }
             }
         },
