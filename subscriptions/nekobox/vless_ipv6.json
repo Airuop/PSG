@@ -87,8 +87,9 @@
                 "❔ XX | 🔓 VLESS | @customvpnserver [20]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [23]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
+                "❔ XX | 🔓 VLESS | @entrynet [5]",
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
-                "❔ XX | 🔓 VLESS | @filterk0sh [17]",
+                "❔ XX | 🔓 VLESS | @filterk0sh [16]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
                 "❔ XX | 🔓 VLESS | @freevpnatm [6]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
@@ -96,7 +97,7 @@
                 "❔ XX | 🔓 VLESS | @freevv2rayng [7]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [10]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
-                "❔ XX | 🔒 VLESS | @icv2ray [9]",
+                "❔ XX | 🔒 VLESS | @icv2ray [8]",
                 "❔ XX | 🔓 VLESS | @internet_nor [1]",
                 "❔ XX | 🔓 VLESS | @internet_nor [2]",
                 "❔ XX | 🔓 VLESS | @internet_nor [3]",
@@ -105,7 +106,6 @@
                 "❔ XX | 🔓 VLESS | @parsashonam [7]",
                 "❔ XX | 🔓 VLESS | @parsashonam [11]",
                 "❔ XX | 🔓 VLESS | @parsashonam [15]",
-                "❔ XX | 🔓 VLESS | @parsashonam [19]",
                 "❔ XX | 🔒 VLESS | @proxy_n1 [1]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [15]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [18]",
@@ -139,8 +139,9 @@
                 "❔ XX | 🔓 VLESS | @customvpnserver [20]",
                 "❔ XX | 🔓 VLESS | @customvpnserver [23]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
+                "❔ XX | 🔓 VLESS | @entrynet [5]",
                 "❔ XX | 🔓 VLESS | @father_vpn [4]",
-                "❔ XX | 🔓 VLESS | @filterk0sh [17]",
+                "❔ XX | 🔓 VLESS | @filterk0sh [16]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
                 "❔ XX | 🔓 VLESS | @freevpnatm [6]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [2]",
@@ -148,7 +149,7 @@
                 "❔ XX | 🔓 VLESS | @freevv2rayng [7]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [10]",
                 "❔ XX | 🔓 VLESS | @freevv2rayng [11]",
-                "❔ XX | 🔒 VLESS | @icv2ray [9]",
+                "❔ XX | 🔒 VLESS | @icv2ray [8]",
                 "❔ XX | 🔓 VLESS | @internet_nor [1]",
                 "❔ XX | 🔓 VLESS | @internet_nor [2]",
                 "❔ XX | 🔓 VLESS | @internet_nor [3]",
@@ -157,7 +158,6 @@
                 "❔ XX | 🔓 VLESS | @parsashonam [7]",
                 "❔ XX | 🔓 VLESS | @parsashonam [11]",
                 "❔ XX | 🔓 VLESS | @parsashonam [15]",
-                "❔ XX | 🔓 VLESS | @parsashonam [19]",
                 "❔ XX | 🔒 VLESS | @proxy_n1 [1]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [15]",
                 "❔ XX | 🔓 VLESS | @v2rayngcloud [18]",
@@ -345,6 +345,15 @@
             }
         },
         {
+            "tag": "❔ XX | 🔓 VLESS | @entrynet [5]",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1a:dc2b::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-307",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "❔ XX | 🔓 VLESS | @father_vpn [4]",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
@@ -354,7 +363,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @filterk0sh [17]",
+            "tag": "❔ XX | 🔓 VLESS | @filterk0sh [16]",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
@@ -499,7 +508,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @icv2ray [9]",
+            "tag": "❔ XX | 🔒 VLESS | @icv2ray [8]",
             "type": "vless",
             "server": "[2001:41d0:701:1000::30e2]",
             "server_port": 8080,
@@ -596,7 +605,7 @@
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-302",
+            "uuid": "Parsashonam-303",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -605,7 +614,7 @@
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-303",
+            "uuid": "Parsashonam-304",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -614,21 +623,12 @@
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-304",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @parsashonam [15]",
-            "type": "vless",
-            "server": "[2a01:4f8:1c1a:dc2b::1]",
-            "server_port": 8888,
             "uuid": "Parsashonam-305",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @parsashonam [19]",
+            "tag": "❔ XX | 🔓 VLESS | @parsashonam [15]",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
