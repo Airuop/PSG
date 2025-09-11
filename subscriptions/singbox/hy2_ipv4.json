@@ -92,8 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇮 FI | 🔒 HY2 | @noforcedheaven [4]",
-                "🇷🇺 RU | 🔒 HY2 | @v2raytg [52]"
+                "🇫🇮 FI | 🔒 HY2 | @noforcedheaven [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -104,8 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇮 FI | 🔒 HY2 | @noforcedheaven [4]",
-                "🇷🇺 RU | 🔒 HY2 | @v2raytg [52]"
+                "🇫🇮 FI | 🔒 HY2 | @noforcedheaven [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -204,25 +202,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "46.62.152.236",
-                "insecure": true,
-                "alpn": [
-                    "h3"
-                ]
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 HY2 | @v2raytg [52]",
-            "type": "hysteria2",
-            "server": "195.133.5.41",
-            "server_port": 33079,
-            "password": "9363eedf-00e9-4b14-8d66-e596b02538bc",
-            "obfs": {
-                "type": "salamander",
-                "password": "NDhhNmY5YTY0MGYzOTgxYQ=="
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "195.133.5.41",
                 "insecure": true,
                 "alpn": [
                     "h3"
