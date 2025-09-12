@@ -1,61 +1,61 @@
 {
     "meta": {
-        "last_updated": "2025-09-12T02:08:44+00:00",
+        "last_updated": "2025-09-12T13:02:58+00:00",
         "author": "itsyebekhe/PSG"
     },
     "sources": {
-        "total_from_assets": 555,
+        "total_from_assets": 38,
         "had_configs_extracted": 38,
         "had_valid_configs": 38,
-        "removed_in_cleanup": 517
+        "removed_in_cleanup": 0
     },
     "configs": {
-        "total_extracted_raw": 533,
-        "total_valid_processed": 469,
+        "total_extracted_raw": 560,
+        "total_valid_processed": 475,
         "breakdown_by_protocol": {
-            "vless": 296,
-            "ss": 69,
-            "trojan": 23,
-            "vmess": 81
+            "ss": 71,
+            "vless": 299,
+            "vmess": 82,
+            "trojan": 23
         }
     },
     "outputs": {
-        "main_aggregate_size": 374,
+        "main_aggregate_size": 378,
         "location_files_created": 25,
         "channel_files_created": 38,
         "country_distribution": {
-            "CF": 100,
-            "US": 86,
+            "CF": 101,
+            "US": 84,
             "XX": 65,
-            "DE": 56,
-            "FR": 23,
+            "DE": 57,
+            "FR": 22,
             "IR": 19,
-            "NL": 16,
-            "GB": 16,
-            "RU": 13,
+            "NL": 18,
+            "GB": 18,
+            "RU": 15,
             "JP": 12,
             "CA": 9,
-            "HK": 8,
+            "HK": 9,
             "FI": 7,
+            "SE": 6,
             "TR": 6,
-            "PL": 5,
-            "SE": 4,
+            "PL": 4,
             "CH": 3,
-            "AU": 3,
+            "IN": 2,
             "AE": 2,
             "IT": 2,
+            "AU": 2,
             "AM": 2,
-            "IN": 2,
+            "PE": 1,
+            "AT": 1,
+            "SI": 1,
+            "CO": 1,
             "PT": 1,
             "CN": 1,
             "BZ": 1,
             "ZA": 1,
-            "VN": 1,
-            "ID": 1,
-            "PE": 1,
-            "AT": 1,
-            "SI": 1,
-            "CO": 1
+            "KR": 1,
+            "ID": 1
         }
     }
 }
