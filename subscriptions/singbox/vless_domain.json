@@ -186,7 +186,6 @@
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [18]",
                 "🇮🇷 IR | 🔒 VLESS | @v2rayngc [19]",
-                "🇩🇪 DE | 🔓 VLESS | @v2rayvpn2 [1]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [1]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [3]",
@@ -330,7 +329,6 @@
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [18]",
                 "🇮🇷 IR | 🔒 VLESS | @v2rayngc [19]",
-                "🇩🇪 DE | 🔓 VLESS | @v2rayvpn2 [1]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [1]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [3]",
@@ -2259,24 +2257,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "telegram-falcunargo-emiratess.falcunar.asso.eu.org"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayvpn2 [1]",
-            "type": "vless",
-            "server": "sss25065.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "f0015f11-7d11-4a17-a260-dc6ef7b48716",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss25065.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },

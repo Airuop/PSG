@@ -130,6 +130,7 @@
                 "🚩 CF | 🔒 VLESS | @mehrosaboran [8]",
                 "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [9]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
+                "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [11]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -237,6 +238,7 @@
                 "🚩 CF | 🔒 VLESS | @mehrosaboran [8]",
                 "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [9]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
+                "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [11]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -1247,6 +1249,19 @@
                 "headers": {
                     "Host": "104.17.147.22"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [11]",
+            "type": "vless",
+            "server": "51.89.118.126",
+            "server_port": 25368,
+            "uuid": "bfcb7e61-ddbf-4514-ac23-1b7ea21257be",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
             }
         },
         {
