@@ -82,9 +82,8 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔓 VLESS | @v2rayng_channel_vpn [1]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -97,9 +96,8 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔓 VLESS | @v2rayng_channel_vpn [1]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -208,24 +206,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayng_channel_vpn [1]",
-            "type": "vless",
-            "server": "91.107.240.122",
-            "server_port": 443,
-            "uuid": "7606bb75-416a-4f99-ba20-019cb25543cf",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.107.240.122",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
             "type": "vless",
             "server": "193.233.19.17",
@@ -249,11 +229,11 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "12d5ffb5-4d83-4631-c3e4-fd87b8b1a843",
+            "uuid": "52004a71-5388-4593-9662-77ed2134f766",
             "flow": "",
             "packet_encoding": "xudp"
         }
