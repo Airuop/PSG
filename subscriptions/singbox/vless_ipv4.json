@@ -143,6 +143,7 @@
                 "🇩🇰 DK | 🔓 VLESS | @mehrosaboran [9]",
                 "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [10]",
                 "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [11]",
+                "🇫🇷 FR | 🔓 VLESS | @mehrosaboran [12]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -179,9 +180,11 @@
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [11]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇫🇷 FR | 🔓 VLESS | @vpnplusee_free [15]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
+                "🇫🇷 FR | 🔓 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [14]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
                 "🇦🇲 AM | 🔓 VLESS | @vpnstable [16]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [17]",
                 "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
@@ -246,6 +249,7 @@
                 "🇩🇰 DK | 🔓 VLESS | @mehrosaboran [9]",
                 "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [10]",
                 "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [11]",
+                "🇫🇷 FR | 🔓 VLESS | @mehrosaboran [12]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -282,9 +286,11 @@
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [11]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇫🇷 FR | 🔓 VLESS | @vpnplusee_free [15]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
+                "🇫🇷 FR | 🔓 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [14]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
                 "🇦🇲 AM | 🔓 VLESS | @vpnstable [16]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [17]",
                 "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
@@ -1229,6 +1235,19 @@
             }
         },
         {
+            "tag": "🇫🇷 FR | 🔓 VLESS | @mehrosaboran [12]",
+            "type": "vless",
+            "server": "51.91.141.226",
+            "server_port": 24830,
+            "uuid": "ec6ecb01-c532-4926-81dc-31592ba50c72",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
             "type": "vless",
             "server": "151.101.129.203",
@@ -1952,7 +1971,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [11]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -1968,7 +1987,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -1977,7 +1996,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇫🇷 FR | 🔓 VLESS | @vpnplusee_free [15]",
+            "tag": "🇫🇷 FR | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "152.228.213.209",
             "server_port": 15341,
@@ -1987,6 +2006,45 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 80,
+            "uuid": "72acd6fc-c30f-4ed2-8251-5b8cba7333c4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "213.165.56.12",
+            "server_port": 443,
+            "uuid": "2fb40048-c812-43ad-ba1a-3e442c92d632",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
+                }
             }
         },
         {
