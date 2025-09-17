@@ -94,7 +94,8 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]"
+                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -107,7 +108,8 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]"
+                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -233,6 +235,15 @@
                     "short_id": "96c58a92f1dd5eaa"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "29bc04eb-3733-4162-8190-c02b39a85f9e",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {

@@ -94,10 +94,13 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [5]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇫🇮 FI | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔓 VLESS | @vpnstable [8]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇫🇮 FI | 🔓 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+                "🇺🇸 US | 🔓 VLESS | @vpnstable [7]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -123,10 +126,13 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [5]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇫🇮 FI | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔓 VLESS | @vpnstable [8]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇫🇮 FI | 🔓 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+                "🇺🇸 US | 🔓 VLESS | @vpnstable [7]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -390,16 +396,53 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
-            "server": "speedtestcustom.com",
-            "server_port": 80,
-            "uuid": "83062a6e-615a-41a9-bc24-1b49d246515c",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "free2.behnambani.blog",
+            "server_port": 8880,
+            "uuid": "2eb227e7-dcb2-4434-8e19-b3177939fe84",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "microsoft.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9s9c-3kWlrWIOlrDzCADQgvoSDxjIM7jALKVSZq8oxA",
+                    "short_id": "2db7"
+                }
+            }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+            "type": "vless",
+            "server": "free1.behnambani.blog",
+            "server_port": 8880,
+            "uuid": "db5b029f-250d-4f4b-9d3c-8ae166b5443b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "microsoft.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9s9c-3kWlrWIOlrDzCADQgvoSDxjIM7jALKVSZq8oxA",
+                    "short_id": "2db7"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "Evay_vpn.heloisfood.ir",
             "server_port": 1530,
@@ -422,7 +465,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔓 VLESS | @vpnplusee_free [12]",
+            "tag": "🇫🇮 FI | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "Evay_vpn.heloisfood.ir",
             "server_port": 8678,
@@ -431,7 +474,43 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [8]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "053eaa67-99d9-4b1d-b5ef-32c485566cfb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "77777788.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "053eaa67-99d9-4b1d-b5ef-32c485566cfb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "77777788.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [7]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
             "server_port": 80,

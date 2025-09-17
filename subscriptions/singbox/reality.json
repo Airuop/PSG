@@ -105,14 +105,12 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇷🇺 RU | 🔒 VLESS | @angus_vpn [3]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇱🇻 LV | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
+                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [6]",
                 "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [7]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -127,8 +125,9 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "🇦🇲 AM | 🔒 VLESS | @vpn_accounti [13]",
-                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -153,14 +152,12 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇷🇺 RU | 🔒 VLESS | @angus_vpn [3]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇱🇻 LV | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
+                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [6]",
                 "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [7]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -175,8 +172,9 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "🇦🇲 AM | 🔒 VLESS | @vpn_accounti [13]",
-                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -563,76 +561,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "213.165.56.12",
-            "server_port": 443,
-            "uuid": "2fb40048-c812-43ad-ba1a-3e442c92d632",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "185.138.88.58",
-            "server_port": 443,
-            "uuid": "95bbb722-7641-4247-b795-25a2f540e67b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.bol.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]",
-            "type": "vless",
-            "server": "188.225.80.14",
-            "server_port": 443,
-            "uuid": "5475990d-e0ce-46ea-95e5-50f9e4879af9",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ru.sfasti.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
-                    "short_id": "16895459a2c7768d"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "45.77.148.171",
             "server_port": 3035,
@@ -655,7 +584,30 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @angus_vpn [3]",
+            "tag": "🇱🇻 LV | 🔒 VLESS | @vpnplusee_free [3]",
+            "type": "vless",
+            "server": "94.131.104.178",
+            "server_port": 443,
+            "uuid": "d5c1b5d7-055b-4457-bc3a-6e99919c1bcb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "latvia6.clearorbitllc.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw",
+                    "short_id": "81e0b568"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
             "type": "vless",
             "server": "ru.sfasti.ru",
             "server_port": 443,
@@ -678,7 +630,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
             "type": "vless",
             "server": "myfreexnum01tamiz.bazibazestan.ir",
             "server_port": 443,
@@ -701,7 +653,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
             "type": "vless",
             "server": "myfreexnum01tamiz.bazibazestan.ir",
             "server_port": 443,
@@ -724,7 +676,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
             "type": "vless",
             "server": "myfreexnum01tamiz.bazibazestan.ir",
             "server_port": 443,
@@ -1069,16 +1021,16 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
-            "server": "eng27.openbypass.org",
-            "server_port": 443,
-            "uuid": "0d304394-b977-428e-bc75-37f2595b792c",
+            "server": "free2.behnambani.blog",
+            "server_port": 8880,
+            "uuid": "2eb227e7-dcb2-4434-8e19-b3177939fe84",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.halfords.com",
+                "server_name": "microsoft.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1086,13 +1038,36 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
-                    "short_id": ""
+                    "public_key": "9s9c-3kWlrWIOlrDzCADQgvoSDxjIM7jALKVSZq8oxA",
+                    "short_id": "2db7"
                 }
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+            "type": "vless",
+            "server": "free1.behnambani.blog",
+            "server_port": 8880,
+            "uuid": "db5b029f-250d-4f4b-9d3c-8ae166b5443b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "microsoft.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9s9c-3kWlrWIOlrDzCADQgvoSDxjIM7jALKVSZq8oxA",
+                    "short_id": "2db7"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "Evay_vpn.heloisfood.ir",
             "server_port": 1530,
