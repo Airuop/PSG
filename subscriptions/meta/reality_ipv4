@@ -34,7 +34,8 @@ proxies:
   - {"name":"🇩🇪 DE | 🔒 VLESS | @mrclud [20]","type":"vless","server":"51.89.74.164","port":443,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko","short-id":"a311b9f4"}}
   - {"name":"🇫🇷 FR | 🔒 VLESS | @mrclud [22]","type":"vless","server":"5.135.21.191","port":8880,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc","short-id":"8b62ab46"}}
   - {"name":"🇳🇱 NL | 🔒 VLESS | @vaynora [1]","type":"vless","server":"193.233.19.17","port":2053,"uuid":"d6873a1d-38bf-430d-a701-a874b9be3982","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"refersion.com","reality-opts":{"public-key":"liDJBs0Z831sti-z1AqSshl-QKcJqjxLAdADy1uXvzg","short-id":"96c58a92f1dd5eaa"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]","type":"vless","server":"91.99.129.105","port":33667,"uuid":"7a3d2e42-3823-4b00-9818-293f7c6742ca","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"store.steampowered.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"urkddCRB1-01SWciigBk31sfccR6KZr4wX_BInUHu3o","short-id":"382874842551202c"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]","type":"vless","server":"213.165.56.10","port":443,"uuid":"2fb40048-c812-43ad-ba1a-3e442c92d632","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"tgju.org","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8","short-id":"e54b5ad736ae4c38"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]","type":"vless","server":"185.113.10.132","port":8650,"uuid":"aac22f02-0ed2-4945-9b5e-062e77a7f7f5","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"cloudflare.com","reality-opts":{"public-key":"YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI","short-id":"354b9cbe48"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -59,7 +60,8 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 VLESS | @mrclud [20]'
       - '🇫🇷 FR | 🔒 VLESS | @mrclud [22]'
       - '🇳🇱 NL | 🔒 VLESS | @vaynora [1]'
-      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]'
+      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]'
+      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]'
 
   - name: 🌍 Global Media
     type: select
