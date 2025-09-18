@@ -110,8 +110,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "🇦🇲 AM | 🔒 VLESS | @vpn_accounti [13]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -141,8 +140,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "🇦🇲 AM | 🔒 VLESS | @vpn_accounti [13]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -644,30 +642,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [2]",
-            "type": "vless",
-            "server": "Evay_vpn.heloisfood.ir",
-            "server_port": 1530,
-            "uuid": "1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
-                    "short_id": "077dc29a23d311f2"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "Evay_vpn.heloisfood.ir",
             "server_port": 1530,
