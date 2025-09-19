@@ -72,7 +72,8 @@
     },
     "ipv2rayng": {
         "types": [
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "ipV2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ipv2rayng.jpg"
@@ -87,8 +88,7 @@
     },
     "irv2rey": {
         "types": [
-            "vless",
-            "ss"
+            "vless"
         ],
         "title": "ایران ویتوری | 𝐈𝐫𝐯𝟐𝐫𝐞𝐲",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/irv2rey.jpg"
@@ -194,7 +194,8 @@
     },
     "v2rayng_channel_vpn": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "کانفینگV2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_channel_vpn.jpg"

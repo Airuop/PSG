@@ -92,12 +92,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [19]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔓 VLESS | @v2rayng_channel_vpn [9]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayng_channel_vpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,12 +110,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [19]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔓 VLESS | @v2rayng_channel_vpn [9]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayng_channel_vpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -200,6 +204,24 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [19]",
+            "type": "vless",
+            "server": "91.98.35.110",
+            "server_port": 443,
+            "uuid": "c99f45df-5daf-4610-81ea-b9b4ea7258f4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "91.98.35.110",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
             "type": "vless",
             "server": "151.101.204.190",
@@ -218,7 +240,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayng_channel_vpn [9]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayng_channel_vpn [6]",
             "type": "vless",
             "server": "91.107.240.122",
             "server_port": 443,
@@ -259,7 +281,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "91.99.117.29",
             "server_port": 443,
@@ -277,7 +299,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "185.113.10.132",
             "server_port": 8650,
@@ -298,6 +320,15 @@
                     "short_id": "354b9cbe48"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "9292f50e-dd71-423a-e94f-e7daad4bc614",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {

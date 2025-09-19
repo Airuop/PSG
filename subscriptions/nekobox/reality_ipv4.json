@@ -84,8 +84,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [6]",
-                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [7]",
-                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [10]",
+                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [6]",
+                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [9]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -93,8 +93,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,8 +109,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [6]",
-                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [7]",
-                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [10]",
+                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [6]",
+                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [9]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -118,8 +118,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -302,7 +302,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [7]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [6]",
             "type": "vless",
             "server": "185.200.240.188",
             "server_port": 443,
@@ -325,7 +325,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [10]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [9]",
             "type": "vless",
             "server": "185.200.240.188",
             "server_port": 443,
@@ -509,7 +509,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "213.165.56.10",
             "server_port": 443,
@@ -532,7 +532,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "185.113.10.132",
             "server_port": 8650,
