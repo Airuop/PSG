@@ -93,8 +93,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
                 "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
@@ -112,8 +112,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "🇦🇲 AM | 🔒 VLESS | @vpn_accounti [13]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -138,8 +136,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
                 "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
@@ -157,8 +155,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "🇦🇲 AM | 🔒 VLESS | @vpn_accounti [13]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -549,7 +545,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "213.165.56.10",
             "server_port": 443,
@@ -572,7 +568,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "185.113.10.132",
             "server_port": 8650,
@@ -982,52 +978,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "Evay_vpn.heloisfood.ir",
-            "server_port": 1530,
-            "uuid": "1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
-                    "short_id": "077dc29a23d311f2"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "Evay_vpn.heloisfood.ir",
-            "server_port": 1530,
-            "uuid": "fde77d6c-eb2a-4488-ab34-a9a2633b01ec",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
-                    "short_id": "077dc29a23d311f2"
                 }
             }
         },
