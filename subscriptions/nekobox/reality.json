@@ -93,7 +93,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [16]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
                 "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
@@ -102,12 +102,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [5]",
-                "🇹🇷 TR | 🔒 VLESS | @v2rayng_channel_vpn [10]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [11]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [12]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [13]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [14]",
+                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [2]",
+                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [3]",
+                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [4]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -140,7 +138,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [16]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
                 "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
@@ -149,12 +147,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [5]",
-                "🇹🇷 TR | 🔒 VLESS | @v2rayng_channel_vpn [10]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [11]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [12]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [13]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [14]",
+                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [2]",
+                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [3]",
+                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [4]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -553,7 +549,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "157.180.81.19",
             "server_port": 1530,
@@ -760,53 +756,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [5]",
-            "type": "vless",
-            "server": "yfr.amiraizo.com",
-            "server_port": 2560,
-            "uuid": "08bc45d6-1637-448a-9840-2759ed247be7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U",
-                    "short_id": "e41865e506628f44"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @v2rayng_channel_vpn [10]",
-            "type": "vless",
-            "server": "ytr.amiraizo.com",
-            "server_port": 2560,
-            "uuid": "08bc45d6-1637-448a-9840-2759ed247be7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U",
-                    "short_id": "e41865e506628f44"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [11]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [2]",
             "type": "vless",
             "server": "ynl.amiraizo.com",
             "server_port": 2560,
@@ -829,7 +779,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [12]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [3]",
             "type": "vless",
             "server": "nldns.amirconfigpaanelllll.com",
             "server_port": 223,
@@ -852,7 +802,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [13]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [4]",
             "type": "vless",
             "server": "fdns.amirconfigpaanelllll.com",
             "server_port": 223,
@@ -875,7 +825,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [14]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [5]",
             "type": "vless",
             "server": "yde2.amiraizo.com",
             "server_port": 2560,
