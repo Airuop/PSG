@@ -32,13 +32,6 @@
         "title": "پروکسی رایگان ملی / فیلترشکن",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/binner_iran.jpg"
     },
-    "elfv2ray": {
-        "types": [
-            "vless"
-        ],
-        "title": "𝗘𝗟𝗙𝗩2𝗥𝗔𝗬",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/elfv2ray.jpg"
-    },
     "filtershekan_channel": {
         "types": [
             "vless",
@@ -65,7 +58,8 @@
     },
     "gh_v2rayng": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "𝗩𝟮𝗿𝗮𝘆 𝗚𝗮𝗹𝗮𝘅𝘆",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/gh_v2rayng.jpg"

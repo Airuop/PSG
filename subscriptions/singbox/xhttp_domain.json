@@ -96,13 +96,14 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "🇩🇪 DE | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [15]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [12]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [6]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -119,13 +120,14 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "🇩🇪 DE | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [15]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [12]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [6]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -268,7 +270,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
             "server_port": 80,
@@ -277,7 +279,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [15]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [12]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -304,6 +306,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
+            "type": "vless",
+            "server": "CONFiGLiNE.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "9024add3-3d9e-4954-9cbb-4e0441f710af",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
             "type": "vless",
             "server": "fast.peace.lemoex.blog",
@@ -322,13 +333,27 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "test.barayekhudam.ir",
+            "server_port": 59697,
+            "uuid": "d378d3d0-c521-4874-a6f3-21794398cf9c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "bimeh.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg",
+                    "short_id": "c5a5b0"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",

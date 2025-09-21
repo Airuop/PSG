@@ -84,8 +84,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [6]",
+                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [1]",
                 "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [4]",
-                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [7]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -93,7 +93,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,8 +108,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [6]",
+                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [1]",
                 "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [4]",
-                "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [7]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -117,7 +117,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -300,7 +300,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [4]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [1]",
             "type": "vless",
             "server": "185.200.240.188",
             "server_port": 443,
@@ -323,7 +323,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [7]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @gh_v2rayng [4]",
             "type": "vless",
             "server": "185.200.240.188",
             "server_port": 443,
@@ -507,7 +507,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "157.180.81.19",
             "server_port": 1530,
