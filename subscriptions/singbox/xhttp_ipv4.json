@@ -96,8 +96,9 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -112,8 +113,9 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -259,7 +261,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -268,7 +270,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "157.180.81.19",
             "server_port": 1530,
@@ -289,6 +291,15 @@
                     "short_id": "077dc29a23d311f2"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "f5b19ec5-c7c6-4b21-bd22-c09d1cffd8d8",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {

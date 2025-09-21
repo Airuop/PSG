@@ -103,7 +103,9 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [10]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [14]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -127,7 +129,9 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [10]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [14]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -333,7 +337,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "test.barayekhudam.ir",
             "server_port": 59697,
@@ -354,6 +358,33 @@
                     "short_id": "c5a5b0"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "sss32513.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "7606bb75-416a-4f99-ba20-019cb25543cf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sss32513.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
