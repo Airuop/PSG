@@ -92,12 +92,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [14]",
+                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [11]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "proxy",
@@ -109,12 +108,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [14]",
+                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [11]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "auto",
@@ -202,7 +200,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [14]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [11]",
             "type": "vless",
             "server": "91.98.35.110",
             "server_port": 443,
@@ -265,39 +263,16 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "c2ee6a45-8ffe-4168-b4c6-4a750a3b3ccb",
+            "uuid": "f5b19ec5-c7c6-4b21-bd22-c09d1cffd8d8",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
-            "type": "vless",
-            "server": "157.180.81.19",
-            "server_port": 1530,
-            "uuid": "75ed210a-10f2-4819-ac89-e0ff93b52ec7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA",
-                    "short_id": "077dc29a23d311f2"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "f5b19ec5-c7c6-4b21-bd22-c09d1cffd8d8",
+            "uuid": "5b3a5144-70d6-4aff-80be-6cb25a781aac",
             "flow": "",
             "packet_encoding": "xudp"
         }
