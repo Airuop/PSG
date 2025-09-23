@@ -105,9 +105,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇦🇪 AE | 🔒 VLESS | @vpnplusee_free [1]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -131,9 +129,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇦🇪 AE | 🔒 VLESS | @vpnplusee_free [1]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -519,53 +515,7 @@
             }
         },
         {
-            "tag": "🇦🇪 AE | 🔒 VLESS | @vpnplusee_free [1]",
-            "type": "vless",
-            "server": "31.57.228.53",
-            "server_port": 2560,
-            "uuid": "548c9fbd-6857-4f0a-b1f1-1cff7cca95af",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U",
-                    "short_id": "e41865e506628f44"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [2]",
-            "type": "vless",
-            "server": "45.154.96.185",
-            "server_port": 2560,
-            "uuid": "548c9fbd-6857-4f0a-b1f1-1cff7cca95af",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U",
-                    "short_id": "e41865e506628f44"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "157.180.81.19",
             "server_port": 1530,

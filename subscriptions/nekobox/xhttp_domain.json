@@ -91,8 +91,7 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -116,8 +115,7 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -327,25 +325,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2083,
-            "uuid": "ea925bb9-3839-4bc7-d045-2bb5e353674b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "website.amin-4.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,

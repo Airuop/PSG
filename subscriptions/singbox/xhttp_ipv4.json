@@ -97,8 +97,8 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -114,8 +114,8 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -265,21 +265,12 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "5b3a5144-70d6-4aff-80be-6cb25a781aac",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
             "uuid": "846ed531-360b-4872-98ee-696d3a9b87c8",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "157.180.81.19",
             "server_port": 1530,
@@ -300,6 +291,15 @@
                     "short_id": "077dc29a23d311f2"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "ed85fbe2-fadf-4dcd-b658-48773bc89769",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {

@@ -103,8 +103,7 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [11]",
@@ -112,8 +111,8 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -135,8 +134,7 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [11]",
@@ -144,8 +142,8 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -349,25 +347,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2083,
-            "uuid": "ea925bb9-3839-4bc7-d045-2bb5e353674b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "website.amin-4.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -457,21 +437,12 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "5b3a5144-70d6-4aff-80be-6cb25a781aac",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
             "uuid": "846ed531-360b-4872-98ee-696d3a9b87c8",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "157.180.81.19",
             "server_port": 1530,
@@ -492,6 +463,15 @@
                     "short_id": "077dc29a23d311f2"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "ed85fbe2-fadf-4dcd-b658-48773bc89769",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
