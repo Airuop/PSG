@@ -93,6 +93,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @angus_vpn [11]",
                 "🇩🇪 DE | 🔓 VLESS | @angus_vpn [12]",
                 "🇩🇪 DE | 🔓 VLESS | @angus_vpn [13]",
+                "🇩🇪 DE | 🔓 VLESS | @angus_vpn [15]",
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇸🇪 SE | 🔓 VLESS | @binner_iran [34]",
                 "🚩 CF | 🔒 VLESS | @binner_iran [36]",
@@ -169,10 +170,7 @@
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
                 "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
                 "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
                 "🇨🇦 CA | 🔓 VLESS | @vpnplusee_free [8]",
@@ -205,6 +203,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @angus_vpn [11]",
                 "🇩🇪 DE | 🔓 VLESS | @angus_vpn [12]",
                 "🇩🇪 DE | 🔓 VLESS | @angus_vpn [13]",
+                "🇩🇪 DE | 🔓 VLESS | @angus_vpn [15]",
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇸🇪 SE | 🔓 VLESS | @binner_iran [34]",
                 "🚩 CF | 🔒 VLESS | @binner_iran [36]",
@@ -281,10 +280,7 @@
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
                 "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
                 "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
                 "🇨🇦 CA | 🔓 VLESS | @vpnplusee_free [8]",
@@ -534,6 +530,15 @@
             "server": "91.98.165.163",
             "server_port": 42671,
             "uuid": "efda77d8-6aa8-419f-9dc2-be835ee9d25f",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [15]",
+            "type": "vless",
+            "server": "91.98.165.163",
+            "server_port": 42671,
+            "uuid": "203e7584-f543-45c4-8961-7b0c39e7f7af",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -1952,23 +1957,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [1]",
-            "type": "vless",
-            "server": "172.64.146.96",
-            "server_port": 80,
-            "uuid": "a4222cb3-b1e9-42a9-9767-49f6f567b0b7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
-                "headers": {
-                    "Host": "172.64.146.96"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "172.64.229.207",
             "server_port": 8880,
@@ -1984,7 +1973,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [3]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "104.16.20.178",
             "server_port": 80,
@@ -1996,31 +1985,6 @@
                 "path": "/?ed=2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
                 "headers": {
                     "Host": "104.16.20.178"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "846ed531-360b-4872-98ee-696d3a9b87c8",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "162.159.152.9",
-            "server_port": 8880,
-            "uuid": "a4222cb3-b1e9-42a9-9767-49f6f567b0b7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
-                "headers": {
-                    "Host": "162.159.152.9"
                 }
             }
         },
