@@ -99,10 +99,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
+                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [1]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [2]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [3]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [4]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [5]",
+                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [3]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -111,6 +111,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
@@ -130,10 +131,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
+                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [1]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [2]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [3]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [4]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [5]",
+                "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [3]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -142,6 +143,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
@@ -391,7 +393,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [2]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [1]",
             "type": "vless",
             "server": "ynl.amiraizo.com",
             "server_port": 2560,
@@ -414,7 +416,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [3]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayng_channel_vpn [2]",
             "type": "vless",
             "server": "nldns.amirconfigpaanelllll.com",
             "server_port": 223,
@@ -437,7 +439,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [4]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @v2rayng_channel_vpn [3]",
             "type": "vless",
             "server": "fdns.amirconfigpaanelllll.com",
             "server_port": 223,
@@ -460,7 +462,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [5]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayng_channel_vpn [4]",
             "type": "vless",
             "server": "yde2.amiraizo.com",
             "server_port": 2560,
@@ -667,7 +669,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "Ger-server2-panyous.tap30.sbs",
             "server_port": 2560,
@@ -677,6 +679,29 @@
             "tls": {
                 "enabled": true,
                 "server_name": "cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U",
+                    "short_id": "e41865e506628f44"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
+            "type": "vless",
+            "server": "germany-serv1.ip-venzo.com",
+            "server_port": 223,
+            "uuid": "8f0120f1-ba26-e137-5e06-a99b844741aa",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

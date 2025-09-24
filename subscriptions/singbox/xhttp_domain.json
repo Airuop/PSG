@@ -96,14 +96,13 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "🇩🇪 DE | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [7]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [9]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [17]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [6]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [8]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [16]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [6]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -120,14 +119,13 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "🇩🇪 DE | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [7]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [9]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [17]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [6]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [8]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [16]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [6]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -270,7 +268,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [7]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [6]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
             "server_port": 80,
@@ -279,7 +277,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [9]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [8]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -288,7 +286,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [17]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [16]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -329,15 +327,6 @@
             "server": "server2.ultra-irancell.com",
             "server_port": 80,
             "uuid": "turboo-server",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp"
         },
