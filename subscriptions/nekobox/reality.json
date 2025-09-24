@@ -91,7 +91,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
@@ -110,8 +109,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -134,7 +133,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
-                "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
@@ -153,8 +151,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -495,29 +493,6 @@
                     "enabled": true,
                     "public_key": "liDJBs0Z831sti-z1AqSshl-QKcJqjxLAdADy1uXvzg",
                     "short_id": "96c58a92f1dd5eaa"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @angus_vpn [2]",
-            "type": "vless",
-            "server": "ru.sfasti.ru",
-            "server_port": 443,
-            "uuid": "1a6fe500-59da-4598-8576-256f06765ffb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ru.sfasti.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
-                    "short_id": "16895459a2c7768d"
                 }
             }
         },
@@ -936,7 +911,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "Ger-server2-panyous.tap30.sbs",
             "server_port": 2560,
@@ -959,7 +934,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "germany-serv1.ip-venzo.com",
             "server_port": 223,
