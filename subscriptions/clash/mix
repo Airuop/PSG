@@ -98,9 +98,12 @@ proxies:
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]","type":"trojan","server":"51.91.11.29","port":80,"password":"e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [46]","type":"trojan","server":"104.149.155.13","port":443,"password":"79c935c0-27dc-4383-b307-dcac1b8e5509","skip-cert-verify":false}
   - {"name":"🇸🇪 SE | 🔒 SS | @v2rayvpn2 [1]","type":"ss","server":"4.223.100.248","port":48172,"password":"51yloQC8D9w1Wae7FHtI65","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇮🇳 IN | 🔓 VMESS | @vpnfail_v2ray [8]","type":"vmess","server":"94.136.185.230","port":10534,"cipher":"auto","uuid":"b01c7ef9-33ec-41f6-bfbf-77ddc4d21649","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇹🇼 TW | 🔓 VMESS | @vpnfail_v2ray [10]","type":"vmess","server":"140.235.38.89","port":20521,"cipher":"auto","uuid":"c65ef645-2172-44d1-909f-cb30a40bca1c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
-  - {"name":"🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [14]","type":"vmess","server":"103.229.127.212","port":49393,"cipher":"auto","uuid":"0d4c0345-b6f4-4d23-9427-88923cc57fc4","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki?ed=2048","headers":{"Host":""}}}
+  - {"name":"🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [6]","type":"vmess","server":"47.242.214.178","port":24497,"cipher":"auto","uuid":"0f62d166-39e5-4d3d-89b6-5c6490b4f4d4","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki?ed=2048","headers":{"Host":""}}}
+  - {"name":"🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [7]","type":"vmess","server":"47.76.233.2","port":37660,"cipher":"auto","uuid":"249624df-4ca9-496c-9313-da9c3cd3f655","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki?ed=2048","headers":{"Host":""}}}
+  - {"name":"🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [13]","type":"vmess","server":"47.76.89.175","port":22336,"cipher":"auto","uuid":"41275f5b-a181-4a5c-bada-ee869d5ae8a4","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki?ed=2048","headers":{"Host":""}}}
+  - {"name":"🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [16]","type":"vmess","server":"103.229.127.212","port":32381,"cipher":"auto","uuid":"93e463b6-af2b-437b-90f8-dba172a70d11","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki?ed=2048","headers":{"Host":""}}}
+  - {"name":"🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [19]","type":"vmess","server":"8.210.140.23","port":54809,"cipher":"auto","uuid":"fde73daf-cc67-42f3-9935-35b132b01abd","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki?ed=2048","headers":{"Host":""}}}
+  - {"name":"🇲🇾 MY | 🔓 VMESS | @vpnfail_v2ray [20]","type":"vmess","server":"45.89.107.51","port":20521,"cipher":"auto","uuid":"3dbaa5c3-f493-4ad1-9c5d-8525f4962a6c","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
   - {"name":"🇫🇮 FI | 🔒 SS | @vpnstable [3]","type":"ss","server":"media.mothyleela.cfd","port":40521,"password":"LYW2w9fwdrwj2qC9NyTBuBNKQJUvkKnCp9UxVnFW6LqeSpiCcnzV1cMohBUnCCWBkjkp83rV9wWeYQQqUZwMuYu1YyCt17tW","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @vpnstable [7]","type":"ss","server":"85.208.139.203","port":443,"password":"0DY8zBjtxP3Y","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇮🇩 ID | 🔓 VMESS | @vpnstable [8]","type":"vmess","server":"154.90.49.57","port":58868,"cipher":"auto","uuid":"fbffeb6b-b5e5-4f77-8888-c7919fbeb0ad","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -195,9 +198,12 @@ proxy-groups:
       - '🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]'
       - '🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [46]'
       - '🇸🇪 SE | 🔒 SS | @v2rayvpn2 [1]'
-      - '🇮🇳 IN | 🔓 VMESS | @vpnfail_v2ray [8]'
-      - '🇹🇼 TW | 🔓 VMESS | @vpnfail_v2ray [10]'
-      - '🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [14]'
+      - '🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [6]'
+      - '🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [7]'
+      - '🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [13]'
+      - '🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [16]'
+      - '🇭🇰 HK | 🔓 VMESS | @vpnfail_v2ray [19]'
+      - '🇲🇾 MY | 🔓 VMESS | @vpnfail_v2ray [20]'
       - '🇫🇮 FI | 🔒 SS | @vpnstable [3]'
       - '🇩🇪 DE | 🔒 SS | @vpnstable [7]'
       - '🇮🇩 ID | 🔓 VMESS | @vpnstable [8]'
