@@ -92,10 +92,12 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [8]",
+                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]"
+                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,10 +108,12 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [8]",
+                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]"
+                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -196,7 +200,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [8]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [5]",
             "type": "vless",
             "server": "91.98.35.110",
             "server_port": 443,
@@ -253,6 +257,24 @@
                     "short_id": "96c58a92f1dd5eaa"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "e237225e-bf49-48bb-fa6f-e12113c6429f",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "e2180897-7090-4cfd-aec5-1c2476933f5d",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
