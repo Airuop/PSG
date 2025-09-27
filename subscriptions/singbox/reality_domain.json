@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
@@ -118,7 +117,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
@@ -216,29 +214,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [3]",
-            "type": "vless",
-            "server": "myfreexnum01tamiz.bazibazestan.ir",
-            "server_port": 443,
-            "uuid": "085c149b-a6d0-41aa-84db-42e825aa6f84",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko",
-                    "short_id": "e1bc8e591c390c7c"
                 }
             }
         },
