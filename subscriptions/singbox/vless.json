@@ -130,7 +130,7 @@
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [13]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [15]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [16]",
-                "🇺🇸 US | 🔓 VLESS | @jiedianf [3]",
+                "🇺🇸 US | 🔓 VLESS | @jiedianf [2]",
                 "🚩 CF | 🔓 VLESS | @kurdistan_vpn_perfectt [3]",
                 "🇪🇸 ES | 🔓 VLESS | @kurdistan_vpn_perfectt [6]",
                 "🚩 CF | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
@@ -218,7 +218,6 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [2]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [6]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
-                "🚩 CF | 🔓 VLESS | @jiedianf [2]",
                 "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [6]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
@@ -298,8 +297,9 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [2]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
                 "❔ XX | 🔓 VLESS | @vpnstable [1]",
                 "🇮🇷 IR | 🔒 VLESS | @vpnstable [3]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [4]",
@@ -360,7 +360,7 @@
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [13]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [15]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [16]",
-                "🇺🇸 US | 🔓 VLESS | @jiedianf [3]",
+                "🇺🇸 US | 🔓 VLESS | @jiedianf [2]",
                 "🚩 CF | 🔓 VLESS | @kurdistan_vpn_perfectt [3]",
                 "🇪🇸 ES | 🔓 VLESS | @kurdistan_vpn_perfectt [6]",
                 "🚩 CF | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
@@ -448,7 +448,6 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [2]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [6]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
-                "🚩 CF | 🔓 VLESS | @jiedianf [2]",
                 "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [6]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
@@ -528,8 +527,9 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [2]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
                 "❔ XX | 🔓 VLESS | @vpnstable [1]",
                 "🇮🇷 IR | 🔒 VLESS | @vpnstable [3]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [4]",
@@ -1251,7 +1251,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @jiedianf [3]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @jiedianf [2]",
             "type": "vless",
             "server": "63.141.128.13",
             "server_port": 8080,
@@ -2888,22 +2888,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @jiedianf [2]",
-            "type": "vless",
-            "server": "light-presence.oneeat.co",
-            "server_port": 80,
-            "uuid": "7e74ff43-3a90-48b3-8372-7d92a045c2d4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "light-presence.oneeat.co"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
             "type": "vless",
             "server": "aio.xtradata.dpdns.org",
@@ -4302,23 +4286,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
-            "type": "vless",
-            "server": "Evay_vpn.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "6a68b588-a8c5-462b-8637-3cfe886a9add",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/admin?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048",
-                "headers": {
-                    "Host": "Evay_vpn.fastly80.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "2margate.superip.ir",
             "server_port": 3041,
@@ -4337,6 +4305,47 @@
                     "enabled": true,
                     "public_key": "uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw",
                     "short_id": "4c14"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [2]",
+            "type": "vless",
+            "server": "Evay_vpn.fastly80.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "6a68b588-a8c5-462b-8637-3cfe886a9add",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/admin?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048",
+                "headers": {
+                    "Host": "Evay_vpn.fastly80.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "re.pdri.blog",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048",
+                "headers": {
+                    "Host": "re.pdri.blog"
                 }
             }
         },
