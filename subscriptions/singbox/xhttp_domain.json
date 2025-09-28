@@ -103,8 +103,7 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
-                "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
+                "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -127,8 +126,7 @@
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
-                "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
+                "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -333,16 +331,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [6]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
             "server_port": 80,
