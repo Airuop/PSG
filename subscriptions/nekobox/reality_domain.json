@@ -80,8 +80,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
+                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [8]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -93,7 +93,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -105,8 +105,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
+                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [8]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -118,7 +118,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -210,11 +210,11 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
             "type": "vless",
             "server": "myfreexnum01tamiz.bazibazestan.ir",
             "server_port": 443,
-            "uuid": "8a70b5a0-7e06-4f1d-986a-3d6f8eb728fa",
+            "uuid": "164d15ed-9133-4872-a18a-426de024c5d4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -233,11 +233,11 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [8]",
             "type": "vless",
             "server": "myfreexnum01tamiz.bazibazestan.ir",
             "server_port": 443,
-            "uuid": "164d15ed-9133-4872-a18a-426de024c5d4",
+            "uuid": "8a70b5a0-7e06-4f1d-986a-3d6f8eb728fa",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -509,7 +509,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "2margate.superip.ir",
             "server_port": 3041,
