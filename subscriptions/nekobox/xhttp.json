@@ -84,18 +84,17 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [8]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [5]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [18]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [3]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [5]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [6]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [13]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [4]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [11]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
-                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]"
@@ -113,18 +112,17 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [8]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [5]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [18]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [3]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [5]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [6]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [13]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [4]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [11]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
-                "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]"
@@ -272,7 +270,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [8]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [5]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -281,11 +279,20 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [18]",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "5d6722a7-0cb9-4703-8cc3-1b94581f22ba",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
             "type": "vless",
-            "server": "configline.fast.hosting-ip.com",
+            "server": "test.fast.hosting-ip.com",
             "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE_id",
+            "uuid": "TELEGRAM-CONFiGLiNE",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -294,21 +301,12 @@
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [5]",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
             "uuid": "TELEGRAM-CONFiGLiNE-2",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [6]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [4]",
             "type": "vless",
             "server": "CONFiGLiNE.fast.hosting-ip.com",
             "server_port": 80,
@@ -317,7 +315,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [13]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [11]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -369,24 +367,6 @@
             "uuid": "34a4cfb4-8b42-42ba-b087-6a338c2b3b4a",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @gh_v2rayng [2]",
-            "type": "vless",
-            "server": "91.98.35.110",
-            "server_port": 443,
-            "uuid": "c99f45df-5daf-4610-81ea-b9b4ea7258f4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.98.35.110",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",

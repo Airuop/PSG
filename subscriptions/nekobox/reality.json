@@ -92,8 +92,8 @@
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [8]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]",
+                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [7]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -129,8 +129,8 @@
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
                 "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [8]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]",
+                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [7]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -510,30 +510,30 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
-            "server": "myfreexnum01tamiz.bazibazestan.ir",
-            "server_port": 443,
-            "uuid": "164d15ed-9133-4872-a18a-426de024c5d4",
+            "server": "94.131.107.201",
+            "server_port": 8443,
+            "uuid": "90cd2100-044d-49fa-b82c-49ef09d60e88",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "anydesk.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko",
-                    "short_id": "e1bc8e591c390c7c"
+                    "public_key": "rwXlON1aDW3CM1wfNYMWb-hpPYqvH0kHHOBDatkuCSE",
+                    "short_id": "26a70553"
                 }
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [8]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [7]",
             "type": "vless",
             "server": "myfreexnum01tamiz.bazibazestan.ir",
             "server_port": 443,
