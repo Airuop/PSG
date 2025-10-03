@@ -84,15 +84,15 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [3]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
                 "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [16]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [2]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [3]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [4]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [10]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [12]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [13]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -109,15 +109,15 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [3]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
                 "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [16]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [2]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [3]",
+                "🇺🇸 US | 🔓 VLESS | @irv2rey [4]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [10]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [12]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [13]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -264,16 +264,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [3]",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [16]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -282,7 +273,16 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [2]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [16]",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "683992d6-7c01-40ff-8177-7f24caa0d079",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -291,11 +291,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [3]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [2]",
             "type": "vless",
             "server": "CONFiGLiNE.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "9024add3-3d9e-4954-9cbb-4e0441f710af",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [4]",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-CONFiGLiNE",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -332,15 +341,6 @@
             "server": "fast.peace.lemoex.blog",
             "server_port": 80,
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @turboo_server [2]",
-            "type": "vless",
-            "server": "server2.ultra-irancell.com",
-            "server_port": 80,
-            "uuid": "turboo-server",
             "flow": "",
             "packet_encoding": "xudp"
         },

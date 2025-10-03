@@ -82,7 +82,9 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [11]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -95,7 +97,9 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇳🇱 NL | 🔒 VLESS | @vaynora [1]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [11]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -204,16 +208,25 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vaynora [1]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [11]",
             "type": "vless",
-            "server": "193.233.19.17",
-            "server_port": 2053,
-            "uuid": "d6873a1d-38bf-430d-a701-a874b9be3982",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "9af1a849-452a-4468-ade3-900fd5aafef2",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "65.109.202.202",
+            "server_port": 443,
+            "uuid": "7f75f70e-8d14-403b-9ec4-cad4b0836b8e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "google.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -221,8 +234,31 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "liDJBs0Z831sti-z1AqSshl-QKcJqjxLAdADy1uXvzg",
-                    "short_id": "96c58a92f1dd5eaa"
+                    "public_key": "HTmgtYAdc4266sqGG1zMSYcsMPJfWJfxgaJEKCMiFww",
+                    "short_id": "f8f87a"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "51.210.167.123",
+            "server_port": 443,
+            "uuid": "7f75f70e-8d14-403b-9ec4-cad4b0836b8e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HTmgtYAdc4266sqGG1zMSYcsMPJfWJfxgaJEKCMiFww",
+                    "short_id": "f8f87a"
                 }
             }
         }
