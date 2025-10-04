@@ -96,9 +96,9 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [9]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [12]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [15]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [7]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [3]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [9]",
@@ -109,10 +109,8 @@
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [2]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -127,9 +125,9 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [9]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [12]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [15]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [7]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [3]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [9]",
@@ -140,10 +138,8 @@
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [2]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -284,7 +280,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [9]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [7]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -293,7 +289,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [12]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -302,7 +298,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [15]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -401,66 +397,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "9af1a849-452a-4468-ade3-900fd5aafef2",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "65.109.202.202",
-            "server_port": 443,
-            "uuid": "7f75f70e-8d14-403b-9ec4-cad4b0836b8e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "HTmgtYAdc4266sqGG1zMSYcsMPJfWJfxgaJEKCMiFww",
-                    "short_id": "f8f87a"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "51.210.167.123",
-            "server_port": 443,
-            "uuid": "7f75f70e-8d14-403b-9ec4-cad4b0836b8e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "HTmgtYAdc4266sqGG1zMSYcsMPJfWJfxgaJEKCMiFww",
-                    "short_id": "f8f87a"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "a3927b8b-0554-42ff-ae7d-17212e6bd126",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "caa50ea0-496d-49c7-9d42-a5ac248a2baa",
             "flow": "",
             "packet_encoding": "xudp"
         }
