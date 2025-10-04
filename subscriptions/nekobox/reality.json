@@ -90,11 +90,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -127,11 +125,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -464,30 +460,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "91.107.255.101",
-            "server_port": 18621,
-            "uuid": "fd0e8d0d-d968-4538-8e51-5c86beb62d8c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jlo13i4gYNmRwvwYXtQy2giBqx9ZPvi5Q0eGCxdKxzA",
-                    "short_id": "bc"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "188.132.183.15",
             "server_port": 8443,
@@ -510,7 +483,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "65.109.202.202",
             "server_port": 443,
@@ -533,7 +506,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "51.210.167.123",
             "server_port": 443,
@@ -552,29 +525,6 @@
                     "enabled": true,
                     "public_key": "HTmgtYAdc4266sqGG1zMSYcsMPJfWJfxgaJEKCMiFww",
                     "short_id": "f8f87a"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [5]",
-            "type": "vless",
-            "server": "myfreexnum01tamiz.bazibazestan.ir",
-            "server_port": 443,
-            "uuid": "8a70b5a0-7e06-4f1d-986a-3d6f8eb728fa",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko",
-                    "short_id": "e1bc8e591c390c7c"
                 }
             }
         },
