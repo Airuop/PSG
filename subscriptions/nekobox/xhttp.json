@@ -84,9 +84,9 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [7]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [6]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [9]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [12]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [3]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [9]",
@@ -96,8 +96,7 @@
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -112,9 +111,9 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [7]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [6]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [9]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [12]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [3]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [9]",
@@ -124,8 +123,7 @@
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -270,7 +268,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [7]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [6]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -279,7 +277,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [9]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -288,7 +286,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [13]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [12]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -383,15 +381,6 @@
             "server": "185.18.250.67",
             "server_port": 8080,
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "caa50ea0-496d-49c7-9d42-a5ac248a2baa",
             "flow": "",
             "packet_encoding": "xudp"
         }
