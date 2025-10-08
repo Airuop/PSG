@@ -90,7 +90,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpnplusee_free [4]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,7 +111,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpnplusee_free [4]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -432,16 +432,16 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
-            "server": "2.56.176.173",
-            "server_port": 443,
-            "uuid": "80074d6b-23c5-465e-a348-dcf0378fd1f2",
+            "server": "94.131.107.201",
+            "server_port": 8443,
+            "uuid": "896c451b-addc-4c9e-ad9b-4cd63d80b2ab",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
+                "server_name": "anydesk.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -449,8 +449,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "f79448a30d"
+                    "public_key": "rwXlON1aDW3CM1wfNYMWb-hpPYqvH0kHHOBDatkuCSE",
+                    "short_id": "26a70553"
                 }
             }
         }
