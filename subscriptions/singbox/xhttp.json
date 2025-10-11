@@ -96,15 +96,13 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [3]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [2]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -119,15 +117,13 @@
                 "🇮🇹 IT | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
-                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [3]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [1]",
                 "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
-                "🇺🇸 US | 🔓 VLESS | @irv2rey [2]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -268,7 +264,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [3]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [1]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -278,15 +274,6 @@
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [1]",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "29b27f0b-f8fb-44dd-8766-0ad5f476ca02",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @irv2rey [2]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -336,15 +323,6 @@
             "server": "185.18.250.67",
             "server_port": 8080,
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
-            "type": "vless",
-            "server": "151.101.70.85",
-            "server_port": 80,
-            "uuid": "join-mosiv2",
             "flow": "",
             "packet_encoding": "xudp"
         }

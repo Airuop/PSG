@@ -90,6 +90,8 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
+                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [16]",
+                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [17]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -122,6 +124,8 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
+                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [16]",
+                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [17]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -450,6 +454,52 @@
                     "enabled": true,
                     "public_key": "JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc",
                     "short_id": "8b62ab46"
+                }
+            }
+        },
+        {
+            "tag": "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "185.215.186.109",
+            "server_port": 443,
+            "uuid": "562c71d0-f18b-402c-b1ad-5c2bbfcd6e02",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hls-svod.itunes.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws",
+                    "short_id": "8453e5fd9af927"
+                }
+            }
+        },
+        {
+            "tag": "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [17]",
+            "type": "vless",
+            "server": "45.15.170.183",
+            "server_port": 443,
+            "uuid": "30dd2eea-fe78-4660-a04f-096a7dac41e3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "mirror.yandex.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU",
+                    "short_id": "916a"
                 }
             }
         },
