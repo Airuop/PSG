@@ -90,10 +90,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [14]",
-                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [16]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]"
+                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [14]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -114,10 +114,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [14]",
-                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [16]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]"
+                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [14]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -438,7 +438,7 @@
             }
         },
         {
-            "tag": "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [14]",
+            "tag": "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "185.215.186.109",
             "server_port": 443,
@@ -461,7 +461,7 @@
             }
         },
         {
-            "tag": "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
             "server": "45.15.170.183",
             "server_port": 443,
@@ -484,7 +484,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [14]",
             "type": "vless",
             "server": "62.60.233.30",
             "server_port": 443,
@@ -507,7 +507,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
             "type": "vless",
             "server": "162.19.175.55",
             "server_port": 9954,
