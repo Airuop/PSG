@@ -115,7 +115,10 @@ proxies:
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [11]","type":"vless","server":"PARMIS.SIGMA-HOSTER.COM","port":443,"uuid":"19ce2438-558d-4d24-ad7c-33d8c73f8d20","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"frcaa.crocodileserver.ir","reality-opts":{"public-key":"bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8","short-id":"1da8d08f24e92861"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [12]","type":"vless","server":"ARM.SIGMA-HOSTER.COM","port":443,"uuid":"fb707a09-7dd8-417f-9d9a-2e61d56995cb","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [13]","type":"vless","server":"ARM.CROCODILESERVER.IR","port":443,"uuid":"32932937-b85f-40be-ae02-997ea5b0b62a","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
-  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [9]","type":"vless","server":"017.electrocellco-cf-017.workers.dev","port":443,"uuid":"b74bbaca-8bbe-41e1-9af9-18d467836282","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"017.EleCTRoCelLCo-CF-017.Workers.dEv","ws-opts":{"path":"/eyJqdW5rIjoibnhUbllUVXY1OWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560","headers":{"Host":"017.electrocellco-cf-017.workers.dev"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [2]","type":"vless","server":"017.electrocellco-cf-017.workers.dev","port":443,"uuid":"b74bbaca-8bbe-41e1-9af9-18d467836282","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"017.EleCTRoCelLCo-CF-017.Workers.dEv","ws-opts":{"path":"/eyJqdW5rIjoibnhUbllUVXY1OWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560","headers":{"Host":"017.electrocellco-cf-017.workers.dev"}}}
+  - {"name":"🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [12]","type":"vless","server":"medrd.vtpmng.top","port":8443,"uuid":"8339a5e8-6141-41f1-9abc-bbf1a06ac5ae","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"medrd.vtpmng.top","ws-opts":{"path":"/","headers":{"Host":"medrd.vtpmng.top"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [14]","type":"vless","server":"gur.gov.ua","port":443,"uuid":"90cd4a77-141a-43c9-991b-08263cfe9c10","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"azadnet3-9do.pages.dev","ws-opts":{"path":"/?ed","headers":{"Host":"gur.gov.ua"}}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]","type":"vless","server":"de.bargainoxy.com","port":47193,"uuid":"80fdfa12-adc7-4a76-a79c-e979b652d59c","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"www.pcmag.com","reality-opts":{"public-key":"Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4","short-id":"f414e49bc35be542"}}
   - {"name":"❔ XX | 🔓 VLESS | @vpnstable [1]","type":"vless","server":"elegant-corporation.seotoolsforyou.co.uk","port":80,"uuid":"d03d8815-a06f-408f-a62f-6c84869b96a9","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"elegant-corporation.seotoolsforyou.co.uk"}}}
   - {"name":"🇮🇷 IR | 🔒 VLESS | @vpnstable [3]","type":"vless","server":"servers.xvon.in","port":80,"uuid":"abc1c735-8f96-4bf3-a796-43deddda76d3","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"servers.xvon.in","ws-opts":{"path":"/","headers":{"Host":"servers.xvon.in"}}}
   - {"name":"🚩 CF | 🔒 VLESS | @vpnstable [4]","type":"vless","server":"ipe3.alighan.ir","port":8443,"uuid":"e3b665fd-0329-47dc-bc05-3474b14bcaf6","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ipe4.alighan.ir","ws-opts":{"path":"/?ed=2048","headers":{"Host":"s.alighan.ir"}}}
@@ -231,7 +234,10 @@ proxy-groups:
       - '❔ XX | 🔒 VLESS | @vpn_accounti [11]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [12]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [13]'
-      - '🚩 CF | 🔒 VLESS | @vpnplusee_free [9]'
+      - '🚩 CF | 🔒 VLESS | @vpnplusee_free [2]'
+      - '🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [12]'
+      - '🚩 CF | 🔒 VLESS | @vpnplusee_free [14]'
+      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]'
       - '❔ XX | 🔓 VLESS | @vpnstable [1]'
       - '🇮🇷 IR | 🔒 VLESS | @vpnstable [3]'
       - '🚩 CF | 🔒 VLESS | @vpnstable [4]'

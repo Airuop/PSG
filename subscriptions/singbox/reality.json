@@ -102,10 +102,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -117,6 +117,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -138,10 +139,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -153,6 +154,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -470,7 +472,7 @@
             }
         },
         {
-            "tag": "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇪🇪 EE | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "185.215.186.109",
             "server_port": 443,
@@ -493,7 +495,7 @@
             }
         },
         {
-            "tag": "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "45.15.170.183",
             "server_port": 443,
@@ -516,7 +518,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [14]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "62.60.233.30",
             "server_port": 443,
@@ -539,7 +541,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "162.19.175.55",
             "server_port": 9954,
@@ -811,6 +813,29 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "de.bargainoxy.com",
+            "server_port": 47193,
+            "uuid": "80fdfa12-adc7-4a76-a79c-e979b652d59c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.pcmag.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4",
+                    "short_id": "f414e49bc35be542"
                 }
             }
         },

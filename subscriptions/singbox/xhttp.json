@@ -100,7 +100,8 @@
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -119,7 +120,8 @@
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -301,6 +303,15 @@
             "server": "185.18.250.67",
             "server_port": 8080,
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "46.8.229.85",
+            "server_port": 24608,
+            "uuid": "1186c6aa-a26a-4e3c-b139-62ffc6bdf976",
             "flow": "",
             "packet_encoding": "xudp"
         }

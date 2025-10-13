@@ -186,7 +186,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [12]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔓 VLESS | @vpnstable [1]",
                 "🇮🇷 IR | 🔒 VLESS | @vpnstable [3]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [4]",
@@ -314,7 +317,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [12]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔓 VLESS | @vpnstable [1]",
                 "🇮🇷 IR | 🔒 VLESS | @vpnstable [3]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [4]",
@@ -2389,7 +2395,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "017.electrocellco-cf-017.workers.dev",
             "server_port": 443,
@@ -2410,6 +2416,79 @@
                 "path": "/eyJqdW5rIjoibnhUbllUVXY1OWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
                 "headers": {
                     "Host": "017.EleCTRoCelLCo-CF-017.Workers.dEv"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "medrd.vtpmng.top",
+            "server_port": 8443,
+            "uuid": "8339a5e8-6141-41f1-9abc-bbf1a06ac5ae",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "medrd.vtpmng.top",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "medrd.vtpmng.top"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "gur.gov.ua",
+            "server_port": 443,
+            "uuid": "90cd4a77-141a-43c9-991b-08263cfe9c10",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "azadnet3-9do.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/?ed",
+                "headers": {
+                    "Host": "azadnet3-9do.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "de.bargainoxy.com",
+            "server_port": 47193,
+            "uuid": "80fdfa12-adc7-4a76-a79c-e979b652d59c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.pcmag.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4",
+                    "short_id": "f414e49bc35be542"
                 }
             }
         },
