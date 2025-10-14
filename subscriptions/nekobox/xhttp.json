@@ -89,7 +89,7 @@
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [13]"
+                "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,7 +109,7 @@
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [13]"
+                "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -299,7 +299,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [13]",
+            "tag": "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "46.8.229.85",
             "server_port": 24608,
