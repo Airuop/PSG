@@ -151,8 +151,8 @@
                 "🚩 CF | 🔓 VLESS | @spikevpn [20]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [21]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [22]",
-                "🚩 CF | 🔓 VLESS | @spikevpn [23]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [24]",
+                "🚩 CF | 🔓 VLESS | @spikevpn [25]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [26]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [27]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [5]",
@@ -280,8 +280,8 @@
                 "🚩 CF | 🔓 VLESS | @spikevpn [20]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [21]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [22]",
-                "🚩 CF | 🔓 VLESS | @spikevpn [23]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [24]",
+                "🚩 CF | 🔓 VLESS | @spikevpn [25]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [26]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [27]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [5]",
@@ -1400,7 +1400,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
-            "uuid": "3c76dbc5-74a7-4520-877a-de6c68a347bb",
+            "uuid": "ab29ff75-90e0-41f6-c4be-96abc86becdd",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -1416,37 +1416,12 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
-            "uuid": "15699a7d-c6e2-447d-dbfb-17362a293460",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [14]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2082,
-            "uuid": "ab29ff75-90e0-41f6-c4be-96abc86becdd",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [15]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2086,
             "uuid": "038e7051-ad7f-47b4-d984-b6e79041821e",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [16]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [14]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1462,7 +1437,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [17]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [15]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1471,7 +1446,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [18]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [16]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1487,7 +1462,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [19]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [17]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1496,7 +1471,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [20]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [18]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1512,7 +1487,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [21]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [19]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1521,7 +1496,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [22]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [20]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1537,7 +1512,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [23]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [21]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1546,7 +1521,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [24]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [22]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1562,7 +1537,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [26]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [24]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1571,11 +1546,36 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [27]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [25]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
             "uuid": "711584ae-78ac-4ee4-83bf-b1300b89a9f2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [26]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2086,
+            "uuid": "7ab51ad4-ebf4-4c66-d521-33bb3c710155",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [27]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2082,
+            "uuid": "c8b82e53-d272-4b8e-8da8-e1c27aed9b34",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {

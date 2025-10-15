@@ -472,15 +472,6 @@
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [2]",
             "type": "vless",
-            "server": "91.98.165.163",
-            "server_port": 42671,
-            "uuid": "475d3c2d-6918-4200-b116-ad60be46bbc0",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [3]",
-            "type": "vless",
             "server": "157.90.247.32",
             "server_port": 42671,
             "uuid": "4852b1e8-3eec-464c-84f0-05f7fdce85d7",
@@ -488,7 +479,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [4]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [3]",
             "type": "vless",
             "server": "157.90.247.32",
             "server_port": 30052,
@@ -497,7 +488,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [5]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [4]",
             "type": "vless",
             "server": "157.90.247.32",
             "server_port": 30052,
@@ -506,7 +497,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [6]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [5]",
             "type": "vless",
             "server": "157.90.247.32",
             "server_port": 30052,
@@ -515,7 +506,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [7]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [6]",
             "type": "vless",
             "server": "157.90.247.32",
             "server_port": 30052,
@@ -524,7 +515,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [8]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [7]",
             "type": "vless",
             "server": "157.90.247.32",
             "server_port": 30052,
@@ -533,7 +524,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [9]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [8]",
             "type": "vless",
             "server": "157.90.247.32",
             "server_port": 30052,
@@ -542,7 +533,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [10]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [9]",
             "type": "vless",
             "server": "157.90.247.32",
             "server_port": 30052,
@@ -551,7 +542,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [11]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [10]",
             "type": "vless",
             "server": "49.13.62.117",
             "server_port": 30052,
@@ -560,7 +551,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [12]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [11]",
             "type": "vless",
             "server": "49.13.62.117",
             "server_port": 30052,
@@ -569,7 +560,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [13]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [12]",
             "type": "vless",
             "server": "91.98.175.72",
             "server_port": 30052,
@@ -578,7 +569,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [14]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [13]",
             "type": "vless",
             "server": "91.98.175.72",
             "server_port": 30052,
@@ -587,7 +578,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [15]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [14]",
             "type": "vless",
             "server": "91.98.175.72",
             "server_port": 30052,
@@ -596,11 +587,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [16]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [15]",
             "type": "vless",
             "server": "91.98.175.72",
             "server_port": 30052,
             "uuid": "b298aa50-90fc-4fe0-83d4-8bfa24fb064b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @angus_vpn [16]",
+            "type": "vless",
+            "server": "91.99.179.41",
+            "server_port": 30052,
+            "uuid": "59b3abd5-64b1-4e55-9b3d-0b11af126141",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -959,22 +959,6 @@
             "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [1]",
             "type": "vless",
             "server": "172.66.156.81",
-            "server_port": 80,
-            "uuid": "358aa1d3-501e-4e2e-ada0-d844fcca1260",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
-                "headers": {
-                    "Host": "172.66.156.81"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [2]",
-            "type": "vless",
-            "server": "172.66.156.81",
             "server_port": 8880,
             "uuid": "f5fd027b-fd87-443c-b958-6f718958c6a5",
             "flow": "",
@@ -988,7 +972,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [3]",
+            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [2]",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -1004,7 +988,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [4]",
+            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [3]",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -1020,7 +1004,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [5]",
+            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [4]",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -1036,7 +1020,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [5]",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -1052,7 +1036,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [7]",
+            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [6]",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -1068,11 +1052,27 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [8]",
+            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [7]",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
             "uuid": "19d48307-69b8-4eee-a611-a87b680ab670",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "172.66.156.81"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [8]",
+            "type": "vless",
+            "server": "172.66.156.81",
+            "server_port": 80,
+            "uuid": "4cd1fcf0-ab22-4f0d-ba12-09c78fcd0569",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
