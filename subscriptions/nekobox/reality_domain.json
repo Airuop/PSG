@@ -91,7 +91,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -114,7 +114,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -459,26 +459,30 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
+            "tag": "🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
-            "server": "de.bargainoxy.com",
-            "server_port": 47193,
-            "uuid": "80fdfa12-adc7-4a76-a79c-e979b652d59c",
+            "server": "sv5.maxhostco2.top",
+            "server_port": 59443,
+            "uuid": "04ba58f8-5c8b-4a41-a88d-560abf36f064",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.pcmag.com",
+                "server_name": "www.speedtest.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4",
-                    "short_id": "f414e49bc35be542"
+                    "public_key": "eNl9igWK4DQud2xfrMVpJy6VHI8JzvTN6dwckwko-HM",
+                    "short_id": "502a76d3e038"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "9513vless"
             }
         },
         {
