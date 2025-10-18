@@ -102,8 +102,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]"
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -124,8 +126,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]"
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -442,34 +446,7 @@
             }
         },
         {
-            "tag": "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "23.166.88.109",
-            "server_port": 443,
-            "uuid": "535915c5-b455-4ac1-a186-78353570a251",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY",
-                    "short_id": "be8a0c77d5ff88d5"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "aec69a9d2944dd7468412f47"
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "5.181.171.2",
             "server_port": 443,
@@ -488,6 +465,75 @@
                     "enabled": true,
                     "public_key": "YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "45.252.182.100",
+            "server_port": 8880,
+            "uuid": "4c8562e6-c566-4a22-81c5-2fd97d3ce468",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "snappfood.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kK5ZAWY5fX_nKRrVYVcEnEO0yMUfv8sxvqqW2qGOITc",
+                    "short_id": "8a7228c6d7963898"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+            "type": "vless",
+            "server": "91.98.40.123",
+            "server_port": 443,
+            "uuid": "0c0b6d4a-0811-460f-d4b0-dd982a911240",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "5.75.206.114",
+            "server_port": 443,
+            "uuid": "d725c933-1043-4924-8451-78c35bd5177a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "O1mmPNBiL4Kmx-lEReau8WJUrjgZE5ew2lnC4T4mGg8",
+                    "short_id": "af7022c5"
                 }
             }
         }
