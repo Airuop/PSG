@@ -85,6 +85,7 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -102,6 +103,7 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [5]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -253,6 +255,15 @@
             "server": "fast.peace.lemoex.blog",
             "server_port": 80,
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2082,
+            "uuid": "8186e182-d93f-4571-e634-60140ef60b8e",
             "flow": "",
             "packet_encoding": "xudp"
         },
