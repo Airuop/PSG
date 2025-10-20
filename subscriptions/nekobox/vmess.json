@@ -98,6 +98,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [19]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
+                "🇫🇷 FR | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [11]",
@@ -156,6 +157,7 @@
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
                 "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [19]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
+                "🇫🇷 FR | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [11]",
@@ -543,6 +545,31 @@
             "uuid": "d66a47f2-5136-492c-c82a-74835bb03a76",
             "security": "auto",
             "alter_id": 0
+        },
+        {
+            "tag": "🇫🇷 FR | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
+            "type": "vmess",
+            "server": "putihb.org",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "putihb.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/linkvws",
+                "headers": {
+                    "Host": "putihb.org"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔒 VMESS | @minovpnch [8]",
