@@ -125,7 +125,8 @@
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [6]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [7]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [8]",
-                "🚩 CF | 🔓 VLESS | @irv2rey [8]",
+                "🚩 CF | 🔓 VLESS | @gh_v2rayng [9]",
+                "🚩 CF | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @jiedianf [2]",
                 "🚩 CF | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
                 "🇭🇰 HK | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
@@ -134,8 +135,7 @@
                 "🚩 CF | 🔓 VLESS | @megavpn_link [4]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
-                "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
+                "🇨🇦 CA | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
                 "🇫🇷 FR | 🔒 VLESS | @minovpnch [5]",
@@ -233,7 +233,8 @@
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [6]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [7]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [8]",
-                "🚩 CF | 🔓 VLESS | @irv2rey [8]",
+                "🚩 CF | 🔓 VLESS | @gh_v2rayng [9]",
+                "🚩 CF | 🔓 VLESS | @irv2rey [7]",
                 "🇺🇸 US | 🔓 VLESS | @jiedianf [2]",
                 "🚩 CF | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
                 "🇭🇰 HK | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
@@ -242,8 +243,7 @@
                 "🚩 CF | 🔓 VLESS | @megavpn_link [4]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
-                "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
+                "🇨🇦 CA | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
                 "🇫🇷 FR | 🔒 VLESS | @minovpnch [5]",
@@ -1072,7 +1072,23 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @irv2rey [8]",
+            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [9]",
+            "type": "vless",
+            "server": "172.66.156.81",
+            "server_port": 80,
+            "uuid": "40bc1b98-ff86-4c67-afc2-c9abc40d1e10",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "172.66.156.81"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @irv2rey [7]",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -1220,23 +1236,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
-            "type": "vless",
-            "server": "172.67.146.171",
-            "server_port": 2095,
-            "uuid": "f67a6f87-5817-4033-cbae-b7dca5e0e4c1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048",
-                "headers": {
-                    "Host": "172.67.146.171"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
+            "tag": "🇨🇦 CA | 🔒 VLESS | @minovpnch [2]",
             "type": "vless",
             "server": "151.101.129.203",
             "server_port": 443,
