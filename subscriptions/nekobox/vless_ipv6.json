@@ -80,7 +80,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @binner_iran [32]"
+                "❔ XX | 🔓 VLESS | @binner_iran [32]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -91,7 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @binner_iran [32]"
+                "❔ XX | 🔓 VLESS | @binner_iran [32]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -189,6 +191,29 @@
             "uuid": "Parsashonam-298",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "2604:2dc0:105:4f00::fbeb:6038",
+            "server_port": 443,
+            "uuid": "f031aaf9-2fa4-4e47-b6b6-b31515778a94",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk",
+                    "short_id": "98990f747a"
+                }
+            }
         }
     ],
     "route": {

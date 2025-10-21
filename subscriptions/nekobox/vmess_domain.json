@@ -83,22 +83,8 @@
                 "🇨🇦 CA | 🔓 VMESS | @NamiraConfigs [69]",
                 "🇷🇺 RU | 🔓 VMESS | @NamiraConfigs [70]",
                 "🇩🇪 DE | 🔓 VMESS | @filtershekan_channel [2]",
-                "❔ XX | 🔓 VMESS | @ipv2rayng [4]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [5]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [6]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [7]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [8]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [9]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [10]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [11]",
-                "🚩 CF | 🔒 VMESS | @ipv2rayng [12]",
-                "🇨🇳 CN | 🔓 VMESS | @ipv2rayng [14]",
-                "🇺🇸 US | 🔓 VMESS | @ipv2rayng [15]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [19]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
-                "🇬🇧 GB | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
+                "🇩🇪 DE | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [11]",
@@ -142,22 +128,8 @@
                 "🇨🇦 CA | 🔓 VMESS | @NamiraConfigs [69]",
                 "🇷🇺 RU | 🔓 VMESS | @NamiraConfigs [70]",
                 "🇩🇪 DE | 🔓 VMESS | @filtershekan_channel [2]",
-                "❔ XX | 🔓 VMESS | @ipv2rayng [4]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [5]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [6]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [7]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [8]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [9]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [10]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [11]",
-                "🚩 CF | 🔒 VMESS | @ipv2rayng [12]",
-                "🇨🇳 CN | 🔓 VMESS | @ipv2rayng [14]",
-                "🇺🇸 US | 🔓 VMESS | @ipv2rayng [15]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
-                "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [19]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
-                "🇬🇧 GB | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
+                "🇩🇪 DE | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [11]",
@@ -312,232 +284,6 @@
             "alter_id": 0
         },
         {
-            "tag": "❔ XX | 🔓 VMESS | @ipv2rayng [4]",
-            "type": "vmess",
-            "server": "s5.956256.xyz",
-            "server_port": 30006,
-            "uuid": "bfc552e8-2607-4386-9c90-81437ac5ba23",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/nishidashabi",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [5]",
-            "type": "vmess",
-            "server": "35.74.213.5",
-            "server_port": 80,
-            "uuid": "05094087-e1b9-408c-8757-90cc58ac0b62",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [6]",
-            "type": "vmess",
-            "server": "52.68.162.243",
-            "server_port": 80,
-            "uuid": "05094087-e1b9-408c-8757-90cc58ac0b62",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [7]",
-            "type": "vmess",
-            "server": "35.72.155.240",
-            "server_port": 80,
-            "uuid": "05094087-e1b9-408c-8757-90cc58ac0b62",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [8]",
-            "type": "vmess",
-            "server": "47.245.6.188",
-            "server_port": 12366,
-            "uuid": "bbf99547-6ba6-42b7-ae49-70fcc818f1fe",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [9]",
-            "type": "vmess",
-            "server": "132.226.10.228",
-            "server_port": 46210,
-            "uuid": "46b17330-a14d-45d4-9fae-7e29408aef8e",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [10]",
-            "type": "vmess",
-            "server": "132.226.10.228",
-            "server_port": 46211,
-            "uuid": "c15d01a9-9662-4f27-b3aa-753fc5f32171",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [11]",
-            "type": "vmess",
-            "server": "132.226.10.228",
-            "server_port": 46211,
-            "uuid": "55ecb50c-e13e-40a9-ae4f-3f2763e4e8f6",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VMESS | @ipv2rayng [12]",
-            "type": "vmess",
-            "server": "b62a948c-faa2-4e8a-bf8a-3ff3121c875a.asoul-ava.top",
-            "server_port": 443,
-            "uuid": "5f726fe3-d82e-4da5-a711-8af0cbb2b682",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/azumase.ren",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇨🇳 CN | 🔓 VMESS | @ipv2rayng [14]",
-            "type": "vmess",
-            "server": "yyxxcfsdfk.hjdfghfc.asia",
-            "server_port": 53122,
-            "uuid": "77fa15b7-ae89-435e-8c3c-de3acbf889f5",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/market?ed=512",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VMESS | @ipv2rayng [15]",
-            "type": "vmess",
-            "server": "141.193.213.223",
-            "server_port": 2086,
-            "uuid": "dab5bf7d-9320-4527-8bc8-dbfbdc55b6dd",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/5atdxvyfjn60ggx/jp1",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [16]",
-            "type": "vmess",
-            "server": "172.111.146.64",
-            "server_port": 80,
-            "uuid": "05b8c783-7f59-47f9-9923-06a465679f6a",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/vmess/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [17]",
-            "type": "vmess",
-            "server": "47.79.41.14",
-            "server_port": 15924,
-            "uuid": "f50628ed-e568-4cde-eda8-3dce15edc1c1",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/f50628ed",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵 JP | 🔓 VMESS | @ipv2rayng [19]",
-            "type": "vmess",
-            "server": "223.135.156.179",
-            "server_port": 20521,
-            "uuid": "c1bf2f6d-a111-4b0f-bde8-ece652fdee86",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔓 VMESS | @jiedianf [1]",
             "type": "vmess",
             "server": "jp.mousse.tk",
@@ -547,7 +293,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
+            "tag": "🇩🇪 DE | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
             "type": "vmess",
             "server": "putihb.org",
             "server_port": 443,
