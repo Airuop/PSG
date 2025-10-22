@@ -23,7 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]","type":"vless","server":"2604:2dc0:105:4f00::fbeb:6038","port":443,"uuid":"f031aaf9-2fa4-4e47-b6b6-b31515778a94","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"www.tgju.org","reality-opts":{"public-key":"MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk","short-id":"98990f747a"}}
+  - {"name":"🇺🇸 US | 🔒 VLESS | @vpnplusee_free [10]","type":"vless","server":"2604:2dc0:105:4f00::fbeb:6038","port":443,"uuid":"f031aaf9-2fa4-4e47-b6b6-b31515778a94","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"www.tgju.org","reality-opts":{"public-key":"MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk","short-id":"98990f747a"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -37,7 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]'
+      - '🇺🇸 US | 🔒 VLESS | @vpnplusee_free [10]'
 
   - name: 🌍 Global Media
     type: select
