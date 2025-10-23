@@ -90,8 +90,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]"
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -112,8 +111,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]"
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -434,30 +432,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [1]",
-            "type": "vless",
-            "server": "212.134.84.112",
-            "server_port": 443,
-            "uuid": "6fbb83fa-2457-4ea8-8302-b2d603f66682",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cdn77.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "D-c_-GNBPK7GOl4mR8I6ODJ_Po3fog8AMkiWO7IJFRA",
-                    "short_id": "da7c33beb3c1b0"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "5.75.200.229",
             "server_port": 2819,
