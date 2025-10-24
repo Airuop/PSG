@@ -101,8 +101,7 @@
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]"
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -122,8 +121,7 @@
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]"
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -436,29 +434,6 @@
                     "enabled": true,
                     "public_key": "JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc",
                     "short_id": "8b62ab46"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
-            "type": "vless",
-            "server": "5.75.200.229",
-            "server_port": 2819,
-            "uuid": "6370988e-c35a-4aa8-91ef-a844ad6807b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Bww66JbVQTVqtOQANUB83ahLBd-x_Z1oGfaukps0ylU",
-                    "short_id": "be61b9c3e7482053"
                 }
             }
         }

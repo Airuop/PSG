@@ -102,7 +102,6 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -114,6 +113,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -135,7 +135,6 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [3]",
@@ -147,6 +146,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -464,29 +464,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
-            "type": "vless",
-            "server": "5.75.200.229",
-            "server_port": 2819,
-            "uuid": "6370988e-c35a-4aa8-91ef-a844ad6807b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Bww66JbVQTVqtOQANUB83ahLBd-x_Z1oGfaukps0ylU",
-                    "short_id": "be61b9c3e7482053"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
             "type": "vless",
             "server": "all32-vip.f-sub.com",
@@ -736,6 +713,29 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "gr.sashabike.ir",
+            "server_port": 9621,
+            "uuid": "6b9a8841-e642-4dae-b3e3-3672347b8969",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Mr-d7Pdst86TkzJuykSXyFdSm2C_iwnX4jqSKx-LYnU",
+                    "short_id": "30321b0b9f29c0c1"
                 }
             }
         },
