@@ -84,7 +84,8 @@
                 "🇷🇺 RU | 🔓 VMESS | @NamiraConfigs [70]",
                 "🇩🇪 DE | 🔓 VMESS | @filtershekan_channel [2]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
-                "🇫🇷 FR | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
+                "🇨🇦 CA | 🔒 VMESS | @kurdistan_vpn_perfectt [6]",
+                "🇩🇪 DE | 🔓 VMESS | @kurdistan_vpn_perfectt [7]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [11]",
@@ -129,7 +130,8 @@
                 "🇷🇺 RU | 🔓 VMESS | @NamiraConfigs [70]",
                 "🇩🇪 DE | 🔓 VMESS | @filtershekan_channel [2]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
-                "🇫🇷 FR | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
+                "🇨🇦 CA | 🔒 VMESS | @kurdistan_vpn_perfectt [6]",
+                "🇩🇪 DE | 🔓 VMESS | @kurdistan_vpn_perfectt [7]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [11]",
@@ -293,7 +295,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VMESS | @kurdistan_vpn_perfectt [10]",
+            "tag": "🇨🇦 CA | 🔒 VMESS | @kurdistan_vpn_perfectt [6]",
             "type": "vmess",
             "server": "putihb.org",
             "server_port": 443,
@@ -314,6 +316,31 @@
                 "path": "/linkvws",
                 "headers": {
                     "Host": "putihb.org"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VMESS | @kurdistan_vpn_perfectt [7]",
+            "type": "vmess",
+            "server": "116.203.89.88",
+            "server_port": 443,
+            "uuid": "6f41bfca-38b6-4a90-8309-75c3587b7056",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/linkws",
+                "headers": {
+                    "Host": ""
                 }
             }
         },
