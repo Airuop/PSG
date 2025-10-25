@@ -97,22 +97,22 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [1]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
+                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [6]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [11]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [18]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -128,22 +128,22 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [1]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
+                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [6]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [11]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [18]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -293,7 +293,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [1]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -302,16 +302,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2082,
-            "uuid": "ade4cf6e-4d3a-4ed4-b1d9-522510b8b860",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
@@ -320,7 +311,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -329,7 +320,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "gr.sashabike.ir",
             "server_port": 9621,
@@ -370,11 +361,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
             "type": "vless",
             "server": "188.114.97.3",
             "server_port": 2082,
             "uuid": "cc828c07-1267-4839-cbf3-3eddf31dcd16",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @mehrosaboran [6]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "8023eed4-869c-4db1-a743-6c4e96deaf3c",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -397,7 +397,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -406,7 +406,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -415,7 +415,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "151.101.70.85",
             "server_port": 80,
@@ -424,7 +424,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [11]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "151.101.70.85",
             "server_port": 80,
@@ -433,7 +433,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -442,7 +442,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [18]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
