@@ -97,7 +97,9 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
@@ -117,7 +119,9 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
@@ -271,11 +275,29 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
             "uuid": "59019308-2af1-475f-e12e-9d11e6040e3d",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2082,
+            "uuid": "ade4cf6e-4d3a-4ed4-b1d9-522510b8b860",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
+            "type": "vless",
+            "server": "am288.amin-1.ir",
+            "server_port": 2082,
+            "uuid": "cc828c07-1267-4839-cbf3-3eddf31dcd16",
             "flow": "",
             "packet_encoding": "xudp"
         },
