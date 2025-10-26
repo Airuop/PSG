@@ -85,10 +85,8 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -106,10 +104,8 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "🇺🇸 US | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -265,16 +261,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [1]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2082,
-            "uuid": "59019308-2af1-475f-e12e-9d11e6040e3d",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
@@ -283,16 +270,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "gr.sashabike.ir",
             "server_port": 9621,
