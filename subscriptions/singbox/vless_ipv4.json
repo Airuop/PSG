@@ -147,8 +147,8 @@
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [5]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [6]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [11]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -187,6 +187,7 @@
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇬🇧 GB | 🔓 VLESS | @vpnplusee_free [11]",
+                "🇭🇰 HK | 🔒 VLESS | @vpnplusee_free [15]",
                 "🇦🇲 AM | 🔓 VLESS | @vpnstable [12]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [13]",
                 "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
@@ -255,8 +256,8 @@
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [5]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [6]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [11]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -295,6 +296,7 @@
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [7]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇬🇧 GB | 🔓 VLESS | @vpnplusee_free [11]",
+                "🇭🇰 HK | 🔒 VLESS | @vpnplusee_free [15]",
                 "🇦🇲 AM | 🔓 VLESS | @vpnstable [12]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [13]",
                 "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
@@ -1214,15 +1216,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
-            "type": "vless",
-            "server": "188.114.97.3",
-            "server_port": 2082,
-            "uuid": "7cecc3b7-7707-4b9a-d3ea-925786cc3e1f",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
             "type": "vless",
             "server": "104.21.65.149",
@@ -1237,6 +1230,15 @@
                     "Host": "104.21.65.149"
                 }
             }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [11]",
+            "type": "vless",
+            "server": "188.114.97.3",
+            "server_port": 2082,
+            "uuid": "7cecc3b7-7707-4b9a-d3ea-925786cc3e1f",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
@@ -1964,6 +1966,31 @@
             "uuid": "f90892dd-4ae2-403c-a159-6b42583537cf",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇭🇰 HK | 🔒 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "45.192.224.253",
+            "server_port": 2096,
+            "uuid": "7556317c-dff6-46e8-ad29-b408f2a6456e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "vless.muzheng.top",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Telegram🇨🇳@WangCai2/?ed=2560",
+                "headers": {
+                    "Host": "vless.muzheng.top"
+                }
+            }
         },
         {
             "tag": "🇦🇲 AM | 🔓 VLESS | @vpnstable [12]",
