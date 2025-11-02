@@ -93,15 +93,12 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [2]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [4]",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [7]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
+                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [3]",
+                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [6]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [9]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,15 +110,12 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [2]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [4]",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [7]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
+                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [3]",
+                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [6]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [9]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -212,21 +206,12 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "bc0b8b77-f526-440a-a4eb-7a4f71ca5112",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mehrosaboran [2]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
             "uuid": "68ed325f-a3a0-49ae-a0a2-4837a01d5ad4",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
             "type": "vless",
             "server": "188.114.97.3",
             "server_port": 2082,
@@ -235,7 +220,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mehrosaboran [4]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @mehrosaboran [3]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -244,7 +229,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mehrosaboran [7]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @mehrosaboran [6]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -276,24 +261,6 @@
             "server": "185.18.250.67",
             "server_port": 8080,
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "151.101.70.85",
-            "server_port": 80,
-            "uuid": "54efee93-c1a2-49f6-b133-a374f8830d3f",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "f592f689-eb52-4472-8229-b74070edc76b",
             "flow": "",
             "packet_encoding": "xudp"
         }
