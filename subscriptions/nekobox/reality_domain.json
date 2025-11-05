@@ -91,10 +91,11 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [2]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [11]",
                 "🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -117,10 +118,11 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [2]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [11]",
                 "🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -465,7 +467,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [5]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "usa32.clearorbitllc.com",
             "server_port": 443,
@@ -553,6 +555,29 @@
                     "enabled": true,
                     "public_key": "x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ",
                     "short_id": "157c0871"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "sv2.utsteam2.top",
+            "server_port": 40002,
+            "uuid": "9f683890-d3d2-4b3e-a0f4-2a40e9b1dbdb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cafebazaar.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "0pgQetxCBR2ueOXv3LEh25yHGYDda6dBGvShz8JTknk",
+                    "short_id": "4fe6a82ff811fa13"
                 }
             }
         },
