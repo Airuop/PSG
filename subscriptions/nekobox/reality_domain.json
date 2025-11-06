@@ -91,11 +91,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -118,11 +117,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -467,30 +465,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [2]",
-            "type": "vless",
-            "server": "usa32.clearorbitllc.com",
-            "server_port": 443,
-            "uuid": "9daf8f3e-089b-4989-9502-dd3d727edb6c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "usa32.clearorbitllc.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns",
-                    "short_id": "c7f3cc"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "germany85.clearorbitllc.com",
             "server_port": 443,
@@ -513,7 +488,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "usa32.clearorbitllc.com",
             "server_port": 443,
@@ -536,7 +511,7 @@
             }
         },
         {
-            "tag": "🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "india2.clearorbitllc.com",
             "server_port": 443,
@@ -559,7 +534,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "sv2.utsteam2.top",
             "server_port": 40002,
