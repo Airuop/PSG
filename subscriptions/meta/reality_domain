@@ -32,10 +32,9 @@ proxies:
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [11]","type":"vless","server":"PARMIS.SIGMA-HOSTER.COM","port":443,"uuid":"19ce2438-558d-4d24-ad7c-33d8c73f8d20","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"frcaa.crocodileserver.ir","reality-opts":{"public-key":"bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8","short-id":"1da8d08f24e92861"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [12]","type":"vless","server":"ARM.SIGMA-HOSTER.COM","port":443,"uuid":"fb707a09-7dd8-417f-9d9a-2e61d56995cb","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [13]","type":"vless","server":"ARM.CROCODILESERVER.IR","port":443,"uuid":"32932937-b85f-40be-ae02-997ea5b0b62a","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]","type":"vless","server":"germany85.clearorbitllc.com","port":443,"uuid":"72fa752b-7731-4390-98cb-62b57344e847","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"germany85.clearorbitllc.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"n5F7RiT4wzYN_JM-Lxwff24YVZy3HHFsVoXtJmRT2BY","short-id":"80dc32ed"}}
-  - {"name":"🇺🇸 US | 🔒 VLESS | @vpnplusee_free [3]","type":"vless","server":"usa32.clearorbitllc.com","port":443,"uuid":"9daf8f3e-089b-4989-9502-dd3d727edb6c","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"usa32.clearorbitllc.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns","short-id":"c7f3cc"}}
-  - {"name":"🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [4]","type":"vless","server":"india2.clearorbitllc.com","port":443,"uuid":"b41b3c10-91f1-42ed-b597-2ebdaddb9a96","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"india2.clearorbitllc.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ","short-id":"157c0871"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]","type":"vless","server":"sv2.utsteam2.top","port":40002,"uuid":"9f683890-d3d2-4b3e-a0f4-2a40e9b1dbdb","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"cafebazaar.ir","reality-opts":{"public-key":"0pgQetxCBR2ueOXv3LEh25yHGYDda6dBGvShz8JTknk","short-id":"4fe6a82ff811fa13"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]","type":"vless","server":"doko.bollstook.ir","port":2555,"uuid":"905f6321-802e-47dc-adec-05d15fe75054","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"refersion.com","reality-opts":{"public-key":"L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U","short-id":"b6c24852f86067a6"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]","type":"vless","server":"7ygb3r6bw.royalcontl5h1i.lat","port":2052,"uuid":"2f60be6f-be0c-48b4-9772-b56f42b51ba1","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"web.eitaa.com","reality-opts":{"public-key":"TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA","short-id":"c745dcb0"}}
+  - {"name":"🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [11]","type":"vless","server":"aws-linksg64.eovay.com","port":31064,"uuid":"6c0472bc-82df-449e-90bd-2f91c6a46402","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.lamer.com.sg","flow":"xtls-rprx-vision","reality-opts":{"public-key":"zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM","short-id":"d3875950"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -58,10 +57,9 @@ proxy-groups:
       - '❔ XX | 🔒 VLESS | @vpn_accounti [11]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [12]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [13]'
-      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]'
-      - '🇺🇸 US | 🔒 VLESS | @vpnplusee_free [3]'
-      - '🇮🇳 IN | 🔒 VLESS | @vpnplusee_free [4]'
-      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]'
+      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]'
+      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]'
+      - '🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [11]'
 
   - name: 🌍 Global Media
     type: select

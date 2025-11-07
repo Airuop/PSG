@@ -85,10 +85,8 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [11]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [12]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -106,10 +104,8 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [11]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [12]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -265,7 +261,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
@@ -274,39 +270,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [11]",
-            "type": "vless",
-            "server": "am288.amin-1.ir",
-            "server_port": 2082,
-            "uuid": "ceec287b-5bd4-4225-b511-9f2b256208e4",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "sv2.utsteam2.top",
-            "server_port": 40002,
-            "uuid": "9f683890-d3d2-4b3e-a0f4-2a40e9b1dbdb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cafebazaar.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "0pgQetxCBR2ueOXv3LEh25yHGYDda6dBGvShz8JTknk",
-                    "short_id": "4fe6a82ff811fa13"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [12]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
