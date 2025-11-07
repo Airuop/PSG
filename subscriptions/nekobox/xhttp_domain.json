@@ -85,8 +85,9 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [9]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -104,8 +105,9 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [9]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -261,7 +263,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
@@ -270,11 +272,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [10]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
             "uuid": "ceec287b-5bd4-4225-b511-9f2b256208e4",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [9]",
+            "type": "vless",
+            "server": "am288.amin-1.ir",
+            "server_port": 2082,
+            "uuid": "a5b6be30-5ba9-49fc-ac09-95fce84da16a",
             "flow": "",
             "packet_encoding": "xudp"
         },

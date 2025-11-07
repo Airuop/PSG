@@ -94,7 +94,6 @@
                 "KingRezaPahlavi",
                 "🚩 CF | 🔒 TROJAN | @binner_iran [45]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "🇷🇺 RU | 🔒 TROJAN | @socks5tobefree [1]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
@@ -116,7 +115,6 @@
                 "KingRezaPahlavi",
                 "🚩 CF | 🔒 TROJAN | @binner_iran [45]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "🇷🇺 RU | 🔒 TROJAN | @socks5tobefree [1]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
@@ -252,29 +250,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "iraniV2ray"
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 TROJAN | @socks5tobefree [1]",
-            "type": "trojan",
-            "server": "get.fragmentary.info",
-            "server_port": 443,
-            "password": "xsN5qXcwQ2u61ZpcYQhyBujA3gWTrtNV",
-            "tls": {
-                "enabled": true,
-                "server_name": "get.fragmentary.info",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/socks5tobefree",
-                "headers": {
-                    "Host": "get.fragmentary.info"
-                }
             }
         },
         {
