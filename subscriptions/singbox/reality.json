@@ -103,6 +103,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [3]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -114,7 +115,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -137,6 +138,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [3]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -148,7 +150,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -489,6 +491,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+            "type": "vless",
+            "server": "de.nitroo-tech.ru",
+            "server_port": 443,
+            "uuid": "cd79807f-bcef-46b8-93b6-229676a0c1a0",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I",
+                    "short_id": "89dbda1a1c9369"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
             "type": "vless",
             "server": "all32-vip.f-sub.com",
@@ -742,7 +767,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "aws-linksg64.eovay.com",
             "server_port": 31064,
