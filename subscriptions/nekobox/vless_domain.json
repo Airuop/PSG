@@ -189,10 +189,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [6]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇮🇷 IR | 🔒 VLESS | @vpnstable [2]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [3]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
@@ -322,10 +318,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [6]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇮🇷 IR | 🔒 VLESS | @vpnstable [2]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [3]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
@@ -2425,72 +2417,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "aws-linksg64.eovay.com",
-            "server_port": 31064,
-            "uuid": "6c0472bc-82df-449e-90bd-2f91c6a46402",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.lamer.com.sg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM",
-                    "short_id": "d3875950"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "am288.amin-1.ir",
-            "server_port": 2082,
-            "uuid": "a5b6be30-5ba9-49fc-ac09-95fce84da16a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "test2.amin8263.ir",
-            "server_port": 2095,
-            "uuid": "fe1ba9b4-86c7-4706-add8-b50650a68494",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048",
-                "headers": {
-                    "Host": "test2.amin8263.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [13]",
-            "type": "vless",
-            "server": "usvless.yydzx.xyz",
-            "server_port": 17597,
-            "uuid": "4741863d-e3ac-4b9d-8185-466f437b3fa8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "usvless.yydzx.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },

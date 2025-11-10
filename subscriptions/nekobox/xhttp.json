@@ -87,15 +87,13 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [2]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,15 +111,13 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [7]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [2]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -293,15 +289,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "am288.amin-1.ir",
-            "server_port": 2082,
-            "uuid": "a5b6be30-5ba9-49fc-ac09-95fce84da16a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
@@ -361,15 +348,6 @@
             "server": "185.18.250.67",
             "server_port": 8080,
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "91701ab0-3346-494e-8908-56efb0d38b4b",
             "flow": "",
             "packet_encoding": "xudp"
         }

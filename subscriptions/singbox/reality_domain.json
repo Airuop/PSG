@@ -104,7 +104,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -128,7 +127,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -488,29 +486,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "aws-linksg64.eovay.com",
-            "server_port": 31064,
-            "uuid": "6c0472bc-82df-449e-90bd-2f91c6a46402",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.lamer.com.sg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM",
-                    "short_id": "d3875950"
                 }
             }
         },
