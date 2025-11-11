@@ -80,7 +80,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -103,7 +107,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -206,7 +214,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
             "type": "vless",
             "server": "de.nitroo-tech.ru",
             "server_port": 443,
@@ -225,6 +233,98 @@
                     "enabled": true,
                     "public_key": "y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I",
                     "short_id": "89dbda1a1c9369"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
+            "type": "vless",
+            "server": "zeusolympus.fonixapp.org",
+            "server_port": 20558,
+            "uuid": "ba03a8fc-ac5a-4f80-b480-0effdeb6af7c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "canva.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs",
+                    "short_id": "03e60665"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+            "type": "vless",
+            "server": "graygoat.fonixapp.org",
+            "server_port": 45846,
+            "uuid": "a7c7966a-82ea-45f8-bb32-5d80e6caf320",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg",
+                    "short_id": "ac"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
+            "type": "vless",
+            "server": "broodmother.fonixapp.org",
+            "server_port": 36827,
+            "uuid": "88c30a4c-bc85-42d5-a5ac-38252612fd0e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "lowes.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "n3DJmBTvXThSytT0NeVD64myEx7cniyCvI1T2yzZ8nc",
+                    "short_id": "95"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
+            "type": "vless",
+            "server": "facelessvoid.fonixapp.org",
+            "server_port": 36563,
+            "uuid": "c25a90ea-6a3b-4d87-95b3-8ca4232f2a6e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "expedia.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tPpkzwOVa4li8CurZc07pnxl8ytBUm9x4b9TBP99h00",
+                    "short_id": "c294d6ba98e6a7"
                 }
             }
         },

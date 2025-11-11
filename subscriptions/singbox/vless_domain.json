@@ -118,7 +118,11 @@
                 "❔ XX | 🔒 VLESS | @iraniv2ray [5]",
                 "❔ XX | 🔒 VLESS | @iraniv2ray [6]",
                 "❔ XX | 🔒 VLESS | @iraniv2ray [7]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [6]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
@@ -129,9 +133,8 @@
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [9]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [10]",
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [11]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [1]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
                 "🚩 CF | 🔒 VLESS | @mrclud [16]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -247,7 +250,11 @@
                 "❔ XX | 🔒 VLESS | @iraniv2ray [5]",
                 "❔ XX | 🔒 VLESS | @iraniv2ray [6]",
                 "❔ XX | 🔒 VLESS | @iraniv2ray [7]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [6]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
@@ -258,9 +265,8 @@
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [9]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [10]",
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [11]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [1]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
                 "🚩 CF | 🔒 VLESS | @mrclud [16]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -962,7 +968,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
             "type": "vless",
             "server": "de.nitroo-tech.ru",
             "server_port": 443,
@@ -981,6 +987,98 @@
                     "enabled": true,
                     "public_key": "y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I",
                     "short_id": "89dbda1a1c9369"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
+            "type": "vless",
+            "server": "zeusolympus.fonixapp.org",
+            "server_port": 20558,
+            "uuid": "ba03a8fc-ac5a-4f80-b480-0effdeb6af7c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "canva.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs",
+                    "short_id": "03e60665"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+            "type": "vless",
+            "server": "graygoat.fonixapp.org",
+            "server_port": 45846,
+            "uuid": "a7c7966a-82ea-45f8-bb32-5d80e6caf320",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg",
+                    "short_id": "ac"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
+            "type": "vless",
+            "server": "broodmother.fonixapp.org",
+            "server_port": 36827,
+            "uuid": "88c30a4c-bc85-42d5-a5ac-38252612fd0e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "lowes.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "n3DJmBTvXThSytT0NeVD64myEx7cniyCvI1T2yzZ8nc",
+                    "short_id": "95"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
+            "type": "vless",
+            "server": "facelessvoid.fonixapp.org",
+            "server_port": 36563,
+            "uuid": "c25a90ea-6a3b-4d87-95b3-8ca4232f2a6e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "expedia.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tPpkzwOVa4li8CurZc07pnxl8ytBUm9x4b9TBP99h00",
+                    "short_id": "c294d6ba98e6a7"
                 }
             }
         },
@@ -1126,7 +1224,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [1]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
@@ -1135,29 +1233,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
             "uuid": "01277c01-9d3f-4460-fe04-8107f81d1e22",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [7]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2095,
-            "uuid": "65d6d567-9715-4c8a-eec1-10b638907f70",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
         },
         {
             "tag": "🚩 CF | 🔒 VLESS | @mrclud [16]",
