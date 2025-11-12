@@ -133,7 +133,7 @@
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [9]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [10]",
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [11]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
                 "🚩 CF | 🔒 VLESS | @mrclud [16]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -145,9 +145,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
-                "🚩 CF | 🔓 VLESS | @spikevpn [11]",
-                "🚩 CF | 🔓 VLESS | @spikevpn [12]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [13]",
+                "🚩 CF | 🔓 VLESS | @spikevpn [14]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [15]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [16]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [17]",
@@ -160,6 +159,7 @@
                 "🚩 CF | 🔓 VLESS | @spikevpn [24]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [25]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [26]",
+                "🚩 CF | 🔓 VLESS | @spikevpn [27]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [5]",
                 "🚩 CF | 🔓 VLESS | @starv2rayn [8]",
                 "🚩 CF | 🔒 VLESS | @turboo_server [1]",
@@ -264,7 +264,7 @@
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [9]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [10]",
                 "🇮🇷 IR | 🔓 VLESS | @megavpn_link [11]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
                 "🚩 CF | 🔒 VLESS | @mrclud [16]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -276,9 +276,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
-                "🚩 CF | 🔓 VLESS | @spikevpn [11]",
-                "🚩 CF | 🔓 VLESS | @spikevpn [12]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [13]",
+                "🚩 CF | 🔓 VLESS | @spikevpn [14]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [15]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [16]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [17]",
@@ -291,6 +290,7 @@
                 "🚩 CF | 🔓 VLESS | @spikevpn [24]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [25]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [26]",
+                "🚩 CF | 🔓 VLESS | @spikevpn [27]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [5]",
                 "🚩 CF | 🔓 VLESS | @starv2rayn [8]",
                 "🚩 CF | 🔒 VLESS | @turboo_server [1]",
@@ -1222,7 +1222,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
@@ -1499,57 +1499,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [11]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2082,
-            "uuid": "6d4acdff-e3fe-46e9-9629-f935bc5720f2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [12]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2086,
-            "uuid": "d5d9ecec-5c50-4386-e103-508e24107278",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🚩 CF | 🔓 VLESS | @spikevpn [13]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2082,
-            "uuid": "53bdd517-90a0-4543-a53f-77aaa9319872",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [15]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2086,
-            "uuid": "9c80e880-246f-4fec-81df-6de426eef4da",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [16]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1565,7 +1515,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [17]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [14]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1574,7 +1524,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [18]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [15]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1590,7 +1540,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [19]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [16]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1599,7 +1549,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [20]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [17]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1615,7 +1565,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [21]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [18]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1624,7 +1574,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [22]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [19]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1640,7 +1590,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [23]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [20]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1649,7 +1599,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [24]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [21]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1665,7 +1615,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [25]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [22]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -1674,11 +1624,61 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [26]",
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [23]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
             "uuid": "6efac8e8-e5e3-461e-962a-769a3869ed93",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [24]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2086,
+            "uuid": "3066a0f4-03a4-4785-ab16-aa9ce832b858",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [25]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2082,
+            "uuid": "6031c60f-a162-4fd4-c05e-f880ccc36725",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [26]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2086,
+            "uuid": "f20e6773-a3c7-41d5-9208-4d3a5f3b7524",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @spikevpn [27]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2082,
+            "uuid": "c8a44ad5-968b-4318-aa13-b03d67ad219b",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
