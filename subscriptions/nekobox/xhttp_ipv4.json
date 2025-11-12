@@ -81,10 +81,9 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -96,10 +95,9 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -194,15 +192,6 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "4f244cbc-7184-4106-a084-eebe0058fdf8",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mehrosaboran [2]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
             "uuid": "87fd36b8-9f9d-47f8-a543-145454009fd4",
             "flow": "",
             "packet_encoding": "xudp"
@@ -226,7 +215,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
