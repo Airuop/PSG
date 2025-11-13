@@ -31,16 +31,12 @@ proxies:
   - {"name":"🇬🇧 GB | 🔒 VLESS | @mrclud [18]","type":"vless","server":"51.195.169.100","port":443,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8","short-id":"01417ce2"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @mrclud [20]","type":"vless","server":"51.89.74.164","port":443,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko","short-id":"a311b9f4"}}
   - {"name":"🇫🇷 FR | 🔒 VLESS | @mrclud [22]","type":"vless","server":"5.135.21.191","port":8880,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc","short-id":"8b62ab46"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [1]","type":"vless","server":"193.46.81.151","port":50853,"uuid":"9f5fa7fa-e30e-4fb8-bb57-d29a5b8f0592","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"miro.com","reality-opts":{"public-key":"XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs","short-id":"69"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [5]","type":"vless","server":"193.46.81.151","port":50853,"uuid":"0c7bd9e3-7310-4add-95a6-70d3c4ebe235","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"miro.com","reality-opts":{"public-key":"XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs","short-id":"69"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]","type":"vless","server":"152.53.132.153","port":13718,"uuid":"a5394554-6677-4922-b203-a539be9411c3","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"eightsleep.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"RE5pTjMWTYxFQvDtxxKOCZCnnyYbR2a25zlLnYXWOVw","short-id":"96"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]","type":"vless","server":"152.53.133.132","port":44393,"uuid":"0eaab689-82c5-4678-8ac6-d58ef4357dbe","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"lowes.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"QRguoAi4mjGas5PjOd-JCgcAlgZTmr8tqM8VC0ZvZSM","short-id":"05"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]","type":"vless","server":"152.53.145.221","port":44393,"uuid":"0eaab689-82c5-4678-8ac6-d58ef4357dbe","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"lowes.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"QRguoAi4mjGas5PjOd-JCgcAlgZTmr8tqM8VC0ZvZSM","short-id":"05"}}
-  - {"name":"🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [6]","type":"vless","server":"83.228.210.214","port":443,"uuid":"c5fdf480-3942-4fc9-9e73-f6899c24bda6","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"ok.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0","short-id":"41f38b2355acf7bc"}}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]","type":"vless","server":"157.180.85.110","port":2052,"uuid":"2f60be6f-be0c-48b4-9772-b56f42b51ba1","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"web.eitaa.com","reality-opts":{"public-key":"TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA","short-id":"0ee11e"}}
-  - {"name":"🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]","type":"vless","server":"216.133.149.139","port":23581,"uuid":"b5471668-94dc-4ea5-ae97-3bb9dabcd2a9","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.cloudflare.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"EOYTqph-go2SazIPcSDl5pJGNyOnrR0mWaL8Tc_paEM"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]","type":"vless","server":"37.120.171.194","port":36563,"uuid":"c25a90ea-6a3b-4d87-95b3-8ca4232f2a6e","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"expedia.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tPpkzwOVa4li8CurZc07pnxl8ytBUm9x4b9TBP99h00","short-id":"c294d6ba98e6a7"}}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]","type":"vless","server":"37.27.249.161","port":2083,"uuid":"3371e0fd-733a-41cc-9225-d968d5997b88","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"tgju.org","grpc-opts":{"grpc-service-name":"Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY"},"reality-opts":{"public-key":"I5CKiks47aBxqcqrWOzHV-ejzg_6qTnjJsZMNBZ7UCY","short-id":"50d6"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [4]","type":"vless","server":"193.46.81.151","port":50853,"uuid":"0c7bd9e3-7310-4add-95a6-70d3c4ebe235","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"miro.com","reality-opts":{"public-key":"XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs","short-id":"69"}}
+  - {"name":"🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [4]","type":"vless","server":"83.228.210.214","port":443,"uuid":"c5fdf480-3942-4fc9-9e73-f6899c24bda6","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"ok.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0","short-id":"41f38b2355acf7bc"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]","type":"vless","server":"157.180.85.110","port":2052,"uuid":"2f60be6f-be0c-48b4-9772-b56f42b51ba1","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"web.eitaa.com","reality-opts":{"public-key":"TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA","short-id":"0ee11e"}}
+  - {"name":"🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]","type":"vless","server":"216.133.149.139","port":23581,"uuid":"b5471668-94dc-4ea5-ae97-3bb9dabcd2a9","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.cloudflare.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"EOYTqph-go2SazIPcSDl5pJGNyOnrR0mWaL8Tc_paEM"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [7]","type":"vless","server":"37.120.171.194","port":36563,"uuid":"c25a90ea-6a3b-4d87-95b3-8ca4232f2a6e","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"expedia.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tPpkzwOVa4li8CurZc07pnxl8ytBUm9x4b9TBP99h00","short-id":"c294d6ba98e6a7"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [10]","type":"vless","server":"37.27.249.161","port":2083,"uuid":"3371e0fd-733a-41cc-9225-d968d5997b88","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"tgju.org","grpc-opts":{"grpc-service-name":"Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY"},"reality-opts":{"public-key":"I5CKiks47aBxqcqrWOzHV-ejzg_6qTnjJsZMNBZ7UCY","short-id":"50d6"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -62,16 +58,12 @@ proxy-groups:
       - '🇬🇧 GB | 🔒 VLESS | @mrclud [18]'
       - '🇩🇪 DE | 🔒 VLESS | @mrclud [20]'
       - '🇫🇷 FR | 🔒 VLESS | @mrclud [22]'
-      - '🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [1]'
-      - '🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [5]'
-      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]'
-      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]'
-      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]'
-      - '🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [6]'
-      - '🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]'
-      - '🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]'
-      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]'
-      - '🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]'
+      - '🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [4]'
+      - '🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [4]'
+      - '🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]'
+      - '🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]'
+      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [7]'
+      - '🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [10]'
 
   - name: 🌍 Global Media
     type: select

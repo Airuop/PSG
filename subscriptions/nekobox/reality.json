@@ -90,15 +90,11 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [1]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [5]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [4]",
+                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
@@ -115,6 +111,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -136,15 +134,11 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [1]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [5]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [4]",
+                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
@@ -161,6 +155,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -482,30 +478,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [1]",
-            "type": "vless",
-            "server": "193.46.81.151",
-            "server_port": 50853,
-            "uuid": "9f5fa7fa-e30e-4fb8-bb57-d29a5b8f0592",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "miro.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs",
-                    "short_id": "69"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [5]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [4]",
             "type": "vless",
             "server": "193.46.81.151",
             "server_port": 50853,
@@ -528,76 +501,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "152.53.132.153",
-            "server_port": 13718,
-            "uuid": "a5394554-6677-4922-b203-a539be9411c3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "eightsleep.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RE5pTjMWTYxFQvDtxxKOCZCnnyYbR2a25zlLnYXWOVw",
-                    "short_id": "96"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "152.53.133.132",
-            "server_port": 44393,
-            "uuid": "0eaab689-82c5-4678-8ac6-d58ef4357dbe",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "lowes.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "QRguoAi4mjGas5PjOd-JCgcAlgZTmr8tqM8VC0ZvZSM",
-                    "short_id": "05"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "152.53.145.221",
-            "server_port": 44393,
-            "uuid": "0eaab689-82c5-4678-8ac6-d58ef4357dbe",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "lowes.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "QRguoAi4mjGas5PjOd-JCgcAlgZTmr8tqM8VC0ZvZSM",
-                    "short_id": "05"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "83.228.210.214",
             "server_port": 443,
@@ -620,7 +524,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "216.133.149.139",
             "server_port": 23581,
@@ -643,7 +547,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "37.120.171.194",
             "server_port": 36563,
@@ -666,7 +570,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "37.27.249.161",
             "server_port": 2083,
@@ -1057,6 +961,52 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "fis.jykvpn.com",
+            "server_port": 443,
+            "uuid": "56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cdnjs.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw",
+                    "short_id": "4c02bbbfa833b3b6"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "ve.jykvpn.com",
+            "server_port": 443,
+            "uuid": "56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cdnjs.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw",
+                    "short_id": "4c02bbbfa833b3b6"
                 }
             }
         },
