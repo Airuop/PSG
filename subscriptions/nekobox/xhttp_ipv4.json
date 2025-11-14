@@ -80,10 +80,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -94,10 +94,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]"
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -188,15 +188,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @mehrosaboran [1]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "87fd36b8-9f9d-47f8-a543-145454009fd4",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
             "type": "vless",
             "server": "151.101.204.190",
@@ -215,11 +206,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "0a820593-83f5-4260-a09c-fb224d0b8d66",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "df39cf2c-ca16-4e15-a23f-6c90db81e31c",
             "flow": "",
             "packet_encoding": "xudp"
         }
