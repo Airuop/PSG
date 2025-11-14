@@ -90,9 +90,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [4]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [17]"
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [3]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,9 +113,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [4]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [17]"
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [3]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -436,7 +436,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [3]",
             "type": "vless",
             "server": "193.46.81.151",
             "server_port": 50853,
@@ -459,7 +459,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "193.124.182.224",
             "server_port": 4442,
@@ -482,7 +482,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [17]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "216.133.149.139",
             "server_port": 23581,

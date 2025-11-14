@@ -192,14 +192,12 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [3]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [8]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [11]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇷🇺 RU | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇮🇷 IR | 🔒 VLESS | @vpnstable [2]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [3]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
@@ -332,14 +330,12 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [3]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [8]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [11]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇷🇺 RU | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇮🇷 IR | 🔒 VLESS | @vpnstable [2]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [3]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
@@ -2535,103 +2531,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "fis.jykvpn.com",
-            "server_port": 443,
-            "uuid": "56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cdnjs.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw",
-                    "short_id": "4c02bbbfa833b3b6"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "ve.jykvpn.com",
-            "server_port": 443,
-            "uuid": "56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cdnjs.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw",
-                    "short_id": "4c02bbbfa833b3b6"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2083,
-            "uuid": "43eaa6ec-a3fb-4206-9086-b2bcd6cf7d48",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "golestan.hajalwi.ir.",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080",
-                "headers": {
-                    "Host": "golestan.hajalwi.ir."
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2083,
-            "uuid": "fb1bebfd-3186-4d8b-8440-a938459b3275",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "golestan.hajalwi.ir.",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080",
-                "headers": {
-                    "Host": "golestan.hajalwi.ir."
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "test2.amin8263.ir",
             "server_port": 2095,
@@ -2647,7 +2547,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2083,
@@ -2672,7 +2572,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "speedtest.org",
             "server_port": 443,
@@ -2697,11 +2597,45 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [16]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
             "uuid": "768f13fa-e0ac-4e00-a31b-cae874524a2b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2083,
+            "uuid": "f054d35a-4a59-4605-90dc-299dcf9ed18f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "golestan.hajalwi.ir.",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080",
+                "headers": {
+                    "Host": "golestan.hajalwi.ir."
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔓 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "nl8.node.ibst.me",
+            "server_port": 3502,
+            "uuid": "733f49e3-e9ef-4d6b-8e9b-e9a5188318d3",
             "flow": "",
             "packet_encoding": "xudp"
         },
