@@ -37,7 +37,8 @@ proxies:
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [11]","type":"vless","server":"PARMIS.SIGMA-HOSTER.COM","port":443,"uuid":"19ce2438-558d-4d24-ad7c-33d8c73f8d20","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"frcaa.crocodileserver.ir","reality-opts":{"public-key":"bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8","short-id":"1da8d08f24e92861"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [12]","type":"vless","server":"ARM.SIGMA-HOSTER.COM","port":443,"uuid":"fb707a09-7dd8-417f-9d9a-2e61d56995cb","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [13]","type":"vless","server":"ARM.CROCODILESERVER.IR","port":443,"uuid":"32932937-b85f-40be-ae02-997ea5b0b62a","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]","type":"vless","server":"fi.podpiska.vip","port":443,"uuid":"5d3bffc3-20f6-41ae-9fe7-bb12a122c3a3","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"uspehudacha.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI","short-id":"4a6c2577ce53af9e"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]","type":"vless","server":"fi.podpiska.vip","port":443,"uuid":"5d3bffc3-20f6-41ae-9fe7-bb12a122c3a3","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"uspehudacha.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI","short-id":"4a6c2577ce53af9e"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]","type":"vless","server":"facelessvoid.fonixapp.org","port":38658,"uuid":"28b52ed7-f0e9-45ad-abd5-68c51ffcdf12","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"smallpdf.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"5kZadIRPHEZioqbhhHmtar_r0791Uf1hVRXB8IQprAk","short-id":"7df7"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -65,7 +66,8 @@ proxy-groups:
       - '❔ XX | 🔒 VLESS | @vpn_accounti [11]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [12]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [13]'
-      - '🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]'
+      - '🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]'
+      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]'
 
   - name: 🌍 Global Media
     type: select
