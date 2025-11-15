@@ -80,11 +80,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -96,6 +96,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -107,11 +108,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -123,6 +124,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -214,7 +216,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
             "type": "vless",
             "server": "de.nitroo-tech.ru",
             "server_port": 443,
@@ -237,7 +239,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
             "type": "vless",
             "server": "zeusolympus.fonixapp.org",
             "server_port": 20558,
@@ -260,7 +262,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
             "type": "vless",
             "server": "graygoat.fonixapp.org",
             "server_port": 45846,
@@ -283,7 +285,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
             "type": "vless",
             "server": "broodmother.fonixapp.org",
             "server_port": 36827,
@@ -306,7 +308,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
             "type": "vless",
             "server": "facelessvoid.fonixapp.org",
             "server_port": 36563,
@@ -578,6 +580,29 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "fi.podpiska.vip",
+            "server_port": 443,
+            "uuid": "5d3bffc3-20f6-41ae-9fe7-bb12a122c3a3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "uspehudacha.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI",
+                    "short_id": "4a6c2577ce53af9e"
                 }
             }
         },
