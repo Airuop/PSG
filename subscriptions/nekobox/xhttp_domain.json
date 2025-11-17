@@ -84,8 +84,10 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
+                "🇺🇸 US | 🔓 VLESS | @kurdistan_vpn_perfectt [15]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -102,8 +104,10 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
+                "🇺🇸 US | 🔓 VLESS | @kurdistan_vpn_perfectt [15]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -250,6 +254,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @kurdistan_vpn_perfectt [15]",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-CONFiGLiNE-41",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "❔ XX | 🔓 VLESS | @megavpn_link [1]",
             "type": "vless",
             "server": "fast.peace.lemoex.blog",
@@ -259,11 +272,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
             "uuid": "346301ad-3f14-4eed-b62e-183d40c771d1",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "14e53524-5562-47a6-901f-327f0b2645c0",
             "flow": "",
             "packet_encoding": "xudp"
         },
