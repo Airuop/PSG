@@ -32,9 +32,6 @@ proxies:
   - {"name":"🇩🇪 DE | 🔒 VLESS | @mrclud [20]","type":"vless","server":"51.89.74.164","port":443,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko","short-id":"a311b9f4"}}
   - {"name":"🇫🇷 FR | 🔒 VLESS | @mrclud [22]","type":"vless","server":"5.135.21.191","port":8880,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc","short-id":"8b62ab46"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [3]","type":"vless","server":"193.46.81.151","port":50853,"uuid":"0c7bd9e3-7310-4add-95a6-70d3c4ebe235","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"miro.com","reality-opts":{"public-key":"XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs","short-id":"69"}}
-  - {"name":"🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [4]","type":"vless","server":"213.156.152.223","port":28689,"uuid":"f7a204a7-e3f8-4349-a12d-7e6868a3b84e","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"smallpdf.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"8UJHCuXan_An_xsXNPCN7h_0Yj4EwRtTATjrPiqcC3M","short-id":"687dcc8146"}}
-  - {"name":"🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]","type":"vless","server":"89.39.70.58","port":29300,"uuid":"7843d0a1-be6f-4b7f-92e2-8040711b434c","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"kJzMBU-gwtqNcJx_igad-d891SBXixmCh78WTIRTIQk","short-id":"5a"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]","type":"vless","server":"152.53.186.174","port":23627,"uuid":"c081925c-a17a-4799-8643-5b00bfd687ac","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"lowes.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"XYH_zGUIMpC51F-Q9Kwto9ZttOumIexpEtXfTuBJ4lc","short-id":"3835"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -57,9 +54,6 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 VLESS | @mrclud [20]'
       - '🇫🇷 FR | 🔒 VLESS | @mrclud [22]'
       - '🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [3]'
-      - '🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [4]'
-      - '🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]'
-      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]'
 
   - name: 🌍 Global Media
     type: select
