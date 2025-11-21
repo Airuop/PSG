@@ -109,8 +109,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [9]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -139,8 +137,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [9]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -615,52 +611,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "usa82.freednet.org",
-            "server_port": 443,
-            "uuid": "4e5a0939-483c-4571-a1b1-fccbfe053923",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.utexas.edu",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "usa82.freednet.org",
-            "server_port": 443,
-            "uuid": "4e5a0939-483c-4571-a1b1-fccbfe053923",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.utexas.edu",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
-                    "short_id": ""
                 }
             }
         },
