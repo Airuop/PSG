@@ -32,9 +32,6 @@ proxies:
   - {"name":"🇩🇪 DE | 🔒 VLESS | @mrclud [20]","type":"vless","server":"51.89.74.164","port":443,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko","short-id":"a311b9f4"}}
   - {"name":"🇫🇷 FR | 🔒 VLESS | @mrclud [22]","type":"vless","server":"5.135.21.191","port":8880,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc","short-id":"8b62ab46"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [2]","type":"vless","server":"193.46.81.151","port":50853,"uuid":"0c7bd9e3-7310-4add-95a6-70d3c4ebe235","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"miro.com","reality-opts":{"public-key":"XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs","short-id":"69"}}
-  - {"name":"🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [8]","type":"vless","server":"165.22.192.230","port":7033,"uuid":"b3135464-6cf4-4d45-b5a5-743841ade728","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"telewebion.com","grpc-opts":{"grpc-service-name":"7034vless"},"reality-opts":{"public-key":"iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE","short-id":"16b6cda7ab793526"}}
-  - {"name":"🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]","type":"vless","server":"46.21.157.186","port":443,"uuid":"5713fee0-2f51-4453-9502-b7fd38a657b6","tls":true,"network":"tcp","client-fingerprint":null,"udp":true,"servername":"www.microsoft.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU"}}
-  - {"name":"🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]","type":"vless","server":"121.127.37.173","port":443,"uuid":"5713fee0-2f51-4453-9502-b7fd38a657b6","tls":true,"network":"tcp","client-fingerprint":null,"udp":true,"servername":"www.microsoft.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -57,9 +54,6 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 VLESS | @mrclud [20]'
       - '🇫🇷 FR | 🔒 VLESS | @mrclud [22]'
       - '🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [2]'
-      - '🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [8]'
-      - '🇺🇸 US | 🔒 VLESS | @vpnplusee_free [12]'
-      - '🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]'
 
   - name: 🌍 Global Media
     type: select
