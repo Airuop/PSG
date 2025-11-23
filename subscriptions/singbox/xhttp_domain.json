@@ -95,12 +95,13 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [31]",
                 "❔ XX | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
-                "❔ XX | 🔓 VLESS | @binner_iran [48]",
-                "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
+                "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
+                "🇺🇸 US | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔓 VLESS | @vpnstable [4]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
+                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -114,12 +115,13 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [31]",
                 "❔ XX | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
-                "❔ XX | 🔓 VLESS | @binner_iran [48]",
-                "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
+                "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
+                "🇺🇸 US | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔓 VLESS | @vpnstable [4]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
+                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -251,7 +253,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @binner_iran [48]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
             "type": "vless",
             "server": "EXPRESSVPN_420.fAst.hosting-ip.com",
             "server_port": 80,
@@ -260,7 +262,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -278,30 +280,25 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
             "type": "vless",
-            "server": "Evay-vpn.octacityroleplay.ir",
-            "server_port": 1122,
-            "uuid": "32d9a448-fdfa-488f-90c2-7f383624ca12",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.slideshare.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
-                    "short_id": "4c7b0ea36fc7f0c4"
-                }
-            }
+            "server": "am255.amin5646.ir",
+            "server_port": 2082,
+            "uuid": "9f01a1f2-9fd1-45f1-a1c5-435f55e6319c",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnstable [4]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-CONFiGLiNE-69",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
             "server_port": 80,
@@ -310,7 +307,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
+            "tag": "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
             "type": "vless",
             "server": "fast-01.saitsazs.ir",
             "server_port": 80,
