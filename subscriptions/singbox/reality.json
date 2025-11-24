@@ -121,6 +121,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
                 "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [10]"
             ],
@@ -162,6 +163,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
                 "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [10]"
             ],
@@ -913,6 +915,29 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
+            "type": "vless",
+            "server": "Evay-vpn.octacityroleplay.ir",
+            "server_port": 1122,
+            "uuid": "822fe21f-3839-4736-9866-4cc8cbc98cce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.slideshare.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
+                    "short_id": "4c7b0ea36fc7f0c4"
                 }
             }
         },
