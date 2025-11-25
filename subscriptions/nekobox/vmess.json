@@ -99,8 +99,6 @@
                 "🇩🇪 DE | 🔓 VMESS | @v2rayngc [13]",
                 "❔ XX | 🔒 VMESS | @v2rayngc [14]",
                 "🇵🇱 PL | 🔓 VMESS | @v2rayngc [16]",
-                "🇫🇷 FR | 🔒 VMESS | @vpnfail_v2ray [1]",
-                "🇩🇪 DE | 🔒 VMESS | @vpnfail_v2ray [2]",
                 "🇮🇩 ID | 🔓 VMESS | @vpnstable [6]",
                 "🇩🇪 DE | 🔓 VMESS | @vpnstable [11]",
                 "🇮🇷 IR | 🔓 VMESS | @xsv2ray [2]"
@@ -133,8 +131,6 @@
                 "🇩🇪 DE | 🔓 VMESS | @v2rayngc [13]",
                 "❔ XX | 🔒 VMESS | @v2rayngc [14]",
                 "🇵🇱 PL | 🔓 VMESS | @v2rayngc [16]",
-                "🇫🇷 FR | 🔒 VMESS | @vpnfail_v2ray [1]",
-                "🇩🇪 DE | 🔒 VMESS | @vpnfail_v2ray [2]",
                 "🇮🇩 ID | 🔓 VMESS | @vpnstable [6]",
                 "🇩🇪 DE | 🔓 VMESS | @vpnstable [11]",
                 "🇮🇷 IR | 🔓 VMESS | @xsv2ray [2]"
@@ -534,56 +530,6 @@
             "uuid": "48a86563-63c5-4218-e887-d752f801ae82",
             "security": "auto",
             "alter_id": 0
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VMESS | @vpnfail_v2ray [1]",
-            "type": "vmess",
-            "server": "91.134.8.101",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "fapeng.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/linkvws",
-                "headers": {
-                    "Host": "fapeng.org"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VMESS | @vpnfail_v2ray [2]",
-            "type": "vmess",
-            "server": "2001:41d0:70e:c100::",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "serkat.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/linkvws",
-                "headers": {
-                    "Host": "serkat.org"
-                }
-            }
         },
         {
             "tag": "🇮🇩 ID | 🔓 VMESS | @vpnstable [6]",
