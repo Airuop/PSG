@@ -102,13 +102,13 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
-                "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
+                "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -120,9 +120,9 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [18]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
-                "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [9]"
+                "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [7]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -143,13 +143,13 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
                 "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
-                "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
+                "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -161,9 +161,9 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [12]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [18]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
-                "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [9]"
+                "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [7]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -480,30 +480,34 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]",
             "type": "vless",
-            "server": "de.nitroo-tech.ru",
+            "server": "51.250.28.39",
             "server_port": 443,
-            "uuid": "cd79807f-bcef-46b8-93b6-229676a0c1a0",
+            "uuid": "4a6de183-2ad3-456c-b420-feeac81f6257",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "google.com",
+                "server_name": "cloudflare.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": null
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I",
-                    "short_id": "89dbda1a1c9369"
+                    "public_key": "FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI",
+                    "short_id": "123abc"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "xyz"
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
             "type": "vless",
             "server": "zeusolympus.fonixapp.org",
             "server_port": 20558,
@@ -526,7 +530,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
             "type": "vless",
             "server": "graygoat.fonixapp.org",
             "server_port": 45846,
@@ -549,7 +553,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
             "type": "vless",
             "server": "broodmother.fonixapp.org",
             "server_port": 36827,
@@ -572,7 +576,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
             "type": "vless",
             "server": "facelessvoid.fonixapp.org",
             "server_port": 36563,
@@ -595,7 +599,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [11]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
             "type": "vless",
             "server": "dl.fi.afteam.ir",
             "server_port": 1503,
@@ -618,7 +622,7 @@
             }
         },
         {
-            "tag": "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [12]",
+            "tag": "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
             "type": "vless",
             "server": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
             "server_port": 443,
@@ -894,7 +898,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [18]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
@@ -940,7 +944,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
+            "tag": "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
             "type": "vless",
             "server": "[2a0b:4140:3342::2]",
             "server_port": 21748,

@@ -89,7 +89,8 @@
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]"
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,7 +110,8 @@
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]"
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -427,6 +429,33 @@
                     "public_key": "JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc",
                     "short_id": "8b62ab46"
                 }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]",
+            "type": "vless",
+            "server": "51.250.28.39",
+            "server_port": 443,
+            "uuid": "4a6de183-2ad3-456c-b420-feeac81f6257",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI",
+                    "short_id": "123abc"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "xyz"
             }
         }
     ],

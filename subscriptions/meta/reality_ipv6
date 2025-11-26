@@ -23,7 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [9]","type":"vless","server":"[2a0b:4140:3342::2]","port":21748,"uuid":"2c3d6e6c-7302-4315-a12f-8376fd1fe674","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"tgju.org","reality-opts":{"public-key":"tHP6jGA_Z1beKT6lu8to_-lOt5n04FoMA67yTv1cziM","short-id":"96cb7bc96dfe6a"}}
+  - {"name":"❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [7]","type":"vless","server":"[2a0b:4140:3342::2]","port":21748,"uuid":"2c3d6e6c-7302-4315-a12f-8376fd1fe674","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"tgju.org","reality-opts":{"public-key":"tHP6jGA_Z1beKT6lu8to_-lOt5n04FoMA67yTv1cziM","short-id":"96cb7bc96dfe6a"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -37,7 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [9]'
+      - '❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [7]'
 
   - name: 🌍 Global Media
     type: select
