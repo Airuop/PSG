@@ -92,11 +92,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [6]"
+                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [3]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -107,11 +106,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [6]"
+                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [3]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -198,7 +196,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
             "type": "vless",
             "server": "172.67.146.171",
             "server_port": 2082,
@@ -241,15 +239,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "151.101.195.8",
-            "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE-73",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {
