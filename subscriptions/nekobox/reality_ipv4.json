@@ -90,8 +90,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [17]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -112,8 +111,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]"
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [17]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -434,16 +432,16 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [5]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [17]",
             "type": "vless",
-            "server": "51.250.28.39",
-            "server_port": 443,
-            "uuid": "4a6de183-2ad3-456c-b420-feeac81f6257",
+            "server": "31.56.197.29",
+            "server_port": 49438,
+            "uuid": "572b80b3-fa69-4e90-af39-045ff26e5ff1",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "cloudflare.com",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -451,35 +449,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI",
-                    "short_id": "123abc"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "xyz"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "94.141.123.233",
-            "server_port": 443,
-            "uuid": "2b8cd10f-82f6-4103-89e2-27a2d5a2fc21",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cdnjs.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4",
-                    "short_id": "fc7a526a7e61ba3b"
+                    "public_key": "dqw4hiO-MC-OnDuox_7m0tEu5x8o8bDnDU6kXREz8QE",
+                    "short_id": ""
                 }
             }
         }
