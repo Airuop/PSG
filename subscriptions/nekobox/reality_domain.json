@@ -80,10 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
-                "🇮🇷 IR | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
-                "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
+                "🇮🇷 IR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+                "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
+                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -96,8 +95,11 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [16]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -109,10 +111,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
-                "🇮🇷 IR | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
-                "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
+                "🇮🇷 IR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+                "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
+                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -125,8 +126,11 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [16]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -218,30 +222,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
-            "type": "vless",
-            "server": "facelessvoid.fonixapp.org",
-            "server_port": 36563,
-            "uuid": "c25a90ea-6a3b-4d87-95b3-8ca4232f2a6e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "expedia.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tPpkzwOVa4li8CurZc07pnxl8ytBUm9x4b9TBP99h00",
-                    "short_id": "c294d6ba98e6a7"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
+            "tag": "🇮🇷 IR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
             "type": "vless",
             "server": "dl.fi.afteam.ir",
             "server_port": 1503,
@@ -264,7 +245,7 @@
             }
         },
         {
-            "tag": "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [7]",
+            "tag": "🇮🇱 IL | 🔒 VLESS | @kurdistan_vpn_perfectt [6]",
             "type": "vless",
             "server": "ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz",
             "server_port": 443,
@@ -287,7 +268,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [9]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
             "type": "vless",
             "server": "russia.whitenet.online",
             "server_port": 443,
@@ -586,7 +567,30 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [2]",
+            "type": "vless",
+            "server": "map.magicdriveman.com",
+            "server_port": 5764,
+            "uuid": "4d48a9a0-a58c-4d8e-81ae-e1b0585fbdd3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.latimes.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ftI-LBfHBgxFoWIe0jfytjgR0bqp4mli3pxZjCvD8Qw",
+                    "short_id": "a41949cbc7c41377"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
@@ -609,16 +613,16 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
-            "server": "map.magicdriveman.com",
-            "server_port": 5764,
-            "uuid": "4d48a9a0-a58c-4d8e-81ae-e1b0585fbdd3",
+            "server": "Evay-vpn.octacityroleplay.ir",
+            "server_port": 1122,
+            "uuid": "3db231e9-d64c-420a-89ee-e8d98e98390f",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.latimes.com",
+                "server_name": "www.slideshare.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -626,8 +630,58 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ftI-LBfHBgxFoWIe0jfytjgR0bqp4mli3pxZjCvD8Qw",
-                    "short_id": "a41949cbc7c41377"
+                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
+                    "short_id": "4c7b0ea36fc7f0c4"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "de.xrws.ir",
+            "server_port": 35,
+            "uuid": "ecca9909-285a-452a-9c21-e804e2f11ccd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7YGpjkoSf7T_eG-lQ5fbkJVzqSCWwn-gU6YHbCrXkjg",
+                    "short_id": "0ccd8b9901b4"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "grpc"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "Evay-vpn.octacityroleplay.ir",
+            "server_port": 1122,
+            "uuid": "e498fe2d-f299-42c8-a7e1-9dfc1c5974a7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.slideshare.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
+                    "short_id": "4c7b0ea36fc7f0c4"
                 }
             }
         },

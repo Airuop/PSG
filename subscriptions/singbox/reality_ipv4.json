@@ -102,7 +102,8 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]"
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -123,7 +124,8 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]"
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -440,11 +442,38 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "31.56.197.29",
-            "server_port": 49438,
-            "uuid": "572b80b3-fa69-4e90-af39-045ff26e5ff1",
+            "server": "62.60.248.14",
+            "server_port": 28485,
+            "uuid": "5d3a0f39-07fe-4ed4-bb3b-cc8ec327aef7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE",
+                    "short_id": "dc"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "91.107.246.94",
+            "server_port": 8443,
+            "uuid": "4d04c824-86db-4443-96e3-e24fd40ec743",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -457,7 +486,7 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "dqw4hiO-MC-OnDuox_7m0tEu5x8o8bDnDU6kXREz8QE",
+                    "public_key": "YoLqPUw--15IaxEOIqT_bcdLBm95dtjx_HCKhsKGoGI",
                     "short_id": ""
                 }
             }
