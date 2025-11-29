@@ -83,8 +83,8 @@
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]"
+                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -98,8 +98,8 @@
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]"
+                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -217,7 +217,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [3]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]",
             "type": "vless",
             "server": "45.154.96.164",
             "server_port": 443,
@@ -235,11 +235,11 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
             "type": "vless",
-            "server": "151.101.0.0",
+            "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE-75",
+            "uuid": "9788a8af-ed11-4204-a003-84fe71c95f2f",
             "flow": "",
             "packet_encoding": "xudp"
         }

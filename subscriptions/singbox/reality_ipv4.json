@@ -102,8 +102,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [7]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]"
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -124,8 +123,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [7]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]"
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -442,34 +440,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "62.60.248.14",
-            "server_port": 28485,
-            "uuid": "5d3a0f39-07fe-4ed4-bb3b-cc8ec327aef7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE",
-                    "short_id": "dc"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "91.107.246.94",
             "server_port": 8443,
