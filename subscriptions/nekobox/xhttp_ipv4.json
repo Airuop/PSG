@@ -80,11 +80,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
-                "❔ XX | 🔓 VLESS | @minovpnch [14]",
-                "❔ XX | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [2]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]"
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
+                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -95,11 +94,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
-                "❔ XX | 🔓 VLESS | @minovpnch [14]",
-                "❔ XX | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [2]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]"
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
+                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -190,7 +188,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [3]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
             "type": "vless",
             "server": "172.67.146.171",
             "server_port": 2082,
@@ -199,7 +197,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @minovpnch [14]",
+            "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
             "type": "vless",
             "server": "151.101.204.190",
             "server_port": 80,
@@ -208,7 +206,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @minovpnch [15]",
+            "tag": "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
             "type": "vless",
             "server": "185.18.250.67",
             "server_port": 8080,
@@ -217,7 +215,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [2]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]",
             "type": "vless",
             "server": "45.154.96.164",
             "server_port": 443,
@@ -233,15 +231,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "151.101.0.0",
-            "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE-76",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {
