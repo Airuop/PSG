@@ -86,6 +86,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [8]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -95,7 +96,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [7]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -113,6 +114,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [8]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -122,7 +124,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [7]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -352,6 +354,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [8]",
+            "type": "vless",
+            "server": "lifestealer.fonixapp.org",
+            "server_port": 36134,
+            "uuid": "2efbb638-c1ae-46bd-b418-b1f9c265e2d1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "6-45Hxz3UsSI3vDzHSGGuDqqEzqwFxEQyl_0sZoMejs",
+                    "short_id": "86e86c"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
             "type": "vless",
             "server": "CRT.SIGMA-HOSTER.COM",
@@ -559,7 +584,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
