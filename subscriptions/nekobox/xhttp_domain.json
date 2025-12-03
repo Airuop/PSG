@@ -87,6 +87,7 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -107,6 +108,7 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -281,11 +283,34 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "Evay-vpn.octacityroleplay.ir",
+            "server_port": 1122,
+            "uuid": "14cabc5e-97e9-42ca-bbaa-deeb7202555e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.slideshare.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
+                    "short_id": "4c7b0ea36fc7f0c4"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
-            "uuid": "c300682a-344d-4175-944b-8bfb0c504ce7",
+            "uuid": "14cabc5e-97e9-42ca-bbaa-deeb7202555e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
