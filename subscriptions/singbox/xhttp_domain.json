@@ -99,8 +99,7 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [5]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -120,8 +119,7 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [5]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -291,22 +289,27 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
-            "server": "am8.amin-1.ir",
-            "server_port": 2082,
-            "uuid": "76b10243-907d-4fdd-ac09-d89b13a9578f",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "am288.amin-1.ir",
-            "server_port": 2082,
-            "uuid": "53f850a1-d7dd-4a80-ef0c-f9f497fdca68",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "Evay-vpn.octacityroleplay.ir",
+            "server_port": 1122,
+            "uuid": "c300682a-344d-4175-944b-8bfb0c504ce7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.slideshare.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
+                    "short_id": "4c7b0ea36fc7f0c4"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
