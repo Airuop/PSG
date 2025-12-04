@@ -95,8 +95,7 @@
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]"
+                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,8 +109,7 @@
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]"
+                "🇫🇷 FR | 🔒 VLESS | @v2rayvpn2 [2]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -241,15 +239,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "11de8699-8ea6-41a8-be2a-f86169d170db",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {
