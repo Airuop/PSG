@@ -92,17 +92,18 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
-                "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
-                "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
-                "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [6]",
-                "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
-                "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
-                "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
-                "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]"
+                "❔ XX | 🔒 VLESS | @NamiraConfigs [60]",
+                "❔ XX | 🔒 VLESS | @angus_vpn [11]",
+                "❔ XX | 🔒 VLESS | @binner_iran [33]",
+                "❔ XX | 🔒 VLESS | @binner_iran [40]",
+                "❔ XX | 🔒 VLESS | @filtershekan_channel [6]",
+                "❔ XX | 🔒 VLESS | @mrclud [9]",
+                "❔ XX | 🔒 VLESS | @mrclud [11]",
+                "❔ XX | 🔒 VLESS | @mrclud [13]",
+                "❔ XX | 🔒 VLESS | @mrclud [18]",
+                "❔ XX | 🔒 VLESS | @mrclud [20]",
+                "❔ XX | 🔒 VLESS | @mrclud [22]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,17 +114,18 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
-                "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
-                "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
-                "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [6]",
-                "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
-                "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
-                "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
-                "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]"
+                "❔ XX | 🔒 VLESS | @NamiraConfigs [60]",
+                "❔ XX | 🔒 VLESS | @angus_vpn [11]",
+                "❔ XX | 🔒 VLESS | @binner_iran [33]",
+                "❔ XX | 🔒 VLESS | @binner_iran [40]",
+                "❔ XX | 🔒 VLESS | @filtershekan_channel [6]",
+                "❔ XX | 🔒 VLESS | @mrclud [9]",
+                "❔ XX | 🔒 VLESS | @mrclud [11]",
+                "❔ XX | 🔒 VLESS | @mrclud [13]",
+                "❔ XX | 🔒 VLESS | @mrclud [18]",
+                "❔ XX | 🔒 VLESS | @mrclud [20]",
+                "❔ XX | 🔒 VLESS | @mrclud [22]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -210,7 +212,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
+            "tag": "❔ XX | 🔒 VLESS | @NamiraConfigs [60]",
             "type": "vless",
             "server": "157.245.24.38",
             "server_port": 2087,
@@ -233,7 +235,37 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
+            "tag": "❔ XX | 🔒 VLESS | @angus_vpn [11]",
+            "type": "vless",
+            "server": "188.245.51.64",
+            "server_port": 52186,
+            "uuid": "6fdbd459-a03d-4051-b91d-f30f20797256",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "qbnOCNfgeXJh8ovE6FfFNKt4em77iI-oxsQLhuiYqGI",
+                    "short_id": "ef1866c1"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "google.com"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @binner_iran [33]",
             "type": "vless",
             "server": "77.83.175.25",
             "server_port": 43644,
@@ -256,7 +288,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
+            "tag": "❔ XX | 🔒 VLESS | @binner_iran [40]",
             "type": "vless",
             "server": "146.19.90.2",
             "server_port": 443,
@@ -279,7 +311,7 @@
             }
         },
         {
-            "tag": "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [6]",
+            "tag": "❔ XX | 🔒 VLESS | @filtershekan_channel [6]",
             "type": "vless",
             "server": "103.175.79.10",
             "server_port": 443,
@@ -302,7 +334,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
+            "tag": "❔ XX | 🔒 VLESS | @mrclud [9]",
             "type": "vless",
             "server": "51.195.169.100",
             "server_port": 443,
@@ -325,7 +357,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
+            "tag": "❔ XX | 🔒 VLESS | @mrclud [11]",
             "type": "vless",
             "server": "51.89.74.164",
             "server_port": 443,
@@ -348,7 +380,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
+            "tag": "❔ XX | 🔒 VLESS | @mrclud [13]",
             "type": "vless",
             "server": "5.135.21.191",
             "server_port": 8880,
@@ -371,7 +403,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
+            "tag": "❔ XX | 🔒 VLESS | @mrclud [18]",
             "type": "vless",
             "server": "51.195.169.100",
             "server_port": 443,
@@ -394,7 +426,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
+            "tag": "❔ XX | 🔒 VLESS | @mrclud [20]",
             "type": "vless",
             "server": "51.89.74.164",
             "server_port": 443,
@@ -417,7 +449,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
+            "tag": "❔ XX | 🔒 VLESS | @mrclud [22]",
             "type": "vless",
             "server": "5.135.21.191",
             "server_port": 8880,
@@ -440,7 +472,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "152.53.142.189",
             "server_port": 11487,
