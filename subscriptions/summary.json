@@ -1,6 +1,6 @@
 {
     "meta": {
-        "last_updated": "2025-12-06T02:18:24+00:00",
+        "last_updated": "2025-12-06T13:05:24+00:00",
         "author": "itsyebekhe/PSG"
     },
     "sources": {
@@ -10,37 +10,36 @@
         "removed_in_cleanup": 0
     },
     "configs": {
-        "total_extracted_raw": 501,
-        "total_valid_processed": 430,
+        "total_extracted_raw": 499,
+        "total_valid_processed": 428,
         "breakdown_by_protocol": {
             "ss": 58,
-            "vless": 304,
+            "vless": 302,
             "vmess": 46,
             "trojan": 22
         }
     },
     "outputs": {
-        "main_aggregate_size": 333,
+        "main_aggregate_size": 332,
         "location_files_created": 27,
         "channel_files_created": 32,
         "country_distribution": {
-            "CF": 105,
-            "XX": 83,
-            "US": 56,
-            "DE": 42,
-            "FR": 26,
+            "CF": 104,
+            "XX": 86,
+            "US": 52,
+            "DE": 45,
+            "FR": 24,
+            "NL": 16,
             "IR": 16,
-            "GB": 14,
-            "NL": 13,
-            "FI": 12,
-            "RU": 11,
+            "GB": 15,
+            "FI": 11,
+            "RU": 9,
             "TR": 6,
             "CA": 5,
             "SE": 5,
             "PL": 5,
             "HK": 4,
             "CH": 3,
-            "LV": 3,
             "IN": 2,
             "PK": 2,
             "AU": 2,
@@ -56,6 +55,7 @@
             "IE": 1,
             "BZ": 1,
             "ZA": 1,
+            "LV": 1,
             "ID": 1,
             "AM": 1,
             "IT": 1
