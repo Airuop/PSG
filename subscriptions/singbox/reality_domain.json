@@ -107,8 +107,9 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -135,8 +136,9 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -569,11 +571,11 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
-            "uuid": "28212275-7589-4993-8075-fa415c6b2d1e",
+            "uuid": "4a0d8c6e-de69-4285-a028-aca1dcc522f0",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -592,26 +594,53 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
-            "server": "hitrafa.top",
-            "server_port": 6013,
-            "uuid": "c1a46bb0-029b-4a4e-bdc0-26ee9993f750",
+            "server": "Evay-vpn.octacityroleplay.ir",
+            "server_port": 1122,
+            "uuid": "a1857994-eaac-4cea-bc12-69e6fecba119",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "dropbox.com",
+                "server_name": "www.slideshare.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "PA5o3z2JEgSZQNKifILMs6kxPlihWXFFkw4KtlQ6WXM",
-                    "short_id": "16562e6057229b7a"
+                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
+                    "short_id": "4c7b0ea36fc7f0c4"
                 }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "xtlsresponse.revolutiontime.vigilante.ir",
+            "server_port": 6842,
+            "uuid": "97b5a003-e9cd-4688-bc9b-888b136e1e36",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "slack.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4",
+                    "short_id": "934e93fea74aeefe"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048"
             }
         },
         {
