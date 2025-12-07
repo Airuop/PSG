@@ -92,8 +92,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -116,8 +115,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -495,30 +493,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "216.106.176.106",
-            "server_port": 8443,
-            "uuid": "f7af49ea-f51f-4c71-9e12-0c2f3085f3b8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "NR1UvDvyRqeRmYG1MRf-Ie78a97cmYvI_MAVpmzsexk",
-                    "short_id": "1c588428648ffc71"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "142.171.217.19",
             "server_port": 29028,
