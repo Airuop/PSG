@@ -85,12 +85,12 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇸🇪 SE | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [2]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [11]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
+                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [1]",
+                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -110,12 +110,12 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇸🇪 SE | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [2]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [11]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
+                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [1]",
+                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -273,7 +273,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [4]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
@@ -282,7 +282,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [2]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [1]",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
@@ -291,11 +291,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "🚩 CF | 🔓 VLESS | @v2rayvpn2 [9]",
+            "type": "vless",
+            "server": "DEADSEECtelegram.slimshopboyss.ir",
+            "server_port": 8080,
+            "uuid": "b675d1f0-2968-4f3d-fd14-7d466841b0d1",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
-            "uuid": "f02506a5-2685-4ec8-bd4e-70f53002bc02",
+            "uuid": "98170725-364d-4c0f-be18-16945dec0fed",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -314,43 +323,34 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "masterserver1.huqpmfood.ir",
-            "server_port": 1331,
-            "uuid": "8d01e354-8dfc-45f2-99d2-4dfb2375948f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "qSCPbuLS9FrLTRzIbKmD3vNOnsk_ZUxmjPywZXeM_Co",
-                    "short_id": "077dc29a23d311f2"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [11]",
-            "type": "vless",
-            "server": "am288.amin-1.ir",
-            "server_port": 2082,
-            "uuid": "9916e2f5-1f9e-402d-b731-10a455761368",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
-            "uuid": "98170725-364d-4c0f-be18-16945dec0fed",
+            "uuid": "20f1f2db-e221-46d4-acd7-64d3814658f8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.slideshare.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
+                    "short_id": "4c7b0ea36fc7f0c4"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "Evay-vpn.octacityroleplay.ir",
+            "server_port": 1122,
+            "uuid": "20f1f2db-e221-46d4-acd7-64d3814658f8",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {

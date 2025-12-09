@@ -93,7 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [10]",
+                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [9]",
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
                 "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [6]",
@@ -103,8 +103,7 @@
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [10]"
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -116,7 +115,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
-                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [10]",
+                "🇩🇪 DE | 🔒 VLESS | @angus_vpn [9]",
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
                 "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [6]",
@@ -126,8 +125,7 @@
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [10]"
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [22]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -237,7 +235,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [10]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @angus_vpn [9]",
             "type": "vless",
             "server": "188.245.51.64",
             "server_port": 52186,
@@ -497,29 +495,6 @@
                     "enabled": true,
                     "public_key": "JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc",
                     "short_id": "8b62ab46"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "94.131.108.49",
-            "server_port": 443,
-            "uuid": "id8565675152",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "5cHHMWqr2Ty-RJiYIXpezH7446JR9Y1a19mYHP7P6Bc",
-                    "short_id": "0f1ac6f52ebbb2f2"
                 }
             }
         }
