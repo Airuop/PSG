@@ -109,6 +109,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -137,6 +138,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -573,7 +575,7 @@
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
-            "uuid": "20f1f2db-e221-46d4-acd7-64d3814658f8",
+            "uuid": "98170725-364d-4c0f-be18-16945dec0fed",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -596,7 +598,30 @@
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
-            "uuid": "20f1f2db-e221-46d4-acd7-64d3814658f8",
+            "uuid": "7c435977-b45f-45c7-9857-ccc81515800f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.slideshare.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
+                    "short_id": "4c7b0ea36fc7f0c4"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "Evay-vpn.octacityroleplay.ir",
+            "server_port": 1122,
+            "uuid": "7c435977-b45f-45c7-9857-ccc81515800f",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {

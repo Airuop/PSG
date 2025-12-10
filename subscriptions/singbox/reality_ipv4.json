@@ -104,9 +104,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [16]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpnplusee_free [19]"
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇨🇿 CZ | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -129,9 +130,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [16]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpnplusee_free [19]"
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇨🇿 CZ | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -505,7 +507,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "82.152.98.15",
             "server_port": 9640,
@@ -528,7 +530,7 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "89.23.123.15",
             "server_port": 4443,
@@ -551,7 +553,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpnplusee_free [19]",
+            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "192.144.57.132",
             "server_port": 4443,
@@ -571,6 +573,33 @@
                     "public_key": "5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE",
                     "short_id": "aa7e96542880027a"
                 }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "91.186.213.137",
+            "server_port": 8443,
+            "uuid": "7484898f-de96-4ee8-869d-f9aac5a670bd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "M3dLa85Wf1BZXWDmubGiwKq6H_ALmeMDT5oSvStmZVw",
+                    "short_id": "77"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY"
             }
         }
     ],
