@@ -107,9 +107,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -136,9 +135,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -571,16 +569,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
-            "uuid": "98170725-364d-4c0f-be18-16945dec0fed",
+            "uuid": "a38f5e9f-dcc7-4c65-942e-e4db36672e37",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.slideshare.net",
+                "server_name": "www.zhaket.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -594,39 +592,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
-            "uuid": "7c435977-b45f-45c7-9857-ccc81515800f",
+            "uuid": "a38f5e9f-dcc7-4c65-942e-e4db36672e37",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.slideshare.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
-                    "short_id": "4c7b0ea36fc7f0c4"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "Evay-vpn.octacityroleplay.ir",
-            "server_port": 1122,
-            "uuid": "7c435977-b45f-45c7-9857-ccc81515800f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.slideshare.net",
+                "server_name": "www.zhaket.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
