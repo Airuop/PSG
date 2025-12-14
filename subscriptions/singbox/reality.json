@@ -93,7 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 VLESS | @NamiraConfigs [60]",
-                "❔ XX | 🔒 VLESS | @angus_vpn [9]",
+                "❔ XX | 🔒 VLESS | @angus_vpn [8]",
                 "❔ XX | 🔒 VLESS | @binner_iran [33]",
                 "❔ XX | 🔒 VLESS | @binner_iran [40]",
                 "❔ XX | 🔒 VLESS | @filtershekan_channel [6]",
@@ -105,10 +105,9 @@
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
                 "❔ XX | 🔒 VLESS | @v2rayvpn2 [8]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
                 "❔ XX | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
@@ -123,8 +122,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [14]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -137,7 +136,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 VLESS | @NamiraConfigs [60]",
-                "❔ XX | 🔒 VLESS | @angus_vpn [9]",
+                "❔ XX | 🔒 VLESS | @angus_vpn [8]",
                 "❔ XX | 🔒 VLESS | @binner_iran [33]",
                 "❔ XX | 🔒 VLESS | @binner_iran [40]",
                 "❔ XX | 🔒 VLESS | @filtershekan_channel [6]",
@@ -149,10 +148,9 @@
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
                 "❔ XX | 🔒 VLESS | @v2rayvpn2 [8]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
                 "❔ XX | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
@@ -167,8 +165,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [14]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -279,7 +277,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @angus_vpn [9]",
+            "tag": "❔ XX | 🔒 VLESS | @angus_vpn [8]",
             "type": "vless",
             "server": "188.245.51.64",
             "server_port": 52186,
@@ -566,34 +564,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "91.186.213.137",
-            "server_port": 8443,
-            "uuid": "02bbff05-2456-4506-8e7f-2647b1d881e0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "M3dLa85Wf1BZXWDmubGiwKq6H_ALmeMDT5oSvStmZVw",
-                    "short_id": "77"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY"
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "91.186.213.137",
             "server_port": 8443,
@@ -620,7 +591,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "46.33.10.106",
             "server_port": 8443,
@@ -643,7 +614,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
             "server": "213.159.76.99",
             "server_port": 443,
@@ -988,7 +959,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
@@ -1011,7 +982,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
