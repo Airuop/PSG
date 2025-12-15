@@ -92,8 +92,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [7]",
-                "🇦🇲 AM | 🔒 VLESS | @vpnplusee_free [2]"
+                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [7]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -116,8 +115,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [7]",
-                "🇦🇲 AM | 🔒 VLESS | @vpnplusee_free [2]"
+                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [7]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -514,29 +512,6 @@
                     "enabled": true,
                     "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
                     "short_id": "16895459a2c7768d"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇲 AM | 🔒 VLESS | @vpnplusee_free [2]",
-            "type": "vless",
-            "server": "213.159.76.99",
-            "server_port": 443,
-            "uuid": "ba2d81c4-7df2-e2b2-1d8c-fc28406641aa",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.who.int",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BsewEHy1ico5q_NPVe-kAn-cCNBtrGjMLtlU9rI6qzg",
-                    "short_id": "a6087510424627c3"
                 }
             }
         }
