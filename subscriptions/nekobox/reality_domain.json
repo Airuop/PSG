@@ -80,7 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
+                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -93,8 +93,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -106,7 +105,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
+                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -119,8 +118,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -212,7 +210,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
             "type": "vless",
             "server": "russia.whitenet.online",
             "server_port": 443,
@@ -511,30 +509,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [2]",
-            "type": "vless",
-            "server": "Evay-vpn.octacityroleplay.ir",
-            "server_port": 1122,
-            "uuid": "334aabfd-b70c-4007-aa71-2200fe48592c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
-                    "short_id": "4c7b0ea36fc7f0c4"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
