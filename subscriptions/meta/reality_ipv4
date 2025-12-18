@@ -37,6 +37,8 @@ proxies:
   - {"name":"🇩🇪 DE | 🔒 VLESS | @mrclud [20]","type":"vless","server":"51.89.74.164","port":443,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko","short-id":"a311b9f4"}}
   - {"name":"🇫🇷 FR | 🔒 VLESS | @mrclud [22]","type":"vless","server":"5.135.21.191","port":8880,"uuid":"e02208b6-2626-49ef-8b93-0d80ed33f4ac","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc","short-id":"8b62ab46"}}
   - {"name":"🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [5]","type":"vless","server":"66.90.90.10","port":443,"uuid":"fd84e1b2-b3f7-4d8a-bbff-fe2d9065d076","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"wa.sfasti.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8","short-id":"16895459a2c7768d"}}
+  - {"name":"🇺🇸 US | 🔒 VLESS | @vpnplusee_free [13]","type":"vless","server":"104.145.210.155","port":443,"uuid":"a0e804c3-55e2-4d51-82c7-33976d6748cb","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"google.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU","short-id":"9eb31eb7572c0882"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [14]","type":"vless","server":"89.34.219.108","port":56948,"uuid":"0ea84d1f-2687-467d-97dd-ed8d5e8f3f42","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"web.max.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"YgFElAQlZGdZOaKuxv-SZX8HWBFtdEj5Q-rc7l93VgA","short-id":"3e81ed4b"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -64,6 +66,8 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 VLESS | @mrclud [20]'
       - '🇫🇷 FR | 🔒 VLESS | @mrclud [22]'
       - '🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [5]'
+      - '🇺🇸 US | 🔒 VLESS | @vpnplusee_free [13]'
+      - '🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [14]'
 
   - name: 🌍 Global Media
     type: select

@@ -92,11 +92,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
-                "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
-                "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
-                "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [46]"
+                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]",
+                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]",
+                "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
+                "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]",
+                "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -107,11 +107,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
-                "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
-                "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
-                "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
-                "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [46]"
+                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]",
+                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]",
+                "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
+                "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]",
+                "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -198,7 +198,23 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34]",
+            "tag": "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]",
+            "type": "trojan",
+            "server": "217.182.76.235",
+            "server_port": 443,
+            "password": "05003b7a-8f03-41d5-b696-0119e8376a20",
+            "tls": {
+                "enabled": true,
+                "server_name": "t6.teslacdn2.live",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]",
             "type": "trojan",
             "server": "145.239.237.92",
             "server_port": 443,
@@ -214,7 +230,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]",
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
             "type": "trojan",
             "server": "146.19.215.81",
             "server_port": 443,
@@ -230,7 +246,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44]",
+            "tag": "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]",
             "type": "trojan",
             "server": "15.222.9.61",
             "server_port": 22222,
@@ -246,23 +262,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45]",
-            "type": "trojan",
-            "server": "51.91.11.29",
-            "server_port": 80,
-            "password": "e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad",
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [46]",
+            "tag": "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]",
             "type": "trojan",
             "server": "104.149.155.13",
             "server_port": 443,

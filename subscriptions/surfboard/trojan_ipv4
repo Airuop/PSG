@@ -9,16 +9,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34] = trojan, 145.239.237.92, 443, password = f0532122-948c-46cf-a392-15cc8233d1c0, skip-cert-verify = false
-🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43] = trojan, 146.19.215.81, 443, password = 769c2da7-add3-42e8-a03c-07be9fcf483c, skip-cert-verify = false
-🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44] = trojan, 15.222.9.61, 22222, password = telegram-id-directvpn, skip-cert-verify = false
-🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45] = trojan, 51.91.11.29, 80, password = e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad, skip-cert-verify = false
-🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [46] = trojan, 104.149.155.13, 443, password = 79c935c0-27dc-4383-b307-dcac1b8e5509, skip-cert-verify = false
+🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48] = trojan, 217.182.76.235, 443, password = 05003b7a-8f03-41d5-b696-0119e8376a20, skip-cert-verify = false
+🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51] = trojan, 145.239.237.92, 443, password = f0532122-948c-46cf-a392-15cc8233d1c0, skip-cert-verify = false
+🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60] = trojan, 146.19.215.81, 443, password = 769c2da7-add3-42e8-a03c-07be9fcf483c, skip-cert-verify = false
+🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61] = trojan, 15.222.9.61, 22222, password = telegram-id-directvpn, skip-cert-verify = false
+🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62] = trojan, 104.149.155.13, 443, password = 79c935c0-27dc-4383-b307-dcac1b8e5509, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44], 🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [46]
-PSG-AUTO = url-test, 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44], 🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [46]
-PSG-FALLBACK = fallback, 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [34], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [44], 🇫🇷 FR | 🔒 TROJAN | @v2rayngconfig [45], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [46]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]
+PSG-AUTO = url-test, 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]
+PSG-FALLBACK = fallback, 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]
 
 [Rule]
 GEOIP,IR,DIRECT
