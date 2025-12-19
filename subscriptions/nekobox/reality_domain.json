@@ -92,9 +92,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -118,9 +117,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -488,30 +486,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "Evay-vpn.octacityroleplay.ir",
-            "server_port": 1122,
-            "uuid": "c294a5f8-2aa8-41cf-a596-420df7bd7e99",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI",
-                    "short_id": "4c7b0ea36fc7f0c4"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "ch1.tunnely.ru",
             "server_port": 443,
@@ -534,7 +509,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
