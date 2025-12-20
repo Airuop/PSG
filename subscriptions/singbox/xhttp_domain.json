@@ -95,14 +95,12 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [31]",
                 "❔ XX | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
-                "🇸🇪 SE | 🔓 VLESS | @binner_iran [48]",
+                "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
-                "🇮🇪 IE | 🔓 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [7]",
-                "🇮🇹 IT | 🔓 VLESS | @vpnplusee_free [8]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
+                "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [3]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
                 "🇸🇪 SE | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -118,14 +116,12 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [31]",
                 "❔ XX | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
-                "🇸🇪 SE | 🔓 VLESS | @binner_iran [48]",
+                "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [4]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
-                "🇮🇪 IE | 🔓 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [7]",
-                "🇮🇹 IT | 🔓 VLESS | @vpnplusee_free [8]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
+                "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [3]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
                 "🇸🇪 SE | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -259,7 +255,7 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔓 VLESS | @binner_iran [48]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
             "type": "vless",
             "server": "EXPRESSVPN_420.fAst.hosting-ip.com",
             "server_port": 80,
@@ -277,16 +273,16 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [9]",
             "type": "vless",
-            "server": "DEADSEECtelegram.slimshopboyss.ir",
-            "server_port": 8080,
-            "uuid": "b675d1f0-2968-4f3d-fd14-7d466841b0d1",
+            "server": "am288.amin-1.ir",
+            "server_port": 2082,
+            "uuid": "c1acd4f0-27a3-4b9d-f193-0389b2ea2f48",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [4]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [3]",
             "type": "vless",
             "server": "nla.tunnelguard.ru",
             "server_port": 443,
@@ -304,11 +300,20 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [1]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
+            "type": "vless",
+            "server": "ip.fastlynew.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-CONFiGLiNE-98",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "Evay-vpn.octacityroleplay.ir",
             "server_port": 1122,
-            "uuid": "97138d81-028f-4014-ae1a-036f7bd4c3b7",
+            "uuid": "04737b81-cde1-4d6c-883d-b0258def4ab2",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -325,33 +330,6 @@
                     "short_id": "4c7b0ea36fc7f0c4"
                 }
             }
-        },
-        {
-            "tag": "🇮🇪 IE | 🔓 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "Free.fast199.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "21090cc5-198c-44a8-cdf5-2f85355528b4",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "am288.amin-1.ir",
-            "server_port": 2082,
-            "uuid": "a093ee88-9aef-43d3-bf7a-e84d992e7f7f",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇮🇹 IT | 🔓 VLESS | @vpnplusee_free [8]",
-            "type": "vless",
-            "server": "ip.fastlynew.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "TELEGRAM-CONFiGLiNE-98",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇸🇪 SE | 🔓 VLESS | @vpnstable [4]",
