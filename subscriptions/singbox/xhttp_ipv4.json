@@ -92,9 +92,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
-                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
+                "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
+                "❔ XX | 🔓 VLESS | @mehrosaboran [11]",
+                "❔ XX | 🔓 VLESS | @minovpnch [14]",
+                "❔ XX | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -105,9 +106,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
-                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
+                "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
+                "❔ XX | 🔓 VLESS | @mehrosaboran [11]",
+                "❔ XX | 🔓 VLESS | @minovpnch [14]",
+                "❔ XX | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -194,7 +196,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
+            "tag": "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
             "type": "vless",
             "server": "51.75.88.197",
             "server_port": 443,
@@ -212,7 +214,16 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
+            "tag": "❔ XX | 🔓 VLESS | @mehrosaboran [11]",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "c24a614c-a28b-4beb-b984-41e77f4d552f",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @minovpnch [14]",
             "type": "vless",
             "server": "151.101.204.190",
             "server_port": 80,
@@ -221,7 +232,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+            "tag": "❔ XX | 🔓 VLESS | @minovpnch [15]",
             "type": "vless",
             "server": "185.18.250.67",
             "server_port": 8080,
