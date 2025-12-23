@@ -118,6 +118,7 @@
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [11]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [12]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [13]",
+                "🚩 CF | 🔓 VLESS | @gh_v2rayng [14]",
                 "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [2]",
                 "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [3]",
                 "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
@@ -165,10 +166,13 @@
                 "🚩 CF | 🔓 VLESS | @starv2rayn [12]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [15]",
                 "❔ XX | 🔓 VLESS | @v2rayngc [17]",
+                "❔ XX | 🔓 VLESS | @v2rayvpn2 [5]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
@@ -223,6 +227,7 @@
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [11]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [12]",
                 "🚩 CF | 🔓 VLESS | @gh_v2rayng [13]",
+                "🚩 CF | 🔓 VLESS | @gh_v2rayng [14]",
                 "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [2]",
                 "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [3]",
                 "❔ XX | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
@@ -270,10 +275,13 @@
                 "🚩 CF | 🔓 VLESS | @starv2rayn [12]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [15]",
                 "❔ XX | 🔓 VLESS | @v2rayngc [17]",
+                "❔ XX | 🔓 VLESS | @v2rayvpn2 [5]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
@@ -1060,6 +1068,22 @@
             "server": "172.66.156.81",
             "server_port": 80,
             "uuid": "ea62d3af-a6a5-43ab-895a-7237448815ed",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "172.66.156.81"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @gh_v2rayng [14]",
+            "type": "vless",
+            "server": "172.66.156.81",
+            "server_port": 80,
+            "uuid": "efedc1df-739e-4869-b41c-558f3b9fc53f",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -1908,6 +1932,15 @@
             }
         },
         {
+            "tag": "❔ XX | 🔓 VLESS | @v2rayvpn2 [5]",
+            "type": "vless",
+            "server": "151.101.25.242",
+            "server_port": 80,
+            "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
             "type": "vless",
             "server": "190.93.244.51",
@@ -1933,55 +1966,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "65.109.198.23",
-            "server_port": 53330,
-            "uuid": "875d9d7a-ddba-48b2-bcb5-0324da0b93b2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "65.109.198.23"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "91.107.190.249",
-            "server_port": 2095,
-            "uuid": "e25f83e8-cdaf-46d8-beb0-01a5e57b2ef2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@hashmakvpn 🇩🇪",
-                "headers": {
-                    "Host": "91.107.190.249"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "91.107.190.249",
-            "server_port": 2052,
-            "uuid": "99bfccdb-c4ac-4add-e42c-cc7172970dab",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@hashmakvpn 🇩🇪",
-                "headers": {
-                    "Host": "91.107.190.249"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "179.61.251.78",
             "server_port": 443,
@@ -2004,7 +1989,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "45.85.118.241",
             "server_port": 443,
@@ -2026,7 +2011,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "45.85.118.241",
             "server_port": 443,
@@ -2048,6 +2033,130 @@
                 "headers": {
                     "Host": "join-to-oxnet-ch-network-cdfake.userargo1723.cf"
                 }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
+            "type": "vless",
+            "server": "65.109.198.23",
+            "server_port": 53330,
+            "uuid": "14be96d8-843c-45f9-935d-aeabeb44a663",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "65.109.198.23"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+            "type": "vless",
+            "server": "51.250.75.169",
+            "server_port": 444,
+            "uuid": "c495cf08-e046-4311-aa4b-82cc16576992",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ads.x5.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM",
+                    "short_id": "0614386789abcdef"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ads.x5.ru"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "51.250.66.217",
+            "server_port": 444,
+            "uuid": "c495cf08-e046-4311-aa4b-82cc16576992",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ads.x5.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM",
+                    "short_id": "0614386789abcdef"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ads.x5.ru"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+            "type": "vless",
+            "server": "51.250.75.169",
+            "server_port": 444,
+            "uuid": "c495cf08-e046-4311-aa4b-82cc16576992",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ads.x5.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM",
+                    "short_id": "0614386789abcdef"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ads.x5.ru"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+            "type": "vless",
+            "server": "51.250.66.217",
+            "server_port": 446,
+            "uuid": "c495cf08-e046-4311-aa4b-82cc16576992",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ads.x5.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8",
+                    "short_id": "0512567389abcdef"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ads.x5.ru"
             }
         },
         {

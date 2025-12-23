@@ -1,6 +1,6 @@
 {
     "meta": {
-        "last_updated": "2025-12-23T02:31:28+00:00",
+        "last_updated": "2025-12-23T13:14:07+00:00",
         "author": "itsyebekhe/PSG"
     },
     "sources": {
@@ -10,22 +10,22 @@
         "removed_in_cleanup": 0
     },
     "configs": {
-        "total_extracted_raw": 504,
-        "total_valid_processed": 418,
+        "total_extracted_raw": 505,
+        "total_valid_processed": 420,
         "breakdown_by_protocol": {
             "ss": 55,
-            "vless": 292,
+            "vless": 294,
             "vmess": 48,
             "trojan": 23
         }
     },
     "outputs": {
-        "main_aggregate_size": 323,
+        "main_aggregate_size": 327,
         "location_files_created": 2,
         "channel_files_created": 32,
         "country_distribution": {
-            "XX": 301,
-            "CF": 108,
+            "XX": 302,
+            "CF": 109,
             "US": 7,
             "CH": 2
         }

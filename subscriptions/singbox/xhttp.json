@@ -99,13 +99,13 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
                 "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔓 VLESS | @vpnstable [4]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
                 "❔ XX | 🔓 VLESS | @mehrosaboran [11]",
                 "❔ XX | 🔓 VLESS | @minovpnch [14]",
-                "❔ XX | 🔓 VLESS | @minovpnch [15]"
+                "❔ XX | 🔓 VLESS | @minovpnch [15]",
+                "❔ XX | 🔓 VLESS | @v2rayvpn2 [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -123,13 +123,13 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
                 "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔓 VLESS | @vpnstable [4]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
                 "❔ XX | 🔓 VLESS | @mehrosaboran [11]",
                 "❔ XX | 🔓 VLESS | @minovpnch [14]",
-                "❔ XX | 🔓 VLESS | @minovpnch [15]"
+                "❔ XX | 🔓 VLESS | @minovpnch [15]",
+                "❔ XX | 🔓 VLESS | @v2rayvpn2 [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -306,15 +306,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "Free.fast199.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "f70c6ca8-393d-44be-827d-5df88978ce0b",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "❔ XX | 🔓 VLESS | @vpnstable [4]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
@@ -374,6 +365,15 @@
             "server": "185.18.250.67",
             "server_port": 8080,
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @v2rayvpn2 [5]",
+            "type": "vless",
+            "server": "151.101.25.242",
+            "server_port": 80,
+            "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
             "flow": "",
             "packet_encoding": "xudp"
         }
