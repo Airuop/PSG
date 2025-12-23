@@ -103,7 +103,8 @@
                 "❔ XX | 🔒 VLESS | @mrclud [13]",
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
-                "❔ XX | 🔒 VLESS | @mrclud [22]"
+                "❔ XX | 🔒 VLESS | @mrclud [22]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -125,7 +126,8 @@
                 "❔ XX | 🔒 VLESS | @mrclud [13]",
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
-                "❔ XX | 🔒 VLESS | @mrclud [22]"
+                "❔ XX | 🔒 VLESS | @mrclud [22]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -495,6 +497,29 @@
                     "enabled": true,
                     "public_key": "JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc",
                     "short_id": "8b62ab46"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "179.61.251.78",
+            "server_port": 443,
+            "uuid": "fabc8a38-76c5-48fe-ada7-a9e52dd16225",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw",
+                    "short_id": "0ff58d687a4c6c"
                 }
             }
         }

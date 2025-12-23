@@ -120,8 +120,7 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [9]",
                 "❔ XX | 🔒 VLESS | @megavpn_link [10]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [11]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
                 "🚩 CF | 🔒 VLESS | @mrclud [16]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -186,13 +185,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [14]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @vpnstable [2]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [3]",
                 "❔ XX | 🔓 VLESS | @vpnstable [4]",
@@ -253,8 +249,7 @@
                 "❔ XX | 🔓 VLESS | @megavpn_link [9]",
                 "❔ XX | 🔒 VLESS | @megavpn_link [10]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [11]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
-                "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
+                "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
                 "🚩 CF | 🔒 VLESS | @mrclud [16]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -319,13 +314,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [13]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [14]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @vpnstable [2]",
                 "🚩 CF | 🔒 VLESS | @vpnstable [3]",
                 "❔ XX | 🔓 VLESS | @vpnstable [4]",
@@ -1187,23 +1179,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [2]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2095,
-            "uuid": "9e871c22-c0e1-44a0-c821-c19c664eac88",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [8]",
+            "tag": "🚩 CF | 🔓 VLESS | @mehrosaboran [6]",
             "type": "vless",
             "server": "am288.amin-1.ir",
             "server_port": 2082,
@@ -2409,57 +2385,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
-            "type": "vless",
-            "server": "usaa.fastlynew.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "be894bb1-69f0-4fcd-d3e1-7858b74b906e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/telegeam-@v2_city--?ed=2048",
-                "headers": {
-                    "Host": "usaa.fastlynew.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "telegram-id-Arfilter",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "w.arfilter2.blog",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048",
-                "headers": {
-                    "Host": "w.arfilter2.blog"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -2484,7 +2410,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "usaa.fastlynew.hosting-ip.com",
             "server_port": 80,
@@ -2500,7 +2426,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "avval.ir",
             "server_port": 80,
@@ -2516,7 +2442,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "Free.fast199.hosting-ip.com",
             "server_port": 80,
