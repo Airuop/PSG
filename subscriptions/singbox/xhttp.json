@@ -98,14 +98,15 @@
                 "🇮🇪 IE | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [1]",
                 "🇸🇪 SE | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [10]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [5]"
+                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [4]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -122,14 +123,15 @@
                 "🇮🇪 IE | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @mehrosaboran [5]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [1]",
                 "🇸🇪 SE | 🔓 VLESS | @vpnstable [4]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [11]",
                 "🇺🇸 US | 🔓 VLESS | @mehrosaboran [10]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [5]"
+                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [4]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -288,24 +290,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [1]",
-            "type": "vless",
-            "server": "nla.tunnelguard.ru",
-            "server_port": 443,
-            "uuid": "e74dc1a5-7d48-400b-93c6-efb860b706fa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "nla.tunnelguard.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇸🇪 SE | 🔓 VLESS | @vpnstable [4]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
@@ -369,11 +353,29 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [5]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [4]",
             "type": "vless",
             "server": "151.101.25.242",
             "server_port": 80,
             "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "151.101.25.242",
+            "server_port": 80,
+            "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]",
+            "type": "vless",
+            "server": "151.101.25.242",
+            "server_port": 80,
+            "uuid": "2a509678-3795-4b13-b425-70741c3f5ca3",
             "flow": "",
             "packet_encoding": "xudp"
         }
