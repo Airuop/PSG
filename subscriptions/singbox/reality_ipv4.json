@@ -104,10 +104,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [1]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [5]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [8]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -130,10 +127,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [1]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [5]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [8]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -507,111 +501,30 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [1]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
-            "server": "51.250.66.217",
-            "server_port": 446,
-            "uuid": "c495cf08-e046-4311-aa4b-82cc16576992",
+            "server": "31.222.238.127",
+            "server_port": 8043,
+            "uuid": "telegram-id-ArV2ray",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ads.x5.ru",
+                "server_name": "maps.google.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": null
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8",
-                    "short_id": "0512567389abcdef"
+                    "public_key": "uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ",
+                    "short_id": "7a0bea4731381dda"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "ads.x5.ru"
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "51.250.75.169",
-            "server_port": 444,
-            "uuid": "c495cf08-e046-4311-aa4b-82cc16576992",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ads.x5.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM",
-                    "short_id": "0614386789abcdef"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ads.x5.ru"
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "51.250.66.217",
-            "server_port": 444,
-            "uuid": "c495cf08-e046-4311-aa4b-82cc16576992",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ads.x5.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM",
-                    "short_id": "0614386789abcdef"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ads.x5.ru"
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "51.250.75.169",
-            "server_port": 444,
-            "uuid": "c495cf08-e046-4311-aa4b-82cc16576992",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ads.x5.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM",
-                    "short_id": "0614386789abcdef"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ads.x5.ru"
+                "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray"
             }
         }
     ],
