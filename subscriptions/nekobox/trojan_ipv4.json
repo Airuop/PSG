@@ -85,7 +85,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]",
-                "🚩 CF | 🔒 TROJAN | @v2rayvpn2 [2]"
+                "🚩 CF | 🔒 TROJAN | @v2rayvpn2 [1]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -101,7 +101,7 @@
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
                 "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]",
-                "🚩 CF | 🔒 TROJAN | @v2rayvpn2 [2]"
+                "🚩 CF | 🔒 TROJAN | @v2rayvpn2 [1]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -272,7 +272,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @v2rayvpn2 [2]",
+            "tag": "🚩 CF | 🔒 TROJAN | @v2rayvpn2 [1]",
             "type": "trojan",
             "server": "172.67.134.185",
             "server_port": 443,
