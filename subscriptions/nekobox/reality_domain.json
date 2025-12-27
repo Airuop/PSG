@@ -92,7 +92,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -116,7 +116,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -484,16 +484,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
-            "server": "GERMANY.TORPROSPEED.IR",
-            "server_port": 5890,
-            "uuid": "3f6bc369-2431-4761-821a-51120b5c60df",
+            "server": "direct-snap.generator-filmmaker.com",
+            "server_port": 443,
+            "uuid": "bd0a27a3-2955-4ae4-b72d-d50eb2f5cb49",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.slideshare.net",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -501,13 +501,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "OFvAJ_DLwS-628oyg8UesadYl-a8hJljcSfd9Ri3Rmo",
-                    "short_id": "0506143c33da39f6"
+                    "public_key": "EH7eTULdQ6Egj8Xt8wmmcsnIbz1UNe4-Xc9NdaDhbgA",
+                    "short_id": "88"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "xyz"
             }
         },
         {

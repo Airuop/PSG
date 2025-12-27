@@ -92,10 +92,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [4]",
                 "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇯🇵 JP | 🔒 VLESS | @vpnplusee_free [7]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]",
-                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -108,7 +108,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -132,10 +132,10 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [4]",
                 "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇯🇵 JP | 🔒 VLESS | @vpnplusee_free [7]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]",
-                "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
@@ -148,7 +148,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [13]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -527,36 +527,55 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
-            "server": "31.222.238.127",
-            "server_port": 8043,
-            "uuid": "telegram-id-ArV2ray",
+            "server": "51.250.73.31",
+            "server_port": 443,
+            "uuid": "64bc8910-bc0f-453e-b3f3-a101a5dce03e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "maps.google.com",
+                "server_name": "ads.x5.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ",
-                    "short_id": "7a0bea4731381dda"
+                    "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
+                    "short_id": "87cc0414902bee2d"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray"
             }
         },
         {
-            "tag": "🇯🇵 JP | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
-            "server": "195.78.49.158",
+            "server": "51.250.37.12",
+            "server_port": 443,
+            "uuid": "0bca744d-0790-426e-bcfa-ad994a58b559",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "mts.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "IlrYb-Co9Zy_vdRwG6BFTLOUqmv4CBM1Ro6YtHo-WVM",
+                    "short_id": "484b0d90522f0433"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
+            "type": "vless",
+            "server": "103.80.86.254",
             "server_port": 4443,
             "uuid": "f228db24-3602-4dd2-bdec-2d7faa61e70b",
             "flow": "xtls-rprx-vision",
@@ -577,16 +596,16 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "89.23.107.188",
+            "server": "84.201.139.151",
             "server_port": 443,
-            "uuid": "TMG_119293995",
+            "uuid": "e5017995-2093-491b-a0fa-d4890782d42a",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.amazon.com",
+                "server_name": "api-maps.yandex.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -594,31 +613,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "_fLNb14FxS25F7oKOOeLGi4W0VV7FZoJyAPAOw2mqQc",
-                    "short_id": "c7196c06b2"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [15]",
-            "type": "vless",
-            "server": "78.159.131.51",
-            "server_port": 443,
-            "uuid": "0f6c83bc-34ba-4ca1-96e6-08b3620cbce5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.samsung.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw",
-                    "short_id": "7d498dcd"
+                    "public_key": "5t7fY--rTZaEDvoEI_3A0uPlBQmFaZe8frAarvzdazM",
+                    "short_id": "79a5e503d227e5c4"
                 }
             }
         },
@@ -899,16 +895,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
-            "server": "GERMANY.TORPROSPEED.IR",
-            "server_port": 5890,
-            "uuid": "3f6bc369-2431-4761-821a-51120b5c60df",
+            "server": "direct-snap.generator-filmmaker.com",
+            "server_port": 443,
+            "uuid": "bd0a27a3-2955-4ae4-b72d-d50eb2f5cb49",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.slideshare.net",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -916,13 +912,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "OFvAJ_DLwS-628oyg8UesadYl-a8hJljcSfd9Ri3Rmo",
-                    "short_id": "0506143c33da39f6"
+                    "public_key": "EH7eTULdQ6Egj8Xt8wmmcsnIbz1UNe4-Xc9NdaDhbgA",
+                    "short_id": "88"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "xyz"
             }
         },
         {

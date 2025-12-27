@@ -84,7 +84,7 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [3]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]"
+                "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [17]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -99,7 +99,7 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [3]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]"
+                "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [17]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -235,27 +235,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]",
+            "tag": "🇳🇱 NL | 🔓 VLESS | @vpnplusee_free [17]",
             "type": "vless",
-            "server": "89.23.107.188",
-            "server_port": 443,
-            "uuid": "TMG_119293995",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.amazon.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "_fLNb14FxS25F7oKOOeLGi4W0VV7FZoJyAPAOw2mqQc",
-                    "short_id": "c7196c06b2"
-                }
-            }
+            "server": "151.101.205.194",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
