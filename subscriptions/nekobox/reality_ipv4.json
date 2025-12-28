@@ -92,12 +92,13 @@
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -120,12 +121,13 @@
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -503,7 +505,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "51.250.43.47",
             "server_port": 8443,
@@ -526,7 +528,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "79.127.133.77",
             "server_port": 8443,
@@ -549,7 +551,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "51.250.73.31",
             "server_port": 443,
@@ -572,7 +574,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "51.250.37.12",
             "server_port": 443,
@@ -595,7 +597,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "103.80.86.254",
             "server_port": 4443,
@@ -618,7 +620,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
             "server": "84.201.139.151",
             "server_port": 443,
@@ -637,6 +639,29 @@
                     "enabled": true,
                     "public_key": "5t7fY--rTZaEDvoEI_3A0uPlBQmFaZe8frAarvzdazM",
                     "short_id": "79a5e503d227e5c4"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "78.159.247.229",
+            "server_port": 5443,
+            "uuid": "55d5c995-b3c7-4055-98d2-af263d7ba8f1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "max.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "jgFDtr4s5Exp90r1O4OHFCnPcRgcMHBqn7-S_jGNvXk",
+                    "short_id": "090c8dc552c6589a"
                 }
             }
         }
