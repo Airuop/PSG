@@ -23,10 +23,10 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]","type":"ss","server":"admin.c4.webramz.co","port":443,"password":"69MUii7VDwMqh7Hz","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔ XX | 🔒 SS | @filtershekan_channel [5]","type":"ss","server":"admin.c4.webramz.co","port":443,"password":"69MUii7VDwMqh7Hz","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🔒 SS | @megavpn_link [5]","type":"ss","server":"api.namasha.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇨🇭 CH | 🔒 SS | @turboo_server [7]","type":"ss","server":"pro.turbooserver.com","port":1084,"password":"3CzOPSKLa_vvzCgSePdIWw","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇫🇮 FI | 🔒 SS | @vpnstable [1]","type":"ss","server":"media.mothyleela.cfd","port":40521,"password":"LYW2w9fwdrwj2qC9NyTBuBNKQJUvkKnCp9UxVnFW6LqeSpiCcnzV1cMohBUnCCWBkjkp83rV9wWeYQQqUZwMuYu1YyCt17tW","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔ XX | 🔒 SS | @turboo_server [6]","type":"ss","server":"pro.turbooserver.com","port":1084,"password":"3CzOPSKLa_vvzCgSePdIWw","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔ XX | 🔒 SS | @vpnstable [1]","type":"ss","server":"media.mothyleela.cfd","port":40521,"password":"LYW2w9fwdrwj2qC9NyTBuBNKQJUvkKnCp9UxVnFW6LqeSpiCcnzV1cMohBUnCCWBkjkp83rV9wWeYQQqUZwMuYu1YyCt17tW","cipher":"chacha20-ietf-poly1305"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -40,10 +40,10 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]'
+      - '❔ XX | 🔒 SS | @filtershekan_channel [5]'
       - '❔ XX | 🔒 SS | @megavpn_link [5]'
-      - '🇨🇭 CH | 🔒 SS | @turboo_server [7]'
-      - '🇫🇮 FI | 🔒 SS | @vpnstable [1]'
+      - '❔ XX | 🔒 SS | @turboo_server [6]'
+      - '❔ XX | 🔒 SS | @vpnstable [1]'
 
   - name: 🌍 Global Media
     type: select

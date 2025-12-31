@@ -23,11 +23,11 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]","type":"trojan","server":"217.182.76.235","port":443,"password":"05003b7a-8f03-41d5-b696-0119e8376a20","skip-cert-verify":false}
-  - {"name":"🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]","type":"trojan","server":"145.239.237.92","port":443,"password":"f0532122-948c-46cf-a392-15cc8233d1c0","skip-cert-verify":false}
-  - {"name":"🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]","type":"trojan","server":"146.19.215.81","port":443,"password":"769c2da7-add3-42e8-a03c-07be9fcf483c","skip-cert-verify":false}
-  - {"name":"🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]","type":"trojan","server":"15.222.9.61","port":22222,"password":"telegram-id-directvpn","skip-cert-verify":false}
-  - {"name":"🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]","type":"trojan","server":"104.149.155.13","port":443,"password":"79c935c0-27dc-4383-b307-dcac1b8e5509","skip-cert-verify":false}
+  - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [48]","type":"trojan","server":"217.182.76.235","port":443,"password":"05003b7a-8f03-41d5-b696-0119e8376a20","skip-cert-verify":false}
+  - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [51]","type":"trojan","server":"145.239.237.92","port":443,"password":"f0532122-948c-46cf-a392-15cc8233d1c0","skip-cert-verify":false}
+  - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [60]","type":"trojan","server":"146.19.215.81","port":443,"password":"769c2da7-add3-42e8-a03c-07be9fcf483c","skip-cert-verify":false}
+  - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [61]","type":"trojan","server":"15.222.9.61","port":22222,"password":"telegram-id-directvpn","skip-cert-verify":false}
+  - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [62]","type":"trojan","server":"104.149.155.13","port":443,"password":"79c935c0-27dc-4383-b307-dcac1b8e5509","skip-cert-verify":false}
   - {"name":"🚩 CF | 🔒 TROJAN | @v2rayvpn2 [1]","type":"trojan","server":"172.67.134.185","port":443,"password":"POORIARED","skip-cert-verify":false}
 
 proxy-groups:
@@ -42,11 +42,11 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]'
-      - '🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]'
-      - '🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]'
-      - '🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]'
-      - '🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]'
+      - '❔ XX | 🔒 TROJAN | @v2rayngconfig [48]'
+      - '❔ XX | 🔒 TROJAN | @v2rayngconfig [51]'
+      - '❔ XX | 🔒 TROJAN | @v2rayngconfig [60]'
+      - '❔ XX | 🔒 TROJAN | @v2rayngconfig [61]'
+      - '❔ XX | 🔒 TROJAN | @v2rayngconfig [62]'
       - '🚩 CF | 🔒 TROJAN | @v2rayvpn2 [1]'
 
   - name: 🌍 Global Media
