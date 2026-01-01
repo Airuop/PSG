@@ -94,8 +94,7 @@
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]",
                 "❔ XX | 🔒 SS | @megavpn_link [5]",
-                "🇨🇭 CH | 🔒 SS | @turboo_server [6]",
-                "🇫🇮 FI | 🔒 SS | @vpnstable [1]"
+                "🇨🇭 CH | 🔒 SS | @turboo_server [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,8 +107,7 @@
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]",
                 "❔ XX | 🔒 SS | @megavpn_link [5]",
-                "🇨🇭 CH | 🔒 SS | @turboo_server [6]",
-                "🇫🇮 FI | 🔒 SS | @vpnstable [1]"
+                "🇨🇭 CH | 🔒 SS | @turboo_server [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -218,14 +216,6 @@
             "server_port": 1084,
             "method": "chacha20-ietf-poly1305",
             "password": "3CzOPSKLa_vvzCgSePdIWw"
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 SS | @vpnstable [1]",
-            "type": "shadowsocks",
-            "server": "media.mothyleela.cfd",
-            "server_port": 40521,
-            "method": "chacha20-ietf-poly1305",
-            "password": "LYW2w9fwdrwj2qC9NyTBuBNKQJUvkKnCp9UxVnFW6LqeSpiCcnzV1cMohBUnCCWBkjkp83rV9wWeYQQqUZwMuYu1YyCt17tW"
         }
     ],
     "route": {
