@@ -85,7 +85,8 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇸🇪 SE | 🔓 VLESS | @vpnstable [3]",
+                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [3]",
+                "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -102,7 +103,8 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇸🇪 SE | 🔓 VLESS | @vpnstable [3]",
+                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [3]",
+                "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -257,7 +259,16 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇸🇪 SE | 🔓 VLESS | @vpnstable [3]",
+            "tag": "🚩 CF | 🔓 VLESS | @v2rayvpn2 [3]",
+            "type": "vless",
+            "server": "DEADSEECtelegram.slimshopboyss.ir",
+            "server_port": 8080,
+            "uuid": "433e3e31-b555-4b80-cfdf-1889b1c506bd",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
             "server_port": 80,
