@@ -99,18 +99,20 @@
                 "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [6]",
                 "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
                 "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [9]",
+                "🇳🇱 NL | 🔒 VLESS | @mehrosaboran [6]",
+                "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [18]",
+                "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -128,18 +130,20 @@
                 "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [6]",
                 "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
                 "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [9]",
+                "🇳🇱 NL | 🔒 VLESS | @mehrosaboran [6]",
+                "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
-                "🇫🇷 FR | 🔒 VLESS | @mrclud [18]",
+                "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [2]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -398,7 +402,34 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @mrclud [9]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @mehrosaboran [6]",
+            "type": "vless",
+            "server": "185.234.65.122",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ",
+                    "short_id": "7a0bea4731381dda"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray"
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
             "type": "vless",
             "server": "51.195.169.100",
             "server_port": 443,
@@ -467,7 +498,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @mrclud [18]",
+            "tag": "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
             "type": "vless",
             "server": "51.195.169.100",
             "server_port": 443,
@@ -536,30 +567,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [2]",
-            "type": "vless",
-            "server": "2.56.178.73",
-            "server_port": 8443,
-            "uuid": "97e10d36-c8fc-429a-b3d7-dcc67b718d0f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "henSnE5bp7VH5HLvQGA8aepmLrngfZc9yV-xhQK5gik",
-                    "short_id": "c4920b7b39"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "185.82.73.212",
             "server_port": 8443,
@@ -582,7 +590,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "87.239.252.186",
             "server_port": 443,
@@ -605,7 +613,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "51.250.24.98",
             "server_port": 1488,
@@ -628,7 +636,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [8]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "51.250.28.8",
             "server_port": 1488,
@@ -651,7 +659,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "185.234.65.122",
             "server_port": 443,
@@ -675,6 +683,60 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "185.234.65.122",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ",
+                    "short_id": "7a0bea4731381dda"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "185.234.65.122",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ",
+                    "short_id": "7a0bea4731381dda"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2rayy"
             }
         }
     ],
