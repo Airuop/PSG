@@ -85,19 +85,20 @@
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
                 "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [6]",
-                "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
-                "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
+                "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
+                "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
-                "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,19 +114,20 @@
                 "🇳🇱 NL | 🔒 VLESS | @binner_iran [33]",
                 "🇺🇸 US | 🔒 VLESS | @binner_iran [40]",
                 "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [6]",
-                "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
-                "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
+                "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
+                "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
-                "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
+                "🇫🇷 FR | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [15]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [2]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -338,7 +340,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
             "type": "vless",
             "server": "45.13.119.77",
             "server_port": 2024,
@@ -365,7 +367,30 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [10]",
+            "type": "vless",
+            "server": "188.132.141.49",
+            "server_port": 8443,
+            "uuid": "2b868940-71ca-41ed-833c-4657e8fd981b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "hG9KBeeA2zzWVIZq4EnigRVx8VUCvQeokU5_PnBK2Ds",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🔒 VLESS | @mrclud [9]",
             "type": "vless",
             "server": "51.195.169.100",
             "server_port": 443,
@@ -434,7 +459,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @mrclud [18]",
             "type": "vless",
             "server": "51.195.169.100",
             "server_port": 443,
@@ -503,30 +528,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
-            "type": "vless",
-            "server": "188.34.193.153",
-            "server_port": 443,
-            "uuid": "309fa273-6579-4cb2-9143-7cad50401eba",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY",
-                    "short_id": "7cad5040"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [10]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "2.56.178.73",
             "server_port": 8443,
@@ -549,7 +551,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "185.82.73.212",
             "server_port": 8443,
@@ -572,7 +574,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "87.239.252.186",
             "server_port": 443,
@@ -595,7 +597,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "51.250.24.98",
             "server_port": 1488,
@@ -618,7 +620,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "51.250.28.8",
             "server_port": 1488,
@@ -638,6 +640,33 @@
                     "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
                     "short_id": ""
                 }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [10]",
+            "type": "vless",
+            "server": "185.234.65.122",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ",
+                    "short_id": "7a0bea4731381dda"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray"
             }
         }
     ],

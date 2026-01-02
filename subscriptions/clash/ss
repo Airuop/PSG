@@ -25,13 +25,12 @@ dns:
 proxies: 
   - {"name":"🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]","type":"ss","server":"admin.c4.webramz.co","port":443,"password":"69MUii7VDwMqh7Hz","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🔒 SS | @megavpn_link [5]","type":"ss","server":"api.namasha.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇨🇭 CH | 🔒 SS | @turboo_server [4]","type":"ss","server":"pro.turbooserver.com","port":1084,"password":"3CzOPSKLa_vvzCgSePdIWw","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇨🇭 CH | 🔒 SS | @turboo_server [2]","type":"ss","server":"pro.turbooserver.com","port":1084,"password":"3CzOPSKLa_vvzCgSePdIWw","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]","type":"ss","server":"4.223.106.151","port":48172,"password":"51yloQC8D9w1Wae7FHtI65","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]","type":"ss","server":"185.231.233.173","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇷 FR | 🔒 SS | @freevirgoolnet [1]","type":"ss","server":"86.104.74.243","port":14255,"password":"fDDmH4QefmWqMJ8UURZrGh","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🔒 SS | @megavpn_link [12]","type":"ss","server":"85.210.120.237","port":443,"password":"Bog0ELmMM9DSxDdQ","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🔒 SS | @mrclud [25]","type":"ss","server":"51.142.171.150","port":49499,"password":"kTjlLxrncKx4i2HIjxfA3M","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇫🇷 FR | 🔒 SS | @outlinevpn_ru [4]","type":"ss","server":"62.210.88.22","port":443,"password":"FPwQSmV6opS8lipxVqPFu5","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🔒 SS | @outlinevpn_ru [5]","type":"ss","server":"78.129.140.11","port":443,"password":"fpvLevkhnWoYCMJPICKuUv","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]","type":"ss","server":"104.192.227.162","port":443,"password":"iQFzaFOCU4Sz9ch4jArQXo","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇷 FR | 🔒 SS | @outlinevpn_ru [7]","type":"ss","server":"62.210.88.22","port":443,"password":"xmjdgPcXotKPEwOgxJX6mA","cipher":"chacha20-ietf-poly1305"}
@@ -46,6 +45,7 @@ proxies:
   - {"name":"🇫🇷 FR | 🔒 SS | @outlinevpn_ru [16]","type":"ss","server":"62.210.88.22","port":443,"password":"S84VoFmNwS7r8xGBc5hw3m","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🔒 SS | @outlinevpn_ru [17]","type":"ss","server":"78.129.140.11","port":443,"password":"OHiNH7QwWFtdGGxsprpSRC","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [18]","type":"ss","server":"104.192.227.162","port":443,"password":"I5BiyPJHrSruGdcWiI8qRu","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇫🇷 FR | 🔒 SS | @outlinevpn_ru [19]","type":"ss","server":"62.210.88.22","port":443,"password":"dd7GEjG9abe5sfNzIhj8u1","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @vpnstable [4]","type":"ss","server":"85.208.139.203","port":443,"password":"0DY8zBjtxP3Y","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🔒 SS | @vpnstable [6]","type":"ss","server":"71.19.148.74","port":443,"password":"gqkUCvmeOTghYJXF1YIuk5","cipher":"chacha20-ietf-poly1305"}
 
@@ -63,13 +63,12 @@ proxy-groups:
     proxies: 
       - '🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]'
       - '❔ XX | 🔒 SS | @megavpn_link [5]'
-      - '🇨🇭 CH | 🔒 SS | @turboo_server [4]'
+      - '🇨🇭 CH | 🔒 SS | @turboo_server [2]'
       - '🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]'
       - '🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]'
       - '🇫🇷 FR | 🔒 SS | @freevirgoolnet [1]'
       - '🇬🇧 GB | 🔒 SS | @megavpn_link [12]'
       - '🇬🇧 GB | 🔒 SS | @mrclud [25]'
-      - '🇫🇷 FR | 🔒 SS | @outlinevpn_ru [4]'
       - '🇬🇧 GB | 🔒 SS | @outlinevpn_ru [5]'
       - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]'
       - '🇫🇷 FR | 🔒 SS | @outlinevpn_ru [7]'
@@ -84,6 +83,7 @@ proxy-groups:
       - '🇫🇷 FR | 🔒 SS | @outlinevpn_ru [16]'
       - '🇬🇧 GB | 🔒 SS | @outlinevpn_ru [17]'
       - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [18]'
+      - '🇫🇷 FR | 🔒 SS | @outlinevpn_ru [19]'
       - '🇩🇪 DE | 🔒 SS | @vpnstable [4]'
       - '🇺🇸 US | 🔒 SS | @vpnstable [6]'
 
