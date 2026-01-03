@@ -104,7 +104,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -128,7 +128,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -492,16 +492,16 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
-            "server": "web.yasharmobile.com",
-            "server_port": 443,
-            "uuid": "1c174a78-2d05-423e-aa07-4a035cbf9ea4",
+            "server": "sweden.webdesignernew.info",
+            "server_port": 5367,
+            "uuid": "5b8863a0-db88-400a-b7ad-15ab79bd4452",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -509,8 +509,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
+                    "public_key": "NK3PvnX2gb2OtICilZNiotEzrx7fauEvr4JNQyWaJkc",
+                    "short_id": ""
                 }
             }
         },

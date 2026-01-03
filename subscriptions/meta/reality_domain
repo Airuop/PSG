@@ -33,7 +33,7 @@ proxies:
   - {"name":"🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]","type":"vless","server":"tr.mizbanandata.com","port":443,"uuid":"e3e3961e-12f7-454d-acf4-9e899a2804c7","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"jetbrains.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]","type":"vless","server":"tr.mizbanandata.com","port":443,"uuid":"9ff046dd-1e63-445a-8d7c-e8e376ce5e51","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"jetbrains.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]","type":"vless","server":"nl.mizbanandata.com","port":443,"uuid":"c37064cc-4f5c-42c6-a38b-7cd756c274c4","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"docker.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [3]","type":"vless","server":"web.yasharmobile.com","port":443,"uuid":"1c174a78-2d05-423e-aa07-4a035cbf9ea4","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"tgju.org","reality-opts":{"public-key":"tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8","short-id":"e54b5ad736ae4c38"}}
+  - {"name":"🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [12]","type":"vless","server":"sweden.webdesignernew.info","port":5367,"uuid":"5b8863a0-db88-400a-b7ad-15ab79bd4452","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"refersion.com","reality-opts":{"public-key":"NK3PvnX2gb2OtICilZNiotEzrx7fauEvr4JNQyWaJkc"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -57,7 +57,7 @@ proxy-groups:
       - '🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]'
       - '🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]'
       - '🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]'
-      - '🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [3]'
+      - '🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [12]'
 
   - name: 🌍 Global Media
     type: select

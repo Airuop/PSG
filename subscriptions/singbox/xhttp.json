@@ -97,14 +97,12 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
+                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [8]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [1]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -120,14 +118,12 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [2]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
+                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [8]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [1]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -277,20 +273,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @v2rayvpn2 [2]",
+            "tag": "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
             "type": "vless",
             "server": "DEADSEECtelegram.slimshopboyss.ir",
             "server_port": 8080,
             "uuid": "433e3e31-b555-4b80-cfdf-1889b1c506bd",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [1]",
-            "type": "vless",
-            "server": "fstser.glovesstore1.ir",
-            "server_port": 80,
-            "uuid": "6955f08d-aa56-427d-aad1-c0bc2c9b1ede",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -345,15 +332,6 @@
             "server": "185.18.250.67",
             "server_port": 8080,
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayvpn2 [1]",
-            "type": "vless",
-            "server": "151.101.25.242",
-            "server_port": 80,
-            "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
             "flow": "",
             "packet_encoding": "xudp"
         }
