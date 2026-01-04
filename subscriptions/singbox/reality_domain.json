@@ -93,8 +93,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
-                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
-                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
+                "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
+                "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -104,7 +104,8 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇷🇴 RO | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -117,8 +118,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
-                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
-                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
+                "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
+                "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -128,7 +129,8 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇷🇴 RO | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -239,7 +241,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [1]",
+            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
             "type": "vless",
             "server": "cookies.oops.wtf",
             "server_port": 43774,
@@ -262,7 +264,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [2]",
+            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
             "type": "vless",
             "server": "cookies.oops.wtf",
             "server_port": 43774,
@@ -492,25 +494,48 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
-            "server": "sweden.webdesignernew.info",
-            "server_port": 5367,
-            "uuid": "5b8863a0-db88-400a-b7ad-15ab79bd4452",
+            "server": "de-dp-01.com",
+            "server_port": 8443,
+            "uuid": "50121464-4549-4d52-b4c8-32f7a5d3be0f",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "tradingview.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "random"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "NK3PvnX2gb2OtICilZNiotEzrx7fauEvr4JNQyWaJkc",
-                    "short_id": ""
+                    "public_key": "ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo",
+                    "short_id": "5be97fb85093a3a9"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇴 RO | 🔒 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "ro1.instavpn.ru",
+            "server_port": 443,
+            "uuid": "854eea7a-c834-4f62-9e17-ae63d1086f36",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tradingview.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ",
+                    "short_id": "868419504747f6de"
                 }
             }
         },

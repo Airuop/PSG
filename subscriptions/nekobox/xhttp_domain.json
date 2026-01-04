@@ -86,6 +86,7 @@
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -104,6 +105,7 @@
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -264,6 +266,15 @@
             "server": "DEADSEECtelegram.slimshopboyss.ir",
             "server_port": 8080,
             "uuid": "433e3e31-b555-4b80-cfdf-1889b1c506bd",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "DEADSEECtelegram.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "3bc2465b-b92a-48d6-d8e9-28ec3c8f1e54",
             "flow": "",
             "packet_encoding": "xudp"
         },
