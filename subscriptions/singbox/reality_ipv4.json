@@ -108,9 +108,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [12]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -137,9 +135,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [12]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -609,53 +605,7 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "45.93.9.226",
-            "server_port": 4241,
-            "uuid": "8619e4c1-0984-4dce-83e3-419e2d7f5079",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "dropbox.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "-8Dc8Dm5YzxVvllu8W5Uc7N9rq27_A3McxYXArNyJQs",
-                    "short_id": "0a381e1fa219"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "85.192.28.115",
-            "server_port": 18057,
-            "uuid": "22d7f305-7bc0-4966-a3a1-9515f7904ef1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.icloud.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "zj1Zuz_e-NEaGIvaRnBBx_GGXuoGq9ZoxzZUbVZhM08",
-                    "short_id": "0fec1995a0ca"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "185.234.65.133",
             "server_port": 4423,

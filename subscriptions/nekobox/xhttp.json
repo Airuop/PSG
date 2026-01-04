@@ -86,15 +86,14 @@
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [7]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]"
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,15 +110,14 @@
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [7]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]"
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -282,11 +280,29 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
-            "server": "DEADSEECtelegram.fast.hosting-ip.com",
+            "server": "statue.lnmarketplace.net",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "statue.lnmarketplace.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "cdn.solidnet.fun",
             "server_port": 80,
-            "uuid": "3bc2465b-b92a-48d6-d8e9-28ec3c8f1e54",
+            "uuid": "482501e5-458d-4651-bf71-bfa7960e5826",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -345,45 +361,22 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "9b0a1603-f1f3-4ea7-c808-83858f1d346d",
+            "server": "64.188.64.234",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
             "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "85.192.28.115",
-            "server_port": 18057,
-            "uuid": "22d7f305-7bc0-4966-a3a1-9515f7904ef1",
-            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.icloud.com",
+                "server_name": "statue.lnmarketplace.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "zj1Zuz_e-NEaGIvaRnBBx_GGXuoGq9ZoxzZUbVZhM08",
-                    "short_id": "0fec1995a0ca"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "222dba45-8ab3-4093-a4b2-f9d9a51c13a6",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {

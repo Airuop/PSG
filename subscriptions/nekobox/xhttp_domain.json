@@ -86,7 +86,8 @@
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -105,7 +106,8 @@
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
@@ -270,11 +272,29 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [8]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
-            "server": "DEADSEECtelegram.fast.hosting-ip.com",
+            "server": "statue.lnmarketplace.net",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "statue.lnmarketplace.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "cdn.solidnet.fun",
             "server_port": 80,
-            "uuid": "3bc2465b-b92a-48d6-d8e9-28ec3c8f1e54",
+            "uuid": "482501e5-458d-4651-bf71-bfa7960e5826",
             "flow": "",
             "packet_encoding": "xudp"
         },
