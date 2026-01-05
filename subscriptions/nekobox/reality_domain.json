@@ -92,7 +92,9 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -116,7 +118,9 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -484,16 +488,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
-            "server": "partners.dissertationhelpspecialist.com",
-            "server_port": 443,
-            "uuid": "89261415-283d-48cb-b4ff-da654a73f685",
+            "server": "ipv.aiteamplus.ir",
+            "server_port": 10100,
+            "uuid": "e728ebb5-fc0d-4feb-ad44-dfaea0d01dcd",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "stackoverflow.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -501,13 +505,55 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ZcgOydOxZfr51VUnsTqCGVGJYME6a_cOZ3L4fPvgkTo",
-                    "short_id": "611f53cf893b"
+                    "public_key": "09VOeIntNbg0kjXI8MRtFRTwywo3Np8V2tFy2oVI1Qw",
+                    "short_id": "765466e35d9943b7"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
+            "type": "vless",
+            "server": "ipv.aiteamplus.ir",
+            "server_port": 10700,
+            "uuid": "e728ebb5-fc0d-4feb-ad44-dfaea0d01dcd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "09VOeIntNbg0kjXI8MRtFRTwywo3Np8V2tFy2oVI1Qw",
+                    "short_id": "765466e35d9943b7"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "ipv.aiteamplus.ir",
+            "server_port": 10500,
+            "uuid": "e728ebb5-fc0d-4feb-ad44-dfaea0d01dcd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "09VOeIntNbg0kjXI8MRtFRTwywo3Np8V2tFy2oVI1Qw",
+                    "short_id": "765466e35d9943b7"
+                }
             }
         },
         {
