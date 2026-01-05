@@ -85,15 +85,14 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [7]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [7]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,15 +108,14 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [7]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [7]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -271,38 +269,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @v2rayvpn2 [1]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "DEADSEECtelegram.slimshopboyss.ir",
-            "server_port": 8080,
-            "uuid": "433e3e31-b555-4b80-cfdf-1889b1c506bd",
+            "server": "cdn.solidnet.fun",
+            "server_port": 80,
+            "uuid": "7a204383-2a24-4ebb-8389-3f6b4e6ad431",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "cdn.solidnet.fun",
             "server_port": 80,
-            "uuid": "482501e5-458d-4651-bf71-bfa7960e5826",
+            "uuid": "7a204383-2a24-4ebb-8389-3f6b4e6ad431",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -361,22 +341,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
             "type": "vless",
-            "server": "64.188.64.234",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "server": "146.75.119.82",
+            "server_port": 80,
+            "uuid": "dba9ca25-b5c2-4fcd-a2c1-311f69804732",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
         }
     ],
     "route": {

@@ -95,7 +95,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [7]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,7 +109,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [7]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -232,22 +232,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [16]",
             "type": "vless",
-            "server": "64.188.64.234",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "server": "146.75.119.82",
+            "server_port": 80,
+            "uuid": "dba9ca25-b5c2-4fcd-a2c1-311f69804732",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
         }
     ],
     "route": {

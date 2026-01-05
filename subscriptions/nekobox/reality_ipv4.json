@@ -89,14 +89,15 @@
                 "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [4]",
                 "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
                 "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
-                "🇳🇱 NL | 🔒 VLESS | @mehrosaboran [5]",
+                "🇳🇱 NL | 🔒 VLESS | @mehrosaboran [4]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -116,14 +117,15 @@
                 "🇵🇰 PK | 🔒 VLESS | @filtershekan_channel [4]",
                 "🇫🇷 FR | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
                 "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [8]",
-                "🇳🇱 NL | 🔒 VLESS | @mehrosaboran [5]",
+                "🇳🇱 NL | 🔒 VLESS | @mehrosaboran [4]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]"
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -432,7 +434,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @mehrosaboran [5]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @mehrosaboran [4]",
             "type": "vless",
             "server": "185.234.65.122",
             "server_port": 443,
@@ -599,28 +601,51 @@
         {
             "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
-            "server": "185.234.65.133",
+            "server": "185.234.65.145",
             "server_port": 4423,
             "uuid": "telegram-id-ArV2ray",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "animejs.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ",
-                    "short_id": "7a0bea4731381dda"
+                    "public_key": "D4fo-UBIrSlLx3R8qu3iWSoynAvArdXpn5uZoDEt3Uc",
+                    "short_id": "b740"
                 }
             },
             "transport": {
                 "type": "grpc",
                 "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2rayy"
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "109.248.33.239",
+            "server_port": 7443,
+            "uuid": "5fa0786d-f0eb-46c7-aeb5-bfe3d3577f10",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yandex.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs",
+                    "short_id": "505c94b8c65afb0a"
+                }
             }
         }
     ],
