@@ -83,10 +83,10 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [31]",
                 "❔ XX | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
-                "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
+                "❔ XX | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
-                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -100,10 +100,10 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [31]",
                 "❔ XX | 🔓 VLESS | @binner_iran [39]",
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
-                "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
+                "❔ XX | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
-                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -239,7 +239,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
+            "tag": "❔ XX | 🔓 VLESS | @binner_iran [48]",
             "type": "vless",
             "server": "EXPRESSVPN_420.fAst.hosting-ip.com",
             "server_port": 80,
@@ -257,16 +257,16 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnstable [3]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
             "type": "vless",
-            "server": "configline.fast.hosting-ip.com",
+            "server": "speedtest.net",
             "server_port": 80,
-            "uuid": "9e8ca7c6-7f5f-4056-b280-efd1796669ad",
+            "uuid": "3684f870-90ae-409a-98a7-dea071ae5068",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
+            "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
             "type": "vless",
             "server": "fast-01.saitsazs.ir",
             "server_port": 80,
