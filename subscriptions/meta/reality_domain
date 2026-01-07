@@ -33,9 +33,7 @@ proxies:
   - {"name":"🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]","type":"vless","server":"tr.mizbanandata.com","port":443,"uuid":"e3e3961e-12f7-454d-acf4-9e899a2804c7","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"jetbrains.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]","type":"vless","server":"tr.mizbanandata.com","port":443,"uuid":"9ff046dd-1e63-445a-8d7c-e8e376ce5e51","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"jetbrains.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]","type":"vless","server":"nl.mizbanandata.com","port":443,"uuid":"c37064cc-4f5c-42c6-a38b-7cd756c274c4","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"docker.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
-  - {"name":"🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]","type":"vless","server":"razer.tigercomputer.ir","port":3299,"uuid":"8af93af2-7c66-4f2d-8348-494e19b438ab","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"www.github.com","reality-opts":{"public-key":"UxDhY-bYCKi_JQFkhBoVbmiUbNVK6jeK12en30hZEiA","short-id":"79fc2c70ad2a80d5"}}
-  - {"name":"🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]","type":"vless","server":"nl.rush-server.com","port":443,"uuid":"fec17569-c5a0-4b76-924c-d20a4054f20b","tls":true,"network":"tcp","client-fingerprint":"qq","udp":true,"servername":"findmypackets.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0","short-id":"64c1fe36c7846400"}}
-  - {"name":"🇺🇸 US | 🔒 VLESS | @vpnplusee_free [17]","type":"vless","server":"free1.barayekhudam.ir","port":2255,"uuid":"02b320ce-09f8-4cb5-9c46-9024f5585881","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"radar.arvancloud.ir","reality-opts":{"public-key":"Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc","short-id":"983c9303725c67"}}
+  - {"name":"🇺🇸 US | 🔒 VLESS | @vpnplusee_free [1]","type":"vless","server":"free1.barayekhudam.ir","port":2255,"uuid":"02b320ce-09f8-4cb5-9c46-9024f5585881","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"radar.arvancloud.ir","reality-opts":{"public-key":"Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc","short-id":"983c9303725c67"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -59,9 +57,7 @@ proxy-groups:
       - '🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]'
       - '🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]'
       - '🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]'
-      - '🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]'
-      - '🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]'
-      - '🇺🇸 US | 🔒 VLESS | @vpnplusee_free [17]'
+      - '🇺🇸 US | 🔒 VLESS | @vpnplusee_free [1]'
 
   - name: 🌍 Global Media
     type: select

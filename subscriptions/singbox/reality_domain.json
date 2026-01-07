@@ -104,9 +104,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [17]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -130,9 +128,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
-                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [17]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -496,53 +492,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "razer.tigercomputer.ir",
-            "server_port": 3299,
-            "uuid": "8af93af2-7c66-4f2d-8348-494e19b438ab",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.github.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UxDhY-bYCKi_JQFkhBoVbmiUbNVK6jeK12en30hZEiA",
-                    "short_id": "79fc2c70ad2a80d5"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [13]",
-            "type": "vless",
-            "server": "nl.rush-server.com",
-            "server_port": 443,
-            "uuid": "fec17569-c5a0-4b76-924c-d20a4054f20b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "findmypackets.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0",
-                    "short_id": "64c1fe36c7846400"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [17]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "free1.barayekhudam.ir",
             "server_port": 2255,
