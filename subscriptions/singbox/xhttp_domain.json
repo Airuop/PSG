@@ -97,8 +97,6 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [6]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -115,8 +113,6 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [6]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [8]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -263,24 +259,6 @@
             "server": "fast.peace.lemoex.blog",
             "server_port": 80,
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "iup.sernett.ir",
-            "server_port": 80,
-            "uuid": "SERVERNETT-TELEGRAM",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [8]",
-            "type": "vless",
-            "server": "cdn.solidnet.fun",
-            "server_port": 80,
-            "uuid": "eaf9508d-1ef2-4f0a-b7ed-da9563c7fdb1",
             "flow": "",
             "packet_encoding": "xudp"
         },
