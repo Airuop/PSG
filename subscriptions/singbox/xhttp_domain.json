@@ -97,7 +97,8 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [12]",
+                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,7 +114,8 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [41]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [48]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [12]",
+                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -263,7 +265,16 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "DEADSEECtelegram.blackandwhiteshop.ir",
+            "server_port": 80,
+            "uuid": "aa87242f-224b-48b0-cd40-c743b40cb351",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
             "type": "vless",
             "server": "fast-01.saitsazs.ir",
             "server_port": 80,
