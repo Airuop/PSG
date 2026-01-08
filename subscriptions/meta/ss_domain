@@ -25,7 +25,6 @@ dns:
 proxies: 
   - {"name":"🇬🇧 GB | 🔒 SS | @filtershekan_channel [1]","type":"ss","server":"admin.c4.webramz.co","port":443,"password":"69MUii7VDwMqh7Hz","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🔒 SS | @megavpn_link [5]","type":"ss","server":"api.namasha.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇨🇭 CH | 🔒 SS | @turboo_server [1]","type":"ss","server":"pro.turbooserver.com","port":1084,"password":"3CzOPSKLa_vvzCgSePdIWw","cipher":"chacha20-ietf-poly1305"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -41,7 +40,6 @@ proxy-groups:
     proxies: 
       - '🇬🇧 GB | 🔒 SS | @filtershekan_channel [1]'
       - '❔ XX | 🔒 SS | @megavpn_link [5]'
-      - '🇨🇭 CH | 🔒 SS | @turboo_server [1]'
 
   - name: 🌍 Global Media
     type: select

@@ -93,8 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @filtershekan_channel [1]",
-                "❔ XX | 🔒 SS | @megavpn_link [5]",
-                "🇨🇭 CH | 🔒 SS | @turboo_server [1]"
+                "❔ XX | 🔒 SS | @megavpn_link [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,8 +105,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @filtershekan_channel [1]",
-                "❔ XX | 🔒 SS | @megavpn_link [5]",
-                "🇨🇭 CH | 🔒 SS | @turboo_server [1]"
+                "❔ XX | 🔒 SS | @megavpn_link [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -208,14 +206,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇨🇭 CH | 🔒 SS | @turboo_server [1]",
-            "type": "shadowsocks",
-            "server": "pro.turbooserver.com",
-            "server_port": 1084,
-            "method": "chacha20-ietf-poly1305",
-            "password": "3CzOPSKLa_vvzCgSePdIWw"
         }
     ],
     "route": {
