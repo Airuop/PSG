@@ -80,12 +80,12 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [4]",
-                "❔ XX | 🔓 VLESS | @mehrosaboran [1]",
-                "❔ XX | 🔓 VLESS | @mehrosaboran [2]",
-                "❔ XX | 🔓 VLESS | @minovpnch [14]",
-                "❔ XX | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]"
+                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [4]",
+                "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [1]",
+                "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [2]",
+                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇬🇧 GB | 🔓 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -96,12 +96,12 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [4]",
-                "❔ XX | 🔓 VLESS | @mehrosaboran [1]",
-                "❔ XX | 🔓 VLESS | @mehrosaboran [2]",
-                "❔ XX | 🔓 VLESS | @minovpnch [14]",
-                "❔ XX | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]"
+                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [4]",
+                "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [1]",
+                "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [2]",
+                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇬🇧 GB | 🔓 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -192,7 +192,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @kurdistan_vpn_perfectt [4]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [4]",
             "type": "vless",
             "server": "51.75.88.197",
             "server_port": 443,
@@ -210,7 +210,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @mehrosaboran [1]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [1]",
             "type": "vless",
             "server": "146.75.119.82",
             "server_port": 80,
@@ -219,7 +219,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @mehrosaboran [2]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @mehrosaboran [2]",
             "type": "vless",
             "server": "146.75.119.82",
             "server_port": 80,
@@ -228,7 +228,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @minovpnch [14]",
+            "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
             "type": "vless",
             "server": "151.101.204.190",
             "server_port": 80,
@@ -237,7 +237,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @minovpnch [15]",
+            "tag": "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
             "type": "vless",
             "server": "185.18.250.67",
             "server_port": 8080,
@@ -246,7 +246,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
+            "tag": "🇬🇧 GB | 🔓 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "25.129.197.233",
             "server_port": 2052,
