@@ -183,14 +183,13 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [12]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [11]",
                 "🇨🇿 CZ | 🔓 VLESS | @xsv2ray [1]",
                 "🇬🇧 GB | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -296,14 +295,13 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [12]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [11]",
                 "🇨🇿 CZ | 🔓 VLESS | @xsv2ray [1]",
                 "🇬🇧 GB | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -2172,23 +2170,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "Evay_vpn.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "d03d8fc0-23ce-461a-97fa-2a7e0a66d8db",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed",
-                "headers": {
-                    "Host": "Evay_vpn.fast.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [4]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "tu.uk.yo-servers.com",
             "server_port": 2086,
@@ -2204,7 +2186,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "VPNCUSTOMIZE2.ddns.net",
             "server_port": 443,
@@ -2226,7 +2208,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "ada7.maioy.com",
             "server_port": 443,
@@ -2251,7 +2233,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "i.badboys.gq",
             "server_port": 80,
@@ -2267,7 +2249,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "VPNCUSTOMIZE.ddns.net",
             "server_port": 2096,
@@ -2289,7 +2271,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "i.badboys.gq",
             "server_port": 443,
@@ -2314,7 +2296,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [12]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "avval.ir",
             "server_port": 80,
