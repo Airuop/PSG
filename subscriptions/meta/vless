@@ -114,7 +114,7 @@ proxies:
   - {"name":"❔ XX | 🔓 VLESS | @binner_iran [27]","type":"vless","server":"store-static-portal.cyberscaler.net","port":10082,"uuid":"11402c34-7f90-485f-a218-ade69f314f49","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔓 VLESS | @binner_iran [29]","type":"vless","server":"filmnet.filimnet.com","port":80,"uuid":"ce58ebe0-6a16-4b66-96ba-0ebb0b3d8296","tls":false,"network":"xhttp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔓 VLESS | @binner_iran [31]","type":"vless","server":"sss47060.tas-bazi.com","port":443,"uuid":"43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5","tls":false,"network":"xhttp","client-fingerprint":"chrome","udp":true}
-  - {"name":"🇺🇸 US | 🔓 VLESS | @binner_iran [38]","type":"vless","server":"EXPRESSVPN_420.fAst.hosting-ip.com","port":80,"uuid":"a1cff861-43ed-42f1-bed0-b0aec2f9f668","tls":false,"network":"xhttp","client-fingerprint":"chrome","udp":true}
+  - {"name":"🇩🇪 DE | 🔓 VLESS | @binner_iran [38]","type":"vless","server":"EXPRESSVPN_420.fAst.hosting-ip.com","port":80,"uuid":"a1cff861-43ed-42f1-bed0-b0aec2f9f668","tls":false,"network":"xhttp","client-fingerprint":"chrome","udp":true}
   - {"name":"🇮🇷 IR | 🔓 VLESS | @filtershekan_channel [5]","type":"vless","server":"panel-finland-2.subcenter.net","port":2002,"uuid":"0ad87446-7e54-40cd-a3ac-b451fdde515c","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🇱🇻 LV | 🔒 VLESS | @filtershekan_channel [10]","type":"vless","server":"lv.rush-server.com","port":8443,"uuid":"cb495349-f0c5-464d-89a3-6f162c04b906","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"huli-nada.com","ws-opts":{"path":"/vwsS9d6","headers":{"Host":"huli-nada.com"}}}
   - {"name":"❔ XX | 🔒 VLESS | @freev2flyng [4]","type":"vless","server":"test-6JyexzMB.expreset.click","port":2053,"uuid":"2305891e-b2f2-4c97-841c-c52d9d2c9631","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com","ws-opts":{"path":"/?ed=2048","headers":{"Host":"nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com"}}}
@@ -153,8 +153,8 @@ proxies:
   - {"name":"❔ XX | 🔒 VLESS | @socks5tobefree [4]","type":"vless","server":"knowledgemap.ubntddns.com","port":443,"uuid":"d854ce54-d193-4e13-9c0c-0125ecdec2de","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"knowledgemap.ubntddns.com","ws-opts":{"path":"/getupdates","headers":{"Host":"knowledgemap.ubntddns.com"}}}
   - {"name":"❔ XX | 🔒 VLESS | @socks5tobefree [5]","type":"vless","server":"ihavesome.run.place","port":443,"uuid":"b5c72809-4287-46f4-b930-309edc783dd9","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ihavesome.run.place","ws-opts":{"path":"/socks5tobefree","headers":{"Host":"ihavesome.run.place"}}}
   - {"name":"❔ XX | 🔒 VLESS | @socks5tobefree [6]","type":"vless","server":"knowledgemap.ubntddns.com","port":443,"uuid":"ab3bee31-6d56-4a50-8a84-70e114352783","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/getupdates","headers":{"Host":"knowledgemap.ubntddns.com"}}}
-  - {"name":"❔ XX | 🔒 VLESS | @socks5tobefree [7]","type":"vless","server":"lessless.duckdns.org","port":443,"uuid":"abcdf5d9-d08a-4d23-8e63-dee8d85c76cc","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/getupdates","headers":{"Host":"lessless.duckdns.org"}}}
-  - {"name":"❔ XX | 🔒 VLESS | @socks5tobefree [8]","type":"vless","server":"lessless.duckdns.org","port":443,"uuid":"78f71fb4-3425-4eb8-a734-8b5401634fa8","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/getupdates","headers":{"Host":"lessless.duckdns.org"}}}
+  - {"name":"🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]","type":"vless","server":"lessless.duckdns.org","port":443,"uuid":"abcdf5d9-d08a-4d23-8e63-dee8d85c76cc","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/getupdates","headers":{"Host":"lessless.duckdns.org"}}}
+  - {"name":"🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]","type":"vless","server":"lessless.duckdns.org","port":443,"uuid":"78f71fb4-3425-4eb8-a734-8b5401634fa8","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/getupdates","headers":{"Host":"lessless.duckdns.org"}}}
   - {"name":"🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]","type":"vless","server":"europeless.duckdns.org","port":443,"uuid":"524ef193-d0ee-4f6b-bf0b-1ab15a76cc9a","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/getupdates","headers":{"Host":"europeless.duckdns.org"}}}
   - {"name":"🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]","type":"vless","server":"torless.duckdns.org","port":443,"uuid":"80a7501b-8d1b-4e9d-bea5-903fb1053274","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"torless.duckdns.org","ws-opts":{"path":"/getupdates","headers":{"Host":"torless.duckdns.org"}}}
   - {"name":"🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]","type":"vless","server":"europeless.duckdns.org","port":443,"uuid":"78a9bf4f-3bec-48b2-b98f-a3f8151506ac","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"europeless.duckdns.org","ws-opts":{"path":"/getupdates","headers":{"Host":"europeless.duckdns.org"}}}
@@ -302,7 +302,7 @@ proxy-groups:
       - '❔ XX | 🔓 VLESS | @binner_iran [27]'
       - '❔ XX | 🔓 VLESS | @binner_iran [29]'
       - '❔ XX | 🔓 VLESS | @binner_iran [31]'
-      - '🇺🇸 US | 🔓 VLESS | @binner_iran [38]'
+      - '🇩🇪 DE | 🔓 VLESS | @binner_iran [38]'
       - '🇮🇷 IR | 🔓 VLESS | @filtershekan_channel [5]'
       - '🇱🇻 LV | 🔒 VLESS | @filtershekan_channel [10]'
       - '❔ XX | 🔒 VLESS | @freev2flyng [4]'
@@ -341,8 +341,8 @@ proxy-groups:
       - '❔ XX | 🔒 VLESS | @socks5tobefree [4]'
       - '❔ XX | 🔒 VLESS | @socks5tobefree [5]'
       - '❔ XX | 🔒 VLESS | @socks5tobefree [6]'
-      - '❔ XX | 🔒 VLESS | @socks5tobefree [7]'
-      - '❔ XX | 🔒 VLESS | @socks5tobefree [8]'
+      - '🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]'
+      - '🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]'
       - '🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]'
       - '🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]'
       - '🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]'
