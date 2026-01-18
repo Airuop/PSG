@@ -85,7 +85,7 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [21]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [28]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
+                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -101,7 +101,7 @@
                 "❔ XX | 🔓 VLESS | @binner_iran [21]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [28]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
+                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -255,7 +255,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
+            "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
             "type": "vless",
             "server": "fast-01.saitsazs.ir",
             "server_port": 80,
