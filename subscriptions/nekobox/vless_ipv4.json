@@ -160,8 +160,9 @@
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
                 "🚩 CF | 🔒 VLESS | @v2rayvpn2 [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [9]",
+                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [10]",
+                "🇫🇮 FI | 🔓 VLESS | @vpnplusee_free [12]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]",
                 "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [16]",
                 "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [17]",
@@ -256,8 +257,9 @@
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
                 "🚩 CF | 🔒 VLESS | @v2rayvpn2 [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [9]",
+                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [10]",
+                "🇫🇮 FI | 🔓 VLESS | @vpnplusee_free [12]",
                 "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [15]",
                 "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [16]",
                 "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [17]",
@@ -1866,7 +1868,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "116.203.11.168",
             "server_port": 2052,
@@ -1875,7 +1877,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "45.85.118.88",
             "server_port": 443,
@@ -1896,6 +1898,22 @@
                 "path": "/v3.sultansweets.shop/apps",
                 "headers": {
                     "Host": "ns1.sultansweets.shop"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔓 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "95.216.154.119",
+            "server_port": 37265,
+            "uuid": "1a99307d-7dfb-4f0c-dcc5-8098f94033f8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "95.216.154.119"
                 }
             }
         },
