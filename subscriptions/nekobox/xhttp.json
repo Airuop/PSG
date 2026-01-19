@@ -80,7 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @binner_iran [11]",
                 "❔ XX | 🔓 VLESS | @binner_iran [19]",
                 "❔ XX | 🔓 VLESS | @binner_iran [21]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [28]",
@@ -101,7 +100,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @binner_iran [11]",
                 "❔ XX | 🔓 VLESS | @binner_iran [19]",
                 "❔ XX | 🔓 VLESS | @binner_iran [21]",
                 "🇺🇸 US | 🔓 VLESS | @binner_iran [28]",
@@ -198,24 +196,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @binner_iran [11]",
-            "type": "vless",
-            "server": "sss76953.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sss76953.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
