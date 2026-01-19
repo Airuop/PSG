@@ -171,12 +171,12 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [17]",
                 "🇨🇿 CZ | 🔓 VLESS | @xsv2ray [1]",
                 "🇬🇧 GB | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -282,12 +282,12 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [13]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [17]",
                 "🇨🇿 CZ | 🔓 VLESS | @xsv2ray [1]",
                 "🇬🇧 GB | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -2144,31 +2144,6 @@
         {
             "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
-            "server": "ge1.v2vml.ga",
-            "server_port": 52496,
-            "uuid": "b9581975-5527-4432-a89b-aa848a6b8a98",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ge1.v2vml.ga",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "ge1.v2vml.ga"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
             "server": "github.seatech.ir",
             "server_port": 993,
             "uuid": "04ef20c2-2926-40f9-e0f8-f5abb3d4456f",
@@ -2185,7 +2160,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "VPNCUSTOMIZE2.ddns.net",
             "server_port": 443,
@@ -2207,7 +2182,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "ada7.maioy.com",
             "server_port": 443,
@@ -2232,7 +2207,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
             "type": "vless",
             "server": "i.badboys.gq",
             "server_port": 80,
@@ -2248,7 +2223,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
             "type": "vless",
             "server": "VPNCUSTOMIZE.ddns.net",
             "server_port": 2096,
@@ -2270,7 +2245,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
             "type": "vless",
             "server": "i.badboys.gq",
             "server_port": 443,
@@ -2293,6 +2268,15 @@
                     "Host": "nl1.digi2023game.com"
                 }
             }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [17]",
+            "type": "vless",
+            "server": "ee1vip.vnet215.xyz",
+            "server_port": 24001,
+            "uuid": "5d10c583-5ab0-4125-a6ea-51a0f6f16f3a",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇨🇿 CZ | 🔓 VLESS | @xsv2ray [1]",

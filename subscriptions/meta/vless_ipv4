@@ -99,10 +99,10 @@ proxies:
   - {"name":"🚩 CF | 🔒 VLESS | @v2rayngc [15]","type":"vless","server":"104.16.209.12","port":8443,"uuid":"fc03933c-9b0b-4eab-9c5f-626ea67c5bff","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"nl.cypherpunks.fun","ws-opts":{"path":"/","headers":{"Host":"nl.cypherpunks.fun"}}}
   - {"name":"🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]","type":"vless","server":"51.75.30.8","port":80,"uuid":"1949f066-bcb0-49be-88e9-74abd940f80e","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/http","headers":{"Host":"51.75.30.8"}}}
   - {"name":"🚩 CF | 🔒 VLESS | @v2rayvpn2 [3]","type":"vless","server":"172.66.132.196","port":443,"uuid":"d0298536-d670-4045-bbb1-ddd5ea68683e","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"a.azadnet003.ddns-ip.net","ws-opts":{"path":"/telegram-@v2ray_alpha=?ed=2560","headers":{"Host":"a.azadnet003.ddns-ip.net"}}}
-  - {"name":"🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]","type":"vless","server":"151.101.195.8","port":80,"uuid":"3ff60b54-f6d6-467f-9189-df1a0567c647","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/?ed=2052?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn","headers":{"Host":"norbert-team-free1.global.ssl.fastly.net"}}}
-  - {"name":"🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [6]","type":"vless","server":"25.129.199.122","port":2096,"uuid":"2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"DiGIkALaA.dpdns.ORG","ws-opts":{"path":"/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ","headers":{"Host":"digikalaa.dpdns.org"}}}
-  - {"name":"🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [10]","type":"vless","server":"91.107.129.24","port":2095,"uuid":"e25f83e8-cdaf-46d8-beb0-01a5e57b2ef2","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/@hashmakvpn 🇩🇪","headers":{"Host":"bmi.ir"}}}
-  - {"name":"🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [11]","type":"vless","server":"45.85.119.44","port":2083,"uuid":"01973bf7-048a-4dc6-a82b-2fa3be7046a5","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"dagh.mojavadd.space","grpc-opts":{"grpc-service-name":"dagh.mojavadd.space"}}
+  - {"name":"🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]","type":"vless","server":"151.101.195.8","port":80,"uuid":"3ff60b54-f6d6-467f-9189-df1a0567c647","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/?ed=2052?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn","headers":{"Host":"norbert-team-free1.global.ssl.fastly.net"}}}
+  - {"name":"🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [5]","type":"vless","server":"25.129.199.122","port":2096,"uuid":"2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"DiGIkALaA.dpdns.ORG","ws-opts":{"path":"/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ","headers":{"Host":"digikalaa.dpdns.org"}}}
+  - {"name":"🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [9]","type":"vless","server":"91.107.129.24","port":2095,"uuid":"e25f83e8-cdaf-46d8-beb0-01a5e57b2ef2","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/@hashmakvpn 🇩🇪","headers":{"Host":"bmi.ir"}}}
+  - {"name":"🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [10]","type":"vless","server":"45.85.119.44","port":2083,"uuid":"01973bf7-048a-4dc6-a82b-2fa3be7046a5","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"dagh.mojavadd.space","grpc-opts":{"grpc-service-name":"dagh.mojavadd.space"}}
   - {"name":"🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]","type":"vless","server":"81.12.96.39","port":22631,"uuid":"77e6e498-98e4-4a0b-93cb-8e2c117c0ad3","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
 
 proxy-groups:
@@ -193,10 +193,10 @@ proxy-groups:
       - '🚩 CF | 🔒 VLESS | @v2rayngc [15]'
       - '🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]'
       - '🚩 CF | 🔒 VLESS | @v2rayvpn2 [3]'
-      - '🇺🇸 US | 🔓 VLESS | @vpnplusee_free [5]'
-      - '🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [6]'
-      - '🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [10]'
-      - '🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [11]'
+      - '🇺🇸 US | 🔓 VLESS | @vpnplusee_free [4]'
+      - '🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [5]'
+      - '🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [9]'
+      - '🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [10]'
       - '🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]'
 
   - name: 🌍 Global Media
