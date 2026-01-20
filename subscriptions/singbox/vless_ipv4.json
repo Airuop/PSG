@@ -124,8 +124,8 @@
                 "🇮🇷 IR | 🔓 VLESS | @lakvpn1 [7]",
                 "🚩 CF | 🔓 VLESS | @megavpn_link [2]",
                 "🚩 CF | 🔓 VLESS | @megavpn_link [4]",
-                "🇬🇧 GB | 🔒 VLESS | @mehrosaboran [1]",
-                "🇬🇧 GB | 🔒 VLESS | @mehrosaboran [2]",
+                "🚩 CF | 🔒 VLESS | @mehrosaboran [4]",
+                "🚩 CF | 🔒 VLESS | @mehrosaboran [6]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -212,8 +212,8 @@
                 "🇮🇷 IR | 🔓 VLESS | @lakvpn1 [7]",
                 "🚩 CF | 🔓 VLESS | @megavpn_link [2]",
                 "🚩 CF | 🔓 VLESS | @megavpn_link [4]",
-                "🇬🇧 GB | 🔒 VLESS | @mehrosaboran [1]",
-                "🇬🇧 GB | 🔒 VLESS | @mehrosaboran [2]",
+                "🚩 CF | 🔒 VLESS | @mehrosaboran [4]",
+                "🚩 CF | 🔒 VLESS | @mehrosaboran [6]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -912,16 +912,16 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @mehrosaboran [1]",
+            "tag": "🚩 CF | 🔒 VLESS | @mehrosaboran [4]",
             "type": "vless",
-            "server": "25.129.199.205",
-            "server_port": 2053,
-            "uuid": "8a07740f-b932-4372-a3a2-ed91f184cd33",
+            "server": "104.18.32.47",
+            "server_port": 8443,
+            "uuid": "4dc33009-acb0-4d8a-bba2-63ca9d9b4aed",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "KhAmeneI.DPdNs.OrG",
+                "server_name": "net.gigaping.sbs",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -930,23 +930,23 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
+                "path": "/nigga",
                 "headers": {
-                    "Host": "KhAmeneI.DPdNs.OrG"
+                    "Host": "net.gigaping.sbs"
                 }
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @mehrosaboran [2]",
+            "tag": "🚩 CF | 🔒 VLESS | @mehrosaboran [6]",
             "type": "vless",
-            "server": "25.129.199.122",
-            "server_port": 2096,
-            "uuid": "2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d",
+            "server": "104.18.32.47",
+            "server_port": 443,
+            "uuid": "86e42553-3576-48ec-bf69-b7e7c33d0ee6",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "DiGIkALaA.dpdns.ORG",
+                "server_name": "DigI.ZcOnNECtiOn.ToP",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -955,9 +955,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ",
+                "path": "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
                 "headers": {
-                    "Host": "DiGIkALaA.dpdns.ORG"
+                    "Host": "DigI.ZcOnNECtiOn.ToP"
                 }
             }
         },

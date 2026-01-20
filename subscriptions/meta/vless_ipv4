@@ -55,8 +55,8 @@ proxies:
   - {"name":"🇮🇷 IR | 🔓 VLESS | @lakvpn1 [7]","type":"vless","server":"31.14.118.226","port":24100,"uuid":"abaaff2a-a66d-40cb-bfdf-9b6c3762789b","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🚩 CF | 🔓 VLESS | @megavpn_link [2]","type":"vless","server":"104.17.147.22","port":80,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/Telegram@V2ray_Alpha/?ed=2560","headers":{"Host":"redfree8mahsang6.redfree8.ir"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @megavpn_link [4]","type":"vless","server":"104.17.147.22","port":80,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/?ed=2560","headers":{"Host":"redfree8mahsang6.redfree8.ir"}}}
-  - {"name":"🇬🇧 GB | 🔒 VLESS | @mehrosaboran [1]","type":"vless","server":"25.129.199.205","port":2053,"uuid":"8a07740f-b932-4372-a3a2-ed91f184cd33","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"KhAmeneI.DPdNs.OrG","ws-opts":{"path":"/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560","headers":{"Host":"khamenei.dpdns.org"}}}
-  - {"name":"🇬🇧 GB | 🔒 VLESS | @mehrosaboran [2]","type":"vless","server":"25.129.199.122","port":2096,"uuid":"2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"DiGIkALaA.dpdns.ORG","ws-opts":{"path":"/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ","headers":{"Host":"digikalaa.dpdns.org"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @mehrosaboran [4]","type":"vless","server":"104.18.32.47","port":8443,"uuid":"4dc33009-acb0-4d8a-bba2-63ca9d9b4aed","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"net.gigaping.sbs","ws-opts":{"path":"/nigga","headers":{"Host":"net.gigaping.sbs"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @mehrosaboran [6]","type":"vless","server":"104.18.32.47","port":443,"uuid":"86e42553-3576-48ec-bf69-b7e7c33d0ee6","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"DigI.ZcOnNECtiOn.ToP","ws-opts":{"path":"/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560","headers":{"Host":"digi.zconnection.top"}}}
   - {"name":"🇺🇸 US | 🔒 VLESS | @minovpnch [2]","type":"vless","server":"151.101.129.203","port":443,"uuid":"29af39ed-f8c8-49b8-9a5f-ea24fad97a09","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"video.nordkapp-boats.no","ws-opts":{"path":"/?ed=1024","headers":{"Host":"fastopra.com"}}}
   - {"name":"🇸🇪 SE | 🔓 VLESS | @minovpnch [3]","type":"vless","server":"185.146.173.200","port":8880,"uuid":"f8d2a4a1-5ccb-49dc-a1fb-36904313c2e4","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed","headers":{"Host":"www.speedtest.net.B.lightning-6.LiVE."}}}
   - {"name":"🇫🇷 FR | 🔓 VLESS | @minovpnch [4]","type":"vless","server":"199.232.169.135","port":80,"uuid":"f408696c-cdbe-49a1-90e9-ab602003315c","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"speedtest.net","ws-opts":{"path":"/MinoVpnCh?ed=2048","headers":{"Host":"googleb.net"}}}
@@ -141,8 +141,8 @@ proxy-groups:
       - '🇮🇷 IR | 🔓 VLESS | @lakvpn1 [7]'
       - '🚩 CF | 🔓 VLESS | @megavpn_link [2]'
       - '🚩 CF | 🔓 VLESS | @megavpn_link [4]'
-      - '🇬🇧 GB | 🔒 VLESS | @mehrosaboran [1]'
-      - '🇬🇧 GB | 🔒 VLESS | @mehrosaboran [2]'
+      - '🚩 CF | 🔒 VLESS | @mehrosaboran [4]'
+      - '🚩 CF | 🔒 VLESS | @mehrosaboran [6]'
       - '🇺🇸 US | 🔒 VLESS | @minovpnch [2]'
       - '🇸🇪 SE | 🔓 VLESS | @minovpnch [3]'
       - '🇫🇷 FR | 🔓 VLESS | @minovpnch [4]'
