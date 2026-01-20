@@ -96,8 +96,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [4]",
-                "🇳🇱 NL | 🔒 VLESS | @binner_iran [13]",
-                "🇺🇸 US | 🔒 VLESS | @binner_iran [20]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [2]",
                 "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
@@ -133,8 +131,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [4]",
-                "🇳🇱 NL | 🔒 VLESS | @binner_iran [13]",
-                "🇺🇸 US | 🔒 VLESS | @binner_iran [20]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [2]",
                 "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
@@ -337,52 +333,6 @@
                     "enabled": true,
                     "public_key": "HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ",
                     "short_id": "bb5cae"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @binner_iran [13]",
-            "type": "vless",
-            "server": "77.83.175.25",
-            "server_port": 43644,
-            "uuid": "7caad1ea-c29d-4ed4-8055-f52a6b67d3f3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo",
-                    "short_id": "89e6599a89c8372b"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @binner_iran [20]",
-            "type": "vless",
-            "server": "146.19.90.2",
-            "server_port": 443,
-            "uuid": "ae37ee3b-2109-7934-7f46-30f712b2580f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "speed.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko",
-                    "short_id": ""
                 }
             }
         },
