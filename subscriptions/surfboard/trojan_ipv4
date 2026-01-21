@@ -9,6 +9,7 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
+🚩 CF | 🔒 TROJAN | @binner_iran [3] = trojan, 104.18.32.47, 443, password = humanity, skip-cert-verify = false
 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48] = trojan, 217.182.76.235, 443, password = 05003b7a-8f03-41d5-b696-0119e8376a20, skip-cert-verify = false
 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51] = trojan, 145.239.237.92, 443, password = f0532122-948c-46cf-a392-15cc8233d1c0, skip-cert-verify = false
 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60] = trojan, 146.19.215.81, 443, password = 769c2da7-add3-42e8-a03c-07be9fcf483c, skip-cert-verify = false
@@ -16,9 +17,9 @@ DIRECT = direct
 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62] = trojan, 104.149.155.13, 443, password = 79c935c0-27dc-4383-b307-dcac1b8e5509, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]
-PSG-AUTO = url-test, 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]
-PSG-FALLBACK = fallback, 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🚩 CF | 🔒 TROJAN | @binner_iran [3], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]
+PSG-AUTO = url-test, 🚩 CF | 🔒 TROJAN | @binner_iran [3], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]
+PSG-FALLBACK = fallback, 🚩 CF | 🔒 TROJAN | @binner_iran [3], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48], 🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51], 🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60], 🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61], 🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]
 
 [Rule]
 GEOIP,IR,DIRECT

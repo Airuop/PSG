@@ -23,6 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
+  - {"name":"🚩 CF | 🔒 TROJAN | @binner_iran [3]","type":"trojan","server":"104.18.32.47","port":443,"password":"humanity","skip-cert-verify":false}
   - {"name":"🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]","type":"trojan","server":"217.182.76.235","port":443,"password":"05003b7a-8f03-41d5-b696-0119e8376a20","skip-cert-verify":false}
   - {"name":"🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]","type":"trojan","server":"145.239.237.92","port":443,"password":"f0532122-948c-46cf-a392-15cc8233d1c0","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]","type":"trojan","server":"146.19.215.81","port":443,"password":"769c2da7-add3-42e8-a03c-07be9fcf483c","skip-cert-verify":false}
@@ -41,6 +42,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
+      - '🚩 CF | 🔒 TROJAN | @binner_iran [3]'
       - '🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]'
       - '🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]'
       - '🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]'
