@@ -96,8 +96,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [4]",
-                "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [3]",
-                "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+                "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -118,8 +117,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [4]",
-                "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [3]",
-                "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+                "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -311,30 +309,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [3]",
-            "type": "vless",
-            "server": "103.175.79.10",
-            "server_port": 443,
-            "uuid": "49ed01ad-3bb4-204f-b0ff-a58f658fd618",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "speed.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
             "type": "vless",
             "server": "188.132.141.49",
             "server_port": 8443,
