@@ -96,7 +96,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [4]",
-                "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [2]",
+                "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [3]",
                 "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
@@ -107,15 +107,14 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [7]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [8]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [9]",
+                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [10]",
                 "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [11]",
                 "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [12]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -131,7 +130,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [4]",
-                "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [2]",
+                "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [3]",
                 "🇹🇷 TR | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
@@ -142,15 +141,14 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [7]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [8]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [9]",
+                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [10]",
                 "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [11]",
                 "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [12]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -337,7 +335,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [2]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [3]",
             "type": "vless",
             "server": "103.175.79.10",
             "server_port": 443,
@@ -590,30 +588,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
-            "type": "vless",
-            "server": "CRT.SIGMA-HOSTER.COM",
-            "server_port": 443,
-            "uuid": "8c2bb7d3-7079-434b-b2ba-dc7ddc2cb859",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "app.hubspot.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-                    "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
             "type": "vless",
             "server": "ARM.SIGMA-HOSTER.COM",
             "server_port": 443,
@@ -636,7 +611,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
             "type": "vless",
             "server": "ARM.SIGMA-HOSTER.COM",
             "server_port": 443,
@@ -659,7 +634,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [7]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
             "type": "vless",
             "server": "PARMIS.SIGMA-HOSTER.COM",
             "server_port": 443,
@@ -682,7 +657,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [8]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [7]",
             "type": "vless",
             "server": "ARM.SIGMA-HOSTER.COM",
             "server_port": 443,
@@ -705,7 +680,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [9]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [8]",
             "type": "vless",
             "server": "ARM.CROCODILESERVER.IR",
             "server_port": 443,
@@ -728,7 +703,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [11]",
+            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [10]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -751,7 +726,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [12]",
+            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [11]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -774,7 +749,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [13]",
+            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [12]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
