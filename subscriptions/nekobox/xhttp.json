@@ -80,14 +80,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [3]",
+                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -99,14 +96,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [3]",
+                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -198,7 +192,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [3]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [2]",
             "type": "vless",
             "server": "51.75.88.197",
             "server_port": 443,
@@ -234,6 +228,29 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [19]",
+            "type": "vless",
+            "server": "74.208.13.49",
+            "server_port": 8443,
+            "uuid": "4c148f59-9b4b-4a9c-9c24-33e0099c7524",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "jpstore.msi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2r5mXOOqj44TTnHJLlA8_ulpmCrS1nO_qXerWU7IsB8",
+                    "short_id": "85a602c3b6e68013"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔓 VLESS | @megavpn_link [1]",
             "type": "vless",
             "server": "fast.peace.lemoex.blog",
@@ -241,78 +258,6 @@
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [8]",
-            "type": "vless",
-            "server": "api.steamsale.ir",
-            "server_port": 2053,
-            "uuid": "818ffdea-872c-43fe-adee-09d4e99a9ce6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "fast.spacenetpro.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "xn--wjgaa.jahantest.site",
-            "server_port": 443,
-            "uuid": "cee80290-60cc-449c-8988-c86e458f801e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "xn--ujgaa.jahantest.site",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
-            "type": "vless",
-            "server": "chatgpt.com",
-            "server_port": 443,
-            "uuid": "924cd0c0-7fd0-4d0f-a23d-6b66808c23af",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "chatgptcom.RangsarDi13.iR.",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",

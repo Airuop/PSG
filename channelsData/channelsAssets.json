@@ -33,7 +33,6 @@
     },
     "filtershekan_channel": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "پروکسی | proxy | filtershekan",
@@ -45,13 +44,6 @@
         ],
         "title": "فیلترشکن رایگان V2RAY",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freev2flyng.jpg"
-    },
-    "freevirgoolnet": {
-        "types": [
-            "ss"
-        ],
-        "title": "🚀 Free VirgoolNet",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freevirgoolnet.jpg"
     },
     "gh_v2rayng": {
         "types": [
@@ -106,8 +98,7 @@
     },
     "mehrosaboran": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "پروکسی و v2rayمهربانی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mehrosaboran.jpg"
@@ -159,7 +150,8 @@
     },
     "turboo_server": {
         "types": [
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "Turboo Server",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/turboo_server.jpg"
