@@ -80,10 +80,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [19]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -94,10 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [2]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [19]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -188,24 +184,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @kurdistan_vpn_perfectt [2]",
-            "type": "vless",
-            "server": "51.75.88.197",
-            "server_port": 443,
-            "uuid": "b8533809-f11e-4edd-a439-4754e7ac7be8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "51.75.88.197",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
             "type": "vless",
             "server": "151.101.204.190",
@@ -222,29 +200,6 @@
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [19]",
-            "type": "vless",
-            "server": "74.208.13.49",
-            "server_port": 8443,
-            "uuid": "4c148f59-9b4b-4a9c-9c24-33e0099c7524",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "jpstore.msi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2r5mXOOqj44TTnHJLlA8_ulpmCrS1nO_qXerWU7IsB8",
-                    "short_id": "85a602c3b6e68013"
-                }
-            }
         }
     ],
     "route": {

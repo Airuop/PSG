@@ -88,9 +88,11 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [7]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [8]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [10]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [11]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [12]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [10]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [12]",
+                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -110,9 +112,11 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [7]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [8]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [10]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [11]",
-                "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [12]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [10]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [12]",
+                "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -388,7 +392,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [10]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [10]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -411,7 +415,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [11]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -434,7 +438,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🔒 VLESS | @vpn_accounti [12]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [12]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
@@ -453,6 +457,52 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇭 CH | 🔒 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "Swit.zerosulution.com",
+            "server_port": 7567,
+            "uuid": "b2db346c-b24f-4ec4-876a-0c7fb490584c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "excoino.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "DSF9EhsLMGd7Clgh7PhrY4AmCxIYtCnATRrzA2sVTis",
+                    "short_id": "abb50e"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "mouse4.1lil1.de",
+            "server_port": 443,
+            "uuid": "fd172037-5098-1245-7859-58a5c57e993c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic",
+                    "short_id": "c410508e9721512b"
                 }
             }
         },
