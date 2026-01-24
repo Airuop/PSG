@@ -24,8 +24,7 @@ dns:
 
 proxies: 
   - {"name":"❔ XX | 🔒 TROJAN | @iraniv2ray [4]","type":"trojan","server":"lllliraniv2rayllll.norooz.shop","port":2083,"password":"BWDcALS5TU","skip-cert-verify":false}
-  - {"name":"🇺🇸 US | 🔓 TROJAN | @turboo_server [1]","type":"trojan","server":"cdn.turbooserver.com","port":80,"password":"TurbooServer","skip-cert-verify":false}
-  - {"name":"🇺🇸 US | 🔓 TROJAN | @turboo_server [3]","type":"trojan","server":"cdn1.turbooserver.com","port":80,"password":"TurbooServer","skip-cert-verify":false}
+  - {"name":"🇺🇸 US | 🔓 TROJAN | @turboo_server [2]","type":"trojan","server":"cdn1.turbooserver.com","port":80,"password":"TurbooServer","skip-cert-verify":false}
   - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [49]","type":"trojan","server":"phxv002.jd0001.top","port":44303,"password":"6bb546f2-5528-31b2-8d8e-cf1eed4076a0","skip-cert-verify":false}
   - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [50]","type":"trojan","server":"1.mg.us.cat77.cloud","port":1434,"password":"cd27884b-c5af-34ec-b75f-8248077818fe","skip-cert-verify":false}
   - {"name":"❔ XX | 🔒 TROJAN | @v2rayngconfig [52]","type":"trojan","server":"stonebreak.online","port":443,"password":"xl87654321","skip-cert-verify":false}
@@ -49,8 +48,7 @@ proxy-groups:
     interval: 300
     proxies: 
       - '❔ XX | 🔒 TROJAN | @iraniv2ray [4]'
-      - '🇺🇸 US | 🔓 TROJAN | @turboo_server [1]'
-      - '🇺🇸 US | 🔓 TROJAN | @turboo_server [3]'
+      - '🇺🇸 US | 🔓 TROJAN | @turboo_server [2]'
       - '❔ XX | 🔒 TROJAN | @v2rayngconfig [49]'
       - '❔ XX | 🔒 TROJAN | @v2rayngconfig [50]'
       - '❔ XX | 🔒 TROJAN | @v2rayngconfig [52]'

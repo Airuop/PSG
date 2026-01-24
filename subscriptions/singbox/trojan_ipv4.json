@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @binner_iran [1]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
@@ -108,7 +107,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @binner_iran [1]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]",
                 "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
@@ -196,29 +194,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 TROJAN | @binner_iran [1]",
-            "type": "trojan",
-            "server": "104.18.32.47",
-            "server_port": 443,
-            "password": "humanity",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.multiplydose.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/assignment",
-                "headers": {
-                    "Host": "www.multiplydose.com"
                 }
             }
         },
