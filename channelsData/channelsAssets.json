@@ -24,7 +24,6 @@
     },
     "binner_iran": {
         "types": [
-            "ss",
             "trojan",
             "vless"
         ],
@@ -96,13 +95,6 @@
         "title": "Mega VPN - VPN ⚪️",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/megavpn_link.jpg"
     },
-    "mehrosaboran": {
-        "types": [
-            "vless"
-        ],
-        "title": "پروکسی و v2rayمهربانی",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mehrosaboran.jpg"
-    },
     "minovpnch": {
         "types": [
             "vless",
@@ -150,8 +142,8 @@
     },
     "turboo_server": {
         "types": [
-            "vless",
-            "trojan"
+            "trojan",
+            "vless"
         ],
         "title": "Turboo Server",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/turboo_server.jpg"
