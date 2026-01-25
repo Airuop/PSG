@@ -92,8 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔒 VLESS | @filtershekan_channel [1]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -105,8 +106,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔒 VLESS | @filtershekan_channel [1]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -194,24 +196,6 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @filtershekan_channel [1]",
-            "type": "vless",
-            "server": "iran.dibadns.ir",
-            "server_port": 2053,
-            "uuid": "0b50cdfb-c96f-44d2-a5c0-f74ab71cc335",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "iran.dibadns.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔓 VLESS | @megavpn_link [1]",
             "type": "vless",
             "server": "fast.peace.lemoex.blog",
@@ -219,6 +203,38 @@
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "fastly.zone-server-irani.ir",
+            "server_port": 80,
+            "uuid": "1a69dc19-2245-46ff-b7ee-7715520edad6",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [19]",
+            "type": "vless",
+            "server": "files.xy-v4ray.lat",
+            "server_port": 8443,
+            "uuid": "d5d7fba2-de6f-495c-8d67-e538e4906319",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mAijI28r62LGewtQFEJZ_00ZGLIKHdA7_IOoOsNXlAk",
+                    "short_id": "e82e58e90f3c7d3c"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
