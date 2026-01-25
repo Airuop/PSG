@@ -92,8 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇪🇸 ES | 🔒 VLESS | @filtershekan_channel [7]",
-                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [6]",
+                "🇪🇸 ES | 🔒 VLESS | @filtershekan_channel [5]",
+                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [5]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -105,8 +105,9 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [10]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [12]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -118,8 +119,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇪🇸 ES | 🔒 VLESS | @filtershekan_channel [7]",
-                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [6]",
+                "🇪🇸 ES | 🔒 VLESS | @filtershekan_channel [5]",
+                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [5]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -131,8 +132,9 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [10]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [11]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [12]",
-                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [10]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -220,7 +222,7 @@
             }
         },
         {
-            "tag": "🇪🇸 ES | 🔒 VLESS | @filtershekan_channel [7]",
+            "tag": "🇪🇸 ES | 🔒 VLESS | @filtershekan_channel [5]",
             "type": "vless",
             "server": "tunnyl.ru",
             "server_port": 8443,
@@ -243,7 +245,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [5]",
             "type": "vless",
             "server": "sa.hypersonic.pw",
             "server_port": 443,
@@ -519,52 +521,71 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [10]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
-            "server": "sktr.berkeart.ir",
-            "server_port": 19702,
-            "uuid": "1f3b130d-7d29-45d1-b5aa-adc5cd94a885",
+            "server": "fi4.srv.cdnopl.link",
+            "server_port": 6443,
+            "uuid": "abb26a5a-3223-476f-a732-4c66f6a116ab",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "check-host.net",
+                "server_name": "debug.resolvertest.doh.umbrella.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "qq"
                 },
                 "reality": {
                     "enabled": true,
                     "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
                     "short_id": "6ba85179e30d4fc2"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "xyz"
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
-            "server": "5germ.solonettochka.ru",
-            "server_port": 443,
-            "uuid": "8a56d7cc-e76b-48b0-a706-398f1019e3c9",
+            "server": "fi4.srv.cdnopl.link",
+            "server_port": 6443,
+            "uuid": "abb26a5a-3223-476f-a732-4c66f6a116ab",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "google.com",
+                "server_name": "debug.resolvertest.doh.umbrella.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "qq"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "HtqwPm99XZ72h6guDkP8Xjbfd-j4btmYYAWIK2553wE",
-                    "short_id": "403e3391"
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "it-ip.gameirani.com",
+            "server_port": 500,
+            "uuid": "e6af2417-0a79-4521-aa2a-de1c2f105188",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM",
+                    "short_id": "bea5eb2fcf6b183c"
                 }
             }
         },

@@ -83,16 +83,14 @@
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
-                "🇩🇪 DE | 🔒 VLESS | @filtershekan_channel [1]",
-                "🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [2]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]"
+                "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,16 +104,14 @@
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
-                "🇩🇪 DE | 🔒 VLESS | @filtershekan_channel [1]",
-                "🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [2]",
-                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
+                "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]"
+                "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -275,57 +271,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @filtershekan_channel [1]",
-            "type": "vless",
-            "server": "37.120.175.246",
-            "server_port": 22955,
-            "uuid": "63f92f3c-447c-4283-80b9-0af8e164cdad",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "one-piece.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms",
-                    "short_id": "6ba85179e30d4fc2"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "grpc"
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [2]",
-            "type": "vless",
-            "server": "84.201.167.199",
-            "server_port": 443,
-            "uuid": "fa-8031206539-1766312475386029",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ads.x5.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE",
-                    "short_id": "d1d42381ba35"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
             "type": "vless",
             "server": "37.221.92.194",
             "server_port": 2082,
@@ -486,16 +432,16 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]",
+            "tag": "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
-            "server": "45.151.136.70",
+            "server": "83.136.107.171",
             "server_port": 443,
-            "uuid": "95abaefc-7861-417a-81b7-166cb788ce1a",
+            "uuid": "1cc1fa50-ad16-4e22-81a0-e416f7a35f60",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "st.ozone.ru",
+                "server_name": "aws.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -503,8 +449,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU",
-                    "short_id": "00684d2eae2cdd16"
+                    "public_key": "ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw",
+                    "short_id": ""
                 }
             }
         }
