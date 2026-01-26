@@ -93,7 +93,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -105,7 +106,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -208,6 +210,13 @@
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]",
+            "type": "trojan",
+            "server": "130.162.197.41",
+            "server_port": 21051,
+            "password": "bUlYzLSY7D"
         }
     ],
     "route": {

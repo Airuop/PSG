@@ -121,7 +121,8 @@
     },
     "spikevpn": {
         "types": [
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "Spike VPN / V2rayng کانفیگ / وی تو ری / فیلتر شکن",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/spikevpn.jpg"
@@ -154,15 +155,6 @@
         ],
         "title": "V2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngc.jpg"
-    },
-    "v2rayngconfig": {
-        "types": [
-            "trojan",
-            "vmess",
-            "ss"
-        ],
-        "title": "v2rayNG - کانفیگ",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngconfig.jpg"
     },
     "v2rayvpn2": {
         "types": [

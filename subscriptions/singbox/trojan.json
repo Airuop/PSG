@@ -92,23 +92,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [5]",
+                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [3]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "🇺🇸 US | 🔓 TROJAN | @turboo_server [1]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [49]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [50]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [52]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [54]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [55]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [56]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [57]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [58]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [59]",
-                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]",
-                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]",
-                "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
-                "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]",
-                "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -119,23 +106,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [5]",
+                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [3]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "🇺🇸 US | 🔓 TROJAN | @turboo_server [1]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [49]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [50]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [52]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [54]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [55]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [56]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [57]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [58]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [59]",
-                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]",
-                "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]",
-                "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
-                "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]",
-                "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -222,7 +196,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @filtershekan_channel [5]",
+            "tag": "🚩 CF | 🔒 TROJAN | @filtershekan_channel [3]",
             "type": "trojan",
             "server": "chatgpt.com",
             "server_port": 443,
@@ -279,228 +253,11 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [49]",
+            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]",
             "type": "trojan",
-            "server": "phxv002.jd0001.top",
-            "server_port": 44303,
-            "password": "6bb546f2-5528-31b2-8d8e-cf1eed4076a0",
-            "tls": {
-                "enabled": true,
-                "server_name": "phxv002.jd0001.top",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [50]",
-            "type": "trojan",
-            "server": "1.mg.us.cat77.cloud",
-            "server_port": 1434,
-            "password": "cd27884b-c5af-34ec-b75f-8248077818fe",
-            "tls": {
-                "enabled": true,
-                "server_name": "1.mg.us.cat77.cloud",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [52]",
-            "type": "trojan",
-            "server": "stonebreak.online",
-            "server_port": 443,
-            "password": "xl87654321",
-            "tls": {
-                "enabled": true,
-                "server_name": "stonebreak.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [54]",
-            "type": "trojan",
-            "server": "us2.trojanvh.xyz",
-            "server_port": 80,
-            "password": "aa6eb272-1d8d-4461-9687-85ddbab1adb0",
-            "tls": {
-                "enabled": true,
-                "server_name": "us2.trojanvh.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [55]",
-            "type": "trojan",
-            "server": "stonebreak.online",
-            "server_port": 443,
-            "password": "xl87654321",
-            "tls": {
-                "enabled": true,
-                "server_name": "stonebreak.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [56]",
-            "type": "trojan",
-            "server": "b.mg.us.cat77.cloud",
-            "server_port": 5215,
-            "password": "cd27884b-c5af-34ec-b75f-8248077818fe",
-            "tls": {
-                "enabled": true,
-                "server_name": "b.mg.us.cat77.cloud",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [57]",
-            "type": "trojan",
-            "server": "mumbai-m2.4422331.xyz",
-            "server_port": 10086,
-            "password": "4134219f-2384-449c-92e9-50fe8474c30a",
-            "tls": {
-                "enabled": true,
-                "server_name": "mumbai-m2.4422331.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [58]",
-            "type": "trojan",
-            "server": "1.mg.us.cat77.cloud",
-            "server_port": 1434,
-            "password": "cd27884b-c5af-34ec-b75f-8248077818fe",
-            "tls": {
-                "enabled": true,
-                "server_name": "1.mg.us.cat77.cloud",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [59]",
-            "type": "trojan",
-            "server": "170-187-134-190.ipv4.rush.ml",
-            "server_port": 8443,
-            "password": "cf4295378e209e70d12c5bdd017144dfd1c772d3",
-            "tls": {
-                "enabled": true,
-                "server_name": "170-187-134-190.ipv4.rush.ml",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [48]",
-            "type": "trojan",
-            "server": "217.182.76.235",
-            "server_port": 443,
-            "password": "05003b7a-8f03-41d5-b696-0119e8376a20",
-            "tls": {
-                "enabled": true,
-                "server_name": "t6.teslacdn2.live",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱 PL | 🔒 TROJAN | @v2rayngconfig [51]",
-            "type": "trojan",
-            "server": "145.239.237.92",
-            "server_port": 443,
-            "password": "f0532122-948c-46cf-a392-15cc8233d1c0",
-            "tls": {
-                "enabled": true,
-                "server_name": "t1.teslacdn2.live",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [60]",
-            "type": "trojan",
-            "server": "146.19.215.81",
-            "server_port": 443,
-            "password": "769c2da7-add3-42e8-a03c-07be9fcf483c",
-            "tls": {
-                "enabled": true,
-                "server_name": "zaelot.cc",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔒 TROJAN | @v2rayngconfig [61]",
-            "type": "trojan",
-            "server": "15.222.9.61",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trj.rollingnext.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [62]",
-            "type": "trojan",
-            "server": "104.149.155.13",
-            "server_port": 443,
-            "password": "79c935c0-27dc-4383-b307-dcac1b8e5509",
-            "tls": {
-                "enabled": true,
-                "server_name": "vzwzasc.cn",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "server": "130.162.197.41",
+            "server_port": 21051,
+            "password": "bUlYzLSY7D"
         }
     ],
     "route": {
