@@ -9,12 +9,12 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇦🇺 AU | 🔒 TROJAN | @spikevpn [4] = trojan, 130.162.197.41, 21051, password = bUlYzLSY7D, skip-cert-verify = false
+🇦🇺 AU | 🔒 TROJAN | @spikevpn [3] = trojan, 130.162.197.41, 21051, password = bUlYzLSY7D, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]
-PSG-AUTO = url-test, 🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]
-PSG-FALLBACK = fallback, 🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇦🇺 AU | 🔒 TROJAN | @spikevpn [3]
+PSG-AUTO = url-test, 🇦🇺 AU | 🔒 TROJAN | @spikevpn [3]
+PSG-FALLBACK = fallback, 🇦🇺 AU | 🔒 TROJAN | @spikevpn [3]
 
 [Rule]
 GEOIP,IR,DIRECT

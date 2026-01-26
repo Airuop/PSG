@@ -80,9 +80,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [3]",
-                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "🇺🇸 US | 🔓 TROJAN | @turboo_server [1]"
+                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [2]",
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -93,9 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [3]",
-                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "🇺🇸 US | 🔓 TROJAN | @turboo_server [1]"
+                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [2]",
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -186,7 +184,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @filtershekan_channel [3]",
+            "tag": "🚩 CF | 🔒 TROJAN | @filtershekan_channel [2]",
             "type": "trojan",
             "server": "chatgpt.com",
             "server_port": 443,
@@ -226,20 +224,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "iraniV2ray"
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 TROJAN | @turboo_server [1]",
-            "type": "trojan",
-            "server": "cdn1.turbooserver.com",
-            "server_port": 80,
-            "password": "TurbooServer",
-            "transport": {
-                "type": "ws",
-                "path": "/ed",
-                "headers": {
-                    "Host": "cdn1.turbooserver.com"
-                }
             }
         }
     ],

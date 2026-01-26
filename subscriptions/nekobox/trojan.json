@@ -80,10 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [3]",
+                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [2]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "🇺🇸 US | 🔓 TROJAN | @turboo_server [1]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [3]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -94,10 +93,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [3]",
+                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [2]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "🇺🇸 US | 🔓 TROJAN | @turboo_server [1]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [3]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -188,7 +186,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @filtershekan_channel [3]",
+            "tag": "🚩 CF | 🔒 TROJAN | @filtershekan_channel [2]",
             "type": "trojan",
             "server": "chatgpt.com",
             "server_port": 443,
@@ -231,21 +229,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 TROJAN | @turboo_server [1]",
-            "type": "trojan",
-            "server": "cdn1.turbooserver.com",
-            "server_port": 80,
-            "password": "TurbooServer",
-            "transport": {
-                "type": "ws",
-                "path": "/ed",
-                "headers": {
-                    "Host": "cdn1.turbooserver.com"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [4]",
+            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [3]",
             "type": "trojan",
             "server": "130.162.197.41",
             "server_port": 21051,

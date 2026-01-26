@@ -9,14 +9,13 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🚩 CF | 🔒 TROJAN | @filtershekan_channel [3] = trojan, chatgpt.com, 443, password = humanity, skip-cert-verify = false
+🚩 CF | 🔒 TROJAN | @filtershekan_channel [2] = trojan, chatgpt.com, 443, password = humanity, skip-cert-verify = false
 ❔ XX | 🔒 TROJAN | @iraniv2ray [4] = trojan, lllliraniv2rayllll.norooz.shop, 2083, password = BWDcALS5TU, skip-cert-verify = false
-🇺🇸 US | 🔓 TROJAN | @turboo_server [1] = trojan, cdn1.turbooserver.com, 80, password = TurbooServer, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🚩 CF | 🔒 TROJAN | @filtershekan_channel [3], ❔ XX | 🔒 TROJAN | @iraniv2ray [4], 🇺🇸 US | 🔓 TROJAN | @turboo_server [1]
-PSG-AUTO = url-test, 🚩 CF | 🔒 TROJAN | @filtershekan_channel [3], ❔ XX | 🔒 TROJAN | @iraniv2ray [4], 🇺🇸 US | 🔓 TROJAN | @turboo_server [1]
-PSG-FALLBACK = fallback, 🚩 CF | 🔒 TROJAN | @filtershekan_channel [3], ❔ XX | 🔒 TROJAN | @iraniv2ray [4], 🇺🇸 US | 🔓 TROJAN | @turboo_server [1]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🚩 CF | 🔒 TROJAN | @filtershekan_channel [2], ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
+PSG-AUTO = url-test, 🚩 CF | 🔒 TROJAN | @filtershekan_channel [2], ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
+PSG-FALLBACK = fallback, 🚩 CF | 🔒 TROJAN | @filtershekan_channel [2], ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
 
 [Rule]
 GEOIP,IR,DIRECT
