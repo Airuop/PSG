@@ -80,11 +80,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [4]",
+                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "🇨🇭 CH | 🔒 VLESS | @v2rayvpn2 [1]",
+                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [6]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -92,6 +92,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [8]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [9]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [10]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -103,11 +104,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [4]",
+                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "🇨🇭 CH | 🔒 VLESS | @v2rayvpn2 [1]",
+                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [6]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -115,6 +116,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [8]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [9]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [10]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -206,7 +208,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]",
             "type": "vless",
             "server": "sa.hypersonic.pw",
             "server_port": 443,
@@ -298,16 +300,16 @@
             }
         },
         {
-            "tag": "🇨🇭 CH | 🔒 VLESS | @v2rayvpn2 [1]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [6]",
             "type": "vless",
-            "server": "ch-1.bot-iphone.ru",
-            "server_port": 8443,
-            "uuid": "123d4832-db2b-4376-be63-f60858cc328e",
+            "server": "finland.vpn-mtk.ru",
+            "server_port": 443,
+            "uuid": "5cf56d3c-9647-4e0f-8c0a-cbf924a91f21",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "samsung.com",
+                "server_name": "yahoo.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -315,8 +317,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-                    "short_id": "6ba85179e30d4fc2"
+                    "public_key": "JtwFWcGuwbppDxpab7rGUJb5YAQ_CHMG7OO6rnPGl28",
+                    "short_id": "3ab4"
                 }
             }
         },
@@ -478,6 +480,29 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
+            "type": "vless",
+            "server": "fast.imsoon.net",
+            "server_port": 2090,
+            "uuid": "e1379acd-e6e5-4e3d-b6d4-2a4ca6d7ce05",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tesla.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "v2OJckXB5fdwqbMM0G7L_S-4KWVPwdcWjO9ejSY_yQY",
+                    "short_id": "ba4307a7c36b"
                 }
             }
         },

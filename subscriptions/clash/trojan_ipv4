@@ -23,6 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
+  - {"name":"🚩 CF | 🔒 TROJAN | @filtershekan_channel [10]","type":"trojan","server":"172.64.152.23","port":443,"password":"humanity","skip-cert-verify":false}
   - {"name":"🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]","type":"trojan","server":"130.162.197.41","port":21051,"password":"bUlYzLSY7D","skip-cert-verify":false}
 
 proxy-groups:
@@ -37,6 +38,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
+      - '🚩 CF | 🔒 TROJAN | @filtershekan_channel [10]'
       - '🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]'
 
   - name: 🌍 Global Media

@@ -80,8 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]"
+                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [10]",
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]",
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -92,8 +93,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]"
+                "🚩 CF | 🔒 TROJAN | @filtershekan_channel [10]",
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]",
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -184,6 +186,36 @@
             }
         },
         {
+            "tag": "🚩 CF | 🔒 TROJAN | @filtershekan_channel [10]",
+            "type": "trojan",
+            "server": "172.64.152.23",
+            "server_port": 443,
+            "password": "humanity",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.multiplydose.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/assignment",
+                "headers": {
+                    "Host": "www.multiplydose.com"
+                }
+            }
+        },
+        {
+            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]",
+            "type": "trojan",
+            "server": "130.162.197.41",
+            "server_port": 21051,
+            "password": "bUlYzLSY7D"
+        },
+        {
             "tag": "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
             "type": "trojan",
             "server": "lllliraniv2rayllll.norooz.shop",
@@ -202,13 +234,6 @@
                 "type": "grpc",
                 "service_name": "iraniV2ray"
             }
-        },
-        {
-            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]",
-            "type": "trojan",
-            "server": "130.162.197.41",
-            "server_port": 21051,
-            "password": "bUlYzLSY7D"
         }
     ],
     "route": {
