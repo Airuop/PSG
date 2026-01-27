@@ -93,7 +93,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -106,7 +107,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -203,22 +205,22 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [17]",
             "type": "vless",
-            "server": "CDN.halazzon.ir",
-            "server_port": 443,
-            "uuid": "5a967073-dfa9-4691-99d7-bd806732f3fa",
+            "server": "ip.hostingfastly.reallyclody.ir",
+            "server_port": 80,
+            "uuid": "a09bff7c-c3c5-4915-9793-e236b3cfb098",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "bb.ladyy-collection.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [19]",
+            "type": "vless",
+            "server": "sps.blackhoster.com",
+            "server_port": 2095,
+            "uuid": "603e9b99-a471-4c3b-b0b1-495071d4e027",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
