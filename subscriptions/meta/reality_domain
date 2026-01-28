@@ -25,7 +25,7 @@ dns:
 proxies: 
   - {"name":"🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]","type":"vless","server":"sa.hypersonic.pw","port":443,"uuid":"eac161dd-a84d-4d1c-8e35-5cc1d00971de","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"refersion.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"2c1efea9240fd8a4"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]","type":"vless","server":"all32-vip.f-sub.com","port":2434,"uuid":"84e919b0-2a5d-4fad-8614-df01dd210b8e","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.chess.com","reality-opts":{"public-key":"yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA"}}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [5]","type":"vless","server":"finland.vpn-mtk.ru","port":443,"uuid":"5cf56d3c-9647-4e0f-8c0a-cbf924a91f21","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JtwFWcGuwbppDxpab7rGUJb5YAQ_CHMG7OO6rnPGl28","short-id":"3ab4"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [4]","type":"vless","server":"finland.vpn-mtk.ru","port":443,"uuid":"5cf56d3c-9647-4e0f-8c0a-cbf924a91f21","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JtwFWcGuwbppDxpab7rGUJb5YAQ_CHMG7OO6rnPGl28","short-id":"3ab4"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [2]","type":"vless","server":"ARM.SIGMA-HOSTER.COM","port":443,"uuid":"f752b591-5b70-4d8a-9f12-e55ac20f63d4","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [4]","type":"vless","server":"PARMIS.SIGMA-HOSTER.COM","port":443,"uuid":"19ce2438-558d-4d24-ad7c-33d8c73f8d20","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"frcaa.crocodileserver.ir","reality-opts":{"public-key":"bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8","short-id":"1da8d08f24e92861"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [5]","type":"vless","server":"ARM.SIGMA-HOSTER.COM","port":443,"uuid":"fb707a09-7dd8-417f-9d9a-2e61d56995cb","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
@@ -48,7 +48,7 @@ proxy-groups:
     proxies: 
       - '🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]'
       - '🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]'
-      - '🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [5]'
+      - '🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [4]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [2]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [4]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [5]'
