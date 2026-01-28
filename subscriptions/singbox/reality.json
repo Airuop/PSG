@@ -102,12 +102,12 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [17]",
                 "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [6]",
+                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -115,7 +115,6 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [8]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [9]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [10]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -137,12 +136,12 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [17]",
                 "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [6]",
+                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -150,7 +149,6 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [8]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [9]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [10]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -468,24 +466,24 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [17]",
             "type": "vless",
-            "server": "157.180.79.18",
-            "server_port": 2053,
-            "uuid": "24497ec6-9244-4781-869d-3b48dbb13361",
+            "server": "45.67.136.63",
+            "server_port": 8880,
+            "uuid": "6c7aca0d-91e1-467d-a5cb-f6907cb905fe",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.cloudflare.com",
+                "server_name": "tgju.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "XhVQYDFxZdYohty3YEqn7fuvJMJmq4e79477s81vWHc",
+                    "public_key": "gzlUh1d-N2n_b2bRWZ7DTUH8crF91ZZY0hptVh4GnTk",
                     "short_id": ""
                 }
             }
@@ -583,7 +581,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [6]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [5]",
             "type": "vless",
             "server": "finland.vpn-mtk.ru",
             "server_port": 443,
@@ -763,29 +761,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
-            "type": "vless",
-            "server": "fast.imsoon.net",
-            "server_port": 2090,
-            "uuid": "e1379acd-e6e5-4e3d-b6d4-2a4ca6d7ce05",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tesla.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "v2OJckXB5fdwqbMM0G7L_S-4KWVPwdcWjO9ejSY_yQY",
-                    "short_id": "ba4307a7c36b"
                 }
             }
         },

@@ -81,12 +81,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [6]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
@@ -102,12 +96,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [6]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [13]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
@@ -207,92 +195,6 @@
             "server": "fast.peace.lemoex.blog",
             "server_port": 80,
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "fast4.zone-server-irani.ir",
-            "server_port": 80,
-            "uuid": "79df85dd-cb40-4b32-828e-f38d918d85e3",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [13]",
-            "type": "vless",
-            "server": "sv11.v2bit.com",
-            "server_port": 443,
-            "uuid": "74efa1fd-2325-4826-b1da-2ab2e1de6bae",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "aaebestv2timefor.v2bit.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [16]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "ad0531c0-3619-473c-80cd-4561f90a1b25",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [17]",
-            "type": "vless",
-            "server": "fast.imsoon.net",
-            "server_port": 2090,
-            "uuid": "e1379acd-e6e5-4e3d-b6d4-2a4ca6d7ce05",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tesla.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "v2OJckXB5fdwqbMM0G7L_S-4KWVPwdcWjO9ejSY_yQY",
-                    "short_id": "ba4307a7c36b"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [19]",
-            "type": "vless",
-            "server": "fast4.zone-server-irani.ir",
-            "server_port": 80,
-            "uuid": "79df85dd-cb40-4b32-828e-f38d918d85e3",
             "flow": "",
             "packet_encoding": "xudp"
         },
