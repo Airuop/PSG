@@ -92,11 +92,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [4]",
+                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -104,6 +103,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [8]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [9]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [10]",
+                "🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -115,11 +115,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [4]",
+                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
@@ -127,6 +126,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [8]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [9]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [10]",
+                "🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -214,29 +214,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @gh_v2rayng [1]",
-            "type": "vless",
-            "server": "sa.hypersonic.pw",
-            "server_port": 443,
-            "uuid": "eac161dd-a84d-4d1c-8e35-5cc1d00971de",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-                    "short_id": "2c1efea9240fd8a4"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
             "type": "vless",
             "server": "all32-vip.f-sub.com",
@@ -306,7 +283,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [4]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [3]",
             "type": "vless",
             "server": "finland.vpn-mtk.ru",
             "server_port": 443,
@@ -486,6 +463,29 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔒 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "l1p2.sochillbot.org",
+            "server_port": 443,
+            "uuid": "c2448f76-14e2-467c-8774-e3d77a46e0a7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "aparatsport.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZH_7TFpolnoSYnnO4SusE3UvMEae_4yrIGBdMKgixFs",
+                    "short_id": "044d1ee441"
                 }
             }
         },
