@@ -9,13 +9,12 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🚩 CF | 🔒 TROJAN | @filtershekan_channel [2] = trojan, 172.64.152.23, 443, password = humanity, skip-cert-verify = false
-🇦🇺 AU | 🔒 TROJAN | @spikevpn [2] = trojan, 130.162.197.41, 21051, password = bUlYzLSY7D, skip-cert-verify = false
+🇦🇺 AU | 🔒 TROJAN | @spikevpn [1] = trojan, 130.162.197.41, 21051, password = bUlYzLSY7D, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🚩 CF | 🔒 TROJAN | @filtershekan_channel [2], 🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]
-PSG-AUTO = url-test, 🚩 CF | 🔒 TROJAN | @filtershekan_channel [2], 🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]
-PSG-FALLBACK = fallback, 🚩 CF | 🔒 TROJAN | @filtershekan_channel [2], 🇦🇺 AU | 🔒 TROJAN | @spikevpn [2]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]
+PSG-AUTO = url-test, 🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]
+PSG-FALLBACK = fallback, 🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]
 
 [Rule]
 GEOIP,IR,DIRECT
