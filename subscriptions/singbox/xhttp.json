@@ -93,7 +93,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [6]",
+                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [5]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
@@ -109,7 +110,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [6]",
+                "🚩 CF | 🔓 VLESS | @v2rayvpn2 [5]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [19]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
@@ -209,13 +211,31 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @v2rayvpn2 [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @v2rayvpn2 [5]",
             "type": "vless",
             "server": "cloud2.vipfast7.site",
             "server_port": 8880,
             "uuid": "c11e0804-f0e2-2071-f44f-7f3dbe2e16e9",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [19]",
+            "type": "vless",
+            "server": "cd3.sikts.ir",
+            "server_port": 2083,
+            "uuid": "c87ce1d4-cfba-4600-bf7e-2fe7d9ed2eb3",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "wall6.sikts.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
