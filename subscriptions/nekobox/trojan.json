@@ -80,7 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇨🇾 CY | 🔒 TROJAN | @filtershekan_channel [3]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
+                "🇸🇪 SE | 🔒 TROJAN | @kurdistan_vpn_perfectt [4]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "proxy",
@@ -92,7 +94,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇨🇾 CY | 🔒 TROJAN | @filtershekan_channel [3]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
+                "🇸🇪 SE | 🔒 TROJAN | @kurdistan_vpn_perfectt [4]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "auto",
@@ -184,6 +188,29 @@
             }
         },
         {
+            "tag": "🇨🇾 CY | 🔒 TROJAN | @filtershekan_channel [3]",
+            "type": "trojan",
+            "server": "www.csgo.com",
+            "server_port": 443,
+            "password": "bpb-trojan",
+            "tls": {
+                "enabled": true,
+                "server_name": "singbox.lu567890.us.kg",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tr?ed=2560",
+                "headers": {
+                    "Host": "singbox.lu567890.us.kg"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
             "type": "trojan",
             "server": "lllliraniv2rayllll.norooz.shop",
@@ -201,6 +228,22 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "iraniV2ray"
+            }
+        },
+        {
+            "tag": "🇸🇪 SE | 🔒 TROJAN | @kurdistan_vpn_perfectt [4]",
+            "type": "trojan",
+            "server": "13.53.118.167",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             }
         },
         {
