@@ -95,13 +95,14 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
+                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [5]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [7]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -116,13 +117,14 @@
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
+                "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [5]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [7]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [17]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -279,6 +281,52 @@
             }
         },
         {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @v2rayvpn2 [5]",
+            "type": "vless",
+            "server": "market.chepschasb.shop",
+            "server_port": 2052,
+            "uuid": "chanel;V2ray_fa3t",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "market.chepschasb.shop",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "b4HyHUSFYzPP_UjvyAYvnUPdLi6w9N8Tc97gzflsR18",
+                    "short_id": "757a42f8358dd87d"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [7]",
+            "type": "vless",
+            "server": "download.wortexnetwork.com",
+            "server_port": 443,
+            "uuid": "ea587015-7e48-4f1e-898b-b83c5b2bdf21",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
             "type": "vless",
             "server": "PARMIS.SIGMA-HOSTER.COM",
@@ -413,29 +461,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [17]",
-            "type": "vless",
-            "server": "se.myho.ir",
-            "server_port": 1002,
-            "uuid": "f1056b67-03a5-4d15-95b6-27092d503e0b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "jetbrains.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "uWdy-05745pCUMEKq0ybaRCVBtQB8JrhyWCkHfv2I0U",
-                    "short_id": "14cf6857b8741cbf"
                 }
             }
         },

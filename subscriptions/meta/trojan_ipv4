@@ -23,7 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇸🇪 SE | 🔒 TROJAN | @kurdistan_vpn_perfectt [4]","type":"trojan","server":"13.53.118.167","port":22222,"password":"telegram-id-directvpn","skip-cert-verify":false}
+  - {"name":"🇸🇪 SE | 🔒 TROJAN | @kurdistan_vpn_perfectt [3]","type":"trojan","server":"13.53.118.167","port":22222,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]","type":"trojan","server":"130.162.197.41","port":21051,"password":"bUlYzLSY7D","skip-cert-verify":false}
 
 proxy-groups:
@@ -38,7 +38,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇸🇪 SE | 🔒 TROJAN | @kurdistan_vpn_perfectt [4]'
+      - '🇸🇪 SE | 🔒 TROJAN | @kurdistan_vpn_perfectt [3]'
       - '🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]'
 
   - name: 🌍 Global Media

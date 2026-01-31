@@ -93,10 +93,11 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
+                "🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
-                "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
+                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
+                "🇬🇧 GB | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -114,10 +115,11 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
+                "🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
-                "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
+                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
+                "🇬🇧 GB | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -233,7 +235,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]",
             "type": "vless",
             "server": "77.42.77.102",
             "server_port": 46704,
@@ -256,7 +258,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
             "type": "vless",
             "server": "46.62.240.45",
             "server_port": 46704,
@@ -279,7 +281,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [3]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
             "type": "vless",
             "server": "212.111.85.1",
             "server_port": 8443,
@@ -302,7 +304,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
             "type": "vless",
             "server": "212.111.84.64",
             "server_port": 8443,
@@ -321,6 +323,29 @@
                     "enabled": true,
                     "public_key": "zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04",
                     "short_id": "205748bc0f24a747"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+            "type": "vless",
+            "server": "140.238.100.35",
+            "server_port": 40721,
+            "uuid": "bf3e8944-8d26-47de-8748-b9aa74cce974",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk",
+                    "short_id": "df8611c07d"
                 }
             }
         },

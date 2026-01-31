@@ -24,11 +24,11 @@ dns:
 
 proxies: 
   - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]","type":"vless","server":"157.245.24.38","port":2087,"uuid":"f475c570-eba2-4a74-9948-d22ce8492aff","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"ame.spsvps.com","reality-opts":{"public-key":"HQdpA2sAkxUHghPtT8EUA1zPqkq_tz8ncwQM2zNkCS4","short-id":"b359bc5c70c21d55"}}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]","type":"vless","server":"37.27.217.185","port":52186,"uuid":"0c687a22-ad7f-49d3-92ce-ce42c54150d6","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"google.com","reality-opts":{"public-key":"qbnOCNfgeXJh8ovE6FfFNKt4em77iI-oxsQLhuiYqGI","short-id":"ef1866c1"}}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]","type":"vless","server":"77.42.77.102","port":46704,"uuid":"ea736b2b-0f0a-4b9f-865f-83e0014ffc8c","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"google.com","reality-opts":{"public-key":"HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ","short-id":"bb5cae"}}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]","type":"vless","server":"46.62.240.45","port":46704,"uuid":"27379a6d-c0f2-4476-b6c2-352bf4f2087b","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"google.com","reality-opts":{"public-key":"HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ","short-id":"bb5cae"}}
-  - {"name":"🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [3]","type":"vless","server":"212.111.85.1","port":8443,"uuid":"80115515-eb00-4d28-8f02-66b3e3e6a515","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"m.vk.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc","short-id":"1929ef620e9b34f5"}}
-  - {"name":"🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [5]","type":"vless","server":"212.111.84.64","port":8443,"uuid":"2ad6bd90-51fd-41d2-985b-b7aab5cd77c8","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"m.vk.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04","short-id":"205748bc0f24a747"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]","type":"vless","server":"77.42.77.102","port":46704,"uuid":"ea736b2b-0f0a-4b9f-865f-83e0014ffc8c","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"google.com","reality-opts":{"public-key":"HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ","short-id":"bb5cae"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]","type":"vless","server":"46.62.240.45","port":46704,"uuid":"27379a6d-c0f2-4476-b6c2-352bf4f2087b","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"google.com","reality-opts":{"public-key":"HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ","short-id":"bb5cae"}}
+  - {"name":"🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]","type":"vless","server":"212.111.85.1","port":8443,"uuid":"80115515-eb00-4d28-8f02-66b3e3e6a515","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"m.vk.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc","short-id":"1929ef620e9b34f5"}}
+  - {"name":"🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [4]","type":"vless","server":"212.111.84.64","port":8443,"uuid":"2ad6bd90-51fd-41d2-985b-b7aab5cd77c8","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"m.vk.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04","short-id":"205748bc0f24a747"}}
+  - {"name":"🇬🇧 GB | 🔒 VLESS | @kurdistan_vpn_perfectt [5]","type":"vless","server":"140.238.100.35","port":40721,"uuid":"bf3e8944-8d26-47de-8748-b9aa74cce974","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yahoo.com","reality-opts":{"public-key":"TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk","short-id":"df8611c07d"}}
   - {"name":"🇬🇧 GB | 🔒 VLESS | @mrclud [9]","type":"vless","server":"51.195.169.100","port":443,"uuid":"e2c3e5b6-ef09-4649-bd32-b0f448a073e3","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8","short-id":"01417ce2"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @mrclud [11]","type":"vless","server":"51.89.74.164","port":443,"uuid":"e2c3e5b6-ef09-4649-bd32-b0f448a073e3","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko","short-id":"a311b9f4"}}
   - {"name":"🇫🇷 FR | 🔒 VLESS | @mrclud [13]","type":"vless","server":"5.135.21.191","port":8880,"uuid":"e2c3e5b6-ef09-4649-bd32-b0f448a073e3","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc","short-id":"8b62ab46"}}
@@ -51,9 +51,9 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]'
       - '🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]'
       - '🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]'
-      - '🇫🇮 FI | 🔒 VLESS | @angus_vpn [3]'
-      - '🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [3]'
-      - '🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [5]'
+      - '🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]'
+      - '🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [4]'
+      - '🇬🇧 GB | 🔒 VLESS | @kurdistan_vpn_perfectt [5]'
       - '🇬🇧 GB | 🔒 VLESS | @mrclud [9]'
       - '🇩🇪 DE | 🔒 VLESS | @mrclud [11]'
       - '🇫🇷 FR | 🔒 VLESS | @mrclud [13]'
