@@ -83,9 +83,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
-                "🇬🇧 GB | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+                "🇫🇮 FI | 🔒 VLESS | @filtershekan_channel [3]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -117,9 +115,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
-                "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
-                "🇬🇧 GB | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
+                "🇫🇮 FI | 🔒 VLESS | @filtershekan_channel [3]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
@@ -297,16 +293,16 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [2]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @filtershekan_channel [3]",
             "type": "vless",
-            "server": "212.111.85.1",
-            "server_port": 8443,
-            "uuid": "80115515-eb00-4d28-8f02-66b3e3e6a515",
+            "server": "65.108.108.151",
+            "server_port": 443,
+            "uuid": "feaf1d64-b44c-4cc8-b114-4001478c1fd0",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "m.vk.ru",
+                "server_name": "fit.jojack.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -314,54 +310,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc",
-                    "short_id": "1929ef620e9b34f5"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [4]",
-            "type": "vless",
-            "server": "212.111.84.64",
-            "server_port": 8443,
-            "uuid": "2ad6bd90-51fd-41d2-985b-b7aab5cd77c8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "m.vk.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04",
-                    "short_id": "205748bc0f24a747"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @kurdistan_vpn_perfectt [5]",
-            "type": "vless",
-            "server": "140.238.100.35",
-            "server_port": 40721,
-            "uuid": "bf3e8944-8d26-47de-8748-b9aa74cce974",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk",
-                    "short_id": "df8611c07d"
+                    "public_key": "u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw",
+                    "short_id": "f8865ecbb9bc11a3"
                 }
             }
         },
