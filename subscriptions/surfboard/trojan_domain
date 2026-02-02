@@ -9,13 +9,13 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇨🇾 CY | 🔒 TROJAN | @filtershekan_channel [2] = trojan, www.csgo.com, 443, password = bpb-trojan, skip-cert-verify = false
+❔ XX | 🔒 TROJAN | @filtershekan_channel [1] = trojan, www.csgo.com, 443, password = bpb-trojan, skip-cert-verify = false
 ❔ XX | 🔒 TROJAN | @iraniv2ray [4] = trojan, lllliraniv2rayllll.norooz.shop, 2083, password = BWDcALS5TU, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🇨🇾 CY | 🔒 TROJAN | @filtershekan_channel [2], ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
-PSG-AUTO = url-test, 🇨🇾 CY | 🔒 TROJAN | @filtershekan_channel [2], ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
-PSG-FALLBACK = fallback, 🇨🇾 CY | 🔒 TROJAN | @filtershekan_channel [2], ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🔒 TROJAN | @filtershekan_channel [1], ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
+PSG-AUTO = url-test, ❔ XX | 🔒 TROJAN | @filtershekan_channel [1], ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
+PSG-FALLBACK = fallback, ❔ XX | 🔒 TROJAN | @filtershekan_channel [1], ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
 
 [Rule]
 GEOIP,IR,DIRECT
