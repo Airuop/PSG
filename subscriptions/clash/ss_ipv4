@@ -23,23 +23,23 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"❔ XX | 🔒 SS | @megavpn_link [12]","type":"ss","server":"85.210.120.237","port":443,"password":"Bog0ELmMM9DSxDdQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @mrclud [25]","type":"ss","server":"51.142.171.150","port":49499,"password":"kTjlLxrncKx4i2HIjxfA3M","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [5]","type":"ss","server":"216.105.168.18","port":443,"password":"SANKDOm2obBgXqPEQXirmG","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [6]","type":"ss","server":"104.192.227.162","port":443,"password":"5G13nkKsCgbMEfBOkz6bjy","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [7]","type":"ss","server":"216.105.168.18","port":443,"password":"w5Dy8piqyk6tGwJrdqAVyF","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [8]","type":"ss","server":"104.192.227.162","port":443,"password":"wnCEaMls5NpmGdE6LPr75D","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [9]","type":"ss","server":"216.105.168.18","port":443,"password":"FrCqfj4jFdtJ5HbLeDhuGB","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [10]","type":"ss","server":"104.192.227.162","port":443,"password":"AwdyjaxG1UvL3qBS4QPkq6","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [11]","type":"ss","server":"216.105.168.18","port":443,"password":"ayoov6T7ac7cz4No6XWPLL","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [12]","type":"ss","server":"104.192.227.162","port":443,"password":"fIz3BsQS73f51i51WJvEWs","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [13]","type":"ss","server":"216.105.168.18","port":443,"password":"3sdvXjMj00josq4bmjPZvD","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [14]","type":"ss","server":"104.192.227.162","port":443,"password":"zOfu2vbxiQBlLe0N88QxeC","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [15]","type":"ss","server":"216.105.168.18","port":443,"password":"3YnfIQfBbfhiB0NsRn051m","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [16]","type":"ss","server":"104.192.227.162","port":443,"password":"Yuz8ZMog6AvVOowdhMMuFz","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [17]","type":"ss","server":"216.105.168.18","port":443,"password":"pCXLvRgW6ohRb9EBrqmuOU","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [18]","type":"ss","server":"104.192.227.162","port":443,"password":"CrAcOIa99sMwqzWRh4q1cN","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔ XX | 🔒 SS | @outlinevpn_ru [19]","type":"ss","server":"216.105.168.18","port":443,"password":"oGZNZRR6fO5HRzB5HlKZBy","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇬🇧 GB | 🔒 SS | @megavpn_link [12]","type":"ss","server":"85.210.120.237","port":443,"password":"Bog0ELmMM9DSxDdQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇬🇧 GB | 🔒 SS | @mrclud [25]","type":"ss","server":"51.142.171.150","port":49499,"password":"kTjlLxrncKx4i2HIjxfA3M","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [5]","type":"ss","server":"104.192.227.162","port":443,"password":"5G13nkKsCgbMEfBOkz6bjy","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]","type":"ss","server":"216.105.168.18","port":443,"password":"w5Dy8piqyk6tGwJrdqAVyF","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [7]","type":"ss","server":"104.192.227.162","port":443,"password":"wnCEaMls5NpmGdE6LPr75D","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [8]","type":"ss","server":"216.105.168.18","port":443,"password":"FrCqfj4jFdtJ5HbLeDhuGB","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [9]","type":"ss","server":"104.192.227.162","port":443,"password":"AwdyjaxG1UvL3qBS4QPkq6","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [10]","type":"ss","server":"216.105.168.18","port":443,"password":"ayoov6T7ac7cz4No6XWPLL","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [11]","type":"ss","server":"104.192.227.162","port":443,"password":"fIz3BsQS73f51i51WJvEWs","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [12]","type":"ss","server":"216.105.168.18","port":443,"password":"3sdvXjMj00josq4bmjPZvD","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [13]","type":"ss","server":"104.192.227.162","port":443,"password":"zOfu2vbxiQBlLe0N88QxeC","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [14]","type":"ss","server":"216.105.168.18","port":443,"password":"3YnfIQfBbfhiB0NsRn051m","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [15]","type":"ss","server":"104.192.227.162","port":443,"password":"Yuz8ZMog6AvVOowdhMMuFz","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [16]","type":"ss","server":"216.105.168.18","port":443,"password":"pCXLvRgW6ohRb9EBrqmuOU","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [17]","type":"ss","server":"104.192.227.162","port":443,"password":"CrAcOIa99sMwqzWRh4q1cN","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [18]","type":"ss","server":"216.105.168.18","port":443,"password":"oGZNZRR6fO5HRzB5HlKZBy","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @outlinevpn_ru [19]","type":"ss","server":"104.192.227.162","port":443,"password":"3DTqTdMYbGpjQBfiGAXeQL","cipher":"chacha20-ietf-poly1305"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -53,23 +53,23 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '❔ XX | 🔒 SS | @megavpn_link [12]'
-      - '❔ XX | 🔒 SS | @mrclud [25]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [5]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [6]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [7]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [8]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [9]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [10]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [11]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [12]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [13]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [14]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [15]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [16]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [17]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [18]'
-      - '❔ XX | 🔒 SS | @outlinevpn_ru [19]'
+      - '🇬🇧 GB | 🔒 SS | @megavpn_link [12]'
+      - '🇬🇧 GB | 🔒 SS | @mrclud [25]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [5]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [7]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [8]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [9]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [10]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [11]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [12]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [13]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [14]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [15]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [16]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [17]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [18]'
+      - '🇺🇸 US | 🔒 SS | @outlinevpn_ru [19]'
 
   - name: 🌍 Global Media
     type: select
