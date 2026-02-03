@@ -80,9 +80,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
+                "❔ XX | 🔓 VLESS | @minovpnch [14]",
+                "❔ XX | 🔓 VLESS | @minovpnch [15]",
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -93,9 +94,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
+                "❔ XX | 🔓 VLESS | @minovpnch [14]",
+                "❔ XX | 🔓 VLESS | @minovpnch [15]",
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -186,7 +188,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
+            "tag": "❔ XX | 🔓 VLESS | @minovpnch [14]",
             "type": "vless",
             "server": "151.101.204.190",
             "server_port": 80,
@@ -195,7 +197,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+            "tag": "❔ XX | 🔓 VLESS | @minovpnch [15]",
             "type": "vless",
             "server": "185.18.250.67",
             "server_port": 8080,
@@ -204,11 +206,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
+            "tag": "❔ XX | 🔒 TROJAN | @spikevpn [1]",
             "type": "trojan",
             "server": "130.162.197.41",
             "server_port": 21051,
             "password": "bUlYzLSY7D"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
+            "type": "vless",
+            "server": "199.232.232.231",
+            "server_port": 80,
+            "uuid": "01c4caac-6f75-49d2-be5f-8bce33441057",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
