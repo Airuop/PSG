@@ -92,9 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @filtershekan_channel [1]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -105,9 +104,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @filtershekan_channel [1]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -194,29 +192,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @filtershekan_channel [1]",
-            "type": "trojan",
-            "server": "www.csgo.com",
-            "server_port": 443,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "singbox.lu567890.us.kg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tr?ed=2560",
-                "headers": {
-                    "Host": "singbox.lu567890.us.kg"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
             "type": "trojan",
             "server": "lllliraniv2rayllll.norooz.shop",
@@ -237,7 +212,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
             "type": "trojan",
             "server": "130.162.197.41",
             "server_port": 21051,

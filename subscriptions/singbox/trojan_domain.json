@@ -92,7 +92,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @filtershekan_channel [1]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
             ],
             "tag": "proxy",
@@ -104,7 +103,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @filtershekan_channel [1]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
             ],
             "tag": "auto",
@@ -188,29 +186,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @filtershekan_channel [1]",
-            "type": "trojan",
-            "server": "www.csgo.com",
-            "server_port": 443,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "singbox.lu567890.us.kg",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tr?ed=2560",
-                "headers": {
-                    "Host": "singbox.lu567890.us.kg"
                 }
             }
         },

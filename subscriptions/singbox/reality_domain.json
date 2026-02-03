@@ -92,18 +92,18 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @megavpn_link [6]",
+                "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [4]",
+                "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [3]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [17]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [3]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -115,18 +115,18 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @megavpn_link [6]",
+                "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [4]",
+                "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [3]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [17]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [3]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -214,7 +214,30 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @megavpn_link [6]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [4]",
+            "type": "vless",
+            "server": "mskhost.outlinekeys.net",
+            "server_port": 443,
+            "uuid": "ca911bd2-e08f-42d8-aefb-3117494d3367",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "mskhost.outlinekeys.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
             "type": "vless",
             "server": "all32-vip.f-sub.com",
             "server_port": 2434,
@@ -283,30 +306,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
-            "type": "vless",
-            "server": "market.chepschasb.shop",
-            "server_port": 2052,
-            "uuid": "chanel;V2ray_fa3t",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "market.chepschasb.shop",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "b4HyHUSFYzPP_UjvyAYvnUPdLi6w9N8Tc97gzflsR18",
-                    "short_id": "757a42f8358dd87d"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [3]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [2]",
             "type": "vless",
             "server": "download.wortexnetwork.com",
             "server_port": 443,
@@ -398,7 +398,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -421,7 +421,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -444,7 +444,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [7]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
@@ -467,25 +467,25 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [17]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
-            "server": "usa26.clearorbitllc.com",
+            "server": "nl.skfv-mirror.ru",
             "server_port": 443,
-            "uuid": "022af852-49c7-4b5e-a13b-6877bcfe30a3",
+            "uuid": "0da89048-00d8-4c1f-b0ee-bdbd8f3f0b3b",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "usa26.clearorbitllc.com",
+                "server_name": "nl.skfv-mirror.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "qq"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "uG51OJ4QHrSFthqOCL3Ctqxy4plPkeUyRGDmF4V7dFo",
-                    "short_id": "c6de8980"
+                    "public_key": "qmfrMwVYth3lsYuv7qfr22YlTIlNtVjMl0v4Z5pX7hM",
+                    "short_id": "4a3ad88ff867a295"
                 }
             }
         },
