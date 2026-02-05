@@ -89,7 +89,8 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [2]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -99,8 +100,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [14]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [4]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -121,7 +121,8 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [2]",
+                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -131,8 +132,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [14]",
+                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [4]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -431,7 +431,30 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [2]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "89.117.94.111",
+            "server_port": 54495,
+            "uuid": "0e5e19c8-e543-4e54-aad2-824b641cdec4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "50IjQtR9zJG_3pXrbQDalYy_D4c7C_A8EEwVx0EfOjM",
+                    "short_id": "5e8c37215982"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [1]",
             "type": "vless",
             "server": "mskhost.outlinekeys.net",
             "server_port": 443,
@@ -661,30 +684,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "ak2.vpnfreedom.tech",
-            "server_port": 443,
-            "uuid": "4af37467-bf79-4630-98d5-73e7dad60e90",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI",
-                    "short_id": "58"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [14]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "se.locations-service.com",
             "server_port": 3039,
