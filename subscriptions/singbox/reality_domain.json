@@ -102,7 +102,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -124,7 +124,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
-                "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -442,25 +442,25 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
-            "server": "se.locations-service.com",
-            "server_port": 3039,
-            "uuid": "d73a9db0-24b5-4592-8ff0-4f0b5329b39f",
+            "server": "dlc-ger1.persianpinggame.ir",
+            "server_port": 443,
+            "uuid": "d6637de9-6df6-4e14-b6c2-9f32df6d5c79",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "yahoo.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "random"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
-                    "short_id": ""
+                    "public_key": "FRhlZqNN8KVTgQ-yS-7WTqNjSi9Mhy-ItbmSqcnn5EM",
+                    "short_id": "274e8f5c1c9feb3f"
                 }
             }
         },

@@ -88,6 +88,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
                 "🚩 CF | 🔒 VLESS | @filtershekan_channel [2]",
+                "🚩 CF | 🔒 VLESS | @filtershekan_channel [4]",
                 "🚩 CF | 🔒 VLESS | @freev2flyng [15]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [17]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [18]",
@@ -127,11 +128,14 @@
                 "🚩 CF | 🔓 VLESS | @starv2rayn [12]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [15]",
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
+                "🚩 CF | 🔒 VLESS | @v2rayvpn2 [5]",
                 "🇺🇸 US | 🔒 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [6]",
+                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [7]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [15]",
+                "🇧🇪 BE | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "proxy",
@@ -151,6 +155,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
                 "🚩 CF | 🔒 VLESS | @filtershekan_channel [2]",
+                "🚩 CF | 🔒 VLESS | @filtershekan_channel [4]",
                 "🚩 CF | 🔒 VLESS | @freev2flyng [15]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [17]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [18]",
@@ -190,11 +195,14 @@
                 "🚩 CF | 🔓 VLESS | @starv2rayn [12]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [15]",
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
+                "🚩 CF | 🔒 VLESS | @v2rayvpn2 [5]",
                 "🇺🇸 US | 🔒 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [10]",
-                "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [6]",
+                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [7]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [15]",
+                "🇧🇪 BE | 🔓 VLESS | @vpnplusee_free [16]",
                 "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "auto",
@@ -435,6 +443,31 @@
                 "path": "/?ed=443",
                 "headers": {
                     "Host": "germany.pahlevancompani.com"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @filtershekan_channel [4]",
+            "type": "vless",
+            "server": "172.64.144.74",
+            "server_port": 443,
+            "uuid": "68c89f56-3a15-46f2-9901-8c00a2546b97",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "rukawa.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Tel-@V2rayAlpha",
+                "headers": {
+                    "Host": "rukawa.pages.dev"
                 }
             }
         },
@@ -1178,6 +1211,31 @@
             }
         },
         {
+            "tag": "🚩 CF | 🔒 VLESS | @v2rayvpn2 [5]",
+            "type": "vless",
+            "server": "172.64.144.74",
+            "server_port": 443,
+            "uuid": "68c89f56-3a15-46f2-9901-8c00a2546b97",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "rukawa.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "rukawa.pages.dev"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔒 VLESS | @v_2rayngvpn [2]",
             "type": "vless",
             "server": "8.6.112.0",
@@ -1228,16 +1286,34 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [6]",
             "type": "vless",
-            "server": "172.67.66.177",
+            "server": "85.133.237.216",
             "server_port": 443,
-            "uuid": "53f0bca8-f170-4ef7-8031-c7d441189dbf",
+            "uuid": "4763fe93-80db-4b99-9539-e5101b424223",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "639057258114114299.civic-perma.info",
+                "server_name": "85.133.237.216",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [7]",
+            "type": "vless",
+            "server": "45.85.118.88",
+            "server_port": 443,
+            "uuid": "da2930c5-7316-4c05-a667-8dc5f2da52f7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ns1.sultansweets.shop",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1246,41 +1322,59 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/cahttingws?ed=2560",
+                "path": "/v3.sultansweets.shop/apps",
                 "headers": {
-                    "Host": "639057258114114299.civic-perma.info"
+                    "Host": "ns1.sultansweets.shop"
                 }
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
-            "server": "185.232.152.92",
-            "server_port": 8080,
-            "uuid": "6291cd3f-28a1-4288-80be-88267c9c10f0",
+            "server": "172.64.144.74",
+            "server_port": 443,
+            "uuid": "68c89f56-3a15-46f2-9901-8c00a2546b97",
             "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vpnplusee_free [15]",
-            "type": "vless",
-            "server": "89.117.94.111",
-            "server_port": 54495,
-            "uuid": "0e5e19c8-e543-4e54-aad2-824b641cdec4",
-            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "rukawa.pages.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "50IjQtR9zJG_3pXrbQDalYy_D4c7C_A8EEwVx0EfOjM",
-                    "short_id": "5e8c37215982"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/ProxyCloud",
+                "headers": {
+                    "Host": "rukawa.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "94.101.186.8",
+            "server_port": 3445,
+            "uuid": "0498e085-283d-42de-aac2-85c87f911fc2",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇧🇪 BE | 🔓 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "151.101.9.80",
+            "server_port": 80,
+            "uuid": "5a1d2c0c-abfa-4050-918f-bfab3eaee62a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=1049",
+                "headers": {
+                    "Host": "151.101.9.80"
                 }
             }
         },
