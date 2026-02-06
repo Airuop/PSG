@@ -80,7 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -90,8 +89,6 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -103,7 +100,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [1]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -113,8 +109,6 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -202,29 +196,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @filtershekan_channel [1]",
-            "type": "vless",
-            "server": "mskhost.outlinekeys.net",
-            "server_port": 443,
-            "uuid": "ca911bd2-e08f-42d8-aefb-3117494d3367",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "mskhost.outlinekeys.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ",
-                    "short_id": ""
                 }
             }
         },
@@ -432,52 +403,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "dark.javanrooo.ir",
-            "server_port": 8880,
-            "uuid": "f79d4188-4118-429d-b768-eafd79e18060",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "6_bEMsvPleIe2N5F1lq_bNFltrDNVWAf02sQ1TNSWiI",
-                    "short_id": "6f679681f52bbb"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "dark.javanrooo.ir",
-            "server_port": 8880,
-            "uuid": "3f3e393d-144e-43c6-9abf-882199711a72",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "6_bEMsvPleIe2N5F1lq_bNFltrDNVWAf02sQ1TNSWiI",
-                    "short_id": "6f679681f52bbb"
                 }
             }
         },
