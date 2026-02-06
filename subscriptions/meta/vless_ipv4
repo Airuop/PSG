@@ -74,11 +74,9 @@ proxies:
   - {"name":"🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]","type":"vless","server":"51.75.30.8","port":80,"uuid":"1949f066-bcb0-49be-88e9-74abd940f80e","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/http","headers":{"Host":"51.75.30.8"}}}
   - {"name":"🚩 CF | 🔒 VLESS | @v2rayvpn2 [5]","type":"vless","server":"172.64.144.74","port":443,"uuid":"68c89f56-3a15-46f2-9901-8c00a2546b97","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"rukawa.pages.dev","ws-opts":{"path":"/","headers":{"Host":"rukawa.pages.dev"}}}
   - {"name":"🇺🇸 US | 🔒 VLESS | @v_2rayngvpn [2]","type":"vless","server":"8.6.112.0","port":443,"uuid":"d34dac88-5207-49a3-b5dc-1b737e2a7f6f","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"lutranautilus.qzz.io","ws-opts":{"path":"/141.95.127.113=2053","headers":{"Host":"lutranautilus.qzz.io"}}}
-  - {"name":"🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [6]","type":"vless","server":"85.133.237.216","port":443,"uuid":"4763fe93-80db-4b99-9539-e5101b424223","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
-  - {"name":"🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [7]","type":"vless","server":"45.85.118.88","port":443,"uuid":"da2930c5-7316-4c05-a667-8dc5f2da52f7","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ns1.sultansweets.shop","ws-opts":{"path":"/v3.sultansweets.shop/apps","headers":{"Host":"ns1.sultansweets.shop"}}}
-  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [12]","type":"vless","server":"172.64.144.74","port":443,"uuid":"68c89f56-3a15-46f2-9901-8c00a2546b97","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"rukawa.pages.dev","ws-opts":{"path":"/ProxyCloud","headers":{"Host":"rukawa.pages.dev"}}}
-  - {"name":"🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [15]","type":"vless","server":"94.101.186.8","port":3445,"uuid":"0498e085-283d-42de-aac2-85c87f911fc2","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
-  - {"name":"🇧🇪 BE | 🔓 VLESS | @vpnplusee_free [16]","type":"vless","server":"151.101.9.80","port":80,"uuid":"5a1d2c0c-abfa-4050-918f-bfab3eaee62a","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/?ed=1049","headers":{"Host":"adspeedx23.global.ssl.fastly.net"}}}
+  - {"name":"🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [6]","type":"vless","server":"37.139.42.234","port":4443,"uuid":"9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yandex.ru","reality-opts":{"public-key":"-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI","short-id":"6670"}}
+  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [9]","type":"vless","server":"104.17.162.123","port":443,"uuid":"fef4a93d-eb4f-4657-b56b-32a0dc060045","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"dev.twistsparrow.xyz","ws-opts":{"path":"/","headers":{"Host":"104.17.162.123"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [13]","type":"vless","server":"172.64.145.38","port":2053,"uuid":"5eaae4ff-7611-4c5e-a8e7-eca56cbbd62f","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"digikala.sorza.ir","ws-opts":{"path":"/?ed=2560","headers":{"Host":"chess.sorza.ir"}}}
   - {"name":"🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]","type":"vless","server":"81.12.96.39","port":22631,"uuid":"77e6e498-98e4-4a0b-93cb-8e2c117c0ad3","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
 
 proxy-groups:
@@ -144,11 +142,9 @@ proxy-groups:
       - '🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]'
       - '🚩 CF | 🔒 VLESS | @v2rayvpn2 [5]'
       - '🇺🇸 US | 🔒 VLESS | @v_2rayngvpn [2]'
-      - '🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [6]'
-      - '🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [7]'
-      - '🚩 CF | 🔒 VLESS | @vpnplusee_free [12]'
-      - '🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [15]'
-      - '🇧🇪 BE | 🔓 VLESS | @vpnplusee_free [16]'
+      - '🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [6]'
+      - '🚩 CF | 🔒 VLESS | @vpnplusee_free [9]'
+      - '🚩 CF | 🔒 VLESS | @vpnplusee_free [13]'
       - '🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]'
 
   - name: 🌍 Global Media

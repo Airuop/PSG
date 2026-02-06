@@ -143,11 +143,9 @@
                 "🚩 CF | 🔒 VLESS | @v2rayvpn2 [5]",
                 "🇺🇸 US | 🔒 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [6]",
-                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [15]",
-                "🇧🇪 BE | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [6]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "proxy",
@@ -210,11 +208,9 @@
                 "🚩 CF | 🔒 VLESS | @v2rayvpn2 [5]",
                 "🇺🇸 US | 🔒 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [6]",
-                "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
-                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [15]",
-                "🇧🇪 BE | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [6]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
                 "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "auto",
@@ -1294,59 +1290,39 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [6]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
-            "server": "85.133.237.216",
-            "server_port": 443,
-            "uuid": "4763fe93-80db-4b99-9539-e5101b424223",
-            "flow": "",
+            "server": "37.139.42.234",
+            "server_port": 4443,
+            "uuid": "9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "85.133.237.216",
+                "server_name": "yandex.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "45.85.118.88",
-            "server_port": 443,
-            "uuid": "da2930c5-7316-4c05-a667-8dc5f2da52f7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ns1.sultansweets.shop",
-                "insecure": true,
-                "utls": {
+                },
+                "reality": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/v3.sultansweets.shop/apps",
-                "headers": {
-                    "Host": "ns1.sultansweets.shop"
+                    "public_key": "-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI",
+                    "short_id": "6670"
                 }
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
-            "server": "172.64.144.74",
+            "server": "104.17.162.123",
             "server_port": 443,
-            "uuid": "68c89f56-3a15-46f2-9901-8c00a2546b97",
+            "uuid": "fef4a93d-eb4f-4657-b56b-32a0dc060045",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "rukawa.pages.dev",
+                "server_name": "dev.twistsparrow.xyz",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1355,34 +1331,34 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/ProxyCloud",
+                "path": "/",
                 "headers": {
-                    "Host": "rukawa.pages.dev"
+                    "Host": "dev.twistsparrow.xyz"
                 }
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [15]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
-            "server": "94.101.186.8",
-            "server_port": 3445,
-            "uuid": "0498e085-283d-42de-aac2-85c87f911fc2",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇧🇪 BE | 🔓 VLESS | @vpnplusee_free [16]",
-            "type": "vless",
-            "server": "151.101.9.80",
-            "server_port": 80,
-            "uuid": "5a1d2c0c-abfa-4050-918f-bfab3eaee62a",
+            "server": "172.64.145.38",
+            "server_port": 2053,
+            "uuid": "5eaae4ff-7611-4c5e-a8e7-eca56cbbd62f",
             "flow": "",
             "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "digikala.sorza.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "/?ed=1049",
+                "path": "/?ed=2560",
                 "headers": {
-                    "Host": "151.101.9.80"
+                    "Host": "digikala.sorza.ir"
                 }
             }
         },
