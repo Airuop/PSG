@@ -92,10 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔒 SS | @filtershekan_channel [2]",
+                "🇬🇧 GB | 🔒 SS | @filtershekan_channel [1]",
                 "🇬🇧 GB | 🔒 SS | @megavpn_link [12]",
                 "🇬🇧 GB | 🔒 SS | @mrclud [25]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [5]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [7]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [8]",
@@ -110,6 +109,7 @@
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [17]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [18]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [19]",
+                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [20]",
                 "❔ XX | 🔒 SS | @megavpn_link [5]"
             ],
             "tag": "proxy",
@@ -121,10 +121,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔒 SS | @filtershekan_channel [2]",
+                "🇬🇧 GB | 🔒 SS | @filtershekan_channel [1]",
                 "🇬🇧 GB | 🔒 SS | @megavpn_link [12]",
                 "🇬🇧 GB | 🔒 SS | @mrclud [25]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [5]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [7]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [8]",
@@ -139,6 +138,7 @@
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [17]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [18]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [19]",
+                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [20]",
                 "❔ XX | 🔒 SS | @megavpn_link [5]"
             ],
             "tag": "auto",
@@ -226,7 +226,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 SS | @filtershekan_channel [2]",
+            "tag": "🇬🇧 GB | 🔒 SS | @filtershekan_channel [1]",
             "type": "shadowsocks",
             "server": "57.128.190.212",
             "server_port": 10013,
@@ -248,14 +248,6 @@
             "server_port": 49499,
             "method": "chacha20-ietf-poly1305",
             "password": "kTjlLxrncKx4i2HIjxfA3M"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [5]",
-            "type": "shadowsocks",
-            "server": "216.105.168.18",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "3YnfIQfBbfhiB0NsRn051m"
         },
         {
             "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]",
@@ -368,6 +360,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "VdFmHrwkUcZAWKMzVA102C"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [20]",
+            "type": "shadowsocks",
+            "server": "104.192.227.162",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "b37TXS6sPPfRLRiQ9Sol50"
         },
         {
             "tag": "❔ XX | 🔒 SS | @megavpn_link [5]",

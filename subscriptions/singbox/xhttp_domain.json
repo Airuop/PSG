@@ -93,6 +93,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -105,6 +107,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
+                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -197,6 +201,33 @@
             "server": "fast.peace.lemoex.blog",
             "server_port": 80,
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
+            "type": "vless",
+            "server": "pkg.zaracloudcenter.ir",
+            "server_port": 2096,
+            "uuid": "10044750-2f69-4cd4-8be4-3ab16db1ced6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "bed.modernstore3.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "www.dymocks.com.au",
+            "server_port": 80,
+            "uuid": "107a7b80-cbdd-4044-ab65-5ddd8ac93067",
             "flow": "",
             "packet_encoding": "xudp"
         },
