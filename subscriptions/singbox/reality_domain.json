@@ -97,10 +97,9 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
-                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
-                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -117,10 +116,9 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
-                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
-                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -279,29 +277,6 @@
         {
             "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
             "type": "vless",
-            "server": "PARMIS.SIGMA-HOSTER.COM",
-            "server_port": 443,
-            "uuid": "19ce2438-558d-4d24-ad7c-33d8c73f8d20",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "frcaa.crocodileserver.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8",
-                    "short_id": "1da8d08f24e92861"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-            "type": "vless",
             "server": "ARM.SIGMA-HOSTER.COM",
             "server_port": 443,
             "uuid": "fb707a09-7dd8-417f-9d9a-2e61d56995cb",
@@ -323,7 +298,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
             "type": "vless",
             "server": "ARM.CROCODILESERVER.IR",
             "server_port": 443,
@@ -346,7 +321,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -369,7 +344,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [6]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -392,7 +367,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [7]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,

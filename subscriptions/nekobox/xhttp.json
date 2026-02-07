@@ -84,7 +84,9 @@
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
+                "🇸🇨 SC | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇸🇨 SC | 🔒 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -99,7 +101,9 @@
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
+                "🇸🇨 SC | 🔒 VLESS | @vpnplusee_free [4]",
+                "🇸🇨 SC | 🔒 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -231,6 +235,42 @@
             "server": "130.162.197.41",
             "server_port": 21051,
             "password": "bUlYzLSY7D"
+        },
+        {
+            "tag": "🇸🇨 SC | 🔒 VLESS | @vpnplusee_free [4]",
+            "type": "vless",
+            "server": "45.130.125.63",
+            "server_port": 443,
+            "uuid": "7827a28b-9f7a-4463-be59-95030c736cef",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "s4.birex.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇨 SC | 🔒 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "45.130.125.239",
+            "server_port": 2083,
+            "uuid": "7588e459-0d02-13ca-79bd-3a39b034baf8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "dlll.taz-min.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         }
     ],
     "route": {
