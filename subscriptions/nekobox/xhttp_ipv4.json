@@ -80,10 +80,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]"
+                "❔ XX | 🔓 VLESS | @minovpnch [14]",
+                "❔ XX | 🔓 VLESS | @minovpnch [15]",
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [3]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -94,10 +94,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]"
+                "❔ XX | 🔓 VLESS | @minovpnch [14]",
+                "❔ XX | 🔓 VLESS | @minovpnch [15]",
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [3]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -188,7 +188,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
+            "tag": "❔ XX | 🔓 VLESS | @minovpnch [14]",
             "type": "vless",
             "server": "151.101.204.190",
             "server_port": 80,
@@ -197,7 +197,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+            "tag": "❔ XX | 🔓 VLESS | @minovpnch [15]",
             "type": "vless",
             "server": "185.18.250.67",
             "server_port": 8080,
@@ -206,34 +206,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
+            "tag": "❔ XX | 🔒 TROJAN | @spikevpn [1]",
             "type": "trojan",
             "server": "130.162.197.41",
             "server_port": 21051,
             "password": "bUlYzLSY7D"
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [3]",
             "type": "vless",
-            "server": "147.45.154.241",
-            "server_port": 17839,
-            "uuid": "bfc32338-df17-43ba-8cdf-304d69705c90",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YWCOA3An4yr5-1sLEwGxqozPMbJ4xfOV7SpmVLUfEXk",
-                    "short_id": "60"
-                }
-            }
+            "server": "151.101.65.194",
+            "server_port": 80,
+            "uuid": "27c8851c-76bd-46bd-aae8-833c6d9d3fff",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
