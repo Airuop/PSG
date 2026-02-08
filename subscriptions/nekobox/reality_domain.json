@@ -88,6 +88,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -107,6 +108,7 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -378,6 +380,29 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [10]",
+            "type": "vless",
+            "server": "vk-de.asbndx.com",
+            "server_port": 443,
+            "uuid": "62320388-4694-4d21-82f0-757722eb3b77",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "max.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "qq"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "cz17sowrrixb4NxCYwudSg_D0HNsznx7G2tm4ysuYAM",
+                    "short_id": "0f4dacf08722a04f"
                 }
             }
         },

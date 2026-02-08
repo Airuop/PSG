@@ -81,13 +81,11 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]"
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -99,13 +97,11 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]"
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -205,33 +201,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
-            "server": "pkg.zaracloudcenter.ir",
-            "server_port": 2096,
-            "uuid": "10044750-2f69-4cd4-8be4-3ab16db1ced6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "bed.modernstore3.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "www.dymocks.com.au",
-            "server_port": 80,
-            "uuid": "107a7b80-cbdd-4044-ab65-5ddd8ac93067",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
             "type": "vless",
             "server": "fast-01.saitsazs.ir",
@@ -266,13 +235,27 @@
             "password": "bUlYzLSY7D"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [9]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "151.101.0.223",
-            "server_port": 80,
-            "uuid": "42a33e55-64ef-46c2-84c7-334728f3bfd3",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "147.45.154.241",
+            "server_port": 17839,
+            "uuid": "bfc32338-df17-43ba-8cdf-304d69705c90",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YWCOA3An4yr5-1sLEwGxqozPMbJ4xfOV7SpmVLUfEXk",
+                    "short_id": "60"
+                }
+            }
         }
     ],
     "route": {
