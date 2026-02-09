@@ -81,11 +81,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -98,11 +93,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -201,60 +191,6 @@
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "27c8851c-76bd-46bd-aae8-833c6d9d3fff",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "fst2.secretping.ir",
-            "server_port": 80,
-            "uuid": "27c8851c-76bd-46bd-aae8-833c6d9d3fff",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "27c8851c-76bd-46bd-aae8-833c6d9d3fff",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "mci.farsnews.fun",
-            "server_port": 80,
-            "uuid": "ea3d0e35-80ca-4856-9ab1-52d657361ea0",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
-            "type": "vless",
-            "server": "cloud.nexun.ir",
-            "server_port": 443,
-            "uuid": "4d3b90a9-1b17-4fac-b514-3780d7170b3c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "test.tan3.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
