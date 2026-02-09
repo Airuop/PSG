@@ -83,17 +83,15 @@
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
-                "🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [3]",
-                "🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [5]",
+                "🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [2]",
+                "🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [4]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [1]",
-                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [3]",
-                "🇵🇱 PL | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [2]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -107,17 +105,15 @@
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]",
-                "🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [3]",
-                "🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [5]",
+                "🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [2]",
+                "🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [4]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [9]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [11]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [13]",
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [1]",
-                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [3]",
-                "🇵🇱 PL | 🔒 VLESS | @vpnplusee_free [16]"
+                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [2]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -277,7 +273,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [3]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [2]",
             "type": "vless",
             "server": "146.185.208.206",
             "server_port": 443,
@@ -300,7 +296,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [5]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [4]",
             "type": "vless",
             "server": "94.131.123.167",
             "server_port": 443,
@@ -461,30 +457,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayvpn2 [1]",
-            "type": "vless",
-            "server": "188.253.26.39",
-            "server_port": 442,
-            "uuid": "e929f51d-5a95-5432-b66f-cfe725ea1f61",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0",
-                    "short_id": "6ac998b514"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [3]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [2]",
             "type": "vless",
             "server": "212.111.84.187",
             "server_port": 51102,
@@ -503,29 +476,6 @@
                     "enabled": true,
                     "public_key": "Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc",
                     "short_id": "8f222b3475800821"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱 PL | 🔒 VLESS | @vpnplusee_free [16]",
-            "type": "vless",
-            "server": "144.31.248.157",
-            "server_port": 443,
-            "uuid": "e6ec1d89-17fc-4de7-af89-81cd51022526",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg",
-                    "short_id": ""
                 }
             }
         }
