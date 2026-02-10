@@ -80,9 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [2]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -93,9 +91,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [2]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -186,38 +182,11 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
             "type": "vless",
-            "server": "fast.peace.lemoex.blog",
-            "server_port": 80,
-            "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "no.tan3.ir",
-            "server_port": 2053,
-            "uuid": "1621caa6-2a23-4364-919b-1276ab6ca81a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ax.tan3.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
-            "type": "vless",
-            "server": "fast-01.saitsazs.ir",
-            "server_port": 80,
-            "uuid": "34a4cfb4-8b42-42ba-b087-6a338c2b3b4a",
+            "server": "[::ffff:2520:06d3]",
+            "server_port": 1911,
+            "uuid": "4a67f422-fd12-4c1d-bf45-e208374157a3",
             "flow": "",
             "packet_encoding": "xudp"
         }

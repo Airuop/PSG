@@ -91,7 +91,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [2]",
+                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [1]",
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -100,6 +102,9 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇵🇱 PL | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -122,7 +127,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [2]",
+                "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [1]",
+                "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [1]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -131,6 +138,9 @@
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
                 "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
                 "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
+                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
+                "🇵🇱 PL | 🔒 VLESS | @vpnplusee_free [12]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -475,7 +485,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [2]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @v2rayvpn2 [1]",
             "type": "vless",
             "server": "212.111.84.187",
             "server_port": 51102,
@@ -494,6 +504,52 @@
                     "enabled": true,
                     "public_key": "Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc",
                     "short_id": "8f222b3475800821"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🔒 VLESS | @vpnplusee_free [1]",
+            "type": "vless",
+            "server": "51.83.43.151",
+            "server_port": 8080,
+            "uuid": "5d0e6695-6c63-4168-b5e5-2a73ea86b1b1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "chatgpt.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw",
+                    "short_id": "b7b70c104ad267b8"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [10]",
+            "type": "vless",
+            "server": "91.98.91.239",
+            "server_port": 54382,
+            "uuid": "c22a48ae-9954-45f9-9bf4-5093c655f25e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.filimo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ND4rW86TrsFd08jBWMVswXusm47oqWn8bmnEgUsZTWM",
+                    "short_id": "f4"
                 }
             }
         },
@@ -678,6 +734,75 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "pay.golnar-clod.ir",
+            "server_port": 44823,
+            "uuid": "dd58082b-0967-4669-ae31-3667ffcd5508",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "GjzZBXOPF__64q-iiVAgj6S3DgCYNOGkdY5M4smyfGg",
+                    "short_id": "5b2025e2ba3f22"
+                }
+            }
+        },
+        {
+            "tag": "🇵🇱 PL | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "poland-meow.nethcloud.top",
+            "server_port": 8443,
+            "uuid": "bf9931be-a7fd-46b3-9919-b858299e9f65",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "wikihow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ",
+                    "short_id": "8bd29483ded126b4"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "meow-msc.nethcloud.top",
+            "server_port": 8443,
+            "uuid": "bf9931be-a7fd-46b3-9919-b858299e9f65",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "wikihow.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ",
+                    "short_id": "8bd29483ded126b4"
                 }
             }
         },
