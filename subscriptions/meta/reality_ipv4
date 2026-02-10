@@ -26,8 +26,8 @@ proxies:
   - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]","type":"vless","server":"157.245.24.38","port":2087,"uuid":"f475c570-eba2-4a74-9948-d22ce8492aff","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"ame.spsvps.com","reality-opts":{"public-key":"HQdpA2sAkxUHghPtT8EUA1zPqkq_tz8ncwQM2zNkCS4","short-id":"b359bc5c70c21d55"}}
   - {"name":"🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]","type":"vless","server":"77.42.77.102","port":46704,"uuid":"ea736b2b-0f0a-4b9f-865f-83e0014ffc8c","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"google.com","reality-opts":{"public-key":"HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ","short-id":"bb5cae"}}
   - {"name":"🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]","type":"vless","server":"46.62.240.45","port":46704,"uuid":"27379a6d-c0f2-4476-b6c2-352bf4f2087b","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"google.com","reality-opts":{"public-key":"HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ","short-id":"bb5cae"}}
-  - {"name":"🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [2]","type":"vless","server":"146.185.208.206","port":443,"uuid":"914b0493-7094-4840-b94d-8ec3e92e9c43","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yandex.ru","reality-opts":{"public-key":"do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ","short-id":"5f22"}}
-  - {"name":"🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [4]","type":"vless","server":"94.131.123.167","port":443,"uuid":"a44e0875-210f-4941-9062-89b6361a14c6","tls":true,"network":"tcp","client-fingerprint":null,"udp":true,"servername":"apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4","short-id":"8bcfe256cf216fd8"}}
+  - {"name":"🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [1]","type":"vless","server":"146.185.208.206","port":443,"uuid":"914b0493-7094-4840-b94d-8ec3e92e9c43","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"yandex.ru","reality-opts":{"public-key":"do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ","short-id":"5f22"}}
+  - {"name":"🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [3]","type":"vless","server":"94.131.123.167","port":443,"uuid":"a44e0875-210f-4941-9062-89b6361a14c6","tls":true,"network":"tcp","client-fingerprint":null,"udp":true,"servername":"apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4","short-id":"8bcfe256cf216fd8"}}
   - {"name":"🇬🇧 GB | 🔒 VLESS | @mrclud [9]","type":"vless","server":"51.195.169.100","port":443,"uuid":"e2c3e5b6-ef09-4649-bd32-b0f448a073e3","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"p0Q_UwGTMDM4Hk1v-2F43NO4AekmT1crXiPIJS_NzF8","short-id":"01417ce2"}}
   - {"name":"🇩🇪 DE | 🔒 VLESS | @mrclud [11]","type":"vless","server":"51.89.74.164","port":443,"uuid":"e2c3e5b6-ef09-4649-bd32-b0f448a073e3","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko","short-id":"a311b9f4"}}
   - {"name":"🇫🇷 FR | 🔒 VLESS | @mrclud [13]","type":"vless","server":"5.135.21.191","port":8880,"uuid":"e2c3e5b6-ef09-4649-bd32-b0f448a073e3","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"canva.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc","short-id":"8b62ab46"}}
@@ -51,8 +51,8 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]'
       - '🇫🇮 FI | 🔒 VLESS | @angus_vpn [1]'
       - '🇫🇮 FI | 🔒 VLESS | @angus_vpn [2]'
-      - '🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [2]'
-      - '🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [4]'
+      - '🇷🇺 RU | 🔒 VLESS | @filtershekan_channel [1]'
+      - '🇹🇷 TR | 🔒 VLESS | @filtershekan_channel [3]'
       - '🇬🇧 GB | 🔒 VLESS | @mrclud [9]'
       - '🇩🇪 DE | 🔒 VLESS | @mrclud [11]'
       - '🇫🇷 FR | 🔒 VLESS | @mrclud [13]'

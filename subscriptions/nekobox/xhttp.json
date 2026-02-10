@@ -84,9 +84,7 @@
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "🇬🇧 GB | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -101,9 +99,7 @@
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "🇬🇧 GB | 🔓 VLESS | @vpnplusee_free [12]",
-                "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -235,24 +231,6 @@
             "server": "130.162.197.41",
             "server_port": 21051,
             "password": "bUlYzLSY7D"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔓 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "77.107.88.4",
-            "server_port": 1616,
-            "uuid": "c03a34be-4267-4763-b35f-5a5b5d3bcf80",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @vpnplusee_free [14]",
-            "type": "vless",
-            "server": "199.232.196.193",
-            "server_port": 80,
-            "uuid": "2637679c-e2fe-45a2-9962-e2ddf8469c29",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {

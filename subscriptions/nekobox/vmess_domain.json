@@ -82,7 +82,6 @@
                 "KingRezaPahlavi",
                 "🇨🇦 CA | 🔓 VMESS | @NamiraConfigs [69]",
                 "🇷🇺 RU | 🔓 VMESS | @NamiraConfigs [70]",
-                "🇹🇷 TR | 🔓 VMESS | @filtershekan_channel [1]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
@@ -112,7 +111,6 @@
                 "KingRezaPahlavi",
                 "🇨🇦 CA | 🔓 VMESS | @NamiraConfigs [69]",
                 "🇷🇺 RU | 🔓 VMESS | @NamiraConfigs [70]",
-                "🇹🇷 TR | 🔓 VMESS | @filtershekan_channel [1]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
@@ -243,22 +241,6 @@
             "uuid": "314185f7-931d-4656-922d-0857e7afd224",
             "security": "auto",
             "alter_id": 0
-        },
-        {
-            "tag": "🇹🇷 TR | 🔓 VMESS | @filtershekan_channel [1]",
-            "type": "vmess",
-            "server": "tr1-smart.adelping.com",
-            "server_port": 80,
-            "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
         },
         {
             "tag": "❔ XX | 🔓 VMESS | @jiedianf [1]",
