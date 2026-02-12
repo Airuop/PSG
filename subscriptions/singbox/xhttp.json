@@ -97,7 +97,7 @@
                 "❔ XX | 🔓 VLESS | @minovpnch [14]",
                 "❔ XX | 🔓 VLESS | @minovpnch [15]",
                 "❔ XX | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,7 +113,7 @@
                 "❔ XX | 🔓 VLESS | @minovpnch [14]",
                 "❔ XX | 🔓 VLESS | @minovpnch [15]",
                 "❔ XX | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -243,25 +243,20 @@
             "password": "bUlYzLSY7D"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
-            "server": "195.26.224.102",
-            "server_port": 8443,
-            "uuid": "db444bee-8212-5ff5-be40-47e1a7509eb8",
-            "flow": "xtls-rprx-vision",
+            "server": "104.21.9.229",
+            "server_port": 443,
+            "uuid": "18bf6157-206c-4813-8f78-e7b83f9b8feb",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "vk.com",
+                "server_name": "minio.migamet.sbs",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YroB2r6MeCXtjqqVx5gr45KTPCJF_kk2n0yqbHhEQSE",
-                    "short_id": "743952dfbeb3"
                 }
             }
         }
