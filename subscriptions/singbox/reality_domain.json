@@ -92,15 +92,16 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @megavpn_link [6]",
+                "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [4]",
+                "🇵🇱 PL | 🔒 VLESS | @v2rayvpn2 [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [4]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -112,15 +113,16 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @megavpn_link [6]",
+                "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [4]",
+                "🇵🇱 PL | 🔒 VLESS | @v2rayvpn2 [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
+                "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [4]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -208,7 +210,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @megavpn_link [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
             "type": "vless",
             "server": "all32-vip.f-sub.com",
             "server_port": 2434,
@@ -277,7 +279,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [4]",
+            "tag": "🇵🇱 PL | 🔒 VLESS | @v2rayvpn2 [5]",
             "type": "vless",
             "server": "poland-meow.nethcloud.top",
             "server_port": 8443,
@@ -346,7 +348,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [4]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -369,7 +371,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [5]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -392,7 +394,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [6]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
@@ -412,6 +414,33 @@
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
                 }
+            }
+        },
+        {
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpnplusee_free [4]",
+            "type": "vless",
+            "server": "fast3.guardnet.top",
+            "server_port": 17000,
+            "uuid": "2c3cb407-1cdd-4d7b-bcb6-8787287333cb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "play.google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bOuE7n6H3uA58m9Hit6H45Y2tskMDi3360_Ft086QBQ",
+                    "short_id": "dd768154396b9302"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Game-Turbo-Path"
             }
         },
         {
