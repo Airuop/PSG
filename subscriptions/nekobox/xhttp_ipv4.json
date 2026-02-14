@@ -82,8 +82,7 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @minovpnch [14]",
                 "❔ XX | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]"
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -96,8 +95,7 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @minovpnch [14]",
                 "❔ XX | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]"
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -211,15 +209,6 @@
             "server": "130.162.197.41",
             "server_port": 21051,
             "password": "bUlYzLSY7D"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "151.101.9.79",
-            "server_port": 80,
-            "uuid": "b5c3f136-f635-4d9f-ab18-6c775697f0d9",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {

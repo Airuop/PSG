@@ -99,7 +99,7 @@
                 "❔ XX | 🔓 VLESS | @NamiraConfigs [67]",
                 "❔ XX | 🔒 VLESS | @angus_vpn [1]",
                 "❔ XX | 🔒 VLESS | @angus_vpn [2]",
-                "❔ XX | 🔒 VLESS | @filtershekan_channel [3]",
+                "❔ XX | 🔒 VLESS | @filtershekan_channel [2]",
                 "🚩 CF | 🔒 VLESS | @freev2flyng [15]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [17]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [18]",
@@ -139,15 +139,14 @@
                 "🚩 CF | 🔓 VLESS | @starv2rayn [12]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [15]",
                 "❔ XX | 🔓 VLESS | @v2rayngc [17]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [4]",
+                "❔ XX | 🔒 VLESS | @v2rayvpn2 [3]",
                 "❔ XX | 🔒 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "proxy",
@@ -166,7 +165,7 @@
                 "❔ XX | 🔓 VLESS | @NamiraConfigs [67]",
                 "❔ XX | 🔒 VLESS | @angus_vpn [1]",
                 "❔ XX | 🔒 VLESS | @angus_vpn [2]",
-                "❔ XX | 🔒 VLESS | @filtershekan_channel [3]",
+                "❔ XX | 🔒 VLESS | @filtershekan_channel [2]",
                 "🚩 CF | 🔒 VLESS | @freev2flyng [15]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [17]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [18]",
@@ -206,15 +205,14 @@
                 "🚩 CF | 🔓 VLESS | @starv2rayn [12]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [15]",
                 "❔ XX | 🔓 VLESS | @v2rayngc [17]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [4]",
+                "❔ XX | 🔒 VLESS | @v2rayvpn2 [3]",
                 "❔ XX | 🔒 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "auto",
@@ -430,7 +428,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @filtershekan_channel [3]",
+            "tag": "❔ XX | 🔒 VLESS | @filtershekan_channel [2]",
             "type": "vless",
             "server": "141.95.161.241",
             "server_port": 2053,
@@ -1194,7 +1192,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [4]",
+            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [3]",
             "type": "vless",
             "server": "20.79.162.37",
             "server_port": 443,
@@ -1262,16 +1260,16 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
-            "server": "57.129.137.56",
-            "server_port": 443,
-            "uuid": "3321a819-889d-40b3-b8fa-f34208827ef1",
+            "server": "172.64.158.2",
+            "server_port": 2096,
+            "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "o00o.snip.qzz.io",
+                "server_name": "hetz.x-smm.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1280,55 +1278,23 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/proxyip=sjc.o00o.ooo",
+                "path": "/45.76.183.217=49292",
                 "headers": {
-                    "Host": "o00o.snip.qzz.io"
+                    "Host": "hetz.x-smm.com"
                 }
             }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
-            "type": "vless",
-            "server": "37.202.245.59",
-            "server_port": 2020,
-            "uuid": "a7f96f25-aae6-4481-8c0c-71c91bc13cf2",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "37.139.33.57",
-            "server_port": 8443,
-            "uuid": "eb4234b2-8083-4038-af1d-ae752b4ad6d4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "m.vk.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
-                    "short_id": "6419bed7fd0a2cff"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 8443,
-            "uuid": "cc1a6aaf-61fe-4f6e-ac39-257b6e71aa17",
+            "server": "45.130.125.160",
+            "server_port": 443,
+            "uuid": "ea33fc71-2ce3-48e1-93fb-e36142c1e1ee",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "16.lenalizmy0ve.ir",
+                "server_name": "afrcloud4.c01.kr",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1337,43 +1303,47 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/Tel-@V2rayAlpha",
                 "headers": {
-                    "Host": "16.lenalizmy0ve.ir"
+                    "Host": "afrcloud4.c01.kr"
                 }
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
             "type": "vless",
-            "server": "77.83.245.173",
-            "server_port": 33369,
-            "uuid": "3dbea962-1e67-4008-8c07-c84a819b5bc8",
-            "flow": "xtls-rprx-vision",
+            "server": "193.141.126.14",
+            "server_port": 8090,
+            "uuid": "dfc666e0-5b9d-45cf-94b9-468952deb27c",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+            "type": "vless",
+            "server": "212.33.206.206",
+            "server_port": 2046,
+            "uuid": "0fc62dfe-6192-45b8-a51d-7597752dae64",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "3.79.57.168",
+            "server_port": 443,
+            "uuid": "3ffb5c28-97b3-4056-c72e-ba0de6272c05",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "yandex.ru",
+                "server_name": "3.79.57.168",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "szWk094FkncOx87ZSq4De5nU-1l0BLxikzvfUT5Dhms",
-                    "short_id": "3b05335afef11254"
                 }
             }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "151.101.9.79",
-            "server_port": 80,
-            "uuid": "b5c3f136-f635-4d9f-ab18-6c775697f0d9",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [6]",

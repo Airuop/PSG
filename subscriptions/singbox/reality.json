@@ -101,18 +101,15 @@
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [2]",
+                "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -133,18 +130,15 @@
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [2]",
+                "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -439,52 +433,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "37.139.33.57",
-            "server_port": 8443,
-            "uuid": "eb4234b2-8083-4038-af1d-ae752b4ad6d4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "m.vk.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
-                    "short_id": "6419bed7fd0a2cff"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "77.83.245.173",
-            "server_port": 33369,
-            "uuid": "3dbea962-1e67-4008-8c07-c84a819b5bc8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yandex.ru",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "szWk094FkncOx87ZSq4De5nU-1l0BLxikzvfUT5Dhms",
-                    "short_id": "3b05335afef11254"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 VLESS | @megavpn_link [6]",
             "type": "vless",
             "server": "all32-vip.f-sub.com",
@@ -554,7 +502,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [2]",
+            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
             "type": "vless",
             "server": "poland-meow.nethcloud.top",
             "server_port": 8443,
@@ -688,29 +636,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
-            "type": "vless",
-            "server": "tun1.karunwebco.com",
-            "server_port": 1020,
-            "uuid": "98582446-4b95-498d-8959-0d109231639d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM",
-                    "short_id": "4374d295a4f9dd83"
                 }
             }
         },
