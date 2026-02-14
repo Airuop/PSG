@@ -95,14 +95,14 @@
                 "❔ XX | 🔒 VLESS | @NamiraConfigs [60]",
                 "❔ XX | 🔒 VLESS | @angus_vpn [1]",
                 "❔ XX | 🔒 VLESS | @angus_vpn [2]",
-                "❔ XX | 🔒 VLESS | @filtershekan_channel [1]",
                 "❔ XX | 🔒 VLESS | @mrclud [9]",
                 "❔ XX | 🔒 VLESS | @mrclud [11]",
                 "❔ XX | 🔒 VLESS | @mrclud [13]",
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -116,14 +116,14 @@
                 "❔ XX | 🔒 VLESS | @NamiraConfigs [60]",
                 "❔ XX | 🔒 VLESS | @angus_vpn [1]",
                 "❔ XX | 🔒 VLESS | @angus_vpn [2]",
-                "❔ XX | 🔒 VLESS | @filtershekan_channel [1]",
                 "❔ XX | 🔒 VLESS | @mrclud [9]",
                 "❔ XX | 🔒 VLESS | @mrclud [11]",
                 "❔ XX | 🔒 VLESS | @mrclud [13]",
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -279,29 +279,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @filtershekan_channel [1]",
-            "type": "vless",
-            "server": "94.131.123.167",
-            "server_port": 443,
-            "uuid": "a44e0875-210f-4941-9062-89b6361a14c6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4",
-                    "short_id": "8bcfe256cf216fd8"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 VLESS | @mrclud [9]",
             "type": "vless",
             "server": "51.195.169.100",
@@ -440,11 +417,34 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "94.156.154.88",
+            "server": "37.139.33.57",
             "server_port": 8443,
-            "uuid": "05dc09d5-5c56-454b-a34e-6ef743d91e1a",
+            "uuid": "eb4234b2-8083-4038-af1d-ae752b4ad6d4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "m.vk.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
+                    "short_id": "6419bed7fd0a2cff"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+            "type": "vless",
+            "server": "77.83.245.173",
+            "server_port": 33369,
+            "uuid": "3dbea962-1e67-4008-8c07-c84a819b5bc8",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -457,8 +457,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28",
-                    "short_id": "abc123"
+                    "public_key": "szWk094FkncOx87ZSq4De5nU-1l0BLxikzvfUT5Dhms",
+                    "short_id": "3b05335afef11254"
                 }
             }
         }

@@ -95,13 +95,13 @@
                 "❔ XX | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [3]",
+                "❔ XX | 🔒 VLESS | @v2rayvpn2 [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -116,13 +116,13 @@
                 "❔ XX | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @v2rayvpn2 [3]",
+                "❔ XX | 🔒 VLESS | @v2rayvpn2 [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -279,7 +279,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [3]",
+            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [2]",
             "type": "vless",
             "server": "poland-meow.nethcloud.top",
             "server_port": 8443,
@@ -417,25 +417,25 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
             "type": "vless",
-            "server": "nl.connectv.net",
-            "server_port": 443,
-            "uuid": "3d285ec0-cde0-4d81-af2e-5f6b9adc3f35",
+            "server": "tun1.karunwebco.com",
+            "server_port": 1020,
+            "uuid": "98582446-4b95-498d-8959-0d109231639d",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "nl.connectv.net",
+                "server_name": "yahoo.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": null
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw",
-                    "short_id": ""
+                    "public_key": "ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM",
+                    "short_id": "4374d295a4f9dd83"
                 }
             }
         },

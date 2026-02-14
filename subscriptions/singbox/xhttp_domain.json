@@ -93,6 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -105,6 +106,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -197,6 +199,15 @@
             "server": "fast.peace.lemoex.blog",
             "server_port": 80,
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "FASTLY1.FASTSPEEDS.IR",
+            "server_port": 80,
+            "uuid": "875039d5-7501-4b7c-9039-4d9b39a1838e",
             "flow": "",
             "packet_encoding": "xudp"
         },
