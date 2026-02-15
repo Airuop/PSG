@@ -101,6 +101,7 @@
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -130,6 +131,7 @@
                 "❔ XX | 🔒 VLESS | @mrclud [18]",
                 "❔ XX | 🔒 VLESS | @mrclud [20]",
                 "❔ XX | 🔒 VLESS | @mrclud [22]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -429,6 +431,29 @@
                     "enabled": true,
                     "public_key": "JYX6QCdjl0yIzfE_TMjJAnD0zyuroMhT2fj3oAzlTWc",
                     "short_id": "8b62ab46"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "89.169.162.214",
+            "server_port": 443,
+            "uuid": "86c8a690-9602-4d40-bbf7-156720de104f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yandex.ru",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04",
+                    "short_id": "c6ef72e4635d15a5"
                 }
             }
         },
