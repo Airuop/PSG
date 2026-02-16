@@ -86,12 +86,14 @@ proxies:
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [4]","type":"vless","server":"tr.mizbanandata.com","port":443,"uuid":"e3e3961e-12f7-454d-acf4-9e899a2804c7","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"jetbrains.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [5]","type":"vless","server":"tr.mizbanandata.com","port":443,"uuid":"9ff046dd-1e63-445a-8d7c-e8e376ce5e51","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"jetbrains.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [6]","type":"vless","server":"nl.mizbanandata.com","port":443,"uuid":"c37064cc-4f5c-42c6-a38b-7cd756c274c4","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"docker.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
-  - {"name":"❔ XX | 🔒 VLESS | @vpnplusee_free [6]","type":"vless","server":"ip.shakhle.ir","port":2083,"uuid":"260f19e2-41c2-4f0c-870f-ab7e28e72ef6","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ipv4.yasharteam.com","ws-opts":{"path":"/","headers":{"Host":"ipv4.yasharteam.com"}}}
-  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [9]","type":"vless","server":"de-5-tun-single.starpingshop.com","port":8083,"uuid":"c44463d3-d816-4546-9084-fca094d063f9","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
-  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [13]","type":"vless","server":"re.alphanet01.com","port":51847,"uuid":"2a56931f-3077-4335-b167-84d220cee843","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
-  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [14]","type":"vless","server":"mail.j-sub.cfd","port":1517,"uuid":"33cf26de-e316-4395-8e81-ac3295095dff","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
-  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [17]","type":"vless","server":"mail.j-sub.cfd","port":1517,"uuid":"33cf26de-e316-4395-8e81-ac3295095dff","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
-  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [18]","type":"vless","server":"whm.j-sub.cfd","port":1517,"uuid":"33cf26de-e316-4395-8e81-ac3295095dff","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [5]","type":"vless","server":"s5.daneshvardost.com","port":26480,"uuid":"6919e588-cff3-4c1b-b7a3-3ca0ada5fb69","tls":false,"network":"tcp ","client-fingerprint":"chrome","udp":true}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [7]","type":"vless","server":"arzdigital.com","port":80,"uuid":"f4f18ac0-cfc3-427a-af8c-a847bc516cca","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/graphql","headers":{"Host":"v5.smartyevent.click"}}}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [8]","type":"vless","server":"de.kaia.pw","port":8080,"uuid":"875ec245-7366-48dc-8756-e8889fec8816","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"de.kaia.pw"}}}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [9]","type":"vless","server":"9f430b1651a14007.fast1.viperping.ir","port":80,"uuid":"4d666564-0414-439d-ba51-8e8156014abe","tls":false,"network":"xhttp","client-fingerprint":"chrome","udp":true}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [11]","type":"vless","server":"eece40082acf744f.fast2.viperping.ir","port":80,"uuid":"4d666564-0414-439d-ba51-8e8156014abe","tls":false,"network":"xhttp","client-fingerprint":"chrome","udp":true}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [13]","type":"vless","server":"ip.shakhle.ir","port":2095,"uuid":"665a891b-114e-435b-a083-1ab5b8adc6ac","tls":false,"network":"httpupgrade","client-fingerprint":"chrome","udp":true}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [14]","type":"vless","server":"1.iranazizm.com","port":2095,"uuid":"665a891b-114e-435b-a083-1ab5b8adc6ac","tls":false,"network":"httpupgrade","client-fingerprint":"chrome","udp":true}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [16]","type":"vless","server":"s2.daneshvardost.com","port":26480,"uuid":"6919e588-cff3-4c1b-b7a3-3ca0ada5fb69","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔓 VLESS | @xsv2ray [1]","type":"vless","server":"video-streaming.comtent-delivery.poshtibani.4b3a.com","port":23410,"uuid":"9718b260-03c9-4313-af0f-d08a0b5c859e","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔒 VLESS | @xsv2ray [3]","type":"vless","server":"nv73.momdping.com","port":443,"uuid":"959eb33c-43f8-4f45-9de6-3ffd13319a79","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"nv73.momdping.com","ws-opts":{"path":"/","headers":{"Host":"nv73.momdping.com"}}}
   - {"name":"❔ XX | 🔓 VLESS | @xsv2ray [5]","type":"vless","server":"fast-01.saitsazs.ir","port":80,"uuid":"34a4cfb4-8b42-42ba-b087-6a338c2b3b4a","tls":false,"network":"xhttp","client-fingerprint":"chrome","udp":true}
@@ -172,12 +174,14 @@ proxy-groups:
       - '❔ XX | 🔒 VLESS | @vpn_accounti [4]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [5]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [6]'
-      - '❔ XX | 🔒 VLESS | @vpnplusee_free [6]'
+      - '❔ XX | 🔓 VLESS | @vpnplusee_free [5]'
+      - '❔ XX | 🔓 VLESS | @vpnplusee_free [7]'
+      - '❔ XX | 🔓 VLESS | @vpnplusee_free [8]'
       - '❔ XX | 🔓 VLESS | @vpnplusee_free [9]'
+      - '❔ XX | 🔓 VLESS | @vpnplusee_free [11]'
       - '❔ XX | 🔓 VLESS | @vpnplusee_free [13]'
       - '❔ XX | 🔓 VLESS | @vpnplusee_free [14]'
-      - '❔ XX | 🔓 VLESS | @vpnplusee_free [17]'
-      - '❔ XX | 🔓 VLESS | @vpnplusee_free [18]'
+      - '❔ XX | 🔓 VLESS | @vpnplusee_free [16]'
       - '❔ XX | 🔓 VLESS | @xsv2ray [1]'
       - '❔ XX | 🔒 VLESS | @xsv2ray [3]'
       - '❔ XX | 🔓 VLESS | @xsv2ray [5]'

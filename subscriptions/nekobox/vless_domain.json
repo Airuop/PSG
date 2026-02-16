@@ -140,14 +140,16 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [17]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [18]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [19]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -223,14 +225,16 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [17]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [18]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [19]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -1640,16 +1644,25 @@
             }
         },
         {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
+            "type": "vless",
+            "server": "s5.daneshvardost.com",
+            "server_port": 26480,
+            "uuid": "6919e588-cff3-4c1b-b7a3-3ca0ada5fb69",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
-            "server": "ip.shakhle.ir",
-            "server_port": 2083,
-            "uuid": "260f19e2-41c2-4f0c-870f-ab7e28e72ef6",
+            "server": "srfremehdi-1.vahidtoni.life",
+            "server_port": 2096,
+            "uuid": "a41e01c3-94a3-4fd0-c1e1-e7bab798c4c0",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ipv4.yasharteam.com",
+                "server_name": "srfremehdi-1.vahidtoni.life",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1657,82 +1670,100 @@
                 }
             },
             "transport": {
+                "type": "grpc",
+                "service_name": "@v2raysrv"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+            "type": "vless",
+            "server": "arzdigital.com",
+            "server_port": 80,
+            "uuid": "f4f18ac0-cfc3-427a-af8c-a847bc516cca",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/graphql",
+                "headers": {
+                    "Host": "arzdigital.com"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "de.kaia.pw",
+            "server_port": 8080,
+            "uuid": "875ec245-7366-48dc-8756-e8889fec8816",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "ipv4.yasharteam.com"
+                    "Host": "de.kaia.pw"
                 }
             }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
-            "server": "de-5-tun-single.starpingshop.com",
-            "server_port": 8083,
-            "uuid": "c44463d3-d816-4546-9084-fca094d063f9",
+            "server": "9f430b1651a14007.fast1.viperping.ir",
+            "server_port": 80,
+            "uuid": "4d666564-0414-439d-ba51-8e8156014abe",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "eece40082acf744f.fast2.viperping.ir",
+            "server_port": 80,
+            "uuid": "4d666564-0414-439d-ba51-8e8156014abe",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
             "type": "vless",
-            "server": "re.alphanet01.com",
-            "server_port": 51847,
-            "uuid": "2a56931f-3077-4335-b167-84d220cee843",
+            "server": "ip.shakhle.ir",
+            "server_port": 2095,
+            "uuid": "665a891b-114e-435b-a083-1ab5b8adc6ac",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
             "type": "vless",
-            "server": "mail.j-sub.cfd",
-            "server_port": 1517,
-            "uuid": "33cf26de-e316-4395-8e81-ac3295095dff",
+            "server": "1.iranazizm.com",
+            "server_port": 2095,
+            "uuid": "665a891b-114e-435b-a083-1ab5b8adc6ac",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
             "type": "vless",
-            "server": "love-dnc.animallzoo-vip.pro",
-            "server_port": 8443,
-            "uuid": "ba659180-d0fa-12c8-4782-8c36a0a28e3d",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
             "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "e9u8wghf97u.animallzoop.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+            "transport": {
+                "type": "ws",
+                "path": "/TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER2CTELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER,TELEGRAM-NUFiLTER?ed=2056",
+                "headers": {
+                    "Host": "speedtest.net"
                 }
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [17]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
             "type": "vless",
-            "server": "mail.j-sub.cfd",
-            "server_port": 1517,
-            "uuid": "33cf26de-e316-4395-8e81-ac3295095dff",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [18]",
-            "type": "vless",
-            "server": "whm.j-sub.cfd",
-            "server_port": 1517,
-            "uuid": "33cf26de-e316-4395-8e81-ac3295095dff",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [19]",
-            "type": "vless",
-            "server": "tunel-aaasxa.gamepiu.com",
-            "server_port": 5087,
-            "uuid": "69b9d47e-59a9-4ba3-f8fe-4f581a624dfa",
+            "server": "s2.daneshvardost.com",
+            "server_port": 26480,
+            "uuid": "6919e588-cff3-4c1b-b7a3-3ca0ada5fb69",
             "flow": "",
             "packet_encoding": "xudp"
         },

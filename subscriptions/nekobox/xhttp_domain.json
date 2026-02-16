@@ -81,7 +81,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -94,7 +95,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -195,22 +197,22 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
-            "server": "love-dnc.animallzoo-vip.pro",
-            "server_port": 8443,
-            "uuid": "ba659180-d0fa-12c8-4782-8c36a0a28e3d",
+            "server": "9f430b1651a14007.fast1.viperping.ir",
+            "server_port": 80,
+            "uuid": "4d666564-0414-439d-ba51-8e8156014abe",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "e9u8wghf97u.animallzoop.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "eece40082acf744f.fast2.viperping.ir",
+            "server_port": 80,
+            "uuid": "4d666564-0414-439d-ba51-8e8156014abe",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",

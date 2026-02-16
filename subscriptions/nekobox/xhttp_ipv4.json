@@ -82,7 +82,8 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]"
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -95,7 +96,8 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]"
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -209,6 +211,29 @@
             "server": "130.162.197.41",
             "server_port": 21051,
             "password": "bUlYzLSY7D"
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "195.26.224.112",
+            "server_port": 8443,
+            "uuid": "db444bee-8212-5ff5-be40-47e1a7509eb8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "vk.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ",
+                    "short_id": "938f14cf6757a249"
+                }
+            }
         }
     ],
     "route": {
