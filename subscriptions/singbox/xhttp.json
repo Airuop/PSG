@@ -93,9 +93,10 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
-                "❔ XX | 🔓 VLESS | @minovpnch [14]",
-                "❔ XX | 🔓 VLESS | @minovpnch [15]",
+                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "❔ XX | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "proxy",
@@ -108,9 +109,10 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
-                "❔ XX | 🔓 VLESS | @minovpnch [14]",
-                "❔ XX | 🔓 VLESS | @minovpnch [15]",
+                "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "❔ XX | 🔒 TROJAN | @spikevpn [1]"
             ],
             "tag": "auto",
@@ -207,6 +209,24 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "love-dnc.animallzoo-vip.pro",
+            "server_port": 8443,
+            "uuid": "ba659180-d0fa-12c8-4782-8c36a0a28e3d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "e9u8wghf97u.animallzoop.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
             "type": "vless",
             "server": "fast-01.saitsazs.ir",
@@ -216,7 +236,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @minovpnch [14]",
+            "tag": "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
             "type": "vless",
             "server": "151.101.204.190",
             "server_port": 80,
@@ -225,7 +245,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @minovpnch [15]",
+            "tag": "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
             "type": "vless",
             "server": "185.18.250.67",
             "server_port": 8080,

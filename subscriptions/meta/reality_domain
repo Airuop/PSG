@@ -23,7 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"❔ XX | 🔒 VLESS | @megavpn_link [6]","type":"vless","server":"all32-vip.f-sub.com","port":2434,"uuid":"84e919b0-2a5d-4fad-8614-df01dd210b8e","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.chess.com","reality-opts":{"public-key":"yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]","type":"vless","server":"all32-vip.f-sub.com","port":2434,"uuid":"84e919b0-2a5d-4fad-8614-df01dd210b8e","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.chess.com","reality-opts":{"public-key":"yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [1]","type":"vless","server":"ARM.SIGMA-HOSTER.COM","port":443,"uuid":"fb707a09-7dd8-417f-9d9a-2e61d56995cb","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [2]","type":"vless","server":"ARM.CROCODILESERVER.IR","port":443,"uuid":"32932937-b85f-40be-ae02-997ea5b0b62a","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [4]","type":"vless","server":"tr.mizbanandata.com","port":443,"uuid":"e3e3961e-12f7-454d-acf4-9e899a2804c7","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"jetbrains.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
@@ -42,7 +42,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '❔ XX | 🔒 VLESS | @megavpn_link [6]'
+      - '🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [1]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [2]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [4]'
