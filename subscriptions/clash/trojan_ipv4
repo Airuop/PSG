@@ -23,7 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"❔ XX | 🔒 TROJAN | @spikevpn [1]","type":"trojan","server":"130.162.197.41","port":21051,"password":"bUlYzLSY7D","skip-cert-verify":false}
+  - {"name":"🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]","type":"trojan","server":"130.162.197.41","port":21051,"password":"bUlYzLSY7D","skip-cert-verify":false}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -37,7 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '❔ XX | 🔒 TROJAN | @spikevpn [1]'
+      - '🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]'
 
   - name: 🌍 Global Media
     type: select

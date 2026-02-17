@@ -81,13 +81,13 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -99,13 +99,13 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [12]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -205,22 +205,45 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
-            "server": "9f430b1651a14007.fast1.viperping.ir",
-            "server_port": 80,
-            "uuid": "4d666564-0414-439d-ba51-8e8156014abe",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "ir.grbr.private-link.lornanet.ir",
+            "server_port": 9174,
+            "uuid": "5808fea7-745a-fbd4-eb1e-616b1123c14f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "safari"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw",
+                    "short_id": "e99768d076c05ab2"
+                }
+            }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
-            "server": "eece40082acf744f.fast2.viperping.ir",
-            "server_port": 80,
-            "uuid": "4d666564-0414-439d-ba51-8e8156014abe",
+            "server": "pkg.zaracloudcenter.ir",
+            "server_port": 8443,
+            "uuid": "e88807d6-5789-41bf-ba33-5393f8d84fae",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "amir3.masmashhhh.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -250,34 +273,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
             "type": "trojan",
             "server": "130.162.197.41",
             "server_port": 21051,
             "password": "bUlYzLSY7D"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [12]",
             "type": "vless",
-            "server": "195.26.224.112",
-            "server_port": 8443,
-            "uuid": "db444bee-8212-5ff5-be40-47e1a7509eb8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "vk.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ",
-                    "short_id": "938f14cf6757a249"
-                }
-            }
+            "server": "104.19.148.67",
+            "server_port": 2052,
+            "uuid": "a831cb09-8a28-4d45-93e7-ba8efb41e185",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
