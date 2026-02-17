@@ -82,8 +82,9 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [12]"
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -96,8 +97,9 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [12]"
+                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -206,18 +208,27 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
+            "tag": "❔ XX | 🔒 TROJAN | @spikevpn [1]",
             "type": "trojan",
             "server": "130.162.197.41",
             "server_port": 21051,
             "password": "bUlYzLSY7D"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [12]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
             "type": "vless",
-            "server": "104.19.148.67",
+            "server": "104.16.121.147",
             "server_port": 2052,
-            "uuid": "a831cb09-8a28-4d45-93e7-ba8efb41e185",
+            "uuid": "2271c50f-ac7a-4d7f-8b04-64085b0daa56",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "188.244.122.136",
+            "server_port": 80,
+            "uuid": "d5657005-94be-4198-80cf-f9a814bad404",
             "flow": "",
             "packet_encoding": "xudp"
         }
