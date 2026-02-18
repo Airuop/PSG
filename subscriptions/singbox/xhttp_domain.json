@@ -93,6 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🇸🇨 SC | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -105,6 +106,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🇸🇨 SC | 🔒 VLESS | @vpnplusee_free [13]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -199,6 +201,24 @@
             "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇸🇨 SC | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "h.zzula.ir",
+            "server_port": 443,
+            "uuid": "e07ef651-915e-4912-9df7-5d5921bb3319",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "DE-23.85858569.XYZ",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
