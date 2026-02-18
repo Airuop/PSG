@@ -24,7 +24,7 @@ dns:
 
 proxies: 
   - {"name":"❔ XX | 🔒 TROJAN | @iraniv2ray [4]","type":"trojan","server":"lllliraniv2rayllll.norooz.shop","port":2083,"password":"BWDcALS5TU","skip-cert-verify":false}
-  - {"name":"❔ XX | 🔒 TROJAN | @spikevpn [1]","type":"trojan","server":"130.162.197.41","port":21051,"password":"bUlYzLSY7D","skip-cert-verify":false}
+  - {"name":"🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]","type":"trojan","server":"130.162.197.41","port":21051,"password":"bUlYzLSY7D","skip-cert-verify":false}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -39,7 +39,7 @@ proxy-groups:
     interval: 300
     proxies: 
       - '❔ XX | 🔒 TROJAN | @iraniv2ray [4]'
-      - '❔ XX | 🔒 TROJAN | @spikevpn [1]'
+      - '🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]'
 
   - name: 🌍 Global Media
     type: select
