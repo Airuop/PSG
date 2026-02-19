@@ -91,9 +91,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [2]",
-                "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [7]"
+                "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -115,9 +115,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [2]",
-                "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [4]",
-                "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [7]"
+                "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -461,7 +461,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayvpn2 [2]",
+            "tag": "❔ XX | 🔒 VLESS | @v2rayvpn2 [1]",
             "type": "vless",
             "server": "57.129.49.1",
             "server_port": 23576,
@@ -484,16 +484,16 @@
             }
         },
         {
-            "tag": "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "80.211.236.167",
-            "server_port": 443,
-            "uuid": "a3dd7bef-f742-4ee4-897e-0d91629571bb",
+            "server": "62.60.233.57",
+            "server_port": 33895,
+            "uuid": "c5434982-3de9-4358-ad50-1d66b11f3354",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "gmail.com",
+                "server_name": "yandex.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -501,22 +501,22 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw",
-                    "short_id": ""
+                    "public_key": "wuCVyrTGxRwcTTvyd2qwKkH8KVphEppAyYRKAn1Z83w",
+                    "short_id": "96b4c216341b08ef"
                 }
             }
         },
         {
-            "tag": "🇮🇹 IT | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
             "type": "vless",
-            "server": "80.211.236.226",
+            "server": "78.159.111.14",
             "server_port": 443,
             "uuid": "8c863fe9-65e4-41ee-84e4-1c0009d72639",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "gmail.com",
+                "server_name": "www.samsung.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
