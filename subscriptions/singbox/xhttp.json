@@ -93,13 +93,14 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,13 +112,14 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -213,6 +215,24 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "w-w-w-yoyoliqip-irancell-co2.mobilekonj.ir",
+            "server_port": 8443,
+            "uuid": "dac5ecb3-2ca8-4667-b630-75893cde81c0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "r-ru3-esteghlaliran.hyuundaiyadak.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
             "type": "vless",
             "server": "fast-01.saitsazs.ir",
@@ -240,7 +260,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @spikevpn [1]",
+            "tag": "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
             "type": "trojan",
             "server": "130.162.197.41",
             "server_port": 21051,
@@ -249,37 +269,14 @@
         {
             "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
-            "server": "193.151.137.184",
-            "server_port": 8011,
-            "uuid": "5f1ba738-c2c8-403e-856d-c08224798abe",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
-                    "short_id": "5ca62fd4cea30bdf"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "172.64.152.23",
+            "server": "45.130.125.160",
             "server_port": 443,
-            "uuid": "8196d16d-855b-42bc-80f4-b5db138c5572",
+            "uuid": "d21651f9-cd6c-4f20-88c4-dd8a6052848a",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "test2.testrobot.site",
+                "server_name": "dUnEpArTtWoOnE.mOrVeXiN.iR",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -288,25 +285,38 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
-            "server": "185.26.33.195",
-            "server_port": 8011,
-            "uuid": "cbed7131-7397-430e-ac82-909e6b74379b",
-            "flow": "xtls-rprx-vision",
+            "server": "104.18.32.47",
+            "server_port": 443,
+            "uuid": "62df51fd-eb86-461e-bec1-240af8c9b7bd",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.tgju.org",
+                "server_name": "ukabadi.cedriklorenz.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "104.18.32.47",
+            "server_port": 443,
+            "uuid": "62df51fd-eb86-461e-bec1-240af8c9b7bd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "swedena.cedriklorenz.ir",
+                "insecure": true,
+                "utls": {
                     "enabled": true,
-                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
-                    "short_id": "5ca62fd4cea30bdf"
+                    "fingerprint": "chrome"
                 }
             }
         }

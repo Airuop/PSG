@@ -92,8 +92,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "❔ XX | 🔒 VLESS | @v2rayvpn2 [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -125,8 +127,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
                 "❔ XX | 🔒 VLESS | @v2rayvpn2 [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -502,39 +506,39 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "193.151.137.184",
-            "server_port": 8011,
-            "uuid": "5f1ba738-c2c8-403e-856d-c08224798abe",
+            "server": "51.250.0.147",
+            "server_port": 443,
+            "uuid": "c4d9855b-7eac-44ab-a8a5-d811f371df1b",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.tgju.org",
+                "server_name": "api-maps.yandex.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "qq"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
-                    "short_id": "5ca62fd4cea30bdf"
+                    "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
+                    "short_id": "c8597fb67d55d9c4"
                 }
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
-            "server": "185.26.33.195",
-            "server_port": 8011,
-            "uuid": "cbed7131-7397-430e-ac82-909e6b74379b",
+            "server": "46.225.42.191",
+            "server_port": 443,
+            "uuid": "260f19e2-41c2-4f0c-870f-ab7e28e72ef6",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.tgju.org",
+                "server_name": "tgju.org.",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -542,8 +546,54 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
-                    "short_id": "5ca62fd4cea30bdf"
+                    "public_key": "tno-wyErJhBNzYfPIcfb2KGTys_s1QJAoUX5flFlHjc",
+                    "short_id": "b3b762f1e85b104a"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "37.139.33.52",
+            "server_port": 443,
+            "uuid": "b582334a-f0bc-47b8-9e83-cf04e64c0b24",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "m.vk.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "itChlzYnj7xu0-o776CzSu4BECllDKkrpsKVlNT5Fw0",
+                    "short_id": "1de6f79b957b8b5c"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+            "type": "vless",
+            "server": "185.227.70.39",
+            "server_port": 8443,
+            "uuid": "b9dbc1ff-6364-4826-a973-71c0584116c4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "dropbox.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "safari"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
                 }
             }
         },
