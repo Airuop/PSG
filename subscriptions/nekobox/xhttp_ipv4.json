@@ -83,8 +83,7 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [19]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -98,8 +97,7 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [19]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -215,50 +213,13 @@
             "password": "bUlYzLSY7D"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [19]",
             "type": "vless",
-            "server": "193.151.151.44",
-            "server_port": 8011,
-            "uuid": "e2bfdf26-de3c-486a-98bf-48cfb5902a1b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
-                    "short_id": "5ca62fd4cea30bdf"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
-            "type": "vless",
-            "server": "193.151.134.24",
-            "server_port": 8011,
-            "uuid": "18567410-dfd6-4b45-ac0d-238096f31896",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
-                    "short_id": "5ca62fd4cea30bdf"
-                }
-            }
+            "server": "45.130.125.160",
+            "server_port": 2052,
+            "uuid": "2271c50f-ac7a-4d7f-8b04-64085b0daa56",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {

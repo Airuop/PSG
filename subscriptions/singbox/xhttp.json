@@ -93,12 +93,13 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [19]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,12 +111,13 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [19]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -211,6 +213,42 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+            "type": "vless",
+            "server": "free-httpcustom-free-httpcustomhfree-httpcustom-free-httpcustom.frre-plus-mobile.ir",
+            "server_port": 443,
+            "uuid": "1a78ba25-1f6f-4496-b2a7-3bfec130a734",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+            "type": "vless",
+            "server": "CP8.PRODNSSPEED10.IR",
+            "server_port": 443,
+            "uuid": "b05d5744-6986-4567-bd34-b3a37766ead4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "SHARAF.followerarzon1.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
             "type": "vless",
             "server": "fast-01.saitsazs.ir",
@@ -245,50 +283,13 @@
             "password": "bUlYzLSY7D"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [19]",
             "type": "vless",
-            "server": "193.151.151.44",
-            "server_port": 8011,
-            "uuid": "e2bfdf26-de3c-486a-98bf-48cfb5902a1b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
-                    "short_id": "5ca62fd4cea30bdf"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
-            "type": "vless",
-            "server": "193.151.134.24",
-            "server_port": 8011,
-            "uuid": "18567410-dfd6-4b45-ac0d-238096f31896",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
-                    "short_id": "5ca62fd4cea30bdf"
-                }
-            }
+            "server": "45.130.125.160",
+            "server_port": 2052,
+            "uuid": "2271c50f-ac7a-4d7f-8b04-64085b0daa56",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
