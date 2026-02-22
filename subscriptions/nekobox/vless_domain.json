@@ -139,10 +139,11 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -217,10 +218,11 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -1605,34 +1607,48 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
             "type": "vless",
-            "server": "core.speedmizban.net",
-            "server_port": 1517,
-            "uuid": "dcbfa993-fc70-44ec-9910-fbac738dc213",
+            "server": "a.pabloping.cloud",
+            "server_port": 2052,
+            "uuid": "2271c50f-ac7a-4d7f-8b04-64085b0daa56",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "ip.linux-panel.com",
-            "server_port": 1517,
-            "uuid": "dcbfa993-fc70-44ec-9910-fbac738dc213",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "ir.grbr.private-link.lornanet.ir",
+            "server_port": 3130,
+            "uuid": "cd00cbb8-a849-332e-9199-cbaf2050e785",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "rEfErSion.Com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "safari"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw",
+                    "short_id": "e99768d076c05ab2"
+                }
+            }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
-            "server": "G10.PRODNSSPEED10.IR",
-            "server_port": 2083,
-            "uuid": "c805b05e-339d-40e0-8787-432d97a27345",
+            "server": "f1.springpaatogh8.store",
+            "server_port": 2053,
+            "uuid": "2babbbb9-ff59-426d-932f-b5c88ed80082",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "data-frm2.netsnap.ir",
+                "server_name": "digikala.sorza.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1641,27 +1657,59 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/R8I9Yqu0DxpQB2NKCxLA",
+                "path": "/?ed=2560 PuLaFreeBOT PuLaVPN",
                 "headers": {
-                    "Host": "data-frm2.netsnap.ir"
+                    "Host": "digikala.sorza.ir"
                 }
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
-            "server": "firan.dtgoldservices.com",
+            "server": "star-cdn.dsadsadads.ir",
             "server_port": 8443,
-            "uuid": "80a0a9c5-408c-4e93-aace-451773f8a2cc",
+            "uuid": "084c598a-4dd8-4ad9-ba74-b8ed7926d113",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "firan.dtgoldservices.com",
+                "server_name": "dash-star.az9x99.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/star?ed=2560",
+                "headers": {
+                    "Host": "dash-star.az9x99.ir"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "s1.eldoradu.ir",
+            "server_port": 2053,
+            "uuid": "eb851d15-afc1-40ee-abb7-793772853f6a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "kcx4.sellink.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "kcx4.sellink.ir"
                 }
             }
         },
