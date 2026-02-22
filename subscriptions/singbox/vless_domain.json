@@ -151,12 +151,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -231,12 +229,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -1617,97 +1613,63 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
             "type": "vless",
-            "server": "www.tgju.org",
-            "server_port": 2087,
-            "uuid": "d1b421cc-ebaf-48cf-bf12-e7947af11c53",
+            "server": "core.speedmizban.net",
+            "server_port": 1517,
+            "uuid": "dcbfa993-fc70-44ec-9910-fbac738dc213",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+            "type": "vless",
+            "server": "ip.linux-panel.com",
+            "server_port": 1517,
+            "uuid": "dcbfa993-fc70-44ec-9910-fbac738dc213",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "G10.PRODNSSPEED10.IR",
+            "server_port": 2083,
+            "uuid": "c805b05e-339d-40e0-8787-432d97a27345",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "rahgozar.italiantourism.net.",
+                "server_name": "data-frm2.netsnap.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/R8I9Yqu0DxpQB2NKCxLA",
+                "headers": {
+                    "Host": "data-frm2.netsnap.ir"
+                }
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
             "type": "vless",
-            "server": "zyro.adslimit.info",
-            "server_port": 2345,
-            "uuid": "d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "proxy.rahmancloud.ir",
+            "server": "firan.dtgoldservices.com",
             "server_port": 8443,
-            "uuid": "6b279ab4-10e8-4e66-fb5d-9092c6709a1e",
+            "uuid": "80a0a9c5-408c-4e93-aace-451773f8a2cc",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "proxy.rahmancloud.ir",
+                "server_name": "firan.dtgoldservices.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "proxy.rahmancloud.ir"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
-            "type": "vless",
-            "server": "armen.izumii.ir",
-            "server_port": 8080,
-            "uuid": "75d8e7bb-74f8-4c25-a72f-dc3d983fb6d7",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
-            "type": "vless",
-            "server": "fonken.izumii.ir",
-            "server_port": 8880,
-            "uuid": "75d8e7bb-74f8-4c25-a72f-dc3d983fb6d7",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-            "type": "vless",
-            "server": "glob.thisiswe.uno",
-            "server_port": 2053,
-            "uuid": "ee9b0614-50ec-41b6-951b-e1d5d755fa4b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cd11.thisiswe.uno",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "cd11.thisiswe.uno"
                 }
             }
         },
