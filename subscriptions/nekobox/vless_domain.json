@@ -139,11 +139,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -218,11 +217,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -1607,7 +1605,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "a.pabloping.cloud",
             "server_port": 2052,
@@ -1618,98 +1616,73 @@
         {
             "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "ir.grbr.private-link.lornanet.ir",
-            "server_port": 3130,
-            "uuid": "cd00cbb8-a849-332e-9199-cbaf2050e785",
+            "server": "partners.dissertationhelpspecialist.com",
+            "server_port": 2083,
+            "uuid": "9e5d9354-6be4-4bdb-a78a-92062312f8f3",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "rEfErSion.Com",
+                "server_name": "tgju.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "safari"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw",
-                    "short_id": "e99768d076c05ab2"
+                    "public_key": "1Z_Cb8ZYvCKRtAjG2QkmhtP6vnd_3QpG2XAwcW0ERms",
+                    "short_id": "63761d798c"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "mtn-tm1.ip-venzo.com",
+            "server_port": 6870,
+            "uuid": "4bc83a84-d4d2-43f8-8ee4-45b08a190162",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ip-venzo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "sGkQutu-jNzzINkigXEr4zm6us4c5KvT6FRSOKEliyY",
+                    "short_id": "a3ec090d35b64be8"
                 }
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [8]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
             "type": "vless",
-            "server": "f1.springpaatogh8.store",
-            "server_port": 2053,
-            "uuid": "2babbbb9-ff59-426d-932f-b5c88ed80082",
-            "flow": "",
+            "server": "spb-node.genadata.online",
+            "server_port": 2040,
+            "uuid": "14818654-7689-453a-9a1f-4c72f89782d5",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "digikala.sorza.ir",
+                "server_name": "tradingview.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560 PuLaFreeBOT PuLaVPN",
-                "headers": {
-                    "Host": "digikala.sorza.ir"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "star-cdn.dsadsadads.ir",
-            "server_port": 8443,
-            "uuid": "084c598a-4dd8-4ad9-ba74-b8ed7926d113",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "dash-star.az9x99.ir",
-                "insecure": true,
-                "utls": {
+                    "fingerprint": "qq"
+                },
+                "reality": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/star?ed=2560",
-                "headers": {
-                    "Host": "dash-star.az9x99.ir"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
-            "type": "vless",
-            "server": "s1.eldoradu.ir",
-            "server_port": 2053,
-            "uuid": "eb851d15-afc1-40ee-abb7-793772853f6a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "kcx4.sellink.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "kcx4.sellink.ir"
+                    "public_key": "1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg",
+                    "short_id": "50ed6f6007515d63"
                 }
             }
         },
