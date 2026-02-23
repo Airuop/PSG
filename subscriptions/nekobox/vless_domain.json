@@ -139,10 +139,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -217,10 +217,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -1605,86 +1605,65 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [5]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
-            "server": "a.pabloping.cloud",
-            "server_port": 2052,
-            "uuid": "2271c50f-ac7a-4d7f-8b04-64085b0daa56",
+            "server": "pxqhkkokwtgf.eu-central-1.clawcloudrun.com",
+            "server_port": 43144,
+            "uuid": "d749c2c0-4ba4-45fe-f8f4-2f422d689a21",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "devblogs.microsoft.com¬e",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "1conf.top",
+            "server_port": 8880,
+            "uuid": "1e16c071-7dc5-f7e6-7523-a5eafd79370b",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
-            "server": "partners.dissertationhelpspecialist.com",
-            "server_port": 2083,
-            "uuid": "9e5d9354-6be4-4bdb-a78a-92062312f8f3",
-            "flow": "xtls-rprx-vision",
+            "server": "c8f7b1ab85189cf5.first.sapienza-mahan.ir",
+            "server_port": 443,
+            "uuid": "c4baefee-fc4c-42ed-b19c-5d5f7dad36ba",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "harro-likeh1.sdcards1.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1Z_Cb8ZYvCKRtAjG2QkmhtP6vnd_3QpG2XAwcW0ERms",
-                    "short_id": "63761d798c"
+                    "fingerprint": "chrome"
                 }
             },
             "transport": {
-                "type": "grpc",
-                "service_name": "TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet"
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-            "type": "vless",
-            "server": "mtn-tm1.ip-venzo.com",
-            "server_port": 6870,
-            "uuid": "4bc83a84-d4d2-43f8-8ee4-45b08a190162",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ip-venzo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "sGkQutu-jNzzINkigXEr4zm6us4c5KvT6FRSOKEliyY",
-                    "short_id": "a3ec090d35b64be8"
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "harro-likeh1.sdcards1.ir"
                 }
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
             "type": "vless",
-            "server": "spb-node.genadata.online",
-            "server_port": 2040,
-            "uuid": "14818654-7689-453a-9a1f-4c72f89782d5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tradingview.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg",
-                    "short_id": "50ed6f6007515d63"
-                }
-            }
+            "server": "ip.linux-panel.com",
+            "server_port": 1517,
+            "uuid": "36d3db5f-278c-49e2-a925-83f27159fdfb",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [1]",

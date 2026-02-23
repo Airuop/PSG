@@ -101,7 +101,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -121,7 +123,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -415,16 +419,39 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
-            "server": "91.99.8.3",
-            "server_port": 2083,
-            "uuid": "9748d6dc-d7a8-45cd-b4df-00476cac75f8",
+            "server": "51.250.64.128",
+            "server_port": 443,
+            "uuid": "4742b1aa-d4e1-4994-a344-fa9267e6b9ab",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.yahoo.com",
+                "server_name": "bunny.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "qq"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "144.31.24.84",
+            "server_port": 443,
+            "uuid": "1d6705da-0790-49bf-bf47-b166d2e945cf",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "st.okcdn.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -432,8 +459,31 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw",
-                    "short_id": "d1"
+                    "public_key": "P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34",
+                    "short_id": "39a1eb3ec417cd66"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+            "type": "vless",
+            "server": "5.182.38.91",
+            "server_port": 17267,
+            "uuid": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
+                    "short_id": "4ae260"
                 }
             }
         }

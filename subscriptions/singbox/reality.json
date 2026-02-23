@@ -101,7 +101,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -110,9 +112,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -133,7 +132,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -142,9 +143,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -439,16 +437,39 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
-            "server": "91.99.8.3",
-            "server_port": 2083,
-            "uuid": "9748d6dc-d7a8-45cd-b4df-00476cac75f8",
+            "server": "51.250.64.128",
+            "server_port": 443,
+            "uuid": "4742b1aa-d4e1-4994-a344-fa9267e6b9ab",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.yahoo.com",
+                "server_name": "bunny.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "qq"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+            "type": "vless",
+            "server": "144.31.24.84",
+            "server_port": 443,
+            "uuid": "1d6705da-0790-49bf-bf47-b166d2e945cf",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "st.okcdn.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -456,8 +477,31 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw",
-                    "short_id": "d1"
+                    "public_key": "P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34",
+                    "short_id": "39a1eb3ec417cd66"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+            "type": "vless",
+            "server": "5.182.38.91",
+            "server_port": 17267,
+            "uuid": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
+                    "short_id": "4ae260"
                 }
             }
         },
@@ -642,79 +686,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "partners.dissertationhelpspecialist.com",
-            "server_port": 2083,
-            "uuid": "9e5d9354-6be4-4bdb-a78a-92062312f8f3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1Z_Cb8ZYvCKRtAjG2QkmhtP6vnd_3QpG2XAwcW0ERms",
-                    "short_id": "63761d798c"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet"
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-            "type": "vless",
-            "server": "mtn-tm1.ip-venzo.com",
-            "server_port": 6870,
-            "uuid": "4bc83a84-d4d2-43f8-8ee4-45b08a190162",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ip-venzo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "sGkQutu-jNzzINkigXEr4zm6us4c5KvT6FRSOKEliyY",
-                    "short_id": "a3ec090d35b64be8"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
-            "type": "vless",
-            "server": "spb-node.genadata.online",
-            "server_port": 2040,
-            "uuid": "14818654-7689-453a-9a1f-4c72f89782d5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tradingview.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg",
-                    "short_id": "50ed6f6007515d63"
                 }
             }
         },

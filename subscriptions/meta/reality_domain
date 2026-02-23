@@ -29,9 +29,6 @@ proxies:
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [4]","type":"vless","server":"tr.mizbanandata.com","port":443,"uuid":"e3e3961e-12f7-454d-acf4-9e899a2804c7","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"jetbrains.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [5]","type":"vless","server":"tr.mizbanandata.com","port":443,"uuid":"9ff046dd-1e63-445a-8d7c-e8e376ce5e51","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"jetbrains.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [6]","type":"vless","server":"nl.mizbanandata.com","port":443,"uuid":"c37064cc-4f5c-42c6-a38b-7cd756c274c4","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"docker.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
-  - {"name":"❔ XX | 🔒 VLESS | @vpnplusee_free [7]","type":"vless","server":"partners.dissertationhelpspecialist.com","port":2083,"uuid":"9e5d9354-6be4-4bdb-a78a-92062312f8f3","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"tgju.org","grpc-opts":{"grpc-service-name":"TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet"},"reality-opts":{"public-key":"1Z_Cb8ZYvCKRtAjG2QkmhtP6vnd_3QpG2XAwcW0ERms","short-id":"63761d798c"}}
-  - {"name":"❔ XX | 🔒 VLESS | @vpnplusee_free [13]","type":"vless","server":"mtn-tm1.ip-venzo.com","port":6870,"uuid":"4bc83a84-d4d2-43f8-8ee4-45b08a190162","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"ip-venzo.com","reality-opts":{"public-key":"sGkQutu-jNzzINkigXEr4zm6us4c5KvT6FRSOKEliyY","short-id":"a3ec090d35b64be8"}}
-  - {"name":"❔ XX | 🔒 VLESS | @vpnplusee_free [16]","type":"vless","server":"spb-node.genadata.online","port":2040,"uuid":"14818654-7689-453a-9a1f-4c72f89782d5","tls":true,"network":"tcp","client-fingerprint":"qq","udp":true,"servername":"tradingview.com","reality-opts":{"public-key":"1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg","short-id":"50ed6f6007515d63"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -51,9 +48,6 @@ proxy-groups:
       - '❔ XX | 🔒 VLESS | @vpn_accounti [4]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [5]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [6]'
-      - '❔ XX | 🔒 VLESS | @vpnplusee_free [7]'
-      - '❔ XX | 🔒 VLESS | @vpnplusee_free [13]'
-      - '❔ XX | 🔒 VLESS | @vpnplusee_free [16]'
 
   - name: 🌍 Global Media
     type: select

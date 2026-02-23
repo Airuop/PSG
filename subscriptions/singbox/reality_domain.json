@@ -100,9 +100,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -122,9 +119,6 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -392,79 +386,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "partners.dissertationhelpspecialist.com",
-            "server_port": 2083,
-            "uuid": "9e5d9354-6be4-4bdb-a78a-92062312f8f3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1Z_Cb8ZYvCKRtAjG2QkmhtP6vnd_3QpG2XAwcW0ERms",
-                    "short_id": "63761d798c"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet-TopyNet"
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-            "type": "vless",
-            "server": "mtn-tm1.ip-venzo.com",
-            "server_port": 6870,
-            "uuid": "4bc83a84-d4d2-43f8-8ee4-45b08a190162",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ip-venzo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "sGkQutu-jNzzINkigXEr4zm6us4c5KvT6FRSOKEliyY",
-                    "short_id": "a3ec090d35b64be8"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
-            "type": "vless",
-            "server": "spb-node.genadata.online",
-            "server_port": 2040,
-            "uuid": "14818654-7689-453a-9a1f-4c72f89782d5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tradingview.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg",
-                    "short_id": "50ed6f6007515d63"
                 }
             }
         },
