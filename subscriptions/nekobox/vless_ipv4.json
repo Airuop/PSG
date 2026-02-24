@@ -129,16 +129,15 @@
                 "❔ XX | 🔓 VLESS | @v2rayngc [17]",
                 "❔ XX | 🔒 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "proxy",
@@ -199,16 +198,15 @@
                 "❔ XX | 🔓 VLESS | @v2rayngc [17]",
                 "❔ XX | 🔒 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "auto",
@@ -1242,64 +1240,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "104.18.166.203",
-            "server_port": 443,
-            "uuid": "0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ndkwiut2718.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/pa",
-                "headers": {
-                    "Host": "ndkwiut2718.ir"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "89.117.152.121",
-            "server_port": 2053,
-            "uuid": "263d4075-966a-4240-cef1-239e742cfabb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "T-p5Nm42rNu7QxUadtXjWCmhUZSzDdXjiEHbgkP6PG0",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
-            "type": "vless",
-            "server": "92.114.50.68",
-            "server_port": 8080,
-            "uuid": "3f5503ad-8823-476a-86dd-6130f9e1d58b",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "193.151.158.133",
             "server_port": 9000,
@@ -1308,7 +1249,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "3.70.241.4",
             "server_port": 443,
@@ -1326,7 +1267,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "3.123.21.181",
             "server_port": 16763,
@@ -1335,7 +1276,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "18.192.122.141",
             "server_port": 32016,
@@ -1344,7 +1285,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "87.107.100.172",
             "server_port": 8083,
@@ -1353,7 +1294,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "3.121.213.82",
             "server_port": 443,
@@ -1371,7 +1312,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "77.110.114.1",
             "server_port": 443,
@@ -1389,6 +1330,45 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "95.216.154.119",
+            "server_port": 37265,
+            "uuid": "1a99307d-7dfb-4f0c-dcc5-8098f94033f8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "95.216.154.119"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "38.150.114.219",
+            "server_port": 443,
+            "uuid": "bee61e98-afce-4e95-9ae6-d319a687fb83",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "miui.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw",
                     "short_id": ""
                 }
             }

@@ -101,8 +101,8 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -122,8 +122,8 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -417,30 +417,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "89.117.152.121",
-            "server_port": 2053,
-            "uuid": "263d4075-966a-4240-cef1-239e742cfabb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "T-p5Nm42rNu7QxUadtXjWCmhUZSzDdXjiEHbgkP6PG0",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "77.110.114.1",
             "server_port": 443,
@@ -458,6 +435,29 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "38.150.114.219",
+            "server_port": 443,
+            "uuid": "bee61e98-afce-4e95-9ae6-d319a687fb83",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "miui.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw",
                     "short_id": ""
                 }
             }
