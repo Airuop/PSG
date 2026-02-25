@@ -101,8 +101,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -122,8 +123,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @mrclud [18]",
                 "🇩🇪 DE | 🔒 VLESS | @mrclud [20]",
                 "🇫🇷 FR | 🔒 VLESS | @mrclud [22]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -417,16 +419,16 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
-            "server": "38.150.114.219",
-            "server_port": 443,
-            "uuid": "bee61e98-afce-4e95-9ae6-d319a687fb83",
+            "server": "37.139.35.53",
+            "server_port": 8443,
+            "uuid": "c501c66b-c6c2-456b-b604-80393b83d67f",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "miui.com",
+                "server_name": "sso.passport.yandex.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -434,22 +436,49 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw",
-                    "short_id": ""
+                    "public_key": "oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI",
+                    "short_id": "77cf23bd7f73c97a"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "UpdateService"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+            "type": "vless",
+            "server": "103.231.75.185",
+            "server_port": 443,
+            "uuid": "f078abea-a480-44c7-a785-4436c767835a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U",
+                    "short_id": "0bce"
                 }
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
             "type": "vless",
-            "server": "152.53.46.200",
-            "server_port": 443,
-            "uuid": "eb071647-72a6-46be-8e89-ff3d228d52f6",
+            "server": "51.158.206.80",
+            "server_port": 23576,
+            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "at.jojack.ru",
+                "server_name": "fuck.rkn",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -457,8 +486,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA",
-                    "short_id": "8dc4fccb2bcfc99d"
+                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
+                    "short_id": "01"
                 }
             }
         }

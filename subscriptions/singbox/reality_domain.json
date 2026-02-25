@@ -100,6 +100,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
@@ -120,6 +121,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
@@ -392,25 +394,48 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
-            "server": "fr.apikeder.ir.onvanet.com",
-            "server_port": 8952,
-            "uuid": "dc01db14-47ea-4354-a7fb-87fd6559ac5e",
+            "server": "4.cdnconn.com",
+            "server_port": 23335,
+            "uuid": "e384913f-8863-47b4-8858-a84b68abb4a6",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "play.google.com",
+                "server_name": "icloud.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "qq"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "R_OoHDE8DiBiroU4UrI-V5d8Dr42QgU2mlKKjpMSSBg",
-                    "short_id": "d3650411ff51ef76"
+                    "public_key": "7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik",
+                    "short_id": "67b1e94e4dd1ef90"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+            "type": "vless",
+            "server": "5.cdnconn.com",
+            "server_port": 23335,
+            "uuid": "e384913f-8863-47b4-8858-a84b68abb4a6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "icloud.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "edge"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik",
+                    "short_id": ""
                 }
             }
         },
