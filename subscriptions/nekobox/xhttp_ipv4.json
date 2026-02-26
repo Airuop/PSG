@@ -82,7 +82,8 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -95,7 +96,8 @@
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]"
+                "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [18]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -209,6 +211,24 @@
             "server": "130.162.197.41",
             "server_port": 21051,
             "password": "bUlYzLSY7D"
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [18]",
+            "type": "vless",
+            "server": "140.248.141.123",
+            "server_port": 443,
+            "uuid": "4fba7439-6209-4e62-b8df-dd2bdc222ef5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         }
     ],
     "route": {
