@@ -139,19 +139,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [17]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [18]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -226,19 +217,10 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [17]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [18]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
@@ -1623,50 +1605,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-            "type": "vless",
-            "server": "DE.IPCL0UD.COM",
-            "server_port": 443,
-            "uuid": "0dba6aad-3dc4-4ef6-acee-59c31271bf01",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "DE.IPCL0UD.COM",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
-            "type": "vless",
-            "server": "f1.springpaatogh8.store",
-            "server_port": 8443,
-            "uuid": "15a8a868-ddd3-4a8c-bf7a-bb81671bf157",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "digikala.sorza.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560/PuLaFreeBOT/Telegram/PuLaVPN/Telegram/PuLaVPN/Telegram/PuLaVPN",
-                "headers": {
-                    "Host": "digikala.sorza.ir"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "4.cdnconn.com",
             "server_port": 23335,
@@ -1679,7 +1618,7 @@
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "qq"
                 },
                 "reality": {
                     "enabled": true,
@@ -1689,77 +1628,11 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
-            "type": "vless",
-            "server": "abc-shalvar.global.ssl.fastly.net",
-            "server_port": 443,
-            "uuid": "3b8bf200-6f1b-4879-b526-c93931b6566c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "abc-shalvar.global.ssl.fastly.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/containers/fi",
-                "headers": {
-                    "Host": "abc-shalvar.global.ssl.fastly.net"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "faresolarab.global.ssl.fastly.net",
-            "server_port": 443,
-            "uuid": "3b8bf200-6f1b-4879-b526-c93931b6566c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "faresolarab.global.ssl.fastly.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/containers/fi",
-                "headers": {
-                    "Host": "faresolarab.global.ssl.fastly.net"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
-            "type": "vless",
-            "server": "u11-unlim.standalonemsnew.cam",
-            "server_port": 88,
-            "uuid": "16ca4f6f-b540-691b-579a-ceb710a5eb7d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "u11-unlim.standalonemsnew.cam"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "luna3.moftping.com",
             "server_port": 8080,
-            "uuid": "82423e5b-3ea5-4922-bbd5-e47573da5ebf",
+            "uuid": "4d91db96-2e34-410d-930b-8454d2347ada",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
@@ -1771,58 +1644,43 @@
             }
         },
         {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "mci.p4rsw.shop",
+            "server_port": 40388,
+            "uuid": "7f878543-f241-4ea6-9c44-e5371003d00d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BFlebr-dh-6PaCE3bUxqURtMyeHxtGxyGopn3cYL2Cc",
+                    "short_id": "39"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
             "type": "vless",
-            "server": "sv2n.tsteamzd.top",
-            "server_port": 10002,
-            "uuid": "9d297e31-e65d-45d7-8362-8c4bd3bf8b2a",
+            "server": "luna3.moftping.com",
+            "server_port": 8080,
+            "uuid": "5f6cdece-55ac-41fb-9d99-a6561c927622",
             "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
-            "type": "vless",
-            "server": "sv7n.tsteamzd.top",
-            "server_port": 10007,
-            "uuid": "9d297e31-e65d-45d7-8362-8c4bd3bf8b2a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
-            "type": "vless",
-            "server": "sv4n.tsteamzd.top",
-            "server_port": 10004,
-            "uuid": "9d297e31-e65d-45d7-8362-8c4bd3bf8b2a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
-            "type": "vless",
-            "server": "sv6n.tsteamzd.top",
-            "server_port": 10006,
-            "uuid": "9d297e31-e65d-45d7-8362-8c4bd3bf8b2a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [17]",
-            "type": "vless",
-            "server": "sv5n.tsteamzd.top",
-            "server_port": 10005,
-            "uuid": "9d297e31-e65d-45d7-8362-8c4bd3bf8b2a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [18]",
-            "type": "vless",
-            "server": "sv3n.tsteamzd.top",
-            "server_port": 10003,
-            "uuid": "9d297e31-e65d-45d7-8362-8c4bd3bf8b2a",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "luna3.moftping.com"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [1]",

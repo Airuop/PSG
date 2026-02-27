@@ -100,7 +100,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "proxy",
@@ -120,7 +121,8 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]"
             ],
             "tag": "auto",
@@ -392,7 +394,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "4.cdnconn.com",
             "server_port": 23335,
@@ -405,12 +407,35 @@
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "qq"
                 },
                 "reality": {
                     "enabled": true,
                     "public_key": "7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik",
                     "short_id": "67b1e94e4dd1ef90"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "type": "vless",
+            "server": "mci.p4rsw.shop",
+            "server_port": 40388,
+            "uuid": "7f878543-f241-4ea6-9c44-e5371003d00d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BFlebr-dh-6PaCE3bUxqURtMyeHxtGxyGopn3cYL2Cc",
+                    "short_id": "39"
                 }
             }
         },
