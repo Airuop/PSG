@@ -93,13 +93,13 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [2]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,13 +111,13 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [8]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [5]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇦🇺 AU | 🔒 TROJAN | @spikevpn [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [4]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [2]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -213,7 +213,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "file.data-recive.ir",
             "server_port": 2096,
@@ -231,7 +231,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "a.pabloping.cloud",
             "server_port": 2052,
@@ -274,7 +274,7 @@
             "password": "bUlYzLSY7D"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "45.130.125.160",
             "server_port": 2096,
