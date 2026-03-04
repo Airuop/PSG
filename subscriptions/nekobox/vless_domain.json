@@ -130,7 +130,6 @@
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [18]",
                 "❔ XX | 🔒 VLESS | @v2rayngc [19]",
-                "❔ XX | 🔓 VLESS | @v_2rayngvpn [1]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
@@ -208,7 +207,6 @@
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [18]",
                 "❔ XX | 🔒 VLESS | @v2rayngc [19]",
-                "❔ XX | 🔓 VLESS | @v_2rayngvpn [1]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
@@ -1401,22 +1399,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "telegram-falcunargo-emiratess.falcunar.asso.eu.org"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @v_2rayngvpn [1]",
-            "type": "vless",
-            "server": "opv2raybot1.v2moxbot.store",
-            "server_port": 2052,
-            "uuid": "1c607eb9-ccc8-4405-b19c-a9b06d7baee2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "opv2raybot1.v2moxbot.store"
                 }
             }
         },
