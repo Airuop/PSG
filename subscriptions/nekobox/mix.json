@@ -172,10 +172,10 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [4]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [5]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [10]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [1]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [2]",
@@ -195,8 +195,8 @@
                 "❔ XX | 🔒 VLESS | @v2rayng_o [5]",
                 "❔ XX | 🔒 VLESS | @v2rayng_o [6]",
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
-                "🇩🇪 DE | 🔓 VMESS | @v2rayngc [5]",
-                "🇭🇰 HK | 🔓 VMESS | @v2rayngc [6]",
+                "❔ XX | 🔓 VMESS | @v2rayngc [5]",
+                "❔ XX | 🔓 VMESS | @v2rayngc [6]",
                 "❔ XX | 🔓 VMESS | @v2rayngc [7]",
                 "❔ XX | 🔓 VMESS | @v2rayngc [8]",
                 "❔ XX | 🔒 VMESS | @v2rayngc [9]",
@@ -342,10 +342,10 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [4]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [5]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [10]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
                 "🚩 CF | 🔓 VLESS | @spikevpn [1]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [2]",
@@ -365,8 +365,8 @@
                 "❔ XX | 🔒 VLESS | @v2rayng_o [5]",
                 "❔ XX | 🔒 VLESS | @v2rayng_o [6]",
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
-                "🇩🇪 DE | 🔓 VMESS | @v2rayngc [5]",
-                "🇭🇰 HK | 🔓 VMESS | @v2rayngc [6]",
+                "❔ XX | 🔓 VMESS | @v2rayngc [5]",
+                "❔ XX | 🔓 VMESS | @v2rayngc [6]",
                 "❔ XX | 🔓 VMESS | @v2rayngc [7]",
                 "❔ XX | 🔓 VMESS | @v2rayngc [8]",
                 "❔ XX | 🔒 VMESS | @v2rayngc [9]",
@@ -1810,21 +1810,13 @@
         {
             "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]",
             "type": "shadowsocks",
-            "server": "104.192.227.162",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "OOW2Gsrw5j88W6FALhU5Ob"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [7]",
-            "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "qpiVe47j5jfBbuY5MLngKF"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [8]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [7]",
             "type": "shadowsocks",
             "server": "104.192.227.162",
             "server_port": 443,
@@ -1832,7 +1824,7 @@
             "password": "bOd7DQDeqljHjnrROzyZlg"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [9]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [8]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
@@ -1840,7 +1832,7 @@
             "password": "HqDdEKe1CbcHYItLWTto7t"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [10]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [9]",
             "type": "shadowsocks",
             "server": "104.192.227.162",
             "server_port": 443,
@@ -1848,7 +1840,7 @@
             "password": "E2X9Vki8bFLt5zrJD2cTCN"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [11]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [10]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
@@ -1856,7 +1848,7 @@
             "password": "M4oXbS60U6aa0ehahIzoek"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [12]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [11]",
             "type": "shadowsocks",
             "server": "104.192.227.162",
             "server_port": 443,
@@ -1864,7 +1856,7 @@
             "password": "w2ETrswx8YaujjETBIn2Ru"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [13]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [12]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
@@ -1872,7 +1864,7 @@
             "password": "bKyFrZwmLaWCMWm0qhKdsF"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [14]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [13]",
             "type": "shadowsocks",
             "server": "104.192.227.162",
             "server_port": 443,
@@ -1880,7 +1872,7 @@
             "password": "TXBPwJq8N14lYjWad925hI"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [15]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [14]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
@@ -1888,7 +1880,7 @@
             "password": "bNG1GuIRwy1ThgksYLZTDb"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [16]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [15]",
             "type": "shadowsocks",
             "server": "104.192.227.162",
             "server_port": 443,
@@ -1896,7 +1888,7 @@
             "password": "7GOJ6EmxZ6eKMZ776t4Miq"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [17]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [16]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
@@ -1904,7 +1896,7 @@
             "password": "ky8UixYYlh3UDh10WMdPQt"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [18]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [17]",
             "type": "shadowsocks",
             "server": "104.192.227.162",
             "server_port": 443,
@@ -1912,7 +1904,7 @@
             "password": "l9Pi7r4m8PHQHrUbCXEKyF"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [19]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [18]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
@@ -1920,12 +1912,20 @@
             "password": "tPzJCw1p7YDI1OnXGB62xD"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [20]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [19]",
             "type": "shadowsocks",
             "server": "104.192.227.162",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "C0J3xqpOzXsMhKoMRTVpcw"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [20]",
+            "type": "shadowsocks",
+            "server": "216.105.168.18",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "8WfGh2dlnWCqgkvlOTkvxV"
         },
         {
             "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
@@ -2074,7 +2074,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
             "type": "vless",
             "server": "lessless.duckdns.org",
             "server_port": 443,
@@ -2099,7 +2099,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
             "type": "vless",
             "server": "lessless.duckdns.org",
             "server_port": 443,
@@ -2149,7 +2149,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [10]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
             "type": "vless",
             "server": "torless.duckdns.org",
             "server_port": 443,
@@ -2588,7 +2588,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VMESS | @v2rayngc [5]",
+            "tag": "❔ XX | 🔓 VMESS | @v2rayngc [5]",
             "type": "vmess",
             "server": "5.75.187.85",
             "server_port": 80,
@@ -2604,7 +2604,7 @@
             }
         },
         {
-            "tag": "🇭🇰 HK | 🔓 VMESS | @v2rayngc [6]",
+            "tag": "❔ XX | 🔓 VMESS | @v2rayngc [6]",
             "type": "vmess",
             "server": "47.243.200.183",
             "server_port": 40128,
