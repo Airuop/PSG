@@ -133,9 +133,11 @@
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [2]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
@@ -211,9 +213,11 @@
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [2]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
@@ -1474,7 +1478,53 @@
             }
         },
         {
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
+            "type": "vless",
+            "server": "ARM.SIGMA-HOSTER.COM",
+            "server_port": 443,
+            "uuid": "fb707a09-7dd8-417f-9d9a-2e61d56995cb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "app.hubspot.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
+                    "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
+            "type": "vless",
+            "server": "ARM.CROCODILESERVER.IR",
+            "server_port": 443,
+            "uuid": "32932937-b85f-40be-ae02-997ea5b0b62a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "app.hubspot.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
+                    "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -1497,7 +1547,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -1520,7 +1570,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
