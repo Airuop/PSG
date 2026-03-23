@@ -140,14 +140,14 @@
                 "❔ XX | 🔓 VLESS | @v2rayngc [17]",
                 "❔ XX | 🔒 VLESS | @v_2rayngvpn [1]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [2]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "proxy",
@@ -207,14 +207,14 @@
                 "❔ XX | 🔓 VLESS | @v2rayngc [17]",
                 "❔ XX | 🔒 VLESS | @v_2rayngvpn [1]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [1]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [2]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "auto",
@@ -1219,30 +1219,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [1]",
-            "type": "vless",
-            "server": "193.105.234.79",
-            "server_port": 53078,
-            "uuid": "3af9ac85-698f-40ea-9299-0d0a2b9892b3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "DWIxFfubR8oYGndkblt8lstp8KXSvkV4GpGE9dVhBgY",
-                    "short_id": "faf47cb4b85463"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "45.130.125.160",
             "server_port": 2096,
@@ -1260,7 +1237,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "5.255.114.61",
             "server_port": 2083,
@@ -1285,7 +1262,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "109.120.188.156",
             "server_port": 443,
@@ -1308,7 +1285,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [10]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "185.147.26.21",
             "server_port": 23335,
@@ -1331,7 +1308,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [11]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "212.108.98.240",
             "server_port": 2096,
@@ -1340,7 +1317,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "5.180.82.155",
             "server_port": 8080,
@@ -1363,7 +1340,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [14]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
             "server": "172.64.153.22",
             "server_port": 8443,
@@ -1384,6 +1361,29 @@
                 "path": "/?ed=2560",
                 "headers": {
                     "Host": "egaxhxw0p031z8iyfgjt9fyhhb1hwj4vr3gn0xoxqu901o8ruij.zjde5.de5.net"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "84.54.48.210",
+            "server_port": 443,
+            "uuid": "22fc4701-8c86-4d4f-a858-8f5921d83977",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "deepl.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LhjLy9DWO6RY22K9aaZAzuaR2utp2orv8GM9Y8dWGSE",
+                    "short_id": "15affa0af66dfc79"
                 }
             }
         },
