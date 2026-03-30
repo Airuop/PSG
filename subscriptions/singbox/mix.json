@@ -236,17 +236,17 @@
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [11]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔓 VMESS | @xsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
@@ -408,17 +408,17 @@
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [11]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
                 "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
                 "❔ XX | 🔓 VLESS | @xsv2ray [1]",
                 "❔ XX | 🔓 VMESS | @xsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @xsv2ray [3]",
@@ -3092,24 +3092,6 @@
         {
             "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
-            "server": "45.130.125.160",
-            "server_port": 2096,
-            "uuid": "a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sub-13wl9jvfag-mihansa2.data-recive.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
-            "type": "vless",
             "server": "file.data-recive.ir",
             "server_port": 2096,
             "uuid": "a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0",
@@ -3126,7 +3108,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "ae.cdn.stun.su",
             "server_port": 443,
@@ -3149,7 +3131,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "5.255.114.61",
             "server_port": 2083,
@@ -3174,7 +3156,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "109.120.188.156",
             "server_port": 443,
@@ -3197,7 +3179,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "cosmin.ns.cloudflare.com",
             "server_port": 2096,
@@ -3222,7 +3204,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [7]",
             "type": "vless",
             "server": "a.pabloping.cloud",
             "server_port": 2052,
@@ -3231,7 +3213,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [8]",
             "type": "vless",
             "server": "185.147.26.21",
             "server_port": 23335,
@@ -3254,7 +3236,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "212.108.98.240",
             "server_port": 2096,
@@ -3263,7 +3245,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [11]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [10]",
             "type": "vless",
             "server": "grok.com",
             "server_port": 2083,
@@ -3285,7 +3267,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "5.180.82.155",
             "server_port": 8080,
@@ -3308,7 +3290,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [13]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
             "type": "vless",
             "server": "172.64.153.22",
             "server_port": 8443,
@@ -3333,7 +3315,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [14]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [13]",
             "type": "vless",
             "server": "khaneh.berozsho.click",
             "server_port": 443,
@@ -3351,7 +3333,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
             "type": "vless",
             "server": "84.54.48.210",
             "server_port": 443,
@@ -3374,7 +3356,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [16]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [15]",
             "type": "vless",
             "server": "mv2.amydoodles.com",
             "server_port": 443,
@@ -3390,6 +3372,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
+            "type": "vless",
+            "server": "94.182.145.78",
+            "server_port": 60001,
+            "uuid": "1ad2695a-4bd9-4c88-8b19-ed60ff3c2192",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @xsv2ray [1]",
