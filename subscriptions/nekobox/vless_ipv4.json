@@ -135,8 +135,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
                 "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [14]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [6]"
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -202,8 +202,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [11]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [12]",
                 "🇦🇱 AL | 🔒 VLESS | @vpnplusee_free [14]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [6]"
+                "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [16]",
+                "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1362,7 +1362,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @vpnplusee_free [16]",
             "type": "vless",
             "server": "94.182.145.78",
             "server_port": 60001,
@@ -1371,7 +1371,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @xsv2ray [6]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @xsv2ray [6]",
             "type": "vless",
             "server": "81.12.96.39",
             "server_port": 22631,
