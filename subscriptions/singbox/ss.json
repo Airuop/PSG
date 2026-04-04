@@ -100,8 +100,7 @@
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [3]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [4]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [5]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [7]"
+                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -120,8 +119,7 @@
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [3]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [4]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [5]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [7]"
+                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -234,21 +232,13 @@
         {
             "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [1]",
             "type": "shadowsocks",
-            "server": "216.105.168.18",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ZomAz8uoAfKxHw0oAII6yn"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [2]",
-            "type": "shadowsocks",
             "server": "104.192.227.163",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "otYwNZW2DrrM9XoCXGt3Eh"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [3]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [2]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
@@ -256,7 +246,7 @@
             "password": "vZSjXaSIgLftIH58e2Nmeg"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [4]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [3]",
             "type": "shadowsocks",
             "server": "104.192.227.163",
             "server_port": 443,
@@ -264,7 +254,7 @@
             "password": "PDlCpTqmKGnjGsO63AUbh8"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [5]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [4]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
@@ -272,7 +262,7 @@
             "password": "hCCWOcIsK5wrFz4OX70rWf"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [5]",
             "type": "shadowsocks",
             "server": "104.192.227.163",
             "server_port": 443,
@@ -280,7 +270,7 @@
             "password": "NeORiiA1d3vHdXsfPV37Lr"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [7]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [6]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
