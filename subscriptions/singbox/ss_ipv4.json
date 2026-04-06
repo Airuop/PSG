@@ -95,8 +95,7 @@
                 "🇬🇧 GB | 🔒 SS | @megavpn_link [12]",
                 "🇬🇧 GB | 🔒 SS | @mrclud [25]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [1]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [2]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [3]"
+                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [2]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,8 +109,7 @@
                 "🇬🇧 GB | 🔒 SS | @megavpn_link [12]",
                 "🇬🇧 GB | 🔒 SS | @mrclud [25]",
                 "🇺🇸 US | 🔒 SS | @outlinevpn_ru [1]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [2]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [3]"
+                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [2]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -216,21 +214,13 @@
         {
             "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [1]",
             "type": "shadowsocks",
-            "server": "216.105.168.18",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hCCWOcIsK5wrFz4OX70rWf"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [2]",
-            "type": "shadowsocks",
             "server": "104.192.227.163",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "NeORiiA1d3vHdXsfPV37Lr"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [3]",
+            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [2]",
             "type": "shadowsocks",
             "server": "216.105.168.18",
             "server_port": 443,
