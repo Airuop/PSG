@@ -82,8 +82,7 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @megavpn_link [5]",
                 "🇬🇧 GB | 🔒 SS | @megavpn_link [12]",
-                "🇬🇧 GB | 🔒 SS | @mrclud [25]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [1]"
+                "🇬🇧 GB | 🔒 SS | @mrclud [25]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -96,8 +95,7 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @megavpn_link [5]",
                 "🇬🇧 GB | 🔒 SS | @megavpn_link [12]",
-                "🇬🇧 GB | 🔒 SS | @mrclud [25]",
-                "🇺🇸 US | 🔒 SS | @outlinevpn_ru [1]"
+                "🇬🇧 GB | 🔒 SS | @mrclud [25]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -210,14 +208,6 @@
             "server_port": 49499,
             "method": "chacha20-ietf-poly1305",
             "password": "kTjlLxrncKx4i2HIjxfA3M"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @outlinevpn_ru [1]",
-            "type": "shadowsocks",
-            "server": "216.105.168.18",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "bQZl7HDxSabr1FurTYQHFU"
         }
     ],
     "route": {
