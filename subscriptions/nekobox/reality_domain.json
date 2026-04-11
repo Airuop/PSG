@@ -87,8 +87,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @xsv2ray [7]"
+                "❔ XX | 🔒 VLESS | @vpn_accounti [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,8 +105,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "❔ XX | 🔒 VLESS | @xsv2ray [7]"
+                "❔ XX | 🔒 VLESS | @vpn_accounti [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -378,29 +376,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @xsv2ray [7]",
-            "type": "vless",
-            "server": "cvvmtfin.fekoli.com",
-            "server_port": 2095,
-            "uuid": "Anty_Vpn-Anty_Vpn-Anty_Vpn",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M",
-                    "short_id": "f2"
                 }
             }
         }

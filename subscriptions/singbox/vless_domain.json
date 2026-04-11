@@ -150,18 +150,13 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [1]",
-                "❔ XX | 🔒 VLESS | @xsv2ray [3]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [5]",
-                "❔ XX | 🔒 VLESS | @xsv2ray [7]",
-                "🚩 CF | 🔒 VLESS | @xsv2ray [8]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -230,18 +225,13 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [1]",
-                "❔ XX | 🔒 VLESS | @xsv2ray [3]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [5]",
-                "❔ XX | 🔒 VLESS | @xsv2ray [7]",
-                "🚩 CF | 🔒 VLESS | @xsv2ray [8]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1601,7 +1591,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "cosmin.ns.cloudflare.com",
             "server_port": 2096,
@@ -1626,7 +1616,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [4]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "a.pabloping.cloud",
             "server_port": 2052,
@@ -1635,7 +1625,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "grok.com",
             "server_port": 2083,
@@ -1657,7 +1647,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [10]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [9]",
             "type": "vless",
             "server": "khaneh.berozsho.click",
             "server_port": 443,
@@ -1675,7 +1665,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [12]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "mv2.amydoodles.com",
             "server_port": 443,
@@ -1693,7 +1683,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [14]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [13]",
             "type": "vless",
             "server": "new.sordo.store",
             "server_port": 443,
@@ -1718,104 +1708,13 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [16]",
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [15]",
             "type": "vless",
             "server": "final.usdtbama.com",
             "server_port": 8443,
             "uuid": "45963c75-f9d2-4c90-93b2-20e6188f9873",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @xsv2ray [1]",
-            "type": "vless",
-            "server": "video-streaming.comtent-delivery.poshtibani.4b3a.com",
-            "server_port": 23410,
-            "uuid": "9718b260-03c9-4313-af0f-d08a0b5c859e",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @xsv2ray [3]",
-            "type": "vless",
-            "server": "nv73.momdping.com",
-            "server_port": 443,
-            "uuid": "959eb33c-43f8-4f45-9de6-3ffd13319a79",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "nv73.momdping.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "nv73.momdping.com"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
-            "type": "vless",
-            "server": "fast-01.saitsazs.ir",
-            "server_port": 80,
-            "uuid": "34a4cfb4-8b42-42ba-b087-6a338c2b3b4a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @xsv2ray [7]",
-            "type": "vless",
-            "server": "cvvmtfin.fekoli.com",
-            "server_port": 2095,
-            "uuid": "Anty_Vpn-Anty_Vpn-Anty_Vpn",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M",
-                    "short_id": "f2"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @xsv2ray [8]",
-            "type": "vless",
-            "server": "chatgpt.com",
-            "server_port": 443,
-            "uuid": "27bbde38-b656-439c-8f26-7868189bf0ec",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "dgf.addressprovider.lat",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "dgf.addressprovider.lat"
-                }
-            }
         }
     ],
     "route": {
