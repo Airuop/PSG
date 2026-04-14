@@ -92,7 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
+                "🚩 CF | 🔒 TROJAN | @vpn_accounti [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -103,7 +104,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
+                "🚩 CF | 🔒 TROJAN | @vpn_accounti [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -207,6 +209,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "iraniV2ray"
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @vpn_accounti [6]",
+            "type": "trojan",
+            "server": "104.16.80.73",
+            "server_port": 8443,
+            "password": "m4P3RHFI7K",
+            "tls": {
+                "enabled": true,
+                "server_name": "f3.zero-trust.click",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tr",
+                "headers": {
+                    "Host": "f3.zero-trust.click"
+                }
             }
         }
     ],
