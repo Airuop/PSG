@@ -148,7 +148,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [1]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -215,7 +215,7 @@
                 "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
-                "❔ XX | 🔓 VLESS | @vpnplusee_free [1]"
+                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1529,13 +1529,29 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [1]",
+            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
             "type": "vless",
-            "server": "final.usdtbama.com",
-            "server_port": 8443,
-            "uuid": "45963c75-f9d2-4c90-93b2-20e6188f9873",
+            "server": "glob.thisiswe.uno",
+            "server_port": 2053,
+            "uuid": "ee9b0614-50ec-41b6-951b-e1d5d755fa4b",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "p1.thisiswe.uno",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "p1.thisiswe.uno"
+                }
+            }
         }
     ],
     "route": {

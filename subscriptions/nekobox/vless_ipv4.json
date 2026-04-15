@@ -130,12 +130,13 @@
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
                 "🚩 CF | 🔒 VLESS | @vpn_accounti [8]",
                 "🚩 CF | 🔓 VLESS | @vpn_accounti [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -196,12 +197,13 @@
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
                 "🚩 CF | 🔒 VLESS | @vpn_accounti [8]",
                 "🚩 CF | 🔓 VLESS | @vpn_accounti [9]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]"
+                "❔ XX | 🔓 VLESS | @vpnplusee_free [8]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1250,7 +1252,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "104.17.72.206",
             "server_port": 443,
@@ -1275,7 +1277,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "188.114.98.0",
             "server_port": 443,
@@ -1300,7 +1302,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "172.64.149.54",
             "server_port": 2053,
@@ -1325,7 +1327,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [5]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "104.18.16.56",
             "server_port": 8080,
@@ -1341,7 +1343,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "172.64.152.23",
             "server_port": 443,
@@ -1366,7 +1368,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [7]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "172.64.152.23",
             "server_port": 8443,
@@ -1389,6 +1391,15 @@
                     "Host": "line.smartphone1.top"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @vpnplusee_free [8]",
+            "type": "vless",
+            "server": "94.183.149.237",
+            "server_port": 8080,
+            "uuid": "ea6d8aae-4ccb-4f9a-afdc-1abf53860930",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
