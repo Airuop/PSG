@@ -141,14 +141,13 @@
                 "❔ XX | 🔒 VLESS | @v2rayng_o [6]",
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [18]",
-                "❔ XX | 🔒 VLESS | @v2rayngc [19]",
+                "🇮🇷 IR | 🔒 VLESS | @v2rayngc [19]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
-                "❔ XX | 🔒 VLESS | @vboxpanel [3]",
+                "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]"
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -208,14 +207,13 @@
                 "❔ XX | 🔒 VLESS | @v2rayng_o [6]",
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [18]",
-                "❔ XX | 🔒 VLESS | @v2rayngc [19]",
+                "🇮🇷 IR | 🔒 VLESS | @v2rayngc [19]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
-                "❔ XX | 🔒 VLESS | @vboxpanel [3]",
+                "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
-                "❔ XX | 🔒 VLESS | @vpnplusee_free [9]"
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1366,7 +1364,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @v2rayngc [19]",
+            "tag": "🇮🇷 IR | 🔒 VLESS | @v2rayngc [19]",
             "type": "vless",
             "server": "avval.ir",
             "server_port": 2096,
@@ -1413,7 +1411,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vboxpanel [3]",
+            "tag": "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
             "type": "vless",
             "server": "ejoin-to.outline-vpn.cloud",
             "server_port": 443,
@@ -1460,7 +1458,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -1483,7 +1481,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -1506,7 +1504,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
@@ -1525,31 +1523,6 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @vpnplusee_free [9]",
-            "type": "vless",
-            "server": "glob.thisiswe.uno",
-            "server_port": 2053,
-            "uuid": "ee9b0614-50ec-41b6-951b-e1d5d755fa4b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "p1.thisiswe.uno",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "p1.thisiswe.uno"
                 }
             }
         }
