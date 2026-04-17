@@ -131,9 +131,11 @@
                 "🚩 CF | 🔒 VLESS | @vpn_accounti [8]",
                 "🚩 CF | 🔓 VLESS | @vpn_accounti [9]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @NamiraConfigs [61]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
@@ -169,8 +171,8 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [4]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [5]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
-                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
-                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
+                "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
+                "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
@@ -251,9 +253,11 @@
                 "🚩 CF | 🔒 VLESS | @vpn_accounti [8]",
                 "🚩 CF | 🔓 VLESS | @vpn_accounti [9]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @NamiraConfigs [61]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
@@ -289,8 +293,8 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [4]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [5]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
-                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
-                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
+                "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
+                "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
@@ -1360,6 +1364,56 @@
         {
             "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
             "type": "vless",
+            "server": "104.17.72.206",
+            "server_port": 443,
+            "uuid": "06ef598c-1555-4887-b3f9-08214a2f6792",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "2026.hhhhh.eu.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/222.167.202.31:7443",
+                "headers": {
+                    "Host": "2026.hhhhh.eu.org"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
+            "type": "vless",
+            "server": "188.114.98.0",
+            "server_port": 443,
+            "uuid": "2247d5b9-570c-477a-9191-350f6025cb38",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cloud.endlessteam.site",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "cloud.endlessteam.site"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
+            "type": "vless",
             "server": "172.64.149.54",
             "server_port": 2053,
             "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
@@ -1383,7 +1437,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [4]",
             "type": "vless",
             "server": "104.18.16.56",
             "server_port": 8080,
@@ -1399,7 +1453,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [5]",
             "type": "vless",
             "server": "172.64.152.23",
             "server_port": 443,
@@ -1424,7 +1478,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "172.64.152.23",
             "server_port": 8443,
@@ -2181,7 +2235,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
+            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
             "type": "vless",
             "server": "lessless.duckdns.org",
             "server_port": 443,
@@ -2206,7 +2260,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
+            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
             "type": "vless",
             "server": "lessless.duckdns.org",
             "server_port": 443,
