@@ -123,7 +123,7 @@ proxies:
   - {"name":"🇺🇸 US | 🔓 VLESS | @starv2rayn [11]","type":"vless","server":"151.101.0.0","port":80,"uuid":"cefffd1d-cc58-4560-b4d1-44f1af528f30","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/?ed=2048","headers":{"Host":"fraud.chase"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @starv2rayn [12]","type":"vless","server":"104.21.19.124","port":8880,"uuid":"df0fb350-e753-41f5-99be-524c40741805","tls":false,"network":"httpupgrade","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔒 VLESS | @v2rayng_o [2]","type":"vless","server":"mci.anahid.beauty","port":2096,"uuid":"54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ger.vwfghin.info","ws-opts":{"path":"/@V2ray_vpn_ir","headers":{"Host":"ger.vwfghin.info"}}}
-  - {"name":"🇨🇾 CY | 🔒 VLESS | @v2rayng_o [3]","type":"vless","server":"ir8.birdfly.site","port":2096,"uuid":"54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ger.vwfghin.info","ws-opts":{"path":"/@V2ray_vpn_ir","headers":{"Host":"ger.vwfghin.info"}}}
+  - {"name":"❔ XX | 🔒 VLESS | @v2rayng_o [3]","type":"vless","server":"ir8.birdfly.site","port":2096,"uuid":"54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ger.vwfghin.info","ws-opts":{"path":"/@V2ray_vpn_ir","headers":{"Host":"ger.vwfghin.info"}}}
   - {"name":"❔ XX | 🔒 VLESS | @v2rayng_o [4]","type":"vless","server":"mtn.anahid.beauty","port":2096,"uuid":"54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ger.vwfghin.info","ws-opts":{"path":"/@V2ray_vpn_ir","headers":{"Host":"ger.vwfghin.info"}}}
   - {"name":"❔ XX | 🔒 VLESS | @v2rayng_o [5]","type":"vless","server":"amtnx.black-diamond.online","port":2096,"uuid":"54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ger.vwfghin.info","ws-opts":{"path":"/@V2ray_vpn_ir","headers":{"Host":"ger.vwfghin.info"}}}
   - {"name":"❔ XX | 🔒 VLESS | @v2rayng_o [6]","type":"vless","server":"maz.maznet.cfd","port":2083,"uuid":"d465920c-7be3-4f6a-9d78-c4fd87dd7c68","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"join20.maznet.cfd.","ws-opts":{"path":"/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet","headers":{"Host":"join20.maznet.cfd."}}}
@@ -275,7 +275,7 @@ proxy-groups:
       - '🇺🇸 US | 🔓 VLESS | @starv2rayn [11]'
       - '🚩 CF | 🔓 VLESS | @starv2rayn [12]'
       - '❔ XX | 🔒 VLESS | @v2rayng_o [2]'
-      - '🇨🇾 CY | 🔒 VLESS | @v2rayng_o [3]'
+      - '❔ XX | 🔒 VLESS | @v2rayng_o [3]'
       - '❔ XX | 🔒 VLESS | @v2rayng_o [4]'
       - '❔ XX | 🔒 VLESS | @v2rayng_o [5]'
       - '❔ XX | 🔒 VLESS | @v2rayng_o [6]'
