@@ -101,14 +101,12 @@
                 "❔ XX | 🔒 VLESS | @iraniv2ray [7]",
                 "🇨🇾 CY | 🔓 VLESS | @lakvpn1 [6]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
-                "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔓 VLESS | @megavpn_link [3]",
-                "❔ XX | 🔒 VLESS | @megavpn_link [6]",
-                "🇮🇷 IR | 🔓 VLESS | @megavpn_link [7]",
+                "❔ XX | 🔒 VLESS | @megavpn_link [3]",
+                "🇮🇷 IR | 🔓 VLESS | @megavpn_link [4]",
+                "❔ XX | 🔓 VLESS | @megavpn_link [5]",
+                "🇺🇸 US | 🔓 VLESS | @megavpn_link [6]",
+                "❔ XX | 🔒 VLESS | @megavpn_link [7]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [8]",
-                "🇺🇸 US | 🔓 VLESS | @megavpn_link [9]",
-                "❔ XX | 🔒 VLESS | @megavpn_link [10]",
-                "❔ XX | 🔓 VLESS | @megavpn_link [11]",
                 "🇮🇷 IR | 🔒 VLESS | @mrclud [16]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -174,14 +172,12 @@
                 "❔ XX | 🔒 VLESS | @iraniv2ray [7]",
                 "🇨🇾 CY | 🔓 VLESS | @lakvpn1 [6]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
-                "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔓 VLESS | @megavpn_link [3]",
-                "❔ XX | 🔒 VLESS | @megavpn_link [6]",
-                "🇮🇷 IR | 🔓 VLESS | @megavpn_link [7]",
+                "❔ XX | 🔒 VLESS | @megavpn_link [3]",
+                "🇮🇷 IR | 🔓 VLESS | @megavpn_link [4]",
+                "❔ XX | 🔓 VLESS | @megavpn_link [5]",
+                "🇺🇸 US | 🔓 VLESS | @megavpn_link [6]",
+                "❔ XX | 🔒 VLESS | @megavpn_link [7]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [8]",
-                "🇺🇸 US | 🔓 VLESS | @megavpn_link [9]",
-                "❔ XX | 🔒 VLESS | @megavpn_link [10]",
-                "❔ XX | 🔓 VLESS | @megavpn_link [11]",
                 "🇮🇷 IR | 🔒 VLESS | @mrclud [16]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -772,32 +768,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-            "type": "vless",
-            "server": "fast.peace.lemoex.blog",
-            "server_port": 80,
-            "uuid": "489ed7c4-103d-46a9-9a3e-370e0af56976",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @megavpn_link [3]",
-            "type": "vless",
-            "server": "shard3fobon.maniyadg7shard.ir",
-            "server_port": 80,
-            "uuid": "739e822a-a8d3-4bc2-ba0e-2a948a269ec0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/shard9promax?ed=2048",
-                "headers": {
-                    "Host": "shard3fobon.maniyadg7shard.ir"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @megavpn_link [6]",
+            "tag": "❔ XX | 🔒 VLESS | @megavpn_link [3]",
             "type": "vless",
             "server": "all32-vip.f-sub.com",
             "server_port": 2434,
@@ -820,7 +791,7 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @megavpn_link [7]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @megavpn_link [4]",
             "type": "vless",
             "server": "am.citymobileshop.top",
             "server_port": 1433,
@@ -836,7 +807,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @megavpn_link [8]",
+            "tag": "❔ XX | 🔓 VLESS | @megavpn_link [5]",
             "type": "vless",
             "server": "power.teampluss.ir",
             "server_port": 80,
@@ -852,7 +823,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @megavpn_link [9]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @megavpn_link [6]",
             "type": "vless",
             "server": "iri.punezism.top",
             "server_port": 33438,
@@ -861,7 +832,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @megavpn_link [10]",
+            "tag": "❔ XX | 🔒 VLESS | @megavpn_link [7]",
             "type": "vless",
             "server": "cleanv2itech1.freesdns.info",
             "server_port": 443,
@@ -886,7 +857,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @megavpn_link [11]",
+            "tag": "❔ XX | 🔓 VLESS | @megavpn_link [8]",
             "type": "vless",
             "server": "i.ownlink.pro",
             "server_port": 28570,
