@@ -80,12 +80,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @megavpn_link [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [4]"
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -96,12 +95,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 VLESS | @megavpn_link [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [4]"
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -192,29 +190,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @megavpn_link [1]",
-            "type": "vless",
-            "server": "all32-vip.f-sub.com",
-            "server_port": 2434,
-            "uuid": "84e919b0-2a5d-4fad-8614-df01dd210b8e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.chess.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
             "type": "vless",
             "server": "cookies.oops.wtf",
@@ -261,7 +236,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -284,7 +259,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -307,7 +282,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
