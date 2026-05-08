@@ -113,8 +113,6 @@
                 "❔ XX | 🔒 VLESS | @iraniv2ray [7]",
                 "🇨🇾 CY | 🔓 VLESS | @lakvpn1 [6]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
-                "❔ XX | 🔒 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔓 VLESS | @megavpn_link [2]",
                 "🇮🇷 IR | 🔒 VLESS | @mrclud [16]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -146,9 +144,9 @@
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
-                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
-                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]"
+                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -180,8 +178,6 @@
                 "❔ XX | 🔒 VLESS | @iraniv2ray [7]",
                 "🇨🇾 CY | 🔓 VLESS | @lakvpn1 [6]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
-                "❔ XX | 🔒 VLESS | @megavpn_link [1]",
-                "❔ XX | 🔓 VLESS | @megavpn_link [2]",
                 "🇮🇷 IR | 🔒 VLESS | @mrclud [16]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
@@ -213,9 +209,9 @@
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
-                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
-                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
-                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]"
+                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -764,40 +760,6 @@
             "server": "all.yasharteam.com",
             "server_port": 500,
             "uuid": "d7f38b65-c27c-4483-b14e-2e6d13728476",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @megavpn_link [1]",
-            "type": "vless",
-            "server": "cleanv2itech1.freesdns.info",
-            "server_port": 443,
-            "uuid": "329d8863-42ce-4015-b9b9-8417499cc174",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "m1.freesdns.info.",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "m1.freesdns.info."
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @megavpn_link [2]",
-            "type": "vless",
-            "server": "i.ownlink.pro",
-            "server_port": 28570,
-            "uuid": "fa382bb2-67e2-e3be-5953-60784dc2a5db",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -1455,7 +1417,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -1478,7 +1440,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -1501,7 +1463,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
