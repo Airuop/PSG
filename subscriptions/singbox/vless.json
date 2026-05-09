@@ -194,9 +194,9 @@
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [4]"
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -309,9 +309,9 @@
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
-                "❔ XX | 🔒 VLESS | @vpn_accounti [4]"
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
+                "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -2488,7 +2488,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [2]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [2]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -2511,7 +2511,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [3]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @vpn_accounti [3]",
             "type": "vless",
             "server": "tr.mizbanandata.com",
             "server_port": 443,
@@ -2534,7 +2534,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [4]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
