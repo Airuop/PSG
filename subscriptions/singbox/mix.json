@@ -123,7 +123,6 @@
                 "🇨🇾 CY | 🔓 VLESS | @lakvpn1 [6]",
                 "🇮🇷 IR | 🔓 VLESS | @lakvpn1 [7]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
-                "🇬🇧 GB | 🔒 SS | @megavpn_link [1]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -182,7 +181,7 @@
                 "🇩🇪 DE | 🔓 VMESS | @v2rayngc [5]",
                 "🇭🇰 HK | 🔓 VMESS | @v2rayngc [6]",
                 "🇭🇰 HK | 🔓 VMESS | @v2rayngc [7]",
-                "❔ XX | 🔓 VMESS | @v2rayngc [8]",
+                "🇭🇰 HK | 🔓 VMESS | @v2rayngc [8]",
                 "❔ XX | 🔒 VMESS | @v2rayngc [9]",
                 "❔ XX | 🔓 VMESS | @v2rayngc [10]",
                 "❔ XX | 🔓 VMESS | @v2rayngc [11]",
@@ -257,7 +256,6 @@
                 "🇨🇾 CY | 🔓 VLESS | @lakvpn1 [6]",
                 "🇮🇷 IR | 🔓 VLESS | @lakvpn1 [7]",
                 "❔ XX | 🔓 VLESS | @lakvpn1 [8]",
-                "🇬🇧 GB | 🔒 SS | @megavpn_link [1]",
                 "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
                 "🇸🇪 SE | 🔓 VLESS | @minovpnch [3]",
                 "🇫🇷 FR | 🔓 VLESS | @minovpnch [4]",
@@ -316,7 +314,7 @@
                 "🇩🇪 DE | 🔓 VMESS | @v2rayngc [5]",
                 "🇭🇰 HK | 🔓 VMESS | @v2rayngc [6]",
                 "🇭🇰 HK | 🔓 VMESS | @v2rayngc [7]",
-                "❔ XX | 🔓 VMESS | @v2rayngc [8]",
+                "🇭🇰 HK | 🔓 VMESS | @v2rayngc [8]",
                 "❔ XX | 🔒 VMESS | @v2rayngc [9]",
                 "❔ XX | 🔓 VMESS | @v2rayngc [10]",
                 "❔ XX | 🔓 VMESS | @v2rayngc [11]",
@@ -1027,14 +1025,6 @@
             "uuid": "d7f38b65-c27c-4483-b14e-2e6d13728476",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 SS | @megavpn_link [1]",
-            "type": "shadowsocks",
-            "server": "85.210.120.237",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ"
         },
         {
             "tag": "🇺🇸 US | 🔒 VLESS | @minovpnch [2]",
@@ -2229,7 +2219,7 @@
             "alter_id": 0
         },
         {
-            "tag": "❔ XX | 🔓 VMESS | @v2rayngc [8]",
+            "tag": "🇭🇰 HK | 🔓 VMESS | @v2rayngc [8]",
             "type": "vmess",
             "server": "47.242.4.244",
             "server_port": 55324,
