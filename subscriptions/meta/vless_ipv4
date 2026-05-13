@@ -67,8 +67,8 @@ proxies:
   - {"name":"🚩 CF | 🔒 VLESS | @v2rayngc [15]","type":"vless","server":"104.16.209.12","port":8443,"uuid":"fc03933c-9b0b-4eab-9c5f-626ea67c5bff","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"nl.cypherpunks.fun","ws-opts":{"path":"/","headers":{"Host":"nl.cypherpunks.fun"}}}
   - {"name":"❔ XX | 🔓 VLESS | @v2rayngc [17]","type":"vless","server":"51.75.30.8","port":80,"uuid":"1949f066-bcb0-49be-88e9-74abd940f80e","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/http","headers":{"Host":"51.75.30.8"}}}
   - {"name":"❔ XX | 🔒 VLESS | @v_2rayngvpn [8]","type":"vless","server":"8.6.112.0","port":443,"uuid":"d34dac88-5207-49a3-b5dc-1b737e2a7f6f","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"lutranautilus.qzz.io","ws-opts":{"path":"/141.95.127.113=2053","headers":{"Host":"lutranautilus.qzz.io"}}}
-  - {"name":"🚩 CF | 🔒 VLESS | @vpn_accounti [8]","type":"vless","server":"172.64.149.54","port":8443,"uuid":"6202b230-417c-4d8e-b624-0f71afa9c75d","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"sni.111000.dynv6.net","ws-opts":{"path":"/?Telegram🇨🇳 @WangCai2","headers":{"Host":"sni.111000.dynv6.net"}}}
-  - {"name":"🚩 CF | 🔓 VLESS | @vpn_accounti [9]","type":"vless","server":"104.18.16.56","port":80,"uuid":"388a6c57-87e7-420b-afe2-b3eb670fd7da","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/ @ProxyVPN11","headers":{"Host":"vip.yaml7.ggff.net"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @vpn_accounti [7]","type":"vless","server":"172.64.149.54","port":8443,"uuid":"6202b230-417c-4d8e-b624-0f71afa9c75d","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"sni.111000.dynv6.net","ws-opts":{"path":"/?Telegram🇨🇳 @WangCai2","headers":{"Host":"sni.111000.dynv6.net"}}}
+  - {"name":"🚩 CF | 🔓 VLESS | @vpn_accounti [8]","type":"vless","server":"104.18.16.56","port":80,"uuid":"388a6c57-87e7-420b-afe2-b3eb670fd7da","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/ @ProxyVPN11","headers":{"Host":"vip.yaml7.ggff.net"}}}
   - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [1]","type":"vless","server":"172.64.149.54","port":2053,"uuid":"6202b230-417c-4d8e-b624-0f71afa9c75d","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"sni.111000.indevs.in","ws-opts":{"path":"/","headers":{"Host":"sni.111000.indevs.in"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @vpnplusee_free [2]","type":"vless","server":"104.18.16.56","port":8080,"uuid":"8d5e71e6-1c60-4084-b573-a343879c9380","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"aref.tsabad.com"}}}
   - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [3]","type":"vless","server":"172.64.152.23","port":443,"uuid":"06ef598c-1555-4887-b3f9-08214a2f6792","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"2026.hhhhh.eu.org","ws-opts":{"path":"/222.167.202.31:7443","headers":{"Host":"2026.hhhhh.eu.org"}}}
@@ -130,8 +130,8 @@ proxy-groups:
       - '🚩 CF | 🔒 VLESS | @v2rayngc [15]'
       - '❔ XX | 🔓 VLESS | @v2rayngc [17]'
       - '❔ XX | 🔒 VLESS | @v_2rayngvpn [8]'
-      - '🚩 CF | 🔒 VLESS | @vpn_accounti [8]'
-      - '🚩 CF | 🔓 VLESS | @vpn_accounti [9]'
+      - '🚩 CF | 🔒 VLESS | @vpn_accounti [7]'
+      - '🚩 CF | 🔓 VLESS | @vpn_accounti [8]'
       - '🚩 CF | 🔒 VLESS | @vpnplusee_free [1]'
       - '🚩 CF | 🔓 VLESS | @vpnplusee_free [2]'
       - '🚩 CF | 🔒 VLESS | @vpnplusee_free [3]'
