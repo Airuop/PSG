@@ -131,7 +131,8 @@
                 "❔ XX | 🔓 VLESS | @v_2rayngvpn [7]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [3]",
-                "🚩 CF | 🔒 VLESS | @vboxpanel [7]"
+                "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [1]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -193,7 +194,8 @@
                 "❔ XX | 🔓 VLESS | @v_2rayngvpn [7]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [3]",
-                "🚩 CF | 🔒 VLESS | @vboxpanel [7]"
+                "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [1]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1400,6 +1402,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
+            "type": "vless",
+            "server": "nl.mizbanandata.com",
+            "server_port": 443,
+            "uuid": "c37064cc-4f5c-42c6-a38b-7cd756c274c4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
+                    "short_id": "fd1dff03520d8f56"
+                }
             }
         }
     ],
