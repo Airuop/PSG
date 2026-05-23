@@ -93,7 +93,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [2]"
+                "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [1]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -105,7 +106,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [1]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [2]"
+                "❔ XX | 🔒 VLESS | @socks5tobefree [2]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [1]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -234,6 +236,29 @@
                     "enabled": true,
                     "public_key": "ZLAYpx5wkCanyDNjQO_-7kwg0K5e728t2FPD9fSZ4VE",
                     "short_id": "b9a9aba39ba5ab"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [1]",
+            "type": "vless",
+            "server": "nl.mizbanandata.com",
+            "server_port": 443,
+            "uuid": "c37064cc-4f5c-42c6-a38b-7cd756c274c4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
+                    "short_id": "fd1dff03520d8f56"
                 }
             }
         }

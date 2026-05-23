@@ -93,7 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [57]",
-                "❔ XX | 🔓 VLESS | @NamiraConfigs [59]",
+                "🇸🇪 SE | 🔓 VLESS | @NamiraConfigs [59]",
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
                 "🇮🇳 IN | 🔓 VLESS | @NamiraConfigs [62]",
                 "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [67]",
@@ -136,8 +136,8 @@
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
                 "🇺🇸 US | 🔒 VLESS | @v_2rayngvpn [8]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔒 VLESS | @vpn_accounti [4]",
-                "🚩 CF | 🔓 VLESS | @vpn_accounti [5]",
+                "🚩 CF | 🔒 VLESS | @vpn_accounti [5]",
+                "🚩 CF | 🔓 VLESS | @vpn_accounti [6]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
@@ -193,7 +193,8 @@
                 "❔ XX | 🔓 VLESS | @v_2rayngvpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @vboxpanel [1]",
                 "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
-                "🚩 CF | 🔒 VLESS | @vboxpanel [7]"
+                "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [1]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -205,7 +206,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [57]",
-                "❔ XX | 🔓 VLESS | @NamiraConfigs [59]",
+                "🇸🇪 SE | 🔓 VLESS | @NamiraConfigs [59]",
                 "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [60]",
                 "🇮🇳 IN | 🔓 VLESS | @NamiraConfigs [62]",
                 "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [67]",
@@ -248,8 +249,8 @@
                 "🇫🇷 FR | 🔓 VLESS | @v2rayngc [17]",
                 "🇺🇸 US | 🔒 VLESS | @v_2rayngvpn [8]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [4]",
-                "🚩 CF | 🔒 VLESS | @vpn_accounti [4]",
-                "🚩 CF | 🔓 VLESS | @vpn_accounti [5]",
+                "🚩 CF | 🔒 VLESS | @vpn_accounti [5]",
+                "🚩 CF | 🔓 VLESS | @vpn_accounti [6]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
@@ -305,7 +306,8 @@
                 "❔ XX | 🔓 VLESS | @v_2rayngvpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @vboxpanel [1]",
                 "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
-                "🚩 CF | 🔒 VLESS | @vboxpanel [7]"
+                "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
+                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [1]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -408,7 +410,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @NamiraConfigs [59]",
+            "tag": "🇸🇪 SE | 🔓 VLESS | @NamiraConfigs [59]",
             "type": "vless",
             "server": "109.120.132.142",
             "server_port": 40617,
@@ -1231,7 +1233,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpn_accounti [4]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpn_accounti [5]",
             "type": "vless",
             "server": "172.64.149.54",
             "server_port": 8443,
@@ -1256,7 +1258,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @vpn_accounti [5]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpn_accounti [6]",
             "type": "vless",
             "server": "104.18.16.56",
             "server_port": 80,
@@ -2479,6 +2481,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [1]",
+            "type": "vless",
+            "server": "nl.mizbanandata.com",
+            "server_port": 443,
+            "uuid": "c37064cc-4f5c-42c6-a38b-7cd756c274c4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
+                    "short_id": "fd1dff03520d8f56"
+                }
             }
         }
     ],
