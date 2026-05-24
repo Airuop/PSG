@@ -129,10 +129,10 @@
                 "🇮🇷 IR | 🔓 VLESS | @v_2rayngvpn [5]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [6]",
                 "❔ XX | 🔓 VLESS | @v_2rayngvpn [7]",
-                "🇺🇸 US | 🔒 VLESS | @vboxpanel [1]",
-                "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
+                "❔ XX | 🔒 VLESS | @vboxpanel [1]",
+                "❔ XX | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
-                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [1]"
+                "❔ XX | 🔒 VLESS | @vpn_accounti [1]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -192,10 +192,10 @@
                 "🇮🇷 IR | 🔓 VLESS | @v_2rayngvpn [5]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [6]",
                 "❔ XX | 🔓 VLESS | @v_2rayngvpn [7]",
-                "🇺🇸 US | 🔒 VLESS | @vboxpanel [1]",
-                "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
+                "❔ XX | 🔒 VLESS | @vboxpanel [1]",
+                "❔ XX | 🔒 VLESS | @vboxpanel [3]",
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
-                "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [1]"
+                "❔ XX | 🔒 VLESS | @vpn_accounti [1]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1336,7 +1336,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @vboxpanel [1]",
+            "tag": "❔ XX | 🔒 VLESS | @vboxpanel [1]",
             "type": "vless",
             "server": "dns8.nufilter.store",
             "server_port": 443,
@@ -1358,7 +1358,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔒 VLESS | @vboxpanel [3]",
+            "tag": "❔ XX | 🔒 VLESS | @vboxpanel [3]",
             "type": "vless",
             "server": "ejoin-to.outline-vpn.cloud",
             "server_port": 443,
@@ -1405,7 +1405,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpn_accounti [1]",
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [1]",
             "type": "vless",
             "server": "nl.mizbanandata.com",
             "server_port": 443,
