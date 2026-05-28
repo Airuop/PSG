@@ -81,7 +81,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -93,7 +94,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]"
+                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
+                "❔ XX | 🔒 VLESS | @vpn_accounti [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -200,6 +202,24 @@
             "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
+            "type": "vless",
+            "server": "45.130.125.69",
+            "server_port": 443,
+            "uuid": "c575c0fd-4833-4cba-937d-2342fd32544b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "de.fbase.cc.cd",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         }
     ],
     "route": {
