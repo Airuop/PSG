@@ -133,12 +133,12 @@
                 "❔ XX | 🔒 VLESS | @v2rayng_o [6]",
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [18]",
-                "❔ XX | 🔒 VLESS | @v2rayngc [19]",
-                "🚩 CF | 🔓 VLESS | @v_2rayngvpn [1]",
-                "❔ XX | 🔓 VLESS | @v_2rayngvpn [2]",
+                "🇮🇷 IR | 🔒 VLESS | @v2rayngc [19]",
+                "🇮🇷 IR | 🔓 VLESS | @v_2rayngvpn [1]",
+                "🚩 CF | 🔓 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [3]",
-                "🚩 CF | 🔓 VLESS | @v_2rayngvpn [4]",
-                "❔ XX | 🔓 VLESS | @v_2rayngvpn [5]",
+                "🇮🇷 IR | 🔓 VLESS | @v_2rayngvpn [4]",
+                "🚩 CF | 🔓 VLESS | @v_2rayngvpn [5]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [6]",
                 "❔ XX | 🔓 VLESS | @v_2rayngvpn [7]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
@@ -195,12 +195,12 @@
                 "❔ XX | 🔒 VLESS | @v2rayng_o [6]",
                 "🚩 CF | 🔓 VLESS | @v2rayng_o [7]",
                 "🚩 CF | 🔒 VLESS | @v2rayngc [18]",
-                "❔ XX | 🔒 VLESS | @v2rayngc [19]",
-                "🚩 CF | 🔓 VLESS | @v_2rayngvpn [1]",
-                "❔ XX | 🔓 VLESS | @v_2rayngvpn [2]",
+                "🇮🇷 IR | 🔒 VLESS | @v2rayngc [19]",
+                "🇮🇷 IR | 🔓 VLESS | @v_2rayngvpn [1]",
+                "🚩 CF | 🔓 VLESS | @v_2rayngvpn [2]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [3]",
-                "🚩 CF | 🔓 VLESS | @v_2rayngvpn [4]",
-                "❔ XX | 🔓 VLESS | @v_2rayngvpn [5]",
+                "🇮🇷 IR | 🔓 VLESS | @v_2rayngvpn [4]",
+                "🚩 CF | 🔓 VLESS | @v_2rayngvpn [5]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [6]",
                 "❔ XX | 🔓 VLESS | @v_2rayngvpn [7]",
                 "❔ XX | 🔒 VLESS | @vboxpanel [1]",
@@ -1233,7 +1233,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @v2rayngc [19]",
+            "tag": "🇮🇷 IR | 🔒 VLESS | @v2rayngc [19]",
             "type": "vless",
             "server": "avval.ir",
             "server_port": 2096,
@@ -1258,16 +1258,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @v_2rayngvpn [1]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "91440b27-a0e5-4107-9aee-478361210fcd",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @v_2rayngvpn [2]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @v_2rayngvpn [1]",
             "type": "vless",
             "server": "www.zula.ir",
             "server_port": 80,
@@ -1276,7 +1267,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @v_2rayngvpn [3]",
+            "tag": "🚩 CF | 🔓 VLESS | @v_2rayngvpn [2]",
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
@@ -1292,7 +1283,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @v_2rayngvpn [4]",
+            "tag": "🚩 CF | 🔓 VLESS | @v_2rayngvpn [3]",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1301,7 +1292,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @v_2rayngvpn [5]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @v_2rayngvpn [4]",
             "type": "vless",
             "server": "www.zula.ir",
             "server_port": 80,
@@ -1310,7 +1301,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @v_2rayngvpn [6]",
+            "tag": "🚩 CF | 🔓 VLESS | @v_2rayngvpn [5]",
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
@@ -1324,6 +1315,15 @@
                     "Host": "www.parsvds.ir"
                 }
             }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @v_2rayngvpn [6]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "91440b27-a0e5-4107-9aee-478361210fcd",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @v_2rayngvpn [7]",
