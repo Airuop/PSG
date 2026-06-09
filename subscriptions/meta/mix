@@ -145,10 +145,9 @@ proxies:
   - {"name":"🚩 CF | 🔓 VLESS | @vpn_accounti [4]","type":"vless","server":"104.18.16.56","port":80,"uuid":"388a6c57-87e7-420b-afe2-b3eb670fd7da","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/ @ProxyVPN11","headers":{"Host":"vip.yaml7.ggff.net"}}}
   - {"name":"❔ XX | 🔓 VLESS | @vpn_accounti [5]","type":"vless","server":"188.137.230.245","port":8880,"uuid":"762ca06a-daba-4510-8533-7ba0667fb1f1","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"188.137.230.245"}}}
   - {"name":"❔ XX | 🔒 VLESS | @vpn_accounti [6]","type":"vless","server":"45.130.125.69","port":443,"uuid":"c575c0fd-4833-4cba-937d-2342fd32544b","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"de.fbase.cc.cd"}
-  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [1]","type":"vless","server":"172.64.149.54","port":2053,"uuid":"6202b230-417c-4d8e-b624-0f71afa9c75d","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"sni.111000.indevs.in","ws-opts":{"path":"/","headers":{"Host":"sni.111000.indevs.in"}}}
-  - {"name":"🚩 CF | 🔓 VLESS | @vpnplusee_free [2]","type":"vless","server":"104.18.16.56","port":8080,"uuid":"8d5e71e6-1c60-4084-b573-a343879c9380","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"aref.tsabad.com"}}}
-  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [3]","type":"vless","server":"172.64.152.23","port":443,"uuid":"06ef598c-1555-4887-b3f9-08214a2f6792","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"2026.hhhhh.eu.org","ws-opts":{"path":"/222.167.202.31:7443","headers":{"Host":"2026.hhhhh.eu.org"}}}
-  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [4]","type":"vless","server":"172.64.152.23","port":8443,"uuid":"b179aef9-46a6-4e21-9a15-d21139c705b9","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"line.smartphone1.top","ws-opts":{"path":"/shop","headers":{"Host":"line.smartphone1.top"}}}
+  - {"name":"🚩 CF | 🔓 VLESS | @vpnplusee_free [1]","type":"vless","server":"104.18.16.56","port":8080,"uuid":"8d5e71e6-1c60-4084-b573-a343879c9380","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"aref.tsabad.com"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [2]","type":"vless","server":"172.64.152.23","port":443,"uuid":"06ef598c-1555-4887-b3f9-08214a2f6792","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"2026.hhhhh.eu.org","ws-opts":{"path":"/222.167.202.31:7443","headers":{"Host":"2026.hhhhh.eu.org"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @vpnplusee_free [3]","type":"vless","server":"172.64.152.23","port":8443,"uuid":"b179aef9-46a6-4e21-9a15-d21139c705b9","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"line.smartphone1.top","ws-opts":{"path":"/shop","headers":{"Host":"line.smartphone1.top"}}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -284,10 +283,9 @@ proxy-groups:
       - '🚩 CF | 🔓 VLESS | @vpn_accounti [4]'
       - '❔ XX | 🔓 VLESS | @vpn_accounti [5]'
       - '❔ XX | 🔒 VLESS | @vpn_accounti [6]'
-      - '🚩 CF | 🔒 VLESS | @vpnplusee_free [1]'
-      - '🚩 CF | 🔓 VLESS | @vpnplusee_free [2]'
+      - '🚩 CF | 🔓 VLESS | @vpnplusee_free [1]'
+      - '🚩 CF | 🔒 VLESS | @vpnplusee_free [2]'
       - '🚩 CF | 🔒 VLESS | @vpnplusee_free [3]'
-      - '🚩 CF | 🔒 VLESS | @vpnplusee_free [4]'
 
   - name: 🌍 Global Media
     type: select

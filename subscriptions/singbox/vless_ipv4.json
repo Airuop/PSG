@@ -139,10 +139,9 @@
                 "🚩 CF | 🔓 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔓 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]"
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [1]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -200,10 +199,9 @@
                 "🚩 CF | 🔓 VLESS | @vpn_accounti [4]",
                 "❔ XX | 🔓 VLESS | @vpn_accounti [5]",
                 "❔ XX | 🔒 VLESS | @vpn_accounti [6]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
-                "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]"
+                "🚩 CF | 🔓 VLESS | @vpnplusee_free [1]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -1188,32 +1186,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
-            "type": "vless",
-            "server": "172.64.149.54",
-            "server_port": 2053,
-            "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sni.111000.indevs.in",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "sni.111000.indevs.in"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
+            "tag": "🚩 CF | 🔓 VLESS | @vpnplusee_free [1]",
             "type": "vless",
             "server": "104.18.16.56",
             "server_port": 8080,
@@ -1229,7 +1202,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [2]",
             "type": "vless",
             "server": "172.64.152.23",
             "server_port": 443,
@@ -1254,7 +1227,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
             "type": "vless",
             "server": "172.64.152.23",
             "server_port": 8443,
