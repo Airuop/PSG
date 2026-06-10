@@ -1,6 +1,6 @@
 {
     "meta": {
-        "last_updated": "2026-06-10T05:00:50+00:00",
+        "last_updated": "2026-06-10T16:22:23+00:00",
         "author": "itsyebekhe/PSG"
     },
     "sources": {
@@ -21,13 +21,13 @@
     },
     "outputs": {
         "main_aggregate_size": 145,
-        "location_files_created": 14,
+        "location_files_created": 16,
         "channel_files_created": 16,
         "country_distribution": {
-            "XX": 60,
+            "XX": 55,
             "CF": 39,
             "US": 27,
-            "DE": 12,
+            "DE": 15,
             "FR": 9,
             "GB": 5,
             "NL": 5,
@@ -42,7 +42,9 @@
             "AT": 1,
             "SI": 1,
             "CO": 1,
-            "IN": 1
+            "IN": 1,
+            "FI": 1,
+            "PL": 1
         }
     }
 }
