@@ -80,7 +80,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @vpn_accounti [1]"
+                "🚩 CF | 🔒 TROJAN | @vpn_accounti [1]",
+                "❔ XX | 🔓 TROJAN | @vpnplusee_free [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -91,7 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 TROJAN | @vpn_accounti [1]"
+                "🚩 CF | 🔒 TROJAN | @vpn_accounti [1]",
+                "❔ XX | 🔓 TROJAN | @vpnplusee_free [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -201,6 +203,20 @@
                 "path": "/tr",
                 "headers": {
                     "Host": "f3.zero-trust.click"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 TROJAN | @vpnplusee_free [6]",
+            "type": "trojan",
+            "server": "185.250.41.125",
+            "server_port": 2087,
+            "password": "b83863af38a54b3b9876072a6fad2126",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "185.250.41.125"
                 }
             }
         }

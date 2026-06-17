@@ -10,11 +10,12 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 🚩 CF | 🔒 TROJAN | @vpn_accounti [1] = trojan, 104.16.80.73, 8443, password = m4P3RHFI7K, skip-cert-verify = false
+❔ XX | 🔓 TROJAN | @vpnplusee_free [6] = trojan, 185.250.41.125, 2087, password = b83863af38a54b3b9876072a6fad2126, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🚩 CF | 🔒 TROJAN | @vpn_accounti [1]
-PSG-AUTO = url-test, 🚩 CF | 🔒 TROJAN | @vpn_accounti [1]
-PSG-FALLBACK = fallback, 🚩 CF | 🔒 TROJAN | @vpn_accounti [1]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, 🚩 CF | 🔒 TROJAN | @vpn_accounti [1], ❔ XX | 🔓 TROJAN | @vpnplusee_free [6]
+PSG-AUTO = url-test, 🚩 CF | 🔒 TROJAN | @vpn_accounti [1], ❔ XX | 🔓 TROJAN | @vpnplusee_free [6]
+PSG-FALLBACK = fallback, 🚩 CF | 🔒 TROJAN | @vpn_accounti [1], ❔ XX | 🔓 TROJAN | @vpnplusee_free [6]
 
 [Rule]
 GEOIP,IR,DIRECT
