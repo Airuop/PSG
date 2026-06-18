@@ -212,8 +212,7 @@
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔓 TROJAN | @vpnplusee_free [6]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -344,8 +343,7 @@
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔓 TROJAN | @vpnplusee_free [6]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -2811,20 +2809,6 @@
                 "path": "/shop",
                 "headers": {
                     "Host": "line.smartphone1.top"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 TROJAN | @vpnplusee_free [6]",
-            "type": "trojan",
-            "server": "185.250.41.125",
-            "server_port": 2087,
-            "password": "b83863af38a54b3b9876072a6fad2126",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "185.250.41.125"
                 }
             }
         }
