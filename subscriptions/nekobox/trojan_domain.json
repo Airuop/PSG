@@ -80,7 +80,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
+                "❔ XX | 🔒 TROJAN | @vpnplusee_free [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -91,7 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]"
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
+                "❔ XX | 🔒 TROJAN | @vpnplusee_free [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -199,6 +201,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "iraniV2ray"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 TROJAN | @vpnplusee_free [6]",
+            "type": "trojan",
+            "server": "r1.beyondshop.site",
+            "server_port": 2087,
+            "password": "036c4b831e934b33b3964fdd1f850563",
+            "tls": {
+                "enabled": true,
+                "server_name": "r1.beyondshop.site",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "r1.beyondshop.site"
+                }
             }
         }
     ],
