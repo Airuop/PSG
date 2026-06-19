@@ -200,8 +200,7 @@
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔒 TROJAN | @vpnplusee_free [6]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -332,8 +331,7 @@
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [1]",
                 "🚩 CF | 🔓 VLESS | @vpnplusee_free [2]",
                 "🚩 CF | 🔒 VLESS | @vpnplusee_free [3]",
-                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]",
-                "❔ XX | 🔒 TROJAN | @vpnplusee_free [6]"
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [4]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -2803,29 +2801,6 @@
                 "path": "/shop",
                 "headers": {
                     "Host": "line.smartphone1.top"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @vpnplusee_free [6]",
-            "type": "trojan",
-            "server": "r1.beyondshop.site",
-            "server_port": 2087,
-            "password": "036c4b831e934b33b3964fdd1f850563",
-            "tls": {
-                "enabled": true,
-                "server_name": "r1.beyondshop.site",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "r1.beyondshop.site"
                 }
             }
         }

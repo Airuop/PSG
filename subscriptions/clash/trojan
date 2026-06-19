@@ -24,7 +24,6 @@ dns:
 
 proxies: 
   - {"name":"❔ XX | 🔒 TROJAN | @iraniv2ray [4]","type":"trojan","server":"lllliraniv2rayllll.norooz.shop","port":2083,"password":"BWDcALS5TU","skip-cert-verify":false}
-  - {"name":"❔ XX | 🔒 TROJAN | @vpnplusee_free [6]","type":"trojan","server":"r1.beyondshop.site","port":2087,"password":"036c4b831e934b33b3964fdd1f850563","skip-cert-verify":false}
   - {"name":"🚩 CF | 🔒 TROJAN | @vpn_accounti [1]","type":"trojan","server":"104.16.80.73","port":8443,"password":"m4P3RHFI7K","skip-cert-verify":false}
 
 proxy-groups:
@@ -40,7 +39,6 @@ proxy-groups:
     interval: 300
     proxies: 
       - '❔ XX | 🔒 TROJAN | @iraniv2ray [4]'
-      - '❔ XX | 🔒 TROJAN | @vpnplusee_free [6]'
       - '🚩 CF | 🔒 TROJAN | @vpn_accounti [1]'
 
   - name: 🌍 Global Media

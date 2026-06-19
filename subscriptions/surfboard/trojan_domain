@@ -10,12 +10,11 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 ❔ XX | 🔒 TROJAN | @iraniv2ray [4] = trojan, lllliraniv2rayllll.norooz.shop, 2083, password = BWDcALS5TU, skip-cert-verify = false
-❔ XX | 🔒 TROJAN | @vpnplusee_free [6] = trojan, r1.beyondshop.site, 2087, password = 036c4b831e934b33b3964fdd1f850563, skip-cert-verify = false
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🔒 TROJAN | @iraniv2ray [4], ❔ XX | 🔒 TROJAN | @vpnplusee_free [6]
-PSG-AUTO = url-test, ❔ XX | 🔒 TROJAN | @iraniv2ray [4], ❔ XX | 🔒 TROJAN | @vpnplusee_free [6]
-PSG-FALLBACK = fallback, ❔ XX | 🔒 TROJAN | @iraniv2ray [4], ❔ XX | 🔒 TROJAN | @vpnplusee_free [6]
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
+PSG-AUTO = url-test, ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
+PSG-FALLBACK = fallback, ❔ XX | 🔒 TROJAN | @iraniv2ray [4]
 
 [Rule]
 GEOIP,IR,DIRECT
