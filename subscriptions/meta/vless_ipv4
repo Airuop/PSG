@@ -74,6 +74,9 @@ proxies:
   - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [3]","type":"vless","server":"191.40.5.176","port":2087,"uuid":"d2e50c17-892b-48de-8428-23ba3b5f4d8e","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"191.40.5.176"}}}
   - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [4]","type":"vless","server":"64.118.155.66","port":44918,"uuid":"cd6a9e75-2df3-4fad-9bd1-0752bb1bf30c","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [5]","type":"vless","server":"191.40.5.176","port":2087,"uuid":"481b8adc-6448-4c98-b1c9-32f57ef91291","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":""}}}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [6]","type":"vless","server":"191.40.5.176","port":2087,"uuid":"cd6a9e75-2df3-4fad-9bd1-0752bb1bf30c","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"191.40.5.176"}}}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [7]","type":"vless","server":"64.118.155.66","port":44918,"uuid":"af2c3727-c1e7-41c1-86b5-7fb5fcc63359","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
+  - {"name":"❔ XX | 🔓 VLESS | @vpnplusee_free [8]","type":"vless","server":"191.40.5.176","port":2087,"uuid":"af2c3727-c1e7-41c1-86b5-7fb5fcc63359","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":""}}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -138,6 +141,9 @@ proxy-groups:
       - '❔ XX | 🔓 VLESS | @vpnplusee_free [3]'
       - '❔ XX | 🔓 VLESS | @vpnplusee_free [4]'
       - '❔ XX | 🔓 VLESS | @vpnplusee_free [5]'
+      - '❔ XX | 🔓 VLESS | @vpnplusee_free [6]'
+      - '❔ XX | 🔓 VLESS | @vpnplusee_free [7]'
+      - '❔ XX | 🔓 VLESS | @vpnplusee_free [8]'
 
   - name: 🌍 Global Media
     type: select
