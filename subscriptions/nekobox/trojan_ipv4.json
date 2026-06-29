@@ -80,6 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]",
                 "🚩 CF | 🔒 TROJAN | @vpn_accounti [1]",
                 "🇩🇪 DE | 🔓 TROJAN | @vpnplusee_free [1]"
             ],
@@ -92,6 +93,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]",
                 "🚩 CF | 🔒 TROJAN | @vpn_accounti [1]",
                 "🇩🇪 DE | 🔓 TROJAN | @vpnplusee_free [1]"
             ],
@@ -180,6 +182,22 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]",
+            "type": "trojan",
+            "server": "103.177.136.42",
+            "server_port": 45619,
+            "password": "4f4d1167-ef14-4304-9bce-0740472503ef",
+            "tls": {
+                "enabled": true,
+                "server_name": "fr.01.naiun.bilibili.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
