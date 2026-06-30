@@ -23,6 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
+  - {"name":"🇭🇺 HU | 🔒 VLESS | @NamiraConfigs [54]","type":"vless","server":"141.11.202.133","port":443,"uuid":"45d2fe56-2da3-409a-bdc7-5b95f30817bd","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"sahand-m.sahand5.workers.dev","ws-opts":{"path":"/xiron","headers":{"Host":"sahand-m.sahand5.workers.dev"}}}
   - {"name":"🚩 CF | 🔒 VLESS | @freev2flyng [15]","type":"vless","server":"188.114.97.3","port":443,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"oRdEr.fortGIFT.ir","ws-opts":{"path":"/B7tnDeiaEFHTS0Li","headers":{"Host":"order.fortgift.ir"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @freev2flyng [17]","type":"vless","server":"188.114.96.3","port":8080,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/z5lsHF5zQrd1rJDr","headers":{"Host":"order.fortgift.ir"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @freev2flyng [18]","type":"vless","server":"188.114.97.3","port":8080,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/gfWh39Z4XwUXaqVY","headers":{"Host":"order.fortgift.ir"}}}
@@ -85,6 +86,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
+      - '🇭🇺 HU | 🔒 VLESS | @NamiraConfigs [54]'
       - '🚩 CF | 🔒 VLESS | @freev2flyng [15]'
       - '🚩 CF | 🔓 VLESS | @freev2flyng [17]'
       - '🚩 CF | 🔓 VLESS | @freev2flyng [18]'

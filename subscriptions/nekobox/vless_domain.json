@@ -80,6 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [55]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -141,6 +142,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [55]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -280,6 +282,15 @@
                     "Host": "127.0.0.1"
                 }
             }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [55]",
+            "type": "vless",
+            "server": "telewebion.com.fin2.shakhle.ir",
+            "server_port": 52525,
+            "uuid": "21702d6d-7b35-4faa-8462-c23dc7e20e00",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
