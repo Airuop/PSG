@@ -93,6 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]",
+                "🇨🇦 CA | 🔒 TROJAN | @jiedianf [4]",
                 "🚩 CF | 🔒 TROJAN | @vpn_accounti [1]",
                 "🇩🇪 DE | 🔓 TROJAN | @vpnplusee_free [1]"
             ],
@@ -106,6 +107,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]",
+                "🇨🇦 CA | 🔒 TROJAN | @jiedianf [4]",
                 "🚩 CF | 🔒 TROJAN | @vpn_accounti [1]",
                 "🇩🇪 DE | 🔓 TROJAN | @vpnplusee_free [1]"
             ],
@@ -202,6 +204,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "fr.01.naiun.bilibili.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🔒 TROJAN | @jiedianf [4]",
+            "type": "trojan",
+            "server": "103.177.136.45",
+            "server_port": 47909,
+            "password": "4f4d1167-ef14-4304-9bce-0740472503ef",
+            "tls": {
+                "enabled": true,
+                "server_name": "is.01.naiun.bilibili.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
