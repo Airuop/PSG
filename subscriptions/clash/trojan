@@ -26,6 +26,7 @@ proxies:
   - {"name":"❔ XX | 🔒 TROJAN | @iraniv2ray [4]","type":"trojan","server":"lllliraniv2rayllll.norooz.shop","port":2083,"password":"BWDcALS5TU","skip-cert-verify":false}
   - {"name":"🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]","type":"trojan","server":"103.177.136.42","port":45619,"password":"4f4d1167-ef14-4304-9bce-0740472503ef","skip-cert-verify":true}
   - {"name":"🇨🇦 CA | 🔒 TROJAN | @jiedianf [4]","type":"trojan","server":"103.177.136.45","port":47909,"password":"4f4d1167-ef14-4304-9bce-0740472503ef","skip-cert-verify":true}
+  - {"name":"🇮🇪 IE | 🔓 TROJAN | @jiedianf [5]","type":"trojan","server":"146.70.90.195","port":57452,"password":"t1k169n5zmvvwn96r9ft","skip-cert-verify":true}
   - {"name":"🚩 CF | 🔒 TROJAN | @vpn_accounti [1]","type":"trojan","server":"104.16.80.73","port":8443,"password":"m4P3RHFI7K","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔓 TROJAN | @vpnplusee_free [1]","type":"trojan","server":"191.40.5.169","port":2087,"password":"cc7ad2444ad9481b9d038924cc5916cd","skip-cert-verify":false}
 
@@ -44,6 +45,7 @@ proxy-groups:
       - '❔ XX | 🔒 TROJAN | @iraniv2ray [4]'
       - '🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]'
       - '🇨🇦 CA | 🔒 TROJAN | @jiedianf [4]'
+      - '🇮🇪 IE | 🔓 TROJAN | @jiedianf [5]'
       - '🚩 CF | 🔒 TROJAN | @vpn_accounti [1]'
       - '🇩🇪 DE | 🔓 TROJAN | @vpnplusee_free [1]'
 

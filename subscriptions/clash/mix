@@ -23,9 +23,15 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
+  - {"name":"🇰🇷 KR | 🔓 VMESS | @NamiraConfigs [49]","type":"vmess","server":"140.238.2.250","port":443,"cipher":"auto","uuid":"41a7089a-040b-4538-8b8d-010902405bde","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇲🇾 MY | 🔓 VMESS | @NamiraConfigs [52]","type":"vmess","server":"47.250.45.234","port":43063,"cipher":"auto","uuid":"c77f48f5-4be3-4461-b52b-49998e7b897b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki","headers":{"Host":"47.250.45.234"}}}
+  - {"name":"🇳🇱 NL | 🔒 SS | @NamiraConfigs [54]","type":"ss","server":"82.38.31.10","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇳🇱 NL | 🔒 SS | @NamiraConfigs [55]","type":"ss","server":"82.38.31.179","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🔒 SS | @NamiraConfigs [61]","type":"ss","server":"172.245.235.84","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
   - {"name":"❔ XX | 🔒 TROJAN | @iraniv2ray [4]","type":"trojan","server":"lllliraniv2rayllll.norooz.shop","port":2083,"password":"BWDcALS5TU","skip-cert-verify":false}
   - {"name":"🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]","type":"trojan","server":"103.177.136.42","port":45619,"password":"4f4d1167-ef14-4304-9bce-0740472503ef","skip-cert-verify":true}
   - {"name":"🇨🇦 CA | 🔒 TROJAN | @jiedianf [4]","type":"trojan","server":"103.177.136.45","port":47909,"password":"4f4d1167-ef14-4304-9bce-0740472503ef","skip-cert-verify":true}
+  - {"name":"🇮🇪 IE | 🔓 TROJAN | @jiedianf [5]","type":"trojan","server":"146.70.90.195","port":57452,"password":"t1k169n5zmvvwn96r9ft","skip-cert-verify":true}
   - {"name":"🚩 CF | 🔒 VMESS | @minovpnch [8]","type":"vmess","server":"188.114.98.0","port":443,"cipher":"auto","uuid":"b7979319-7f19-4143-a488-146328abea93","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"dcedi.ozmxmqcgr.com"}}}
   - {"name":"🇺🇸 US | 🔒 VMESS | @minovpnch [10]","type":"vmess","server":"151.101.66.219","port":443,"cipher":"auto","uuid":"5bc938ed-d4fc-4134-82e6-8f66f58af7f8","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=1024","headers":{"Host":"googleb.net"}}}
   - {"name":"🇺🇸 US | 🔒 VMESS | @minovpnch [11]","type":"vmess","server":"151.101.66.219","port":443,"cipher":"auto","uuid":"2d94dff9-fb62-44c6-8ce8-78eb663f20cd","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=1024","headers":{"Host":"googleb.net"}}}
@@ -56,9 +62,15 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
+      - '🇰🇷 KR | 🔓 VMESS | @NamiraConfigs [49]'
+      - '🇲🇾 MY | 🔓 VMESS | @NamiraConfigs [52]'
+      - '🇳🇱 NL | 🔒 SS | @NamiraConfigs [54]'
+      - '🇳🇱 NL | 🔒 SS | @NamiraConfigs [55]'
+      - '🇺🇸 US | 🔒 SS | @NamiraConfigs [61]'
       - '❔ XX | 🔒 TROJAN | @iraniv2ray [4]'
       - '🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]'
       - '🇨🇦 CA | 🔒 TROJAN | @jiedianf [4]'
+      - '🇮🇪 IE | 🔓 TROJAN | @jiedianf [5]'
       - '🚩 CF | 🔒 VMESS | @minovpnch [8]'
       - '🇺🇸 US | 🔒 VMESS | @minovpnch [10]'
       - '🇺🇸 US | 🔒 VMESS | @minovpnch [11]'
