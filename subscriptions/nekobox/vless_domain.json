@@ -80,11 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [47]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [56]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [57]",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [59]",
-                "🇧🇿 BZ | 🔒 VLESS | @NamiraConfigs [60]",
+                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [40]",
+                "🇺🇸 US | 🔓 VLESS | @NamiraConfigs [47]",
+                "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [48]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -111,11 +109,11 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [4]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [5]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [9]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [10]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [11]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
+                "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
+                "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [5]",
                 "🚩 CF | 🔓 VLESS | @starv2rayn [8]",
                 "❔ XX | 🔒 VLESS | @v2rayng_o [2]",
@@ -146,11 +144,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [47]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [56]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [57]",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [59]",
-                "🇧🇿 BZ | 🔒 VLESS | @NamiraConfigs [60]",
+                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [40]",
+                "🇺🇸 US | 🔓 VLESS | @NamiraConfigs [47]",
+                "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [48]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -177,11 +173,11 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [4]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [5]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [9]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [10]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [11]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
+                "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
+                "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [5]",
                 "🚩 CF | 🔓 VLESS | @starv2rayn [8]",
                 "❔ XX | 🔒 VLESS | @v2rayng_o [2]",
@@ -292,106 +288,40 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [47]",
+            "tag": "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [40]",
             "type": "vless",
-            "server": "rvg-production-2828.up.railway.app",
+            "server": "a.samrayan.ir",
             "server_port": 443,
-            "uuid": "3ecae3b7-2654-abf6-6d48-23c18d4369f9",
-            "flow": "",
+            "uuid": "23d6295f-0337-438f-be52-388bbe321ae4",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "rvg-production-2828.up.railway.app",
+                "server_name": "a.samrayan.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ws/3ecae3b7-2654-abf6-6d48-23c18d4369f9",
-                "headers": {
-                    "Host": "rvg-production-2828.up.railway.app"
-                }
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [56]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @NamiraConfigs [47]",
             "type": "vless",
-            "server": "rvg-production-fa4d.up.railway.app",
-            "server_port": 443,
-            "uuid": "03e9493e-e4f8-9d8c-eece-1c19bae0cc9f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "rvg-production-fa4d.up.railway.app",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ws/03e9493e-e4f8-9d8c-eece-1c19bae0cc9f",
-                "headers": {
-                    "Host": "rvg-production-fa4d.up.railway.app"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [57]",
-            "type": "vless",
-            "server": "rvg-production-94f3.up.railway.app",
-            "server_port": 443,
-            "uuid": "9983e0c4-c1b6-50f9-60dd-ef59f0f2d5d3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "rvg-production-94f3.up.railway.app",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ws/9983e0c4-c1b6-50f9-60dd-ef59f0f2d5d3",
-                "headers": {
-                    "Host": "rvg-production-94f3.up.railway.app"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [59]",
-            "type": "vless",
-            "server": "it.fifapes.monster",
-            "server_port": 29148,
-            "uuid": "eab915bc-d2df-73d1-47d0-6eb240497055",
+            "server": "usa.mohammadaz2.shop",
+            "server_port": 42348,
+            "uuid": "e286cebe-7473-44e9-8c30-273ac36ac83b",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇧🇿 BZ | 🔒 VLESS | @NamiraConfigs [60]",
+            "tag": "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [48]",
             "type": "vless",
-            "server": "cd.pascalplus.com",
-            "server_port": 8443,
-            "uuid": "ebb957fc-5a5a-4a50-b550-c05d24f5ff36",
+            "server": "niga.mohammadaz2sub.ir",
+            "server_port": 62803,
+            "uuid": "e286cebe-7473-44e9-8c30-273ac36ac83b",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn3.w-ert.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
@@ -978,7 +908,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
             "type": "vless",
             "server": "lessless.duckdns.org",
             "server_port": 443,
@@ -1003,7 +933,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
             "type": "vless",
             "server": "lessless.duckdns.org",
             "server_port": 443,
@@ -1028,7 +958,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [9]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
             "type": "vless",
             "server": "europeless.duckdns.org",
             "server_port": 443,
@@ -1053,7 +983,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [10]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
             "type": "vless",
             "server": "torless.duckdns.org",
             "server_port": 443,
@@ -1078,7 +1008,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [11]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
             "type": "vless",
             "server": "europeless.duckdns.org",
             "server_port": 443,
