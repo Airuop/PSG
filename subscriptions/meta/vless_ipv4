@@ -23,10 +23,9 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [46]","type":"vless","server":"108.162.193.162","port":443,"uuid":"c35050ce-01ab-45a9-91b8-54cec637d0a8","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"octopusss5.info","ws-opts":{"path":"/udfyfws","headers":{"Host":"octopusss5.info"}}}
-  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [50]","type":"vless","server":"104.16.72.101","port":443,"uuid":"7e544a9d-7667-413b-bbb0-b3bb1aac6d77","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"shegeftihaaa.net","ws-opts":{"path":"/rsedgws","headers":{"Host":"shegeftihaaa.net"}}}
-  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [51]","type":"vless","server":"104.16.72.2","port":443,"uuid":"7e544a9d-7667-413b-bbb0-b3bb1aac6d77","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"shegeftihaaa.net","ws-opts":{"path":"/rsedgws","headers":{"Host":"shegeftihaaa.net"}}}
-  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [52]","type":"vless","server":"104.16.72.41","port":443,"uuid":"7e544a9d-7667-413b-bbb0-b3bb1aac6d77","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"shegeftihaaa.net","ws-opts":{"path":"/rsedgws","headers":{"Host":"shegeftihaaa.net"}}}
+  - {"name":"🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [43]","type":"vless","server":"91.107.150.147","port":26191,"uuid":"5cbc3beb-61f1-45eb-b365-9555353cdf96","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
+  - {"name":"🇺🇸 US | 🔒 VLESS | @NamiraConfigs [49]","type":"vless","server":"156.154.245.83","port":443,"uuid":"0970324b-8c61-4ae7-8c3f-385a6f1e17e4","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"vpn47.cc.cd","ws-opts":{"path":"/","headers":{"Host":"vpn47.cc.cd"}}}
+  - {"name":"🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [53]","type":"vless","server":"91.107.150.147","port":26191,"uuid":"5cbc3beb-61f1-45eb-b365-9555353cdf96","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🚩 CF | 🔒 VLESS | @freev2flyng [15]","type":"vless","server":"188.114.97.3","port":443,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"oRdEr.fortGIFT.ir","ws-opts":{"path":"/B7tnDeiaEFHTS0Li","headers":{"Host":"order.fortgift.ir"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @freev2flyng [17]","type":"vless","server":"188.114.96.3","port":8080,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/z5lsHF5zQrd1rJDr","headers":{"Host":"order.fortgift.ir"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @freev2flyng [18]","type":"vless","server":"188.114.97.3","port":8080,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/gfWh39Z4XwUXaqVY","headers":{"Host":"order.fortgift.ir"}}}
@@ -90,10 +89,9 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [46]'
-      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [50]'
-      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [51]'
-      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [52]'
+      - '🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [43]'
+      - '🇺🇸 US | 🔒 VLESS | @NamiraConfigs [49]'
+      - '🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [53]'
       - '🚩 CF | 🔒 VLESS | @freev2flyng [15]'
       - '🚩 CF | 🔓 VLESS | @freev2flyng [17]'
       - '🚩 CF | 🔓 VLESS | @freev2flyng [18]'
