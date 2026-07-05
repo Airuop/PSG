@@ -92,7 +92,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [55]",
+                "🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [44]",
+                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [45]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [51]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [53]",
+                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [54]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -155,7 +159,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [55]",
+                "🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [44]",
+                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [45]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [51]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [53]",
+                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [54]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -294,13 +302,83 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [55]",
+            "tag": "🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [44]",
             "type": "vless",
-            "server": "ns-fi.onlinernet.ir",
-            "server_port": 20018,
-            "uuid": "199436d3-2fa2-4e34-a1de-844419de5a4f",
+            "server": "HSHSHSJSJJSHSJJSJJEJJSHE.SUUSJSJJWJ.mamli12.ir",
+            "server_port": 8080,
+            "uuid": "47e9fa2b-1146-47cb-9623-18a5343ed061",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [45]",
+            "type": "vless",
+            "server": "fn.fifapes.monster",
+            "server_port": 2090,
+            "uuid": "eab915bc-d2df-73d1-47d0-6eb240497055",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [51]",
+            "type": "vless",
+            "server": "tmesubgift.up.railway.app",
+            "server_port": 443,
+            "uuid": "2fec08e2-76f8-8b7b-71cc-6b6569db7eb2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "tmesubgift.up.railway.app",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/ws/2fec08e2-76f8-8b7b-71cc-6b6569db7eb2",
+                "headers": {
+                    "Host": "tmesubgift.up.railway.app"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [53]",
+            "type": "vless",
+            "server": "s643.ccgfw.top",
+            "server_port": 443,
+            "uuid": "6d49fae1-374d-313e-b360-1227b0ea8dea",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "7190s643.ccgfw.top",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [54]",
+            "type": "vless",
+            "server": "a.samrayan.ir",
+            "server_port": 443,
+            "uuid": "23d6295f-0337-438f-be52-388bbe321ae4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "a.samrayan.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
