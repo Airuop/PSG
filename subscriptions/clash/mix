@@ -23,9 +23,12 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇳🇱 NL | 🔒 SS | @NamiraConfigs [40]","type":"ss","server":"82.38.31.198","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇳🇱 NL | 🔒 SS | @NamiraConfigs [41]","type":"ss","server":"108.181.58.239","port":8388,"password":"CJmTCCx7Ltud","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [47]","type":"vmess","server":"57.151.100.27","port":10086,"cipher":"auto","uuid":"550e8400-e29b-41d4-a716-446655440000","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 US | 🔒 VMESS | @NamiraConfigs [40]","type":"vmess","server":"69.84.182.49","port":80,"cipher":"auto","uuid":"f8975871-a7a0-4906-8835-a23c1258ca1e","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir."}}}
+  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [41]","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [42]","type":"vmess","server":"69.84.182.49","port":80,"cipher":"auto","uuid":"f8975871-a7a0-4906-8835-a23c1258ca1e","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir."}}}
+  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [43]","type":"vmess","server":"82.198.246.97","port":180,"cipher":"auto","uuid":"d13fc2f5-3e05-4795-81eb-44143a09e552","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇲🇾 MY | 🔓 VMESS | @NamiraConfigs [49]","type":"vmess","server":"47.250.45.234","port":43063,"cipher":"auto","uuid":"c77f48f5-4be3-4461-b52b-49998e7b897b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki","headers":{"Host":"47.250.45.234"}}}
+  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [54]","type":"vmess","server":"173.249.209.146","port":20086,"cipher":"auto","uuid":"3935c2dc-dbb0-43f7-b367-fe89abe87fdf","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
   - {"name":"❔ XX | 🔒 TROJAN | @iraniv2ray [4]","type":"trojan","server":"lllliraniv2rayllll.norooz.shop","port":2083,"password":"BWDcALS5TU","skip-cert-verify":false}
   - {"name":"🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]","type":"trojan","server":"103.177.136.42","port":45619,"password":"4f4d1167-ef14-4304-9bce-0740472503ef","skip-cert-verify":true}
   - {"name":"🇨🇦 CA | 🔒 TROJAN | @jiedianf [4]","type":"trojan","server":"103.177.136.45","port":47909,"password":"4f4d1167-ef14-4304-9bce-0740472503ef","skip-cert-verify":true}
@@ -60,9 +63,12 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇳🇱 NL | 🔒 SS | @NamiraConfigs [40]'
-      - '🇳🇱 NL | 🔒 SS | @NamiraConfigs [41]'
-      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [47]'
+      - '🇺🇸 US | 🔒 VMESS | @NamiraConfigs [40]'
+      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [41]'
+      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [42]'
+      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [43]'
+      - '🇲🇾 MY | 🔓 VMESS | @NamiraConfigs [49]'
+      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [54]'
       - '❔ XX | 🔒 TROJAN | @iraniv2ray [4]'
       - '🇨🇦 CA | 🔒 TROJAN | @jiedianf [3]'
       - '🇨🇦 CA | 🔒 TROJAN | @jiedianf [4]'

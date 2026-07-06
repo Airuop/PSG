@@ -23,16 +23,16 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [44]","type":"vless","server":"188.226.149.72","port":443,"uuid":"0970324b-8c61-4ae7-8c3f-385a6f1e17e4","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"vpn47.cc.cd","ws-opts":{"path":"/","headers":{"Host":"vpn47.cc.cd"}}}
-  - {"name":"🚩 CF | 🔓 VLESS | @NamiraConfigs [45]","type":"vless","server":"104.17.122.42","port":80,"uuid":"7b45b4db-4b7a-4e47-b02a-f422d88add60","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh","headers":{"Host":"zeus-panel-yikvzz.saman-co-com1385.workers.dev"}}}
-  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [46]","type":"vless","server":"172.64.147.236","port":443,"uuid":"c35050ce-01ab-45a9-91b8-54cec637d0a8","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"octopusss5.info","ws-opts":{"path":"/udfyfws","headers":{"Host":"octopusss5.info"}}}
-  - {"name":"🇷🇺 RU | 🔓 VLESS | @NamiraConfigs [53]","type":"vless","server":"89.19.223.139","port":8443,"uuid":"f0be198c-db8c-4622-8803-ba3c8c8db515","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
-  - {"name":"🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [54]","type":"vless","server":"45.86.159.134","port":2085,"uuid":"1ea1b30b-4114-4a5c-bd3a-9637bdae1948","tls":false,"network":"grpc","client-fingerprint":"chrome","udp":true,"grpc-opts":{"grpc-service-name":"vless"}}
+  - {"name":"🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [44]","type":"vless","server":"196.196.35.37","port":443,"uuid":"7b241232-208d-4d36-857e-913f91b044f4","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"api-6a20f558.noooo.win","flow":"xtls-rprx-vision"}
+  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [45]","type":"vless","server":"108.162.192.75","port":443,"uuid":"073d1d50-8478-47bf-a828-7a1b381931d5","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"octopusss.net","ws-opts":{"path":"/odiyfws","headers":{"Host":"octopusss.net"}}}
+  - {"name":"🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [47]","type":"vless","server":"195.63.169.19","port":8090,"uuid":"ef14c532-b69a-4f46-ae29-272f2fdaf673","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/ws","headers":{"Host":"rukr.speedload.ru"}}}
+  - {"name":"🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [53]","type":"vless","server":"89.39.121.54","port":110,"uuid":"6480d577-197b-4d87-84dd-db01268c0514","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🚩 CF | 🔒 VLESS | @freev2flyng [15]","type":"vless","server":"188.114.97.3","port":443,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"oRdEr.fortGIFT.ir","ws-opts":{"path":"/B7tnDeiaEFHTS0Li","headers":{"Host":"order.fortgift.ir"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @freev2flyng [17]","type":"vless","server":"188.114.96.3","port":8080,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/z5lsHF5zQrd1rJDr","headers":{"Host":"order.fortgift.ir"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @freev2flyng [18]","type":"vless","server":"188.114.97.3","port":8080,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/gfWh39Z4XwUXaqVY","headers":{"Host":"order.fortgift.ir"}}}
   - {"name":"🇷🇺 RU | 🔒 VLESS | @jiedianf [6]","type":"vless","server":"2.26.8.55","port":443,"uuid":"10ea33f2-1a66-4dec-99f2-8068a6b56a45","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"lk-tra.riseads.in","flow":"xtls-rprx-vision"}
   - {"name":"🇱🇹 LT | 🔒 VLESS | @jiedianf [8]","type":"vless","server":"45.194.10.79","port":8443,"uuid":"3e7cede4-721a-4807-b0a2-5fe6586af907","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"storage.yandex.net","flow":"xtls-rprx-vision"}
+  - {"name":"🇺🇸 US | 🔒 VLESS | @jiedianf [10]","type":"vless","server":"45.196.182.70","port":443,"uuid":"701ea834-7c31-4544-95d6-f0a4dfe40b36","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"storage.yandex.net","flow":"xtls-rprx-vision"}
   - {"name":"🇮🇷 IR | 🔓 VLESS | @lakvpn1 [7]","type":"vless","server":"31.14.118.226","port":24100,"uuid":"abaaff2a-a66d-40cb-bfdf-9b6c3762789b","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🇺🇸 US | 🔒 VLESS | @minovpnch [2]","type":"vless","server":"151.101.129.203","port":443,"uuid":"29af39ed-f8c8-49b8-9a5f-ea24fad97a09","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"video.nordkapp-boats.no","ws-opts":{"path":"/?ed=1024","headers":{"Host":"fastopra.com"}}}
   - {"name":"🇸🇪 SE | 🔓 VLESS | @minovpnch [3]","type":"vless","server":"185.146.173.200","port":8880,"uuid":"f8d2a4a1-5ccb-49dc-a1fb-36904313c2e4","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed","headers":{"Host":"www.speedtest.net.B.lightning-6.LiVE."}}}
@@ -92,16 +92,16 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [44]'
-      - '🚩 CF | 🔓 VLESS | @NamiraConfigs [45]'
-      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [46]'
-      - '🇷🇺 RU | 🔓 VLESS | @NamiraConfigs [53]'
-      - '🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [54]'
+      - '🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [44]'
+      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [45]'
+      - '🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [47]'
+      - '🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [53]'
       - '🚩 CF | 🔒 VLESS | @freev2flyng [15]'
       - '🚩 CF | 🔓 VLESS | @freev2flyng [17]'
       - '🚩 CF | 🔓 VLESS | @freev2flyng [18]'
       - '🇷🇺 RU | 🔒 VLESS | @jiedianf [6]'
       - '🇱🇹 LT | 🔒 VLESS | @jiedianf [8]'
+      - '🇺🇸 US | 🔒 VLESS | @jiedianf [10]'
       - '🇮🇷 IR | 🔓 VLESS | @lakvpn1 [7]'
       - '🇺🇸 US | 🔒 VLESS | @minovpnch [2]'
       - '🇸🇪 SE | 🔓 VLESS | @minovpnch [3]'
