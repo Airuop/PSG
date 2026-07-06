@@ -80,11 +80,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [44]",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [45]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [51]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [53]",
-                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [54]",
+                "🇺🇸 US | 🔓 VLESS | @NamiraConfigs [42]",
+                "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [43]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [48]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [49]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [50]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -147,11 +147,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [44]",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [45]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [51]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [53]",
-                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [54]",
+                "🇺🇸 US | 🔓 VLESS | @NamiraConfigs [42]",
+                "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [43]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [48]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [49]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [50]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -294,34 +294,50 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [44]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @NamiraConfigs [42]",
             "type": "vless",
-            "server": "HSHSHSJSJJSHSJJSJJEJJSHE.SUUSJSJJWJ.mamli12.ir",
+            "server": "usa.mohammadaz2.shop",
+            "server_port": 42348,
+            "uuid": "e286cebe-7473-44e9-8c30-273ac36ac83b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [43]",
+            "type": "vless",
+            "server": "niga.mohammadaz2sub.ir",
+            "server_port": 62803,
+            "uuid": "e286cebe-7473-44e9-8c30-273ac36ac83b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [48]",
+            "type": "vless",
+            "server": "my-pp.arminpixel2.workers.dev",
             "server_port": 8080,
-            "uuid": "47e9fa2b-1146-47cb-9623-18a5343ed061",
+            "uuid": "631a49ec-2eb5-2215-0cac-9d292696d162",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/sync",
+                "headers": {
+                    "Host": "my-pp.arminpixel2.workers.dev"
+                }
+            }
         },
         {
-            "tag": "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [45]",
+            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [49]",
             "type": "vless",
-            "server": "fn.fifapes.monster",
-            "server_port": 2090,
-            "uuid": "eab915bc-d2df-73d1-47d0-6eb240497055",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [51]",
-            "type": "vless",
-            "server": "tmesubgift.up.railway.app",
-            "server_port": 443,
-            "uuid": "2fec08e2-76f8-8b7b-71cc-6b6569db7eb2",
+            "server": "my-pp.arminpixel2.workers.dev",
+            "server_port": 2096,
+            "uuid": "631a49ec-2eb5-2215-0cac-9d292696d162",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tmesubgift.up.railway.app",
+                "server_name": "my-pp.arminpixel2.workers.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -330,45 +346,34 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/ws/2fec08e2-76f8-8b7b-71cc-6b6569db7eb2",
+                "path": "/sync",
                 "headers": {
-                    "Host": "tmesubgift.up.railway.app"
+                    "Host": "my-pp.arminpixel2.workers.dev"
                 }
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [53]",
+            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [50]",
             "type": "vless",
-            "server": "s643.ccgfw.top",
+            "server": "my-pp.arminpixel2.workers.dev",
             "server_port": 443,
-            "uuid": "6d49fae1-374d-313e-b360-1227b0ea8dea",
-            "flow": "xtls-rprx-vision",
+            "uuid": "631a49ec-2eb5-2215-0cac-9d292696d162",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "7190s643.ccgfw.top",
+                "server_name": "my-pp.arminpixel2.workers.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [54]",
-            "type": "vless",
-            "server": "a.samrayan.ir",
-            "server_port": 443,
-            "uuid": "23d6295f-0337-438f-be52-388bbe321ae4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "a.samrayan.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/sync",
+                "headers": {
+                    "Host": "my-pp.arminpixel2.workers.dev"
                 }
             }
         },
