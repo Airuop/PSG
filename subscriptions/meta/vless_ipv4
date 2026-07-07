@@ -23,10 +23,6 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [44]","type":"vless","server":"196.196.35.37","port":443,"uuid":"7b241232-208d-4d36-857e-913f91b044f4","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"api-6a20f558.noooo.win","flow":"xtls-rprx-vision"}
-  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [45]","type":"vless","server":"108.162.192.75","port":443,"uuid":"073d1d50-8478-47bf-a828-7a1b381931d5","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"octopusss.net","ws-opts":{"path":"/odiyfws","headers":{"Host":"octopusss.net"}}}
-  - {"name":"🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [47]","type":"vless","server":"195.63.169.19","port":8090,"uuid":"ef14c532-b69a-4f46-ae29-272f2fdaf673","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/ws","headers":{"Host":"rukr.speedload.ru"}}}
-  - {"name":"🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [53]","type":"vless","server":"89.39.121.54","port":110,"uuid":"6480d577-197b-4d87-84dd-db01268c0514","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"🚩 CF | 🔒 VLESS | @freev2flyng [15]","type":"vless","server":"188.114.97.3","port":443,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"oRdEr.fortGIFT.ir","ws-opts":{"path":"/B7tnDeiaEFHTS0Li","headers":{"Host":"order.fortgift.ir"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @freev2flyng [17]","type":"vless","server":"188.114.96.3","port":8080,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/z5lsHF5zQrd1rJDr","headers":{"Host":"order.fortgift.ir"}}}
   - {"name":"🚩 CF | 🔓 VLESS | @freev2flyng [18]","type":"vless","server":"188.114.97.3","port":8080,"uuid":"08c41e17-9d1c-4d4a-9edc-242d3d71c1ac","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/gfWh39Z4XwUXaqVY","headers":{"Host":"order.fortgift.ir"}}}
@@ -92,10 +88,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [44]'
-      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [45]'
-      - '🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [47]'
-      - '🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [53]'
       - '🚩 CF | 🔒 VLESS | @freev2flyng [15]'
       - '🚩 CF | 🔓 VLESS | @freev2flyng [17]'
       - '🚩 CF | 🔓 VLESS | @freev2flyng [18]'

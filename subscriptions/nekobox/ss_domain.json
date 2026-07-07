@@ -90,8 +90,7 @@
                 "🇩🇪 DE | 🔒 SS | @NamiraConfigs [62]",
                 "🇩🇪 DE | 🔒 SS | @NamiraConfigs [63]",
                 "🇩🇪 DE | 🔒 SS | @NamiraConfigs [65]",
-                "🇩🇪 DE | 🔒 SS | @NamiraConfigs [66]",
-                "🇬🇧 GB | 🔒 SS | @mrclud [25]"
+                "🇩🇪 DE | 🔒 SS | @NamiraConfigs [66]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -112,8 +111,7 @@
                 "🇩🇪 DE | 🔒 SS | @NamiraConfigs [62]",
                 "🇩🇪 DE | 🔒 SS | @NamiraConfigs [63]",
                 "🇩🇪 DE | 🔒 SS | @NamiraConfigs [65]",
-                "🇩🇪 DE | 🔒 SS | @NamiraConfigs [66]",
-                "🇬🇧 GB | 🔒 SS | @mrclud [25]"
+                "🇩🇪 DE | 🔒 SS | @NamiraConfigs [66]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -290,14 +288,6 @@
             "server_port": 1080,
             "method": "chacha20-ietf-poly1305",
             "password": "4Px-Gc_R7FiXUf4Ty3jMdwIQZo49DMYo"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 SS | @mrclud [25]",
-            "type": "shadowsocks",
-            "server": "51.142.171.150",
-            "server_port": 49499,
-            "method": "chacha20-ietf-poly1305",
-            "password": "kTjlLxrncKx4i2HIjxfA3M"
         }
     ],
     "route": {

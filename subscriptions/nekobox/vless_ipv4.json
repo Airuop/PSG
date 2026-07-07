@@ -80,10 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [44]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [45]",
-                "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [47]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [53]",
                 "🚩 CF | 🔒 VLESS | @freev2flyng [15]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [17]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [18]",
@@ -146,10 +142,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [44]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [45]",
-                "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [47]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [53]",
                 "🚩 CF | 🔒 VLESS | @freev2flyng [15]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [17]",
                 "🚩 CF | 🔓 VLESS | @freev2flyng [18]",
@@ -290,74 +282,6 @@
                     "Host": "127.0.0.1"
                 }
             }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [44]",
-            "type": "vless",
-            "server": "196.196.35.37",
-            "server_port": 443,
-            "uuid": "7b241232-208d-4d36-857e-913f91b044f4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-6a20f558.noooo.win",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [45]",
-            "type": "vless",
-            "server": "108.162.192.75",
-            "server_port": 443,
-            "uuid": "073d1d50-8478-47bf-a828-7a1b381931d5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/odiyfws",
-                "headers": {
-                    "Host": "octopusss.net"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [47]",
-            "type": "vless",
-            "server": "195.63.169.19",
-            "server_port": 8090,
-            "uuid": "ef14c532-b69a-4f46-ae29-272f2fdaf673",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/ws",
-                "headers": {
-                    "Host": "195.63.169.19"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [53]",
-            "type": "vless",
-            "server": "89.39.121.54",
-            "server_port": 110,
-            "uuid": "6480d577-197b-4d87-84dd-db01268c0514",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔒 VLESS | @freev2flyng [15]",

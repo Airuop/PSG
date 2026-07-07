@@ -34,7 +34,6 @@ proxies:
   - {"name":"🇩🇪 DE | 🔒 SS | @NamiraConfigs [63]","type":"ss","server":"pasarguard.losthonor.ir","port":3044,"password":"4Px-Gc_R7FiXUf4Ty3jMdwIQZo49DMYo","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @NamiraConfigs [65]","type":"ss","server":"pasarguard.losthonor.ir","port":3035,"password":"4Px-Gc_R7FiXUf4Ty3jMdwIQZo49DMYo","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @NamiraConfigs [66]","type":"ss","server":"pasarguard.losthonor.ir","port":1080,"password":"4Px-Gc_R7FiXUf4Ty3jMdwIQZo49DMYo","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇬🇧 GB | 🔒 SS | @mrclud [25]","type":"ss","server":"51.142.171.150","port":49499,"password":"kTjlLxrncKx4i2HIjxfA3M","cipher":"chacha20-ietf-poly1305"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -59,7 +58,6 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 SS | @NamiraConfigs [63]'
       - '🇩🇪 DE | 🔒 SS | @NamiraConfigs [65]'
       - '🇩🇪 DE | 🔒 SS | @NamiraConfigs [66]'
-      - '🇬🇧 GB | 🔒 SS | @mrclud [25]'
 
   - name: 🌍 Global Media
     type: select
