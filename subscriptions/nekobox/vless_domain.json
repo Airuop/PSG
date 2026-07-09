@@ -80,7 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇪🇸 ES | 🔓 VLESS | @NamiraConfigs [63]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -108,8 +107,8 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [4]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [5]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
@@ -143,7 +142,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇪🇸 ES | 🔓 VLESS | @NamiraConfigs [63]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -171,8 +169,8 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [4]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [5]",
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
+                "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
                 "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
@@ -282,22 +280,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
-                }
-            }
-        },
-        {
-            "tag": "🇪🇸 ES | 🔓 VLESS | @NamiraConfigs [63]",
-            "type": "vless",
-            "server": "spain.unixzone.us",
-            "server_port": 36326,
-            "uuid": "63ff4bfa-0f1d-48e4-8314-e882b14e602c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/jdiedjiedjijd",
-                "headers": {
-                    "Host": "spain.unixzone.us"
                 }
             }
         },
@@ -911,7 +893,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [7]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
             "type": "vless",
             "server": "lessless.duckdns.org",
             "server_port": 443,
@@ -936,7 +918,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [8]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
             "type": "vless",
             "server": "lessless.duckdns.org",
             "server_port": 443,
