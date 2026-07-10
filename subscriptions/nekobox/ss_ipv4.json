@@ -80,7 +80,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [60]",
                 "🇬🇧 GB | 🔒 SS | @mrclud [25]"
             ],
             "tag": "proxy",
@@ -92,7 +91,6 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [60]",
                 "🇬🇧 GB | 🔒 SS | @mrclud [25]"
             ],
             "tag": "auto",
@@ -182,14 +180,6 @@
                     "Host": "127.0.0.1"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [60]",
-            "type": "shadowsocks",
-            "server": "147.90.234.133",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
         },
         {
             "tag": "🇬🇧 GB | 🔒 SS | @mrclud [25]",
