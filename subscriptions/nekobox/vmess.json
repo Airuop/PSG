@@ -80,8 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [49]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [50]",
+                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [58]",
+                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [61]",
+                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [62]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
@@ -108,8 +109,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [49]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [50]",
+                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [58]",
+                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [61]",
+                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [62]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
@@ -216,7 +218,25 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [49]",
+            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [58]",
+            "type": "vmess",
+            "server": "165.140.216.141",
+            "server_port": 443,
+            "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [61]",
             "type": "vmess",
             "server": "57.151.100.27",
             "server_port": 10086,
@@ -225,7 +245,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [50]",
+            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [62]",
             "type": "vmess",
             "server": "82.198.246.97",
             "server_port": 180,
