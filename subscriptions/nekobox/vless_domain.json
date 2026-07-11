@@ -80,14 +80,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [35]",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [36]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [37]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [38]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [39]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [41]",
-                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0#🇺🇸 US | 🔒 VLESS | @NamiraConfigs [43]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [46]",
+                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [39]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [49]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -117,9 +111,9 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [9]",
+                "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [11]",
+                "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [5]",
                 "🚩 CF | 🔓 VLESS | @starv2rayn [8]",
                 "❔ XX | 🔒 VLESS | @v2rayng_o [2]",
@@ -150,14 +144,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [35]",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [36]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [37]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [38]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [39]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [41]",
-                "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0#🇺🇸 US | 🔒 VLESS | @NamiraConfigs [43]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [46]",
+                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [39]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [49]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -187,9 +175,9 @@
                 "❔ XX | 🔒 VLESS | @socks5tobefree [6]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [7]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [8]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [9]",
+                "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
                 "🇷🇺 RU | 🔒 VLESS | @socks5tobefree [10]",
-                "❔ XX | 🔒 VLESS | @socks5tobefree [11]",
+                "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
                 "🚩 CF | 🔒 VLESS | @starv2rayn [5]",
                 "🚩 CF | 🔓 VLESS | @starv2rayn [8]",
                 "❔ XX | 🔒 VLESS | @v2rayng_o [2]",
@@ -300,7 +288,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [35]",
+            "tag": "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [39]",
+            "type": "vless",
+            "server": "fn.fifapes.monster",
+            "server_port": 2090,
+            "uuid": "eab915bc-d2df-73d1-47d0-6eb240497055",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [49]",
             "type": "vless",
             "server": "x4g-production-213b.up.railway.app",
             "server_port": 443,
@@ -323,126 +320,6 @@
                     "Host": "x4g-production-213b.up.railway.app"
                 }
             }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [36]",
-            "type": "vless",
-            "server": "gr1.fifapes.monster",
-            "server_port": 8882,
-            "uuid": "eab915bc-d2df-73d1-47d0-6eb240497055",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [37]",
-            "type": "vless",
-            "server": "foloki-production.up.railway.app",
-            "server_port": 443,
-            "uuid": "d3a18bec-bb33-81e2-7671-66dac9921868",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "foloki-production.up.railway.app",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ws/d3a18bec-bb33-81e2-7671-66dac9921868",
-                "headers": {
-                    "Host": "foloki-production.up.railway.app"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [38]",
-            "type": "vless",
-            "server": "rare-creation-production.up.railway.app",
-            "server_port": 443,
-            "uuid": "39dfd8b4-47a8-158c-80e9-e80a747828fc",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "rare-creation-production.up.railway.app",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ws/39dfd8b4-47a8-158c-80e9-e80a747828fc",
-                "headers": {
-                    "Host": "rare-creation-production.up.railway.app"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [39]",
-            "type": "vless",
-            "server": "germany-de-1.appcodes.ir",
-            "server_port": 8080,
-            "uuid": "f8cae104-2eaa-4b16-b258-65be28281b70",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [41]",
-            "type": "vless",
-            "server": "octopusss5.info",
-            "server_port": 443,
-            "uuid": "c35050ce-01ab-45a9-91b8-54cec637d0a8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "octopusss5.info",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/udfyfws",
-                "headers": {
-                    "Host": "octopusss5.info"
-                }
-            }
-        },
-        {
-            "tag": "TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0#🇺🇸 US | 🔒 VLESS | @NamiraConfigs [43]",
-            "type": "vless",
-            "server": "x4g-production-13a0.up.railway.app",
-            "server_port": 443,
-            "uuid": "3a9d300b-ccd9-c036-773e-9300b21689a1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "x4g-production-13a0.up.railway.app",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [46]",
-            "type": "vless",
-            "server": "s2.cnavippanel.com",
-            "server_port": 4568,
-            "uuid": "4d712194-6765-4f4a-863b-97cc53c3260a",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
@@ -1104,7 +981,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [9]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [9]",
             "type": "vless",
             "server": "europeless.duckdns.org",
             "server_port": 443,
@@ -1154,7 +1031,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @socks5tobefree [11]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @socks5tobefree [11]",
             "type": "vless",
             "server": "europeless.duckdns.org",
             "server_port": 443,

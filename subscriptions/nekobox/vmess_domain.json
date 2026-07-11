@@ -80,7 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [42]",
+                "🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [35]",
+                "🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [36]",
+                "🇲🇾 MY | 🔓 VMESS | @NamiraConfigs [37]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
@@ -107,7 +109,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [42]",
+                "🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [35]",
+                "🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [36]",
+                "🇲🇾 MY | 🔓 VMESS | @NamiraConfigs [37]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
@@ -214,16 +218,34 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [42]",
+            "tag": "🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [35]",
             "type": "vmess",
-            "server": "57.129.132.223",
-            "server_port": 80,
-            "uuid": "a25cbf11-2908-4a1b-a3a8-9a571777dca3",
+            "server": "31.77.149.99",
+            "server_port": 110,
+            "uuid": "f0841ef6-a703-4248-9c69-efed21a38e65",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [36]",
+            "type": "vmess",
+            "server": "31.77.149.99",
+            "server_port": 110,
+            "uuid": "f0841ef6-a703-4248-9c69-efed21a38e65",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇲🇾 MY | 🔓 VMESS | @NamiraConfigs [37]",
+            "type": "vmess",
+            "server": "47.250.45.234",
+            "server_port": 43063,
+            "uuid": "c77f48f5-4be3-4461-b52b-49998e7b897b",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/vmess/",
+                "path": "/arki",
                 "headers": {
                     "Host": ""
                 }

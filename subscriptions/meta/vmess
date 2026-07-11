@@ -23,7 +23,9 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [42]","type":"vmess","server":"57.129.132.223","port":80,"cipher":"auto","uuid":"a25cbf11-2908-4a1b-a3a8-9a571777dca3","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"Host":"google.com"}}}
+  - {"name":"🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [35]","type":"vmess","server":"31.77.149.99","port":110,"cipher":"auto","uuid":"f0841ef6-a703-4248-9c69-efed21a38e65","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [36]","type":"vmess","server":"31.77.149.99","port":110,"cipher":"auto","uuid":"f0841ef6-a703-4248-9c69-efed21a38e65","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇲🇾 MY | 🔓 VMESS | @NamiraConfigs [37]","type":"vmess","server":"47.250.45.234","port":43063,"cipher":"auto","uuid":"c77f48f5-4be3-4461-b52b-49998e7b897b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/arki","headers":{"Host":"47.250.45.234"}}}
   - {"name":"🚩 CF | 🔒 VMESS | @minovpnch [8]","type":"vmess","server":"188.114.98.0","port":443,"cipher":"auto","uuid":"b7979319-7f19-4143-a488-146328abea93","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"dcedi.ozmxmqcgr.com"}}}
   - {"name":"🇺🇸 US | 🔒 VMESS | @minovpnch [10]","type":"vmess","server":"151.101.66.219","port":443,"cipher":"auto","uuid":"5bc938ed-d4fc-4134-82e6-8f66f58af7f8","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=1024","headers":{"Host":"googleb.net"}}}
   - {"name":"🇺🇸 US | 🔒 VMESS | @minovpnch [11]","type":"vmess","server":"151.101.66.219","port":443,"cipher":"auto","uuid":"2d94dff9-fb62-44c6-8ce8-78eb663f20cd","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=1024","headers":{"Host":"googleb.net"}}}
@@ -51,7 +53,9 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [42]'
+      - '🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [35]'
+      - '🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [36]'
+      - '🇲🇾 MY | 🔓 VMESS | @NamiraConfigs [37]'
       - '🚩 CF | 🔒 VMESS | @minovpnch [8]'
       - '🇺🇸 US | 🔒 VMESS | @minovpnch [10]'
       - '🇺🇸 US | 🔒 VMESS | @minovpnch [11]'
