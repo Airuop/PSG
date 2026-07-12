@@ -92,8 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [39]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [49]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [58]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [59]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [60]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -156,8 +157,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [39]",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [49]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [58]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [59]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [60]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [1]",
                 "🚩 CF | 🔒 VLESS | @aryoovpn [2]",
                 "🚩 CF | 🔓 VLESS | @aryoovpn [3]",
@@ -296,25 +298,16 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [39]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [58]",
             "type": "vless",
-            "server": "fn.fifapes.monster",
-            "server_port": 2090,
-            "uuid": "eab915bc-d2df-73d1-47d0-6eb240497055",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [49]",
-            "type": "vless",
-            "server": "x4g-production-213b.up.railway.app",
-            "server_port": 443,
-            "uuid": "6e475ace-9410-5f61-8ea9-f05fadd1f604",
+            "server": "cf2.danesh-bonyan.com",
+            "server_port": 8443,
+            "uuid": "b916e241-4be3-4a9c-81ca-70b92a0be6c4",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "x4g-production-213b.up.railway.app",
+                "server_name": "b99d8b2aa44534e4504c377660d67a7b.danesh-bonyan.Store",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -323,9 +316,50 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/ws/6e475ace-9410-5f61-8ea9-f05fadd1f604",
+                "path": "/",
                 "headers": {
-                    "Host": "x4g-production-213b.up.railway.app"
+                    "Host": "b99d8b2aa44534e4504c377660d67a7b.danesh-bonyan.Store"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [59]",
+            "type": "vless",
+            "server": "cf1.danesh-bonyan.com",
+            "server_port": 8443,
+            "uuid": "b916e241-4be3-4a9c-81ca-70b92a0be6c4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "b99d8b2aa44534e4504c377660d67a7b.danesh-bonyan.Store",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "b99d8b2aa44534e4504c377660d67a7b.danesh-bonyan.Store"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [60]",
+            "type": "vless",
+            "server": "www.npmjs.com",
+            "server_port": 2095,
+            "uuid": "86c50e3a-5b87-49dd-bd20-03c7f2735e40",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/fp",
+                "headers": {
+                    "Host": "fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
                 }
             }
         },
