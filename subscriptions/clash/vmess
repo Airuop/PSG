@@ -23,8 +23,10 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇩🇪 DE | 🔓 VMESS | @NamiraConfigs [52]","type":"vmess","server":"jazzghost.com","port":8998,"cipher":"auto","uuid":"45e6cc1d-fc2e-4c97-8633-b33caa28e130","alterId":"0","tls":true,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [53]","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [61]","type":"vmess","server":"31.77.149.99","port":110,"cipher":"auto","uuid":"f0841ef6-a703-4248-9c69-efed21a38e65","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇩🇪 DE | 🔓 VMESS | @NamiraConfigs [62]","type":"vmess","server":"kiri2.dlweb.info","port":23793,"cipher":"auto","uuid":"17483fa4-f518-4886-b85e-a5abd76f7314","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇩🇪 DE | 🔓 VMESS | @NamiraConfigs [63]","type":"vmess","server":"jazzghost.com","port":8998,"cipher":"auto","uuid":"45e6cc1d-fc2e-4c97-8633-b33caa28e130","alterId":"0","tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [64]","type":"vmess","server":"165.140.216.141","port":443,"cipher":"auto","uuid":"e7d72a8d-26f2-4b54-b366-0c43e0bcba7d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🚩 CF | 🔒 VMESS | @minovpnch [8]","type":"vmess","server":"188.114.98.0","port":443,"cipher":"auto","uuid":"b7979319-7f19-4143-a488-146328abea93","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"dcedi.ozmxmqcgr.com"}}}
   - {"name":"🇺🇸 US | 🔒 VMESS | @minovpnch [10]","type":"vmess","server":"151.101.66.219","port":443,"cipher":"auto","uuid":"5bc938ed-d4fc-4134-82e6-8f66f58af7f8","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=1024","headers":{"Host":"googleb.net"}}}
   - {"name":"🇺🇸 US | 🔒 VMESS | @minovpnch [11]","type":"vmess","server":"151.101.66.219","port":443,"cipher":"auto","uuid":"2d94dff9-fb62-44c6-8ce8-78eb663f20cd","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=1024","headers":{"Host":"googleb.net"}}}
@@ -52,8 +54,10 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇩🇪 DE | 🔓 VMESS | @NamiraConfigs [52]'
-      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [53]'
+      - '🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [61]'
+      - '🇩🇪 DE | 🔓 VMESS | @NamiraConfigs [62]'
+      - '🇩🇪 DE | 🔓 VMESS | @NamiraConfigs [63]'
+      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [64]'
       - '🚩 CF | 🔒 VMESS | @minovpnch [8]'
       - '🇺🇸 US | 🔒 VMESS | @minovpnch [10]'
       - '🇺🇸 US | 🔒 VMESS | @minovpnch [11]'
