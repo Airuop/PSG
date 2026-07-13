@@ -92,6 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇮🇷 IR | 🔓 VMESS | @NamiraConfigs [65]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
@@ -118,6 +119,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇮🇷 IR | 🔓 VMESS | @NamiraConfigs [65]",
                 "❔ XX | 🔓 VMESS | @jiedianf [1]",
                 "🚩 CF | 🔒 VMESS | @minovpnch [8]",
                 "🇺🇸 US | 🔒 VMESS | @minovpnch [10]",
@@ -218,6 +220,15 @@
                     "Host": "127.0.0.1"
                 }
             }
+        },
+        {
+            "tag": "🇮🇷 IR | 🔓 VMESS | @NamiraConfigs [65]",
+            "type": "vmess",
+            "server": "dn.torontomovie.com",
+            "server_port": 8080,
+            "uuid": "a020b5fa-fa21-4f08-9bcd-95f4de69484c",
+            "security": "auto",
+            "alter_id": 0
         },
         {
             "tag": "❔ XX | 🔓 VMESS | @jiedianf [1]",
