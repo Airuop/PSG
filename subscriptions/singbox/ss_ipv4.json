@@ -92,8 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇨🇭 CH | 🔒 SS | @NamiraConfigs [54]",
-                "🇬🇧 GB | 🔒 SS | @mrclud [25]"
+                "🇨🇭 CH | 🔒 SS | @NamiraConfigs [37]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -104,8 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇨🇭 CH | 🔒 SS | @NamiraConfigs [54]",
-                "🇬🇧 GB | 🔒 SS | @mrclud [25]"
+                "🇨🇭 CH | 🔒 SS | @NamiraConfigs [37]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -192,20 +190,12 @@
             }
         },
         {
-            "tag": "🇨🇭 CH | 🔒 SS | @NamiraConfigs [54]",
+            "tag": "🇨🇭 CH | 🔒 SS | @NamiraConfigs [37]",
             "type": "shadowsocks",
             "server": "45.95.232.138",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "XHYr2n0lkPTtez7RFjWJOK"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 SS | @mrclud [25]",
-            "type": "shadowsocks",
-            "server": "51.142.171.150",
-            "server_port": 49499,
-            "method": "chacha20-ietf-poly1305",
-            "password": "kTjlLxrncKx4i2HIjxfA3M"
         }
     ],
     "route": {
