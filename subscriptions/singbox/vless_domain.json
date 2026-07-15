@@ -92,12 +92,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [57]",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [58]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [59]",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [60]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [65]",
-                "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [66]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [56]",
+                "❔ XX | 🔓 VLESS | @NamiraConfigs [57]",
+                "🇨🇭 CH | 🔓 VLESS | @NamiraConfigs [58]",
+                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [59]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,12 +106,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [57]",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [58]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [59]",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [60]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [65]",
-                "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [66]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [56]",
+                "❔ XX | 🔓 VLESS | @NamiraConfigs [57]",
+                "🇨🇭 CH | 🔓 VLESS | @NamiraConfigs [58]",
+                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [59]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -200,57 +196,16 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [57]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [56]",
             "type": "vless",
-            "server": "my-pp.arminpixel2.workers.dev",
-            "server_port": 2096,
-            "uuid": "631a49ec-2eb5-2215-0cac-9d292696d162",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "my-pp.arminpixel2.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/sync",
-                "headers": {
-                    "Host": "my-pp.arminpixel2.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [58]",
-            "type": "vless",
-            "server": "my-pp.arminpixel2.workers.dev",
-            "server_port": 2095,
-            "uuid": "631a49ec-2eb5-2215-0cac-9d292696d162",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/sync",
-                "headers": {
-                    "Host": "my-pp.arminpixel2.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [59]",
-            "type": "vless",
-            "server": "my-pp.arminpixel2.workers.dev",
+            "server": "x4g-production-88cb7.up.railway.app",
             "server_port": 443,
-            "uuid": "631a49ec-2eb5-2215-0cac-9d292696d162",
+            "uuid": "06d8a94c-72dc-58f2-7b11-f49f782fec02",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "my-pp.arminpixel2.workers.dev",
+                "server_name": "x4g-production-88cb7.up.railway.app",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -259,68 +214,47 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/sync",
+                "path": "/ws/06d8a94c-72dc-58f2-7b11-f49f782fec02",
                 "headers": {
-                    "Host": "my-pp.arminpixel2.workers.dev"
+                    "Host": "x4g-production-88cb7.up.railway.app"
                 }
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [60]",
+            "tag": "❔ XX | 🔓 VLESS | @NamiraConfigs [57]",
             "type": "vless",
-            "server": "my-pp.arminpixel2.workers.dev",
-            "server_port": 8080,
-            "uuid": "631a49ec-2eb5-2215-0cac-9d292696d162",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/sync",
-                "headers": {
-                    "Host": "my-pp.arminpixel2.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [65]",
-            "type": "vless",
-            "server": "media.frdmhere.com",
+            "server": "fi1-website.iramsnew3.ir",
             "server_port": 443,
-            "uuid": "83ddf81d-fffe-49ce-af73-5e71361ce719",
+            "uuid": "ac767c97-53a0-447d-93e0-0d974fa150a9",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "media.frdmhere.com",
+                "server_name": "fi1-website.iramsnew3.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/mp3/all",
-                "headers": {
-                    "Host": "media.frdmhere.com"
-                }
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔓 VLESS | @NamiraConfigs [66]",
+            "tag": "🇨🇭 CH | 🔓 VLESS | @NamiraConfigs [58]",
             "type": "vless",
-            "server": "sos.oakcup.ir",
-            "server_port": 2052,
-            "uuid": "83f61e10-2242-4e33-82fe-045a3e58e3d2",
+            "server": "swiss.motorbazan.com",
+            "server_port": 2087,
+            "uuid": "5652430d-eef1-4b93-bf73-cdea9b445986",
             "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/api",
-                "headers": {
-                    "Host": "sos.oakcup.ir"
-                }
-            }
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [59]",
+            "type": "vless",
+            "server": "ainet.sanaiehdasti.com",
+            "server_port": 1323,
+            "uuid": "f4766125-c009-4f7a-bd4d-4a0d514ba966",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
