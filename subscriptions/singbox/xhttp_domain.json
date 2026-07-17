@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgVk1FU1M=
+//profile-title: base64:UFNHIHwgWEhUVFBfRE9NQUlO
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -92,10 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [63]",
-                "❔ XX | 🔒 VMESS | @NamiraConfigs [64]",
-                "🚩 CF | 🔒 VMESS | @NamiraConfigs [66]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [69]"
+                "🇧🇪 BE | 🔒 VLESS | @NamiraConfigs [54]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,10 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [63]",
-                "❔ XX | 🔒 VMESS | @NamiraConfigs [64]",
-                "🚩 CF | 🔒 VMESS | @NamiraConfigs [66]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [69]"
+                "🇧🇪 BE | 🔒 VLESS | @NamiraConfigs [54]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -196,84 +190,16 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [63]",
-            "type": "vmess",
-            "server": "165.140.216.141",
-            "server_port": 443,
-            "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d",
-            "security": "auto",
-            "alter_id": 0,
+            "tag": "🇧🇪 BE | 🔒 VLESS | @NamiraConfigs [54]",
+            "type": "vless",
+            "server": "cdn1.portalcode.ir",
+            "server_port": 8443,
+            "uuid": "df0e61f6-dd51-49d6-bee7-6d5ff06ae44b",
+            "flow": "",
+            "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VMESS | @NamiraConfigs [64]",
-            "type": "vmess",
-            "server": "speedtestgoogleyahoobingyandexgmailappleaol.andishehnegariran.ir",
-            "server_port": 2087,
-            "uuid": "efdb11ca-8d37-40ab-9ec2-bdfd72ad4a5b",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtestgoogleyahoobingyandexgmailappleaol.andishehnegariran.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/mehdi",
-                "headers": {
-                    "Host": "speedtestgoogleyahoobingyandexgmailappleaol.andishehnegariran.ir"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VMESS | @NamiraConfigs [66]",
-            "type": "vmess",
-            "server": "2cdn.njkrpl.com",
-            "server_port": 443,
-            "uuid": "a0449b33-d7f6-42a5-8bdc-3b5e727ec9f8",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "2cdn.njkrpl.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "2cdn.njkrpl.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [69]",
-            "type": "vmess",
-            "server": "165.140.216.142",
-            "server_port": 443,
-            "uuid": "b65a2d69-5634-42a2-e4be-54e8a6176900",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "165.140.216.142",
+                "server_name": "434df2a384e0a10f.rainzone.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
