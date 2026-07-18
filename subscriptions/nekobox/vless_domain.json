@@ -80,10 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [56]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [60]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [61]",
-                "🇧🇪 BE | 🔒 VLESS | @NamiraConfigs [62]"
+                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [51]",
+                "🇧🇪 BE | 🔒 VLESS | @NamiraConfigs [53]",
+                "🇱🇻 LV | 🔓 VLESS | @NamiraConfigs [59]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -94,10 +93,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [56]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [60]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [61]",
-                "🇧🇪 BE | 🔒 VLESS | @NamiraConfigs [62]"
+                "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [51]",
+                "🇧🇪 BE | 🔒 VLESS | @NamiraConfigs [53]",
+                "🇱🇻 LV | 🔓 VLESS | @NamiraConfigs [59]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -188,50 +186,16 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [56]",
+            "tag": "🇫🇷 FR | 🔓 VLESS | @NamiraConfigs [51]",
             "type": "vless",
-            "server": "d.socialxxmedia.com",
-            "server_port": 200,
-            "uuid": "6bc19aa1-d94b-488c-9b25-47214d371851",
+            "server": "Ppotbfff.dadashinet10.ir",
+            "server_port": 2044,
+            "uuid": "52743398-f47f-4074-a355-fd85076600fd",
             "flow": "",
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [60]",
-            "type": "vless",
-            "server": "nin9.gd.sanaiehdasti.com",
-            "server_port": 1418,
-            "uuid": "81b8aac5-e22e-46aa-91f4-bdf6a686be51",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [61]",
-            "type": "vless",
-            "server": "datacloud.sorvexrt.ir",
-            "server_port": 2096,
-            "uuid": "afeb3ce0-73db-48f3-949e-8bcfe68e7e45",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "gold.apimusicvip.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "gold.apimusicvip.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇧🇪 BE | 🔒 VLESS | @NamiraConfigs [62]",
+            "tag": "🇧🇪 BE | 🔒 VLESS | @NamiraConfigs [53]",
             "type": "vless",
             "server": "cdn1.portalcode.ir",
             "server_port": 8443,
@@ -247,6 +211,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇱🇻 LV | 🔓 VLESS | @NamiraConfigs [59]",
+            "type": "vless",
+            "server": "gr1.fifapes.monster",
+            "server_port": 8882,
+            "uuid": "eab915bc-d2df-73d1-47d0-6eb240497055",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
