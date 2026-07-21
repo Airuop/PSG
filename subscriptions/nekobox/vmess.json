@@ -80,11 +80,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [37]",
-                "🇹🇼 TW | 🔓 VMESS | @NamiraConfigs [38]",
-                "🚩 CF | 🔒 VMESS | @NamiraConfigs [47]",
-                "🇮🇳 IN | 🔓 VMESS | @NamiraConfigs [48]",
-                "🚩 CF | 🔒 VMESS | @NamiraConfigs [49]"
+                "🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [44]",
+                "🇫🇮 FI | 🔓 VMESS | @NamiraConfigs [51]",
+                "🇫🇮 FI | 🔓 VMESS | @NamiraConfigs [52]",
+                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [53]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -95,11 +94,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [37]",
-                "🇹🇼 TW | 🔓 VMESS | @NamiraConfigs [38]",
-                "🚩 CF | 🔒 VMESS | @NamiraConfigs [47]",
-                "🇮🇳 IN | 🔓 VMESS | @NamiraConfigs [48]",
-                "🚩 CF | 🔒 VMESS | @NamiraConfigs [49]"
+                "🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [44]",
+                "🇫🇮 FI | 🔓 VMESS | @NamiraConfigs [51]",
+                "🇫🇮 FI | 🔓 VMESS | @NamiraConfigs [52]",
+                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [53]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -190,7 +188,34 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [37]",
+            "tag": "🇭🇰 HK | 🔓 VMESS | @NamiraConfigs [44]",
+            "type": "vmess",
+            "server": "47.83.221.185",
+            "server_port": 80,
+            "uuid": "771a590c-5eac-5732-b796-17251132f8d2",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇫🇮 FI | 🔓 VMESS | @NamiraConfigs [51]",
+            "type": "vmess",
+            "server": "65.109.219.124",
+            "server_port": 52525,
+            "uuid": "bf973a3b-b285-4369-8c01-1f1e50024a38",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇫🇮 FI | 🔓 VMESS | @NamiraConfigs [52]",
+            "type": "vmess",
+            "server": "65.109.219.124",
+            "server_port": 52525,
+            "uuid": "358f44f0-2686-46c8-9cc6-ec52abd66df4",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [53]",
             "type": "vmess",
             "server": "165.140.216.142",
             "server_port": 443,
@@ -204,81 +229,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇼 TW | 🔓 VMESS | @NamiraConfigs [38]",
-            "type": "vmess",
-            "server": "165.154.195.38",
-            "server_port": 35034,
-            "uuid": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🚩 CF | 🔒 VMESS | @NamiraConfigs [47]",
-            "type": "vmess",
-            "server": "tg.hrmp.kdns.fr",
-            "server_port": 8443,
-            "uuid": "af1ccd89-b66b-44e8-99b8-0d945078c04b",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "tg.hrmp.kdns.fr",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tirexvmess",
-                "headers": {
-                    "Host": "tg.hrmp.kdns.fr"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇳 IN | 🔓 VMESS | @NamiraConfigs [48]",
-            "type": "vmess",
-            "server": "152.67.8.205",
-            "server_port": 80,
-            "uuid": "9db4c708-aef8-4359-821b-38e47990be0d",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "152.67.8.205"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VMESS | @NamiraConfigs [49]",
-            "type": "vmess",
-            "server": "tg.hrmp.kdns.fr",
-            "server_port": 8443,
-            "uuid": "af1ccd89-b66b-44e8-99b8-0d945078c04b",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "tg.hrmp.kdns.fr",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tirexvmess",
-                "headers": {
-                    "Host": "tg.hrmp.kdns.fr"
                 }
             }
         }
