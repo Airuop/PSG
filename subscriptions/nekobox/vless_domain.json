@@ -80,8 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [43]",
-                "🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [45]"
+                "❔ XX | 🔒 VLESS | @NamiraConfigs [39]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [40]",
+                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [47]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -92,8 +93,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [43]",
-                "🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [45]"
+                "❔ XX | 🔒 VLESS | @NamiraConfigs [39]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [40]",
+                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [47]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -184,16 +186,41 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [43]",
+            "tag": "❔ XX | 🔒 VLESS | @NamiraConfigs [39]",
             "type": "vless",
-            "server": "a.samrayan.ir",
-            "server_port": 443,
-            "uuid": "23d6295f-0337-438f-be52-388bbe321ae4",
-            "flow": "xtls-rprx-vision",
+            "server": "hossein1.roozaraa.ir",
+            "server_port": 8083,
+            "uuid": "6e11a95e-3cfb-4473-bd7e-01fe11846a2e",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "a.samrayan.ir",
+                "server_name": "hossein1.roozaraa.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "hossein1.roozaraa.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [40]",
+            "type": "vless",
+            "server": "mci.pictureiran.ir",
+            "server_port": 2087,
+            "uuid": "412d7fbe-7474-4f1d-86c6-7eebdc628f72",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "norway.alfather.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -202,19 +229,25 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔓 VLESS | @NamiraConfigs [45]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [47]",
             "type": "vless",
-            "server": "Tamland.ir",
-            "server_port": 2082,
-            "uuid": "3b42c5de-276f-41db-bd4e-b79038af4b0c",
+            "server": "ger.wafer.fun",
+            "server_port": 443,
+            "uuid": "5a4ea216-9597-4df7-a119-02949a3b6b82",
             "flow": "",
             "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "Tamland.ir"
+            "tls": {
+                "enabled": true,
+                "server_name": "ger.wafer.fun",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Ts7kIzm7a8mYEa7OOaBF"
             }
         }
     ],
