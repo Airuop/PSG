@@ -92,7 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [41]"
+                "🇱🇻 LV | 🔓 VLESS | @NamiraConfigs [37]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [38]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [46]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -103,7 +105,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [41]"
+                "🇱🇻 LV | 🔓 VLESS | @NamiraConfigs [37]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [38]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [46]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -190,7 +194,34 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [41]",
+            "tag": "🇱🇻 LV | 🔓 VLESS | @NamiraConfigs [37]",
+            "type": "vless",
+            "server": "cdn1.beshdash.ir",
+            "server_port": 21972,
+            "uuid": "9d564717-cee2-482f-a841-f7a3af7a08d3",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [38]",
+            "type": "vless",
+            "server": "mci.pictureiran.ir",
+            "server_port": 2087,
+            "uuid": "412d7fbe-7474-4f1d-86c6-7eebdc628f72",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "norway.alfather.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [46]",
             "type": "vless",
             "server": "betty.ns.cloudflare.com",
             "server_port": 443,
