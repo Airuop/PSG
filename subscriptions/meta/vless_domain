@@ -23,9 +23,10 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [42]","type":"vless","server":"de.vpnbase.net","port":80,"uuid":"dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/http","headers":{"Host":"de.vpnbase.net"}}}
-  - {"name":"🚩 CF | 🔓 VLESS | @NamiraConfigs [43]","type":"vless","server":"perplexity.ai","port":2052,"uuid":"74038e5c-ed59-485d-a2fb-2eb9d9891ef5","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"gerdooai.cafebario.ir"}}}
-  - {"name":"🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [45]","type":"vless","server":"zxcvbnm1.roozaraa.ir","port":8880,"uuid":"899a5fb4-c142-4707-9199-69808f1f71e3","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"zxcvbnm1.roozaraa.ir","ws-opts":{"path":"/","headers":{"Host":"zxcvbnm1.roozaraa.ir"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [36]","type":"vless","server":"po.fastbrokencompony.com","port":2053,"uuid":"e7961655-9674-4cbd-a36f-ec0d5d7d660c","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"po.fastbrokencompony.com","ws-opts":{"path":"/","headers":{"Host":"po.fastbrokencompony.com"}}}
+  - {"name":"🚩 CF | 🔓 VLESS | @NamiraConfigs [37]","type":"vless","server":"www.glassdoor.com","port":8880,"uuid":"3bf2781f-63a2-4c38-ad02-2cc337c2f7fa","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/pyip=ProxyIP.SG.CMLiussss.net","headers":{"Host":"silent-heart-175f.325-a85.workers.dev"}}}
+  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [44]","type":"vless","server":"ad-004.vector2llqn.info","port":8443,"uuid":"901fc0c9-ae4c-4d06-9fed-253b25b68a0e","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"ad-004.vector2llqn.info","ws-opts":{"path":"/","headers":{"Host":"ad-004.vector2llqn.info"}}}
+  - {"name":"🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [47]","type":"vless","server":"ara.public.lat","port":58748,"uuid":"21e22226-0b96-4b4e-9a91-5c7f9e3f1760","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -39,9 +40,10 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [42]'
-      - '🚩 CF | 🔓 VLESS | @NamiraConfigs [43]'
-      - '🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [45]'
+      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [36]'
+      - '🚩 CF | 🔓 VLESS | @NamiraConfigs [37]'
+      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [44]'
+      - '🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [47]'
 
   - name: 🌍 Global Media
     type: select
