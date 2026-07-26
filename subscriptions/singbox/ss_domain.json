@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgWEhUVFA=
+//profile-title: base64:UFNHIHwgU1NfRE9NQUlO
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -92,7 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [39]"
+                "🇮🇷 IR | 🔒 SS | @NamiraConfigs [47]",
+                "🇮🇷 IR | 🔒 SS | @NamiraConfigs [48]",
+                "🇮🇷 IR | 🔒 SS | @NamiraConfigs [49]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -103,7 +105,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [39]"
+                "🇮🇷 IR | 🔒 SS | @NamiraConfigs [47]",
+                "🇮🇷 IR | 🔒 SS | @NamiraConfigs [48]",
+                "🇮🇷 IR | 🔒 SS | @NamiraConfigs [49]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -190,22 +194,28 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [39]",
-            "type": "vless",
-            "server": "mci.pictureiran.ir",
-            "server_port": 2087,
-            "uuid": "412d7fbe-7474-4f1d-86c6-7eebdc628f72",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "norway.alfather.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "tag": "🇮🇷 IR | 🔒 SS | @NamiraConfigs [47]",
+            "type": "shadowsocks",
+            "server": "coco3.farajet.net",
+            "server_port": 3030,
+            "method": "chacha20-ietf-poly1305",
+            "password": "0u47xJvp2_pGbA5c13ASHK87DxDwk5zm"
+        },
+        {
+            "tag": "🇮🇷 IR | 🔒 SS | @NamiraConfigs [48]",
+            "type": "shadowsocks",
+            "server": "coco2.farajet.net",
+            "server_port": 2020,
+            "method": "chacha20-ietf-poly1305",
+            "password": "0u47xJvp2_pGbA5c13ASHK87DxDwk5zm"
+        },
+        {
+            "tag": "🇮🇷 IR | 🔒 SS | @NamiraConfigs [49]",
+            "type": "shadowsocks",
+            "server": "coco1.farajet.net",
+            "server_port": 1010,
+            "method": "chacha20-ietf-poly1305",
+            "password": "0u47xJvp2_pGbA5c13ASHK87DxDwk5zm"
         }
     ],
     "route": {

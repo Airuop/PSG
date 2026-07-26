@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgWEhUVFBfRE9NQUlO
+//profile-title: base64:UFNHIHwgU1NfSVBWNA==
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -92,7 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [39]"
+                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [52]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -103,7 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [39]"
+                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [52]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -190,22 +190,12 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [39]",
-            "type": "vless",
-            "server": "mci.pictureiran.ir",
-            "server_port": 2087,
-            "uuid": "412d7fbe-7474-4f1d-86c6-7eebdc628f72",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "norway.alfather.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "tag": "🇮🇪 IE | 🔒 SS | @NamiraConfigs [52]",
+            "type": "shadowsocks",
+            "server": "20.107.187.192",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "vWcimUSiT1rfVM1v"
         }
     ],
     "route": {
