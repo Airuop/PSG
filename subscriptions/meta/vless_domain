@@ -23,7 +23,8 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [57]","type":"vless","server":"a.samrayan.ir","port":443,"uuid":"23d6295f-0337-438f-be52-388bbe321ae4","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"a.samrayan.ir","flow":"xtls-rprx-vision"}
+  - {"name":"🇺🇸 US | 🔒 VLESS | @NamiraConfigs [37]","type":"vless","server":"nl2.levikogjgfdd.ir","port":2087,"uuid":"38a43f18-b4d9-443f-9ff1-4cf9de3d666e","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"valid22.validbv9501.ir","ws-opts":{"path":"/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==","headers":{"Host":"valid22.validbv9501.ir"}}}
+  - {"name":"🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [39]","type":"vless","server":"YaMaL.Sav-savteAm.iR","port":6985,"uuid":"672e23dd-be41-44fc-b606-e6891fee5e6f","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -37,7 +38,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [57]'
+      - '🇺🇸 US | 🔒 VLESS | @NamiraConfigs [37]'
+      - '🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [39]'
 
   - name: 🌍 Global Media
     type: select
