@@ -23,12 +23,8 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [35]","type":"vmess","server":"82.198.246.97","port":180,"cipher":"auto","uuid":"d13fc2f5-3e05-4795-81eb-44143a09e552","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇦🇺 AU | 🔒 SS | @NamiraConfigs [37]","type":"ss","server":"103.106.231.82","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"🇺🇸 US | 🔒 SS | @NamiraConfigs [39]","type":"ss","server":"us1.levikogjgfdd.ir","port":1080,"password":"XF0klw7870vXn3uQIxe19Q","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇩🇪 DE | 🔓 VMESS | @NamiraConfigs [42]","type":"vmess","server":"91.107.139.186","port":51459,"cipher":"auto","uuid":"500cdc83-b189-4d79-b06b-139c7972a57f","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇩🇪 DE | 🔒 VMESS | @NamiraConfigs [43]","type":"vmess","server":"91.107.139.186","port":51459,"cipher":"auto","uuid":"500cdc83-b189-4d79-b06b-139c7972a57f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"raw"}
-  - {"name":"🇸🇬 SG | 🔒 SS | @NamiraConfigs [48]","type":"ss","server":"103.106.229.69","port":9090,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [44]","type":"vmess","server":"82.198.246.97","port":180,"cipher":"auto","uuid":"d13fc2f5-3e05-4795-81eb-44143a09e552","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇷 IR | 🔓 VMESS | @NamiraConfigs [55]","type":"vmess","server":"tun1.wizardx1.com","port":2078,"cipher":"auto","uuid":"8c207682-e007-4a0d-88a3-68b8638b3d10","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -42,12 +38,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [35]'
-      - '🇦🇺 AU | 🔒 SS | @NamiraConfigs [37]'
-      - '🇺🇸 US | 🔒 SS | @NamiraConfigs [39]'
-      - '🇩🇪 DE | 🔓 VMESS | @NamiraConfigs [42]'
-      - '🇩🇪 DE | 🔒 VMESS | @NamiraConfigs [43]'
-      - '🇸🇬 SG | 🔒 SS | @NamiraConfigs [48]'
+      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [44]'
+      - '🇮🇷 IR | 🔓 VMESS | @NamiraConfigs [55]'
 
   - name: 🌍 Global Media
     type: select
