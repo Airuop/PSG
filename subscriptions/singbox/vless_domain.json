@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgU1M=
+//profile-title: base64:UFNHIHwgVkxFU1NfRE9NQUlO
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -92,13 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇪🇸 ES | 🔒 SS | @NamiraConfigs [37]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [40]",
-                "🇷🇺 RU | 🔒 SS | @NamiraConfigs [45]",
-                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [48]",
-                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [49]",
-                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [50]",
-                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [51]"
+                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [47]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,13 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇪🇸 ES | 🔒 SS | @NamiraConfigs [37]",
-                "🇺🇸 US | 🔒 SS | @NamiraConfigs [40]",
-                "🇷🇺 RU | 🔒 SS | @NamiraConfigs [45]",
-                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [48]",
-                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [49]",
-                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [50]",
-                "🇮🇪 IE | 🔒 SS | @NamiraConfigs [51]"
+                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [47]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -202,60 +190,22 @@
             }
         },
         {
-            "tag": "🇪🇸 ES | 🔒 SS | @NamiraConfigs [37]",
-            "type": "shadowsocks",
-            "server": "140.174.184.5",
-            "server_port": 8388,
-            "method": "chacha20-ietf-poly1305",
-            "password": "qItG8SueYQcP"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @NamiraConfigs [40]",
-            "type": "shadowsocks",
-            "server": "193.42.38.209",
-            "server_port": 1080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "XF0klw7870vXn3uQIxe19Q"
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 SS | @NamiraConfigs [45]",
-            "type": "shadowsocks",
-            "server": "193.233.216.247",
-            "server_port": 1080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "eAfQb4p8exIxYlbiO04QPQ"
-        },
-        {
-            "tag": "🇮🇪 IE | 🔒 SS | @NamiraConfigs [48]",
-            "type": "shadowsocks",
-            "server": "104.46.88.136",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [47]",
+            "type": "vless",
+            "server": "nasnet-162191099-direct.mbghalibaf.com",
             "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Gml2e6zluIa8WSpN"
-        },
-        {
-            "tag": "🇮🇪 IE | 🔒 SS | @NamiraConfigs [49]",
-            "type": "shadowsocks",
-            "server": "20.123.9.48",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "bX297As31bQMRsLP"
-        },
-        {
-            "tag": "🇮🇪 IE | 🔒 SS | @NamiraConfigs [50]",
-            "type": "shadowsocks",
-            "server": "104.46.88.136",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "BLenXy8jlIgSbafc"
-        },
-        {
-            "tag": "🇮🇪 IE | 🔒 SS | @NamiraConfigs [51]",
-            "type": "shadowsocks",
-            "server": "104.46.88.136",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "mffAKRtk8wJi8fFu"
+            "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "nasnet-162191099-direct.mbghalibaf.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         }
     ],
     "route": {
