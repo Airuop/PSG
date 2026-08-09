@@ -92,12 +92,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [37]",
-                "🇸🇪 SE | 🔓 VLESS | @NamiraConfigs [40]",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [42]",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [43]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [48]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [49]"
+                "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [48]",
+                "🇸🇪 SE | 🔓 VLESS | @NamiraConfigs [51]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [53]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [54]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [59]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,12 +107,11 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [37]",
-                "🇸🇪 SE | 🔓 VLESS | @NamiraConfigs [40]",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [42]",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [43]",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [48]",
-                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [49]"
+                "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [48]",
+                "🇸🇪 SE | 🔓 VLESS | @NamiraConfigs [51]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [53]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [54]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [59]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -200,7 +198,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [37]",
+            "tag": "🇫🇮 FI | 🔓 VLESS | @NamiraConfigs [48]",
             "type": "vless",
             "server": "65.109.208.236",
             "server_port": 26795,
@@ -209,7 +207,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇸🇪 SE | 🔓 VLESS | @NamiraConfigs [40]",
+            "tag": "🇸🇪 SE | 🔓 VLESS | @NamiraConfigs [51]",
             "type": "vless",
             "server": "194.87.30.161",
             "server_port": 22647,
@@ -225,7 +223,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [42]",
+            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [53]",
             "type": "vless",
             "server": "172.67.207.26",
             "server_port": 8880,
@@ -241,7 +239,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [43]",
+            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [54]",
             "type": "vless",
             "server": "172.67.215.44",
             "server_port": 2052,
@@ -257,7 +255,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [48]",
+            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [59]",
             "type": "vless",
             "server": "104.17.66.0",
             "server_port": 8443,
@@ -278,22 +276,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "subsanaei.pannelman.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [49]",
-            "type": "vless",
-            "server": "146.75.119.82",
-            "server_port": 80,
-            "uuid": "e245d6f1-d99c-47cb-b3f4-edf12f0c73b8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048",
-                "headers": {
-                    "Host": "146.75.119.82"
                 }
             }
         }
