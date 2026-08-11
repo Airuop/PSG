@@ -23,7 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇮🇷 IR | 🔓 VLESS | @NamiraConfigs [55]","type":"vless","server":"95.lorqino.ir","port":998,"uuid":"928cfab8-097c-4f24-9bad-0d6e2abdfc66","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/mmd","headers":{"Host":"95.lorqino.ir"}}}
+  - {"name":"🇺🇸 US | 🔓 VMESS | @NamiraConfigs [36]","type":"vmess","server":"82.198.246.233","port":180,"cipher":"auto","uuid":"d13fc2f5-3e05-4795-81eb-44143a09e552","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -37,7 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇮🇷 IR | 🔓 VLESS | @NamiraConfigs [55]'
+      - '🇺🇸 US | 🔓 VMESS | @NamiraConfigs [36]'
 
   - name: 🌍 Global Media
     type: select
