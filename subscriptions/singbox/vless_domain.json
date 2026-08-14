@@ -92,8 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [47]",
-                "🇮🇷 IR | 🔓 VLESS | @NamiraConfigs [49]"
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -104,8 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [47]",
-                "🇮🇷 IR | 🔓 VLESS | @NamiraConfigs [49]"
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -192,16 +190,16 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [47]",
+            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [48]",
             "type": "vless",
-            "server": "c2.nyanners.ir",
+            "server": "app-q0zc4t.user-4gfyh5.workers.dev",
             "server_port": 443,
-            "uuid": "956d6917-0f67-4515-aafa-d6210312648d",
+            "uuid": "07f9bc85-613f-4a33-8da1-191973c43c0a",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ilia1.ironmouse.ir",
+                "server_name": "app-q0zc4t.user-4gfyh5.workers.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -210,20 +208,11 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/ws",
+                "path": "/cmh",
                 "headers": {
-                    "Host": "ilia1.ironmouse.ir"
+                    "Host": "app-q0zc4t.user-4gfyh5.workers.dev"
                 }
             }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @NamiraConfigs [49]",
-            "type": "vless",
-            "server": "tuntr.supros.ir",
-            "server_port": 2095,
-            "uuid": "bf58f3cd-7c8c-4650-bd7a-028df18b3ba0",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {
