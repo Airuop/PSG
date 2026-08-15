@@ -80,8 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [46]",
-                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [49]"
+                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -92,8 +91,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔓 VLESS | @NamiraConfigs [46]",
-                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [49]"
+                "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -184,36 +182,27 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [46]",
+            "tag": "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [48]",
             "type": "vless",
-            "server": "billowing-wind-5b29.133-323.workers.dev",
-            "server_port": 8880,
-            "uuid": "c18fd69e-92ba-446e-981b-213dbb551593",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/pyip=ProxyIP.KR.CMLiussss.net",
-                "headers": {
-                    "Host": "billowing-wind-5b29.133-323.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷 IR | 🔒 VLESS | @NamiraConfigs [49]",
-            "type": "vless",
-            "server": "a.samrayan.ir",
+            "server": "iribnewreport.watch-out.ir",
             "server_port": 443,
-            "uuid": "23d6295f-0337-438f-be52-388bbe321ae4",
-            "flow": "xtls-rprx-vision",
+            "uuid": "b4e9234c-4517-400b-ac85-4e4b37657838",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "a.samrayan.ir",
+                "server_name": "iribnewreport.watch-out.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/j/47164",
+                "headers": {
+                    "Host": "iribnewreport.watch-out.ir"
                 }
             }
         }
