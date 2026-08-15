@@ -92,9 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔓 VMESS | @NamiraConfigs [49]",
-                "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [50]",
-                "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [52]"
+                "🇫🇮 FI | 🔓 VMESS | @NamiraConfigs [47]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -105,9 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔓 VMESS | @NamiraConfigs [49]",
-                "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [50]",
-                "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [52]"
+                "🇫🇮 FI | 🔓 VMESS | @NamiraConfigs [47]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -194,38 +190,13 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🔓 VMESS | @NamiraConfigs [49]",
+            "tag": "🇫🇮 FI | 🔓 VMESS | @NamiraConfigs [47]",
             "type": "vmess",
-            "server": "168.222.49.188",
-            "server_port": 80,
-            "uuid": "055de40d-c5d0-4064-b124-949ba284c3b4",
+            "server": "65.109.178.10",
+            "server_port": 2086,
+            "uuid": "f6361af8-bb8f-4609-bf5d-3fc0f688f47b",
             "security": "auto",
             "alter_id": 0
-        },
-        {
-            "tag": "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [50]",
-            "type": "vmess",
-            "server": "66.163.117.58",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [52]",
-            "type": "vmess",
-            "server": "57.129.132.223",
-            "server_port": 80,
-            "uuid": "a25cbf11-2908-4a1b-a3a8-9a571777dca3",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/vmess/",
-                "headers": {
-                    "Host": ""
-                }
-            }
         }
     ],
     "route": {
