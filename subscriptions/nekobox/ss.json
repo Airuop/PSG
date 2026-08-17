@@ -80,7 +80,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [55]"
+                "🇳🇱 NL | 🔒 SS | @NamiraConfigs [38]",
+                "🇳🇱 NL | 🔒 SS | @NamiraConfigs [39]",
+                "🇵🇱 PL | 🔒 SS | @NamiraConfigs [40]",
+                "🇿🇦 ZA | 🔒 SS | @NamiraConfigs [41]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -91,7 +94,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔒 VLESS | @NamiraConfigs [55]"
+                "🇳🇱 NL | 🔒 SS | @NamiraConfigs [38]",
+                "🇳🇱 NL | 🔒 SS | @NamiraConfigs [39]",
+                "🇵🇱 PL | 🔒 SS | @NamiraConfigs [40]",
+                "🇿🇦 ZA | 🔒 SS | @NamiraConfigs [41]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -182,29 +188,36 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [55]",
-            "type": "vless",
-            "server": "po.fastbrokencompony.com",
-            "server_port": 2053,
-            "uuid": "e7961655-9674-4cbd-a36f-ec0d5d7d660c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "po.fastbrokencompony.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "po.fastbrokencompony.com"
-                }
-            }
+            "tag": "🇳🇱 NL | 🔒 SS | @NamiraConfigs [38]",
+            "type": "shadowsocks",
+            "server": "193.29.139.235",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 SS | @NamiraConfigs [39]",
+            "type": "shadowsocks",
+            "server": "193.29.139.151",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "tag": "🇵🇱 PL | 🔒 SS | @NamiraConfigs [40]",
+            "type": "shadowsocks",
+            "server": "54.36.174.140",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ytw2awn"
+        },
+        {
+            "tag": "🇿🇦 ZA | 🔒 SS | @NamiraConfigs [41]",
+            "type": "shadowsocks",
+            "server": "4.168.234.5",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "LY94CL8HouUwEPF3"
         }
     ],
     "route": {
