@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgVk1FU1NfRE9NQUlO
+//profile-title: base64:UFNHIHwgUkVBTElUWQ==
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -92,12 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [53]",
-                "🇹🇼 TW | 🔓 VMESS | @NamiraConfigs [55]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [58]",
-                "🇺🇸 US | 🔒 VMESS | @NamiraConfigs [59]",
-                "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [60]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [61]"
+                "🇹🇷 TR | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,12 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [53]",
-                "🇹🇼 TW | 🔓 VMESS | @NamiraConfigs [55]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [58]",
-                "🇺🇸 US | 🔒 VMESS | @NamiraConfigs [59]",
-                "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [60]",
-                "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [61]"
+                "🇹🇷 TR | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -200,58 +190,27 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [53]",
-            "type": "vmess",
-            "server": "82.198.246.97",
-            "server_port": 180,
-            "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇹🇼 TW | 🔓 VMESS | @NamiraConfigs [55]",
-            "type": "vmess",
-            "server": "165.154.195.38",
-            "server_port": 35034,
-            "uuid": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [58]",
-            "type": "vmess",
-            "server": "82.198.246.233",
-            "server_port": 180,
-            "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VMESS | @NamiraConfigs [59]",
-            "type": "vmess",
-            "server": "82.198.246.37",
-            "server_port": 180,
-            "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇬🇧 GB | 🔓 VMESS | @NamiraConfigs [60]",
-            "type": "vmess",
-            "server": "66.163.117.58",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VMESS | @NamiraConfigs [61]",
-            "type": "vmess",
-            "server": "82.198.246.250",
-            "server_port": 180,
-            "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-            "security": "auto",
-            "alter_id": 0
+            "tag": "🇹🇷 TR | 🔒 VLESS | @NamiraConfigs [48]",
+            "type": "vless",
+            "server": "sos2.speedit.ir",
+            "server_port": 443,
+            "uuid": "bb65d1fa-f051-4e59-834c-92476bfb5e76",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "cAxXNYa_hg_WJxa5jRWupnQf9J-OfShX0tqXvpWeZVc",
+                    "short_id": "203afac07a"
+                }
+            }
         }
     ],
     "route": {
