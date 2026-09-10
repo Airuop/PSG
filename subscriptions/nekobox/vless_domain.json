@@ -80,9 +80,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [51]",
-                "❔ XX | 🔓 VLESS | @NamiraConfigs [52]",
-                "🇨🇦 CA | 🔒 VLESS | @NamiraConfigs [54]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [41]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [49]",
+                "❔ XX | 🔓 VLESS | @NamiraConfigs [55]",
+                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [56]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -93,9 +94,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [51]",
-                "❔ XX | 🔓 VLESS | @NamiraConfigs [52]",
-                "🇨🇦 CA | 🔒 VLESS | @NamiraConfigs [54]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [41]",
+                "🚩 CF | 🔓 VLESS | @NamiraConfigs [49]",
+                "❔ XX | 🔓 VLESS | @NamiraConfigs [55]",
+                "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [56]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -186,34 +188,16 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [51]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [41]",
             "type": "vless",
-            "server": "vip-nl-1.hkd4fwmg.vip",
-            "server_port": 31883,
-            "uuid": "20593145-d975-46f9-9bad-d9f3c8e2d899",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "vip-nl-1.hkd4fwmg.vip",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔓 VLESS | @NamiraConfigs [52]",
-            "type": "vless",
-            "server": "neth6.lckdwn.ru",
+            "server": "spiderpanel-production-aedc.up.railway.app",
             "server_port": 443,
-            "uuid": "14da77da-4fb3-4e49-ac4f-7881ea19b267",
+            "uuid": "b9724ecb-a72d-41e6-be9d-86d64fed9204",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "neth6.lckdwn.ru",
+                "server_name": "spiderpanel-production-aedc.up.railway.app",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -222,29 +206,45 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/ws/b9724ecb-a72d-41e6-be9d-86d64fed9204",
                 "headers": {
-                    "Host": "neth6.lckdwn.ru"
+                    "Host": "spiderpanel-production-aedc.up.railway.app"
                 }
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔒 VLESS | @NamiraConfigs [54]",
+            "tag": "🚩 CF | 🔓 VLESS | @NamiraConfigs [49]",
             "type": "vless",
-            "server": "lizca2.footballfantasyforum.com",
-            "server_port": 443,
-            "uuid": "716426fa-bcb7-4eb9-b460-36399ebf740d",
+            "server": "undef.network",
+            "server_port": 2052,
+            "uuid": "b0a6832e-e6a3-491c-8137-fee5a7912ed4",
             "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "lizca2.footballfantasyforum.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+            "transport": {
+                "type": "ws",
+                "path": "/@BlueKnight_net--@BlueKnight_net",
+                "headers": {
+                    "Host": "undef.network"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @NamiraConfigs [55]",
+            "type": "vless",
+            "server": "turk.mamadhpbot.ir",
+            "server_port": 50118,
+            "uuid": "93ee032f-b67f-4cac-a239-da1295aec528",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [56]",
+            "type": "vless",
+            "server": "germanndnew.mamadhpbot.ir",
+            "server_port": 50118,
+            "uuid": "93ee032f-b67f-4cac-a239-da1295aec528",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
