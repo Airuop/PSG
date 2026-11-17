@@ -1,0 +1,91 @@
+mixed-port: 7890
+allow-lan: true
+log-level: info
+external-controller: 0.0.0.0:9090
+
+dns:
+  enabled: true
+  listen: 0.0.0.0:1053
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  nameserver:
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+  fake-ip-filter:
+    - '*.lan'
+    - '*.local'
+    - '*.msftconnecttest.com'
+    - '*.msftncsi.com'
+    - '+.pool.ntp.org'
+
+proxies: 
+  - {"name":"🇧🇾 BY | 🔒 VLESS | @NamiraConfigs [40]","type":"vless","server":"bl1.nexfile.net","port":4443,"uuid":"a35c508f-4d5d-4531-842e-6e9d43c762c0","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"bl1.nexfile.net"}
+  - {"name":"🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [43]","type":"vless","server":"pl3.fox-lisa.ru","port":443,"uuid":"ccb8ff48-3934-4250-b4ec-bb76b95d154f","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"pl3.fox-lisa.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs","short-id":"027af64166562b09"}}
+  - {"name":"🇺🇸 US | 🔒 VLESS | @NamiraConfigs [46]","type":"vless","server":"render.com","port":2053,"uuid":"49fe1f7b-e6f6-43dc-a67d-caade85128ba","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"org-nether-soeiwhal-bssutudhdhese-beqhjdwter.maniyadg7shard.ir"}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [50]","type":"vless","server":"afshin.daltoonserver.ir","port":8989,"uuid":"36079649-5841-485b-ba94-0f7b427db146","tls":true,"network":"xhttp","client-fingerprint":"firefox","udp":true,"servername":"s6-sms-cdn.ecom-stg.samsung.con","reality-opts":{"public-key":"5DVeaUVfUfD6bRT6pMDiRa70i6m1NrNp8tFNS9xf4yo","short-id":"4210c5901a6ba9da"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [52]","type":"vless","server":"chs.luna-nodes.com","port":443,"uuid":"f0cd939d-966a-4dc9-9454-ea0b4907f3ca","tls":true,"network":"tcp","client-fingerprint":"edge","udp":true,"servername":"www.zalando.de","flow":"xtls-rprx-vision","reality-opts":{"public-key":"GpLubTQ3oydi4lmzzkG14GQLVFZbt8rdSTDy684rkn8","short-id":"5d710a72f5"}}
+
+proxy-groups:
+  - name: 🚀 Proxy
+    type: select
+    proxies:
+      - ♻️ Auto
+      - 🎯 Direct
+
+  - name: ♻️ Auto
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies: 
+      - '🇧🇾 BY | 🔒 VLESS | @NamiraConfigs [40]'
+      - '🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [43]'
+      - '🇺🇸 US | 🔒 VLESS | @NamiraConfigs [46]'
+      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [50]'
+      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [52]'
+
+  - name: 🌍 Global Media
+    type: select
+    proxies:
+      - 🚀 Proxy
+      - ♻️ Auto
+      - 🎯 Direct
+
+  - name: 🎯 Direct
+    type: select
+    proxies:
+      - DIRECT
+
+  - name: 🛑 Ad Block
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
+  - name: 🐟 Fallback
+    type: select
+    proxies:
+      - 🚀 Proxy
+      - 🎯 Direct
+
+rules:
+  - DOMAIN-KEYWORD,adservice,🛑 Ad Block
+  - DOMAIN-SUFFIX,googlesyndication.com,🛑 Ad Block
+  - DOMAIN-SUFFIX,netflix.com,🌍 Global Media
+  - DOMAIN-SUFFIX,nflxvideo.net,🌍 Global Media
+  - DOMAIN-SUFFIX,disneyplus.com,🌍 Global Media
+  - DOMAIN-KEYWORD,youtube,🌍 Global Media
+  - DOMAIN-SUFFIX,t.me,🚀 Proxy
+  - DOMAIN-SUFFIX,telegram.org,🚀 Proxy
+  - DOMAIN-SUFFIX,openai.com,🚀 Proxy
+  - DOMAIN-SUFFIX,lan,🎯 Direct
+  - DOMAIN-SUFFIX,local,🎯 Direct
+  - IP-CIDR,127.0.0.0/8,🎯 Direct,no-resolve
+  - IP-CIDR,192.168.0.0/16,🎯 Direct,no-resolve
+  - IP-CIDR,10.0.0.0/8,🎯 Direct,no-resolve
+  - IP-CIDR,172.16.0.0/12,🎯 Direct,no-resolve
+  - GEOIP,IR,🎯 Direct
+  - MATCH,🐟 Fallback
