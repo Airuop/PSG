@@ -23,10 +23,12 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [42]","type":"vless","server":"203.57.82.107","port":443,"uuid":"a30903dc-1bf0-4be5-8b1b-603a3a56211c","tls":true,"network":"tcp","client-fingerprint":null,"udp":true,"servername":"api-io-mgr.galioncc.com","reality-opts":{"public-key":"drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ","short-id":"9a3f6c21d8e047b5"}}
-  - {"name":"🇪🇪 EE | 🔒 VLESS | @NamiraConfigs [44]","type":"vless","server":"141.0.187.7","port":11443,"uuid":"f24e8412-9d11-49db-9736-edab5d6fb707","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"141.0.187.6","flow":"xtls-rprx-vision","reality-opts":{"public-key":"945vNebBQgPKkgABK0nHHRh35q3gVrmaUbShAVBRSWg","short-id":"21bb339df984afbd"}}
-  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [51]","type":"vless","server":"104.18.151.231","port":443,"uuid":"eaf76557-2219-4799-8171-d7020adfefd0","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"shiny-base-4d9a.mifolan4697928.workers.dev"}}}
-  - {"name":"🇺🇸 US | 🔒 VLESS | @NamiraConfigs [54]","type":"vless","server":"216.24.57.1","port":2083,"uuid":"49fe1f7b-e6f6-43dc-a67d-caade85128ba","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"enorgg.maniyadg7shard.ir"}
+  - {"name":"🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [38]","type":"vless","server":"164.37.111.78","port":8080,"uuid":"7def466a-5810-47cd-b56a-402f28dd03bf","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"tgju.org","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tIQQp41fRrliguh9hOjPdKHkR5P_tFHqfhpHU_SKazc","short-id":"eb11f7630faaaf60"}}
+  - {"name":"🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [40]","type":"vless","server":"150.251.142.97","port":2053,"uuid":"3be8be9d-5afc-481b-966f-ab683914ce59","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"www.samsung.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y","short-id":"cc981b746a300649"}}
+  - {"name":"🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [41]","type":"vless","server":"130.78.31.44","port":443,"uuid":"df97ce68-477f-4484-94c7-79eccab7319d","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"pol5.angelsleep9.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"Fgl3cxer1ZznUcZpuUQZnqdSkqwwFepl5W4o6Lk0mEc"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [43]","type":"vless","server":"140.225.208.143","port":2083,"uuid":"3be8be9d-5afc-481b-966f-ab683914ce59","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"onecloudstream.com","ws-opts":{"path":"/vless-ws","headers":{"Host":"140.225.208.143"}}}
+  - {"name":"🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [44]","type":"vless","server":"89.105.212.9","port":443,"uuid":"3be8be9d-5afc-481b-966f-ab683914ce59","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"onf.ru","grpc-opts":{"grpc-service-name":"grpc"},"reality-opts":{"public-key":"ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk","short-id":"5c766813929a1fdd"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [49]","type":"vless","server":"77.90.47.14","port":8443,"uuid":"483c6187-3c8d-436b-8413-536c2c87b70c","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"badewelt-sinsheim.de","flow":"xtls-rprx-vision","reality-opts":{"public-key":"uWoKxXeFb0l5-mZnpGpoW9lCY4KmOeayGklp2WUNgxA","short-id":"1d151a49"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -40,10 +42,12 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [42]'
-      - '🇪🇪 EE | 🔒 VLESS | @NamiraConfigs [44]'
-      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [51]'
-      - '🇺🇸 US | 🔒 VLESS | @NamiraConfigs [54]'
+      - '🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [38]'
+      - '🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [40]'
+      - '🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [41]'
+      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [43]'
+      - '🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [44]'
+      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [49]'
 
   - name: 🌍 Global Media
     type: select

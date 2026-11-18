@@ -80,7 +80,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [54]"
+                "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [37]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -91,7 +91,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [54]"
+                "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [37]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -182,20 +182,25 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [54]",
-            "type": "vless",
-            "server": "216.24.57.1",
-            "server_port": 2083,
-            "uuid": "49fe1f7b-e6f6-43dc-a67d-caade85128ba",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [37]",
+            "type": "trojan",
+            "server": "cmdfghrety-production.up.railway.app",
+            "server_port": 443,
+            "password": "zi-xIc935WTzUG-g",
             "tls": {
                 "enabled": true,
-                "server_name": "enorgg.maniyadg7shard.ir",
+                "server_name": "cmdfghrety-production.up.railway.app",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/api/g7iw3m",
+                "headers": {
+                    "Host": "cmdfghrety-production.up.railway.app"
                 }
             }
         }

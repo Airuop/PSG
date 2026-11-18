@@ -92,10 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [43]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [48]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [49]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [50]"
+                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [42]",
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [48]",
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [51]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -106,10 +105,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [43]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [48]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [49]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [50]"
+                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [42]",
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [48]",
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [51]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -196,16 +194,16 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [43]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [42]",
             "type": "vless",
-            "server": "n4.topingr.ir",
-            "server_port": 8080,
-            "uuid": "593e177b-fcba-48d0-bd81-9c54be5bfd93",
+            "server": "nln12.mobileemdad.top",
+            "server_port": 443,
+            "uuid": "7def466a-5810-47cd-b56a-402f28dd03bf",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.tgju.org",
+                "server_name": "delivery.mp.microsoft.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -213,77 +211,54 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SAW3BGJNg72vtXHswOafte0QqaIEjM1dD1vZahkwJlk",
-                    "short_id": "73693dea6faae051"
+                    "public_key": "PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ",
+                    "short_id": "f88610dd"
                 }
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [48]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [48]",
             "type": "vless",
-            "server": "n3.topingr.ir",
-            "server_port": 8080,
-            "uuid": "593e177b-fcba-48d0-bd81-9c54be5bfd93",
+            "server": "panel.jorvexo.ir",
+            "server_port": 1152,
+            "uuid": "42455d33-3ca0-48f4-afee-1b1b7621adb1",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.tgju.org",
+                "server_name": "in.tradingview.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "ios"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SAW3BGJNg72vtXHswOafte0QqaIEjM1dD1vZahkwJlk",
-                    "short_id": "73693dea6faae051"
+                    "public_key": "Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE",
+                    "short_id": "ead6bdba606219a2"
                 }
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [49]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [51]",
             "type": "vless",
-            "server": "n1.topingr.ir",
-            "server_port": 8080,
-            "uuid": "593e177b-fcba-48d0-bd81-9c54be5bfd93",
+            "server": "panel.jorvexo.ir",
+            "server_port": 1152,
+            "uuid": "ef500b05-a5e8-4446-bbe3-cb836cc4fc46",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.tgju.org",
+                "server_name": "in.tradingview.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "ios"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SAW3BGJNg72vtXHswOafte0QqaIEjM1dD1vZahkwJlk",
-                    "short_id": "73693dea6faae051"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [50]",
-            "type": "vless",
-            "server": "n2.topingr.ir",
-            "server_port": 8080,
-            "uuid": "593e177b-fcba-48d0-bd81-9c54be5bfd93",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "ios"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "SAW3BGJNg72vtXHswOafte0QqaIEjM1dD1vZahkwJlk",
-                    "short_id": "433e30cfbff1b1da"
+                    "public_key": "Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE",
+                    "short_id": "ead6bdba606219a2"
                 }
             }
         }

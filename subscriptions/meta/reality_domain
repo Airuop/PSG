@@ -23,7 +23,8 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [48]","type":"vless","server":"panel.jorvexo.ir","port":1152,"uuid":"42455d33-3ca0-48f4-afee-1b1b7621adb1","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"in.tradingview.com","reality-opts":{"public-key":"Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE","short-id":"ead6bdba606219a2"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [51]","type":"vless","server":"panel.jorvexo.ir","port":1152,"uuid":"ef500b05-a5e8-4446-bbe3-cb836cc4fc46","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"in.tradingview.com","reality-opts":{"public-key":"Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE","short-id":"ead6bdba606219a2"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -37,7 +38,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-
+      - '🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [48]'
+      - '🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [51]'
 
   - name: 🌍 Global Media
     type: select
