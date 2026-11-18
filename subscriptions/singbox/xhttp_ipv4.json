@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgVFJPSkFOX0RPTUFJTg==
+//profile-title: base64:UFNHIHwgWEhUVFBfSVBWNA==
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -92,7 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [37]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [53]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -103,7 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [37]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [53]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -190,25 +190,25 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [37]",
-            "type": "trojan",
-            "server": "cmdfghrety-production.up.railway.app",
-            "server_port": 443,
-            "password": "zi-xIc935WTzUG-g",
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [53]",
+            "type": "vless",
+            "server": "185.92.180.124",
+            "server_port": 60005,
+            "uuid": "178b6a10-50ed-4de4-af64-c6da7192722a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "cmdfghrety-production.up.railway.app",
+                "server_name": "aparat.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/api/g7iw3m",
-                "headers": {
-                    "Host": "cmdfghrety-production.up.railway.app"
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Tgc-ojZhTTRr-NhluOSFQ0xx3PmPg_EUg-AoUOO2rmU",
+                    "short_id": "97"
                 }
             }
         }
