@@ -23,20 +23,21 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🚩 CF | 🔒 VLESS | @NamiraConfigs [43]","type":"vless","server":"104.18.151.231","port":443,"uuid":"eaf76557-2219-4799-8171-d7020adfefd0","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"hidden-star-98c5.tebohi79684008.workers.dev","ws-opts":{"path":"/ws","headers":{"Host":"hidden-star-98c5.tebohi79684008.workers.dev"}}}
-  - {"name":"🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [44]","type":"vless","server":"45.95.98.139","port":443,"uuid":"12465689-099c-414f-9fbb-1135a4ab2504","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"45.95.98.130","flow":"xtls-rprx-vision"}
-  - {"name":"🇺🇸 US | 🔒 VLESS | @NamiraConfigs [45]","type":"vless","server":"slot4.ipoxxo.online","port":2083,"uuid":"b89530d7-ed6b-415e-aff7-152ab5217daa","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"github.com","reality-opts":{"public-key":"nsygKb893m_SuA1BfH55efjT0sQlJQDCwIWGM8krawQ","short-id":"b5870ad75616c0da"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [46]","type":"vless","server":"48.103.120.10","port":443,"uuid":"a30903dc-1bf0-4be5-8b1b-603a3a56211c","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"net-rt-mgr.galioncc.com","reality-opts":{"public-key":"drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ","short-id":"868419504747f6de"}}
-  - {"name":"🇦🇱 AL | 🔒 VLESS | @NamiraConfigs [47]","type":"vless","server":"31.171.155.50","port":443,"uuid":"a62e2eb6-d856-4710-9f9c-5c3d11cbf25a","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"wN3kA3qfTAb0xc7OxCuGNm97ys0ZyO5yav62022dDBk"}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [48]","type":"vless","server":"138.124.36.78","port":443,"uuid":"12465689-099c-414f-9fbb-1135a4ab2504","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"flow":"xtls-rprx-vision"}
-  - {"name":"🚩 CF | 🔒 TROJAN | @NamiraConfigs [49]","type":"trojan","server":"104.20.26.192","port":2053,"password":"IDgAbZbs8cZw","skip-cert-verify":false}
-  - {"name":"🇪🇪 EE | 🔒 VLESS | @NamiraConfigs [50]","type":"vless","server":"5.1.40.71","port":2083,"uuid":"240af353-dccb-4cf6-a2d5-01457bb6fbb7","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"onecloudstream.com","ws-opts":{"path":"/vless-ws","headers":{"Host":"5.1.40.71"}}}
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [51]","type":"vless","server":"debrsh.fastshot.net","port":8443,"uuid":"e3209762-84ba-47f2-b8e1-b92a0e25ecd2","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"ai.android","reality-opts":{"public-key":"60LA-TRT-K73TrC2_7QVHP-XU_wekDjwhVoNdy7FqAM","short-id":"fae4ccf9198293"}}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [52]","type":"vless","server":"fdh8.gmax12.ir","port":8080,"uuid":"68c221ef-5582-4770-a30c-483e52410c9a","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"tgju.org","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tIQQp41fRrliguh9hOjPdKHkR5P_tFHqfhpHU_SKazc","short-id":"eb11f7630faaaf60"}}
-  - {"name":"🇺🇸 US | 🔒 VLESS | @NamiraConfigs [53]","type":"vless","server":"185.92.180.124","port":60005,"uuid":"178b6a10-50ed-4de4-af64-c6da7192722a","tls":true,"network":"xhttp","client-fingerprint":"firefox","udp":true,"servername":"aparat.com","reality-opts":{"public-key":"Tgc-ojZhTTRr-NhluOSFQ0xx3PmPg_EUg-AoUOO2rmU","short-id":"97"}}
-  - {"name":"🇨🇭 CH | 🔒 TROJAN | @NamiraConfigs [54]","type":"trojan","server":"208.69.78.208","port":443,"password":"0ab6c98dae3b48e8b9c4a776b6c9c19a","skip-cert-verify":false}
-  - {"name":"🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [55]","type":"vless","server":"panel.jorvexo.ir","port":1152,"uuid":"0ec134d1-307a-42ca-880c-4a7a09c7450d","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"in.tradingview.com","reality-opts":{"public-key":"Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE","short-id":"ead6bdba606219a2"}}
-  - {"name":"🇺🇸 US | 🔒 VLESS | @NamiraConfigs [56]","type":"vless","server":"alb1.angelsleep9.com","port":443,"uuid":"df97ce68-477f-4484-94c7-79eccab7319d","tls":true,"network":"raw","client-fingerprint":"firefox","udp":true,"servername":"alb1.angelsleep9.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tXhsg663V1Ia_YWMtQMWQRaZouyONXknQ16OLMAdFXs","short-id":"28ffd89d510a739b"}}
+  - {"name":"🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [37]","type":"vless","server":"honeycombnode.website","port":443,"uuid":"17c068a5-97cb-40a2-bf60-215b749c0508","tls":true,"network":"tcp","client-fingerprint":"qq","udp":true,"servername":"honeycombnode.website","flow":"xtls-rprx-vision","reality-opts":{"public-key":"7EY13JUT6TfZc9Jnk-SiZL3foUw6PA56byhCQi1szxs","short-id":"be5f517e33cb153f"}}
+  - {"name":"🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [38]","type":"vless","server":"astralnote.space","port":443,"uuid":"17c068a5-97cb-40a2-bf60-215b749c0508","tls":true,"network":"tcp","client-fingerprint":"qq","udp":true,"servername":"astralnote.space","flow":"xtls-rprx-vision","reality-opts":{"public-key":"RcPNBbJIiuFtYkgKJ3PhlBvAYxe9GD2DU_1F8iTzlSY","short-id":"b88c99d593511774"}}
+  - {"name":"🇺🇸 US | 🔒 VLESS | @NamiraConfigs [39]","type":"vless","server":"amir.hossain.zare.auranique.ir","port":443,"uuid":"470e40df-8695-432b-9a66-264e68230477","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"somthing.uulko.ir","ws-opts":{"path":"/xss/api/v3/5","headers":{"Host":"amir.hossain.zare.auranique.ir"}}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]","type":"vless","server":"46.247.108.198","port":443,"uuid":"955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6","tls":true,"network":"xhttp","client-fingerprint":"firefox","udp":true,"servername":"h2-service.storagedirectguide.com","reality-opts":{"public-key":"EBUqXkDmiIOYVd_2iUZ-kILO6BvOXDRZwnAWfxnBG1w","short-id":"bbeb3bf48e514ec6"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [41]","type":"vless","server":"static.44.128.217.95.clients.your-server.de","port":8443,"uuid":"4609ba7b-e730-4b4c-b953-43c96024c20a","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"static.44.128.217.95.clients.your-server.de","flow":"xtls-rprx-vision"}
+  - {"name":"🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]","type":"vless","server":"177.3.252.14","port":443,"uuid":"146d567c-6335-4e63-a8aa-7ec068642440","tls":true,"network":"xhttp","client-fingerprint":"firefox","udp":true,"servername":"pl1.obxodvpn.us","reality-opts":{"public-key":"fDrDDz_GCqhDgG8kMxWXk2vRuyfBHTTNwVa7k7nJHgw","short-id":"5c42ed8c"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [43]","type":"vless","server":"fdn4.gmax12.ir","port":8080,"uuid":"1fbf831f-4fde-400c-824e-716a4d67b2cd","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"tgju.org","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tIQQp41fRrliguh9hOjPdKHkR5P_tFHqfhpHU_SKazc","short-id":"eb11f7630faaaf60"}}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [44]","type":"vless","server":"panel.jorvexo.ir","port":1152,"uuid":"56f44893-b46a-4611-800c-ddb69b936dae","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"in.tradingview.com","reality-opts":{"public-key":"Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE","short-id":"ead6bdba606219a2"}}
+  - {"name":"🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [45]","type":"vless","server":"5ec4558d81cb8c3f.2i6.ir","port":8101,"uuid":"f9ba8c84-9b37-470d-bf93-0bdfb586008a","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
+  - {"name":"🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [46]","type":"vless","server":"b0fe9e52a5d81c7d.2i6.ir","port":8101,"uuid":"f9ba8c84-9b37-470d-bf93-0bdfb586008a","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [47]","type":"vless","server":"deployedhazde.shimobile.net","port":8443,"uuid":"1b0b1650-5125-43a1-a6bb-9886623f4bf9","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"static.shimobile.net"}
+  - {"name":"🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [48]","type":"vless","server":"panel.jorvexo.ir","port":1152,"uuid":"2e736de6-ad2b-4f40-b188-8af209c5aa02","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"in.tradingview.com","reality-opts":{"public-key":"Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE","short-id":"ead6bdba606219a2"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [49]","type":"vless","server":"tieredhazde.shimobile.net","port":443,"uuid":"1b0b1650-5125-43a1-a6bb-9886623f4bf9","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"tieredhazde.shimobile.net","reality-opts":{"public-key":"Atef5tNC2-l9NKDVnOFrXVRlW0MKUX4GwFY3V1cI2VM","short-id":"804a9e96a68f1c01"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [50]","type":"vless","server":"nativehazde.shimobile.net","port":8443,"uuid":"1b0b1650-5125-43a1-a6bb-9886623f4bf9","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"sync.shimobile.net"}
+  - {"name":"🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [51]","type":"vless","server":"144.31.214.68","port":8443,"uuid":"12910384-1ef8-40a3-818a-57277063ea66","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"kk-fr2-21468.testkknegr.online","grpc-opts":{"grpc-service-name":"vlgrpc"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -50,20 +51,21 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🚩 CF | 🔒 VLESS | @NamiraConfigs [43]'
-      - '🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [44]'
-      - '🇺🇸 US | 🔒 VLESS | @NamiraConfigs [45]'
-      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [46]'
-      - '🇦🇱 AL | 🔒 VLESS | @NamiraConfigs [47]'
-      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [48]'
-      - '🚩 CF | 🔒 TROJAN | @NamiraConfigs [49]'
-      - '🇪🇪 EE | 🔒 VLESS | @NamiraConfigs [50]'
-      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [51]'
-      - '🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [52]'
-      - '🇺🇸 US | 🔒 VLESS | @NamiraConfigs [53]'
-      - '🇨🇭 CH | 🔒 TROJAN | @NamiraConfigs [54]'
-      - '🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [55]'
-      - '🇺🇸 US | 🔒 VLESS | @NamiraConfigs [56]'
+      - '🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [37]'
+      - '🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [38]'
+      - '🇺🇸 US | 🔒 VLESS | @NamiraConfigs [39]'
+      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]'
+      - '🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [41]'
+      - '🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]'
+      - '🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [43]'
+      - '🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [44]'
+      - '🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [45]'
+      - '🇩🇪 DE | 🔓 VLESS | @NamiraConfigs [46]'
+      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [47]'
+      - '🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [48]'
+      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [49]'
+      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [50]'
+      - '🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [51]'
 
   - name: 🌍 Global Media
     type: select

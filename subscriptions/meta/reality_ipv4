@@ -23,9 +23,8 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [46]","type":"vless","server":"48.103.120.10","port":443,"uuid":"a30903dc-1bf0-4be5-8b1b-603a3a56211c","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"net-rt-mgr.galioncc.com","reality-opts":{"public-key":"drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ","short-id":"868419504747f6de"}}
-  - {"name":"🇦🇱 AL | 🔒 VLESS | @NamiraConfigs [47]","type":"vless","server":"31.171.155.50","port":443,"uuid":"a62e2eb6-d856-4710-9f9c-5c3d11cbf25a","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"wN3kA3qfTAb0xc7OxCuGNm97ys0ZyO5yav62022dDBk"}}
-  - {"name":"🇺🇸 US | 🔒 VLESS | @NamiraConfigs [53]","type":"vless","server":"185.92.180.124","port":60005,"uuid":"178b6a10-50ed-4de4-af64-c6da7192722a","tls":true,"network":"xhttp","client-fingerprint":"firefox","udp":true,"servername":"aparat.com","reality-opts":{"public-key":"Tgc-ojZhTTRr-NhluOSFQ0xx3PmPg_EUg-AoUOO2rmU","short-id":"97"}}
+  - {"name":"🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]","type":"vless","server":"46.247.108.198","port":443,"uuid":"955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6","tls":true,"network":"xhttp","client-fingerprint":"firefox","udp":true,"servername":"h2-service.storagedirectguide.com","reality-opts":{"public-key":"EBUqXkDmiIOYVd_2iUZ-kILO6BvOXDRZwnAWfxnBG1w","short-id":"bbeb3bf48e514ec6"}}
+  - {"name":"🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]","type":"vless","server":"177.3.252.14","port":443,"uuid":"146d567c-6335-4e63-a8aa-7ec068642440","tls":true,"network":"xhttp","client-fingerprint":"firefox","udp":true,"servername":"pl1.obxodvpn.us","reality-opts":{"public-key":"fDrDDz_GCqhDgG8kMxWXk2vRuyfBHTTNwVa7k7nJHgw","short-id":"5c42ed8c"}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -39,9 +38,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [46]'
-      - '🇦🇱 AL | 🔒 VLESS | @NamiraConfigs [47]'
-      - '🇺🇸 US | 🔒 VLESS | @NamiraConfigs [53]'
+      - '🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]'
+      - '🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]'
 
   - name: 🌍 Global Media
     type: select
