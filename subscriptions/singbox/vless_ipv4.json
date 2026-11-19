@@ -92,9 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]",
-                "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]",
-                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [51]"
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [44]",
+                "🇮🇪 IE | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -105,9 +104,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]",
-                "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]",
-                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [51]"
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [44]",
+                "🇮🇪 IE | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -194,71 +192,49 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [44]",
             "type": "vless",
-            "server": "46.247.108.198",
-            "server_port": 443,
-            "uuid": "955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "h2-service.storagedirectguide.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "EBUqXkDmiIOYVd_2iUZ-kILO6BvOXDRZwnAWfxnBG1w",
-                    "short_id": "bbeb3bf48e514ec6"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]",
-            "type": "vless",
-            "server": "177.3.252.14",
-            "server_port": 443,
-            "uuid": "146d567c-6335-4e63-a8aa-7ec068642440",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "pl1.obxodvpn.us",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fDrDDz_GCqhDgG8kMxWXk2vRuyfBHTTNwVa7k7nJHgw",
-                    "short_id": "5c42ed8c"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [51]",
-            "type": "vless",
-            "server": "144.31.214.68",
+            "server": "138.124.9.201",
             "server_port": 8443,
-            "uuid": "12910384-1ef8-40a3-818a-57277063ea66",
-            "flow": "",
+            "uuid": "74af70c0-bea7-4412-9a1a-f7eab9c91ef8",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "kk-fr2-21468.testkknegr.online",
+                "server_name": "admin.mistral.ai",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q",
+                    "short_id": "4d3affb557796d1c"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇪 IE | 🔒 VLESS | @NamiraConfigs [48]",
+            "type": "vless",
+            "server": "54.75.112.120",
+            "server_port": 443,
+            "uuid": "fad6c240-14d0-47ce-9264-21c5f18689c1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.amazon.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZODw0ijKEfbSpHjvQqTyYzsbLpnlnA3j9Io5PfmZ-Ts",
+                    "short_id": ""
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "vlgrpc"
             }
         }
     ],

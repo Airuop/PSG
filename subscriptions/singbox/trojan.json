@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgWEhUVFBfSVBWNA==
+//profile-title: base64:UFNHIHwgVFJPSkFO
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -92,8 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]",
-                "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]"
+                "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [40]",
+                "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [52]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -104,8 +104,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]",
-                "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]"
+                "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [40]",
+                "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [52]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -192,48 +192,41 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [40]",
-            "type": "vless",
-            "server": "46.247.108.198",
+            "tag": "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [40]",
+            "type": "trojan",
+            "server": "morte5yh-production.up.railway.app",
             "server_port": 443,
-            "uuid": "955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
+            "password": "tlDxa1WpuCxGpgIK",
             "tls": {
                 "enabled": true,
-                "server_name": "h2-service.storagedirectguide.com",
+                "server_name": "morte5yh-production.up.railway.app",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "EBUqXkDmiIOYVd_2iUZ-kILO6BvOXDRZwnAWfxnBG1w",
-                    "short_id": "bbeb3bf48e514ec6"
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/api/f93fzT",
+                "headers": {
+                    "Host": "morte5yh-production.up.railway.app"
                 }
             }
         },
         {
-            "tag": "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]",
-            "type": "vless",
-            "server": "177.3.252.14",
+            "tag": "🇺🇸 US | 🔒 TROJAN | @NamiraConfigs [52]",
+            "type": "trojan",
+            "server": "66.163.122.26",
             "server_port": 443,
-            "uuid": "146d567c-6335-4e63-a8aa-7ec068642440",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
+            "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
             "tls": {
                 "enabled": true,
-                "server_name": "pl1.obxodvpn.us",
+                "server_name": "blog.searchnationwidecareerchangehelperandguidancetoday.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fDrDDz_GCqhDgG8kMxWXk2vRuyfBHTTNwVa7k7nJHgw",
-                    "short_id": "5c42ed8c"
+                    "fingerprint": "chrome"
                 }
             }
         }
