@@ -92,9 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [41]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [42]",
-                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [53]"
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [52]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -105,9 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [41]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [42]",
-                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [53]"
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [52]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -194,57 +190,11 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [41]",
-            "type": "vless",
-            "server": "45.144.49.138",
-            "server_port": 1152,
-            "uuid": "e18f77f3-e518-4c8c-b230-c79e3708c7f4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "in.tradingview.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE",
-                    "short_id": "ead6bdba606219a2"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [42]",
-            "type": "vless",
-            "server": "5cbf7ed7d9f385cf5cbf7ed7d9f385cf5cbf7ed7d9f385cf.drwsh.org",
-            "server_port": 8080,
-            "uuid": "9a2ae733-250c-447f-9ef3-ab9c7bd97999",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "telewebion.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ZrRUiPYpM3K35z4cTmMoDSBcQu_lk5k5NU4TrftiSEA",
-                    "short_id": "4cc7250e6e133f94"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [53]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [52]",
             "type": "vless",
             "server": "panel.jorvexo.ir",
             "server_port": 1152,
-            "uuid": "6cc3b8a3-e359-4bd3-a6f0-bf97ef87e4b1",
+            "uuid": "5952962f-6a85-4ff2-9d45-c51de43fa843",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
