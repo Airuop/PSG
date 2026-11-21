@@ -80,7 +80,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [44]"
+                "🇸🇪 SE | 🔒 VLESS | @NamiraConfigs [39]",
+                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [40]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [44]",
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [50]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -91,7 +94,10 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [44]"
+                "🇸🇪 SE | 🔒 VLESS | @NamiraConfigs [39]",
+                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [40]",
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [44]",
+                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [50]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -182,16 +188,16 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [44]",
+            "tag": "🇸🇪 SE | 🔒 VLESS | @NamiraConfigs [39]",
             "type": "vless",
-            "server": "185.88.101.105",
-            "server_port": 443,
-            "uuid": "f2341274-8dd8-4b80-95fd-780641f6f2da",
+            "server": "70.34.211.236",
+            "server_port": 40118,
+            "uuid": "4e932df2-a06a-4043-861c-87fe8d217aae",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "fl13.svinka.pro",
+                "server_name": "delivery.mp.microsoft.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -199,13 +205,78 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ",
-                    "short_id": "0858af97f4e7324d"
+                    "public_key": "NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs",
+                    "short_id": "9b98825681aba023"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "fl13svinkapro-grpc"
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [40]",
+            "type": "vless",
+            "server": "95.179.145.100",
+            "server_port": 40118,
+            "uuid": "4e932df2-a06a-4043-861c-87fe8d217aae",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "delivery.mp.microsoft.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs",
+                    "short_id": "184a6838386d384e"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [44]",
+            "type": "vless",
+            "server": "143.203.216.187",
+            "server_port": 443,
+            "uuid": "6db6b948-655f-4f68-a9e7-865050e05b31",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "remote.propaint.cl",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "o7R9liafUMmCf4Sr14gLaB-gZ7mo_axffMCT176tuHw",
+                    "short_id": "672cfc"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [50]",
+            "type": "vless",
+            "server": "144.31.90.235",
+            "server_port": 443,
+            "uuid": "6ab79fec-ca02-447b-b7be-5945f6e6ea8f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "blog-asia.livemusic.ac",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "DfbGULX0lQ6_3ZrSW3NBHlh6Bz6ORxonjptCcNObC0w",
+                    "short_id": "adff113498e0f7fc"
+                }
             }
         }
     ],
