@@ -92,7 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [41]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [41]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -103,7 +104,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [41]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [41]",
+                "🚩 CF | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -190,25 +192,38 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [41]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [41]",
             "type": "vless",
-            "server": "80cb66x.nl13.h1clayd.click",
-            "server_port": 443,
-            "uuid": "cda0862a-0f87-4be9-8ed8-1d0c9e382839",
-            "flow": "xtls-rprx-vision",
+            "server": "render.com",
+            "server_port": 8443,
+            "uuid": "0acaa484-60d2-43fc-9c25-13b9c3949f1a",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "80cb66x.nl13.h1clayd.click",
+                "server_name": "germany.netpluse.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @NamiraConfigs [48]",
+            "type": "vless",
+            "server": "chatgpt.com",
+            "server_port": 8443,
+            "uuid": "e88c423d-9f23-4d25-aef0-940571858d58",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sinavm2.soft10.ir",
+                "insecure": true,
+                "utls": {
                     "enabled": true,
-                    "public_key": "jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0",
-                    "short_id": "f72d4a2c7cbbacb1"
+                    "fingerprint": "chrome"
                 }
             }
         }
