@@ -80,8 +80,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [44]",
-                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [49]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [47]",
+                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -92,8 +92,8 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [44]",
-                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [49]"
+                "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [47]",
+                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [48]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -184,48 +184,43 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [44]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @NamiraConfigs [47]",
             "type": "vless",
-            "server": "lon.edgeptr.org",
+            "server": "gcore.com",
             "server_port": 443,
-            "uuid": "0e366659-5f34-4e2c-96ba-9b934574bc61",
-            "flow": "xtls-rprx-vision",
+            "uuid": "c6623a51-f451-4298-ae5f-c0c662f824ac",
+            "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ajax.aspnetcdn.com",
+                "server_name": "gcore.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "NgeK43tvGe6YZNEdr4HL-CdimEA59KNFtu1nCNh8LFE",
-                    "short_id": "f0eb800bd980b00b"
                 }
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [49]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [48]",
             "type": "vless",
-            "server": "panel.jorvexo.ir",
-            "server_port": 1152,
-            "uuid": "4440dbe9-ec73-4852-a10b-387b0d39c6ad",
+            "server": "media.fernstatic.com",
+            "server_port": 2100,
+            "uuid": "43add026-128a-47d3-a403-b3875b4638db",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "in.tradingview.com",
+                "server_name": "yastatic.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": null
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE",
-                    "short_id": "ead6bdba606219a2"
+                    "public_key": "Tij8e75rOzDtbTSciMvmEqE26h78VEIt7B_NK4QumCk",
+                    "short_id": "10806885b6614f73"
                 }
             }
         }

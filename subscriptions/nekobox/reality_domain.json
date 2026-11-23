@@ -80,12 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [39]",
-                "🇧🇬 BG | 🔒 VLESS | @NamiraConfigs [42]",
-                "🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [44]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [47]",
-                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [49]",
-                "🇸🇪 SE | 🔒 VLESS | @NamiraConfigs [52]"
+                "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]",
+                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [48]",
+                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [51]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -96,12 +93,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [39]",
-                "🇧🇬 BG | 🔒 VLESS | @NamiraConfigs [42]",
-                "🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [44]",
-                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [47]",
-                "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [49]",
-                "🇸🇪 SE | 🔒 VLESS | @NamiraConfigs [52]"
+                "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]",
+                "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [48]",
+                "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [51]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -192,16 +186,16 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [39]",
+            "tag": "🇵🇱 PL | 🔒 VLESS | @NamiraConfigs [42]",
             "type": "vless",
-            "server": "blackshdow.com",
+            "server": "leviko-pl7374.shopingggg.ir",
             "server_port": 443,
-            "uuid": "By-BlackRay-Channel",
+            "uuid": "6dd17e9f-5b7c-466d-a53a-7c30f5dc8338",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "nl.wordpress.org",
+                "server_name": "191.217.253.12",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -209,123 +203,54 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "DHhDwTmyUJETVMQUC3xCUK2yApgnRMsyOUK8oVUceRY",
-                    "short_id": "21439457"
+                    "public_key": "fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI",
+                    "short_id": "db04ce8bdb8900f1"
                 }
             }
         },
         {
-            "tag": "🇧🇬 BG | 🔒 VLESS | @NamiraConfigs [42]",
+            "tag": "🇫🇷 FR | 🔒 VLESS | @NamiraConfigs [48]",
             "type": "vless",
-            "server": "sof.edgeptr.org",
-            "server_port": 443,
-            "uuid": "0e366659-5f34-4e2c-96ba-9b934574bc61",
+            "server": "media.fernstatic.com",
+            "server_port": 2100,
+            "uuid": "43add026-128a-47d3-a403-b3875b4638db",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.lovelive-anime.jp",
+                "server_name": "yastatic.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": null
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0",
-                    "short_id": "f0eb800bd980b00b"
+                    "public_key": "Tij8e75rOzDtbTSciMvmEqE26h78VEIt7B_NK4QumCk",
+                    "short_id": "10806885b6614f73"
                 }
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @NamiraConfigs [44]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [51]",
             "type": "vless",
-            "server": "lon.edgeptr.org",
-            "server_port": 443,
-            "uuid": "0e366659-5f34-4e2c-96ba-9b934574bc61",
+            "server": "Ge5.mamad.web.tr",
+            "server_port": 8080,
+            "uuid": "6e1606a7-6206-46ee-b787-7fbb73ae19c9",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ajax.aspnetcdn.com",
+                "server_name": "tgju.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "NgeK43tvGe6YZNEdr4HL-CdimEA59KNFtu1nCNh8LFE",
-                    "short_id": "f0eb800bd980b00b"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @NamiraConfigs [47]",
-            "type": "vless",
-            "server": "nbg.edgeptr.org",
-            "server_port": 443,
-            "uuid": "0e366659-5f34-4e2c-96ba-9b934574bc61",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.lovelive-anime.jp",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0",
-                    "short_id": "f0eb800bd980b00b"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @NamiraConfigs [49]",
-            "type": "vless",
-            "server": "panel.jorvexo.ir",
-            "server_port": 1152,
-            "uuid": "4440dbe9-ec73-4852-a10b-387b0d39c6ad",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "in.tradingview.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE",
-                    "short_id": "ead6bdba606219a2"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪 SE | 🔒 VLESS | @NamiraConfigs [52]",
-            "type": "vless",
-            "server": "sto.edgeptr.org",
-            "server_port": 443,
-            "uuid": "0e366659-5f34-4e2c-96ba-9b934574bc61",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.lovelive-anime.jp",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0",
-                    "short_id": "f0eb800bd980b00b"
+                    "public_key": "UJPYLuFqLE71fNdm4iZBpDGRYDkCB0u3f-RA_goSMlI",
+                    "short_id": "306dd0965746924a"
                 }
             }
         }
