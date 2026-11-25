@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgVFJPSkFOX0lQVjQ=
+//profile-title: base64:UFNHIHwgWEhUVFBfSVBWNA==
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -92,7 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔒 TROJAN | @NamiraConfigs [50]"
+                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [42]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -103,7 +103,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇵🇱 PL | 🔒 TROJAN | @NamiraConfigs [50]"
+                "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [42]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -190,25 +190,20 @@
             }
         },
         {
-            "tag": "🇵🇱 PL | 🔒 TROJAN | @NamiraConfigs [50]",
-            "type": "trojan",
-            "server": "78.17.171.140",
-            "server_port": 2053,
-            "password": "t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @NamiraConfigs [42]",
+            "type": "vless",
+            "server": "72.56.69.70",
+            "server_port": 443,
+            "uuid": "00799b08-1090-4ed3-bec0-0fa26816a703",
+            "flow": "",
+            "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ra-p1.victorycloud.ru",
+                "server_name": "plaksa.bootless.ru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/2fc2ec03a65d451dffa4592d68c43a29?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM",
-                "headers": {
-                    "Host": "ra-p1.victorycloud.ru"
                 }
             }
         }
